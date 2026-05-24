@@ -1,0 +1,239 @@
+#
+#indx#	Makefile.tests - (VERY brief explanation of what this file is/does)
+#@HDR@	$Id$
+#@HDR@
+#@HDR@	Copyright (c) 2024-2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+#@HDR@
+#@HDR@	Permission is hereby granted, free of charge, to any person
+#@HDR@	obtaining a copy of this software and associated documentation
+#@HDR@	files (the "Software"), to deal in the Software without
+#@HDR@	restriction, including without limitation the rights to use,
+#@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+#@HDR@	sell copies of the Software, and to permit persons to whom
+#@HDR@	the Software is furnished to do so, subject to the following
+#@HDR@	conditions:
+#@HDR@	
+#@HDR@	The above copyright notice and this permission notice shall be
+#@HDR@	included in all copies or substantial portions of the Software.
+#@HDR@	
+#@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+#@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+#@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+#@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+#@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+#@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+#@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+#@HDR@	OTHER DEALINGS IN THE SOFTWARE.
+#
+#hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+########################################################################
+#doc#	(Less brief explanation of what this file is/does)
+########################################################################
+include /usr/local/projects/common/Makefile.std
+
+PROJECTSDIR?=		$(shell echo $(CURDIR) | sed -e 's+/projects/.*+/projects+')
+PROJECTSDIR?=		/usr/local/projects
+
+TOP?=			$(shell echo $(CURDIR) | sed -e 's+/Tests/.*+/Tests+')
+TEST_TOOLS_SRC=		$(TOP)/src
+XML_TO_QUIZ=		$(TEST_TOOLS_SRC)/xml_to_quiz.pl
+FLASH_CARDS=		$(TEST_TOOLS_SRC)/flash_cards.pl
+LQ2XML=			$(TEST_TOOLS_SRC)/lq2xml.pl
+ORDER=			$(TEST_TOOLS_SRC)/order.pl
+TAB2XML=		$(TEST_TOOLS_SRC)/tab2xml.pl
+TEST_INDEX=		$(TEST_TOOLS_SRC)/test_index.pl
+WWWDIR?=		$(HOME)/public_html
+HTMLDIR=		$(WWWDIR)/Tests
+FORMDIR=		$(PROJECTSDIR)/formcollector/public
+TFSDIR=			$(FORMDIR)
+MAKE=			make
+
+XML_TO_QUIZ_DEPS=	$(XML_TO_QUIZ) $(TEST_TOOLS_SRC)/xml_to_quiz.js
+
+HTML_DEST=		$(shell echo $(CURDIR)|sed -e 's+.*/Tests+$(HTMLDIR)+')
+TESTDIR=		.
+
+DIRS=$(subst /Makefile,,$(wildcard */Makefile))
+
+# Takes a list of a directories that may or may not exist.
+# For each directory in that list that exists, returns the filename
+# added to that directory.
+file_to_existing_dir = $(foreach D,$(1),$(if $(shell test -d $(D) && echo 1),$(D)/$(2),))
+
+# Commented out because we might want to add possible destinations
+# prior to including this file.
+
+#HTMLDESTS :=
+
+bins:;		@echo "'make -C $(PWD) $@' does nothing."
+
+install:	all
+all:		subdirs htmldests formcollectors
+		@echo "[[ All targets built ]]"
+
+vars:
+		@echo "Variables:"
+		@echo "	CSSS			$(CSSS)"
+		@echo "	DIRS			$(DIRS)"
+		@echo "	FLASH_CARDS		$(FLASH_CARDS)"
+		@echo "	FLASH_HTMLS		$(FLASH_HTMLS)"
+		@echo "	FLASH_TFSS		$(FLASH_TFSS)"
+		@echo "	FORMCDESTS		$(FORMCDESTS)"
+		@echo "	FORMDIR			$(FORMDIR)"
+		@echo "	GRAPHIC_HTMLS		$(GRAPHIC_HTMLS)"
+		@echo "	GRAPHIC_TFSS		$(GRAPHIC_TFSS)"
+		@echo "	HTML_DEST		$(HTML_DEST)"
+		@echo "	HTMLDESTS		$(HTMLDESTS)"
+		@echo "	HTMLDIR			$(HTMLDIR)"
+		@echo "	IOSDESTS		$(IOSDESTS)"
+		@echo "	LOGOS			$(LOGOS)"
+		@echo "	LQ2XML			$(LQ2XML)"
+		@echo "	LQ_HTMLS		$(LQ_HTMLS)"
+		@echo "	LQ_TFSS			$(LQ_TFSS)"
+		@echo "	ORDER			$(ORDER)"
+		@echo "	ORD_HTMLS		$(ORD_HTMLS)"
+		@echo "	ORD_TFSS		$(ORD_TFSS)"
+		@echo "	TESTDIR			$(TESTDIR)"
+		@echo "	TAB2XML			$(TAB2XML)"
+		@echo "	TABLE_HTMLS		$(TABLE_HTMLS)"
+		@echo "	TABLE_TFSS		$(TABLE_TFSS)"
+		@echo "	TEST_INDEX		$(TEST_INDEX)"
+		@echo "	TFSDIR			$(TFSDIR)"
+		@echo "	TEST_TOOLS_SRC		$(TEST_TOOLS_SRC)"
+		@echo "	XML_HTMLS		$(XML_HTMLS)"
+		@echo "	XML_TFSS		$(XML_TFSS)"
+		@echo "	XML_TO_QUIZ		$(XML_TO_QUIZ)"
+		@echo "	XML_TO_QUIZ_DEPS	$(XML_TO_QUIZ_DEPS)"
+
+$(HTML_DEST)/%.html:	%.xml_tmp $(XML_TO_QUIZ_DEPS)
+		@[ -d $(dir $@) ] || mkdir -p $(dir $@)
+		$(XML_TO_QUIZ) < $< > $@
+
+$(HTML_DEST)/%.jpg:	%.jpg
+		@[ -d $(dir $@) ] || mkdir -p $(dir $@)
+		cp $< $@
+
+$(FORMDIR)/%/Dialog.tfs:	%.xml_tmp $(XML_TO_QUIZ_DEPS)
+		@[ -d $(dir $@) ] || echo "( Skipping $@ )"
+		$(XML_TO_QUIZ) -tfs < $< > $@
+		echo $(notdir $(subst /Dialog.tfs,,$@))_COMPANY=Brightsands > $(dir $@)/Makefile.inc
+
+$(FORMDIR)/Sectionals/%.jpg:	%.jpg
+		[ -d $(dir $@) ] || echo "( skipping $@ )"
+		cp $< $@
+
+#@[ -d $(dir $@) ] || mkdir -p $(dir $@)
+#$(XML_TO_QUIZ) -tfs < $< > $@
+
+LOGOS := $(foreach F,$(wildcard *.pnm),$(FORMDIR)/$(F:.pnm=)/logo.pnm)
+IOSDESTS += $(LOGOS)
+$(FORMDIR)/%/logo.pnm:	%.pnm
+		@[ -d $(dir $@) ] || mkdir -p $(dir $@)
+		cp $(notdir $(subst /logo.pnm,,$@)).pnm $@
+
+CSSS := $(foreach F,$(wildcard *.css),$(FORMDIR)/$(F:.css=)/css.css)
+IOSDESTS += $(CSSS)
+$(FORMDIR)/%/css.css:	%.css
+		@[ -d $(dir $@) ] || mkdir -p $(dir $@)
+		cp $(notdir $(subst /css.css,,$@)).css $@
+
+iosdests:	$(IOSDESTS)
+		@echo "[ IOS targets complete ]"
+
+FORMCDESTS += $(IOSDESTS)
+
+GRAPHIC_HTMLS := $(foreach F,$(wildcard *.jpg),$(HTML_DEST)/$(F))
+GRAPHIC_TFSS := $(foreach F,$(wildcard *.jpg),$(TFSDIR)/$(notdir $(CURDIR))/$(F))
+HTMLDESTS += $(GRAPHIC_HTMLS)
+FORMCDESTS += $(GRAPHIC_TFSS)
+
+TABLE_HTMLS := $(foreach F,$(wildcard *.tab),$(HTML_DEST)/$(F:.tab=.html))
+TABLE_TFSS := $(call file_to_existing_dir,$(foreach F,$(wildcard *.tab),$(TFSDIR)/$(F:.tab=)),Dialog.tfs)
+HTMLDESTS += $(TABLE_HTMLS)
+FORMCDESTS += $(TABLE_TFSS)
+%.xml_tmp:	$(TESTDIR)/%.tab
+		$(TAB2XML) 4 < $< > $@
+
+ORD_HTMLS := $(foreach F,$(wildcard *.ord),$(HTML_DEST)/$(F:.ord=.html))
+ORD_TFSS := $(call file_to_existing_dir,$(foreach F,$(wildcard *.ord),$(TFSDIR)/$(F:.ord=)),Dialog.tfs)
+HTMLDESTS += $(ORD_HTMLS)
+FORMCDESTS += $(ORD_TFSS)
+%.xml_tmp:	$(TESTDIR)/%.ord
+		$(ORDER) < $< > $@
+
+LQ_HTMLS := $(foreach F,$(wildcard *.lq),$(HTML_DEST)/$(F:.lq=.html))
+LQ_TFSS := $(call file_to_existing_dir,$(foreach F,$(wildcard *.lq),$(TFSDIR)/$(F:.lq=)),Dialog.tfs)
+HTMLDESTS += $(LQ_HTMLS)
+FORMCDESTS += $(LQ_TFSS)
+%.xml_tmp:	$(TESTDIR)/%.lq
+		$(LQ2XML) < $< > $@
+
+FLASH_HTMLS := $(foreach F,$(wildcard *.tab),$(HTML_DEST)/$(F:.tab=_flash.html))
+FLASH_TFSS := $(call file_to_existing_dir,$(foreach F,$(wildcard *.tab),$(TFSDIR)/$(F:.tab=_flash)),Dialog.tfs)
+HTMLDESTS += $(FLASH_HTMLS)
+FORMCDESTS += $(FLASH_TFSS)
+$(HTML_DEST)/%_flash.html:	$(TESTDIR)/%.tab
+		$(TAB2XML) 1 < $< | $(XML_TO_QUIZ) > $@
+
+XML_HTMLS := $(foreach F,$(wildcard *.xml),$(HTML_DEST)/$(F:.xml=.html))
+XML_TFSS := $(call file_to_existing_dir,$(foreach F,$(wildcard *.xml),$(TFSDIR)/$(F:.xml=)),Dialog.tfs)
+HTMLDESTS += $(XML_HTMLS)
+FORMCDESTS += $(XML_TFSS)
+%.xml_tmp:	$(TESTDIR)/%.xml
+		$(XML_TO_QUIZ) -pre < $< > $@
+
+%.all:
+		$(MAKE) -C $(@:.all=) all
+
+%.clean:
+		$(MAKE) -C $(@:.clean=) clean
+
+$(HTML_DEST)/index.html: $(HTMLDESTS) $(TEST_INDEX)
+		$(TEST_INDEX) $(HTML_DEST)
+
+subdirs:	$(foreach F,$(DIRS),$(F).all)
+		@echo "[ Subdirectories made ]"
+
+htmldests:	$(HTMLDESTS) $(HTML_DEST)/index.html
+		@echo "[ HTML destinations complete ]"
+
+formcollectors:	$(FORMCDESTS)
+		@echo "[ Formcollector destinations complete ]"
+
+tables:		$(TABLE_HTMLS)
+xmls:		$(XML_HTMLS)
+ords:		$(XML_HTMLS)
+flashes:	$(FLASH_HTMLS)
+lqs:		$(LQ_HTMLS)
+		@echo "LQ_HTMLS done."
+
+clean:		$(foreach F,$(DIRS),$(F).clean)
+		rm -f *.todel $(HTML_DEST)/*
+		@rmdir $(HTML_DEST) 2>/dev/null || true
+
+dump:
+		@echo "TOP=$(TOP)"
+		@echo "CURDIR=$(CURDIR)"
+		@echo "XML_TO_QUIZ=$(XML_TO_QUIZ)"
+		@echo "FLASH_CARDS=$(FLASH_CARDS)"
+		@echo "LQ2XML=$(LQ2XML)"
+		@echo "ORDER=$(ORDER)"
+		@echo "TAB2XML=$(TAB2XML)"
+		@echo "XML_TO_QUIZ_DEPS=$(XML_TO_QUIZ_DEPS)"
+		@echo "HTML_DEST=$(HTML_DEST)"
+		@echo "TESTDIR=$(TESTDIR)"
+		@echo "DIRS=$(DIRS)"
+		@echo "GRAPHIC_HTMLS=$(GRAPHIC_HTMLS)"
+		@echo "TABLE_HTMLS=$(TABLE_HTMLS)"
+		@echo "FLASH_HTMLS=$(FLASH_HTMLS)"
+		@echo "XML_HTMLS=$(XML_HTMLS)"
+		@echo "LQ_HTMLS=$(LQ_HTMLS)"
+		@echo "XML_HTMLS=$(XML_HTMLS)"
+		@echo "GRAPHIC_TFSS=$(GRAPHIC_TFSS)"
+		@echo "TABLE_TFSS=$(TABLE_TFSS)"
+		@echo "FLASH_TFSS=$(FLASH_TFSS)"
+		@echo "XML_TFSS=$(XML_TFSS)"
+		@echo "LQ_TFSS=$(LQ_TFSS)"
+		@echo "XML_TFSS=$(XML_TFSS)"
+		@echo "HTMLDESTS=$(HTMLDESTS)"
+		@echo "JPEGS=$(JPEGS)"
