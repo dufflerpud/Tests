@@ -1,0 +1,207 @@
+<!------------------------------------------------------------------------
+--
+--indx#	pp_Main.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<question>What pH do vomiters have?
+<answer>Alkalotic because you vomit out H+</answer></question>
+
+<question>What pH does diarrhea have?
+<answer>Acidosis because stool has bicarb</answer></question>
+
+<question>What happened if pulse increased by more than 10 on standing?
+<answer>Hypovolemic shock</answer></question>
+
+<question>What happened if pulse decreased by less than 5 on standing?
+<answer>Autonomic dysfunction</answer></question>
+
+<question>What are the symptoms of a low energy state?
+<answer>
+<rl sep=and>
+    <li><b>CNS</b>:  Mental retardation, dementia
+    <li><b>CV</b>:  Heart failure, pericardial effusion
+    <li><b>Muscle</b>:  Weakness, SOB, vasodilation, impotence, urinary rentention,
+	    constipation
+    <li><b>Rapidly dividing cells</b>:
+</rl>
+<center><table border=1 cellspacing=0>
+<tr><th align=left>Skin:</th><td>Dry</td></tr>
+<tr><th align=left>Cuticles:</th><td>Brittle</td></tr>
+<tr><th align=left>Hair:</th><td>Alopecia</td></tr>
+<tr><th align=left>Bone marrow:</th><td>Suppressed</td></tr>
+<tr><th align=left>Vascular endothelium:</th><td>Breaks down</td></tr>
+<tr><th align=left>Lungs:</th><td>Infection, SOB</td></tr>
+<tr><th align=left>Kidney:</th><td>PCT will feel the effect first</td></tr>
+<tr><th align=left>GI:</th><td>N/V/D</td></tr>
+<tr><th align=left>Bladder:</th><td>Oliguria</td></tr>
+<tr><th align=left>Sperm:</th><td>Decreased</td></tr>
+<tr><th align=left>Germ cells:</th><td>Predisposed to cancer</td></tr>
+<tr><th align=left>Breasts:</th><td>Atrophic</td></tr>
+<tr><th align=left>Endometrium:</th><td>Amenorrhea</td></tr>
+</table></center></answer></question>
+
+<question>What are the most common signs of the low energy state?
+<answer>
+<rl sep=and>
+    <li>Tachypnea
+    <li>Dyspnea
+</rl>
+</answer></question>
+
+<question>What are the most common symptoms of the low energy state?
+<answer>
+<rl sep=and>
+    <li>Weakness
+    <li>SOB
+</rl>
+</answer></question>
+
+<question>What are the most common infections of the low energy state?
+<answer>
+<rl sep=and>
+    <li>UTI
+    <li>Respiratory infections
+</rl>
+</answer></question>
+
+<question>What is the most common cause of death in the low energy state?
+<answer>Heart failure</answer></question>
+
+<question>Explain all restrictive lung diseases:
+<answer>Restrictive: interstitial problem (non-bacterial)
+<rl sep=and>
+    <li>Small stiff lungs with decreasing VC
+    <li>Trouble breathing in =&gt; FEV1/FVC:&gt;0.8
+    <li>ABG: Decreasing pO2 =&gt; increasing RR, decreasing pO2, increasing pH
+    <li>CXR: Reticulo-nodular pattern, ground-glass appearance
+    <li>Die of cor Pulmonale
+    <li>Ex: NM diseases (breathing out is passive), drugs, autoimmune dz
+    <li>Tx: Pressure support on ventilator, increase Oxygen, increase RR,
+        increase inspiratory time
+</rl>
+</answer></question>
+
+<question>Explain all obstructive lung diseases:
+<answer>Obstructive: airway problem (bacterial)
+<rl sep=and>
+    <li>Big mucus-filled lungs (increase RV, increase Reid index = increase
+        airway thickness/airway lumen)
+    <li>Trouble breathing out =&gt; FEV1/FVC: &lt; 0.8
+    <li>ABG: increasing pCO2 =&gt; increasing RR, decreasing pH
+    <li>Die of bronchiectasis
+    <li>Ex: COPD
+    <li>Tx: Manipulate rate on ventilator, increase RR, increase expiratory
+        time, increase O2 only if needed
+</rl>
+</answer></question>
+
+<question>What symptoms does a "more likely to depolarize" state have?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Brain:</th><td>Psychosis, seizures, jitteriness</td></tr>
+    <tr><th align=left>Skeletal muscle:</th><td>Muscle spasms, tetany</td></tr>
+    <tr><th align=left>SM:</th><td>Diarrhea then constipation</td></tr>
+    <tr><th align=left>Cardiac:</th><td>Tachycardia, arrythmias</td></tr>
+</table></center></answer></question>
+
+<question>What symptoms does a "less likely to depolarize" state have?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Brain:</th><td>Lethargy, mental status changes,
+    	depression</td></tr>
+    <tr><th align=left>Skeletal muscle:</th><td>Weakness, SOB</td></tr>
+    <tr><th align=left>SM:</th><td>Constipation then diarrhea</td></tr>
+    <tr><th align=left>Cardiac:</th><td>Hypotension, bradycardia</td></tr>
+</table></center></answer></question>
+
+<question>What is the humoral immune response?
+<answer>B cells and PMNs patrol the blood looking for bacteria
+	</answer></question>
+
+<question>What is the cell-mediated immune response?
+<answer>T cells and macrophages patrol the tissues looking for
+	non-bacteria</answer></question>
+
+<question>What are the macrophages called in each area of the body?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Blood:</th><td>Monocytes</td></tr>
+    <tr><th align=left>Brain:</th><td>Microglia</td></tr>
+    <tr><th align=left>Lung:</th><td>T1 pneumocytes</td></tr>
+    <tr><th align=left>Liver:</th><td>Kupffer cells</td></tr>
+    <tr><th align=left>Spleen:</th><td>RES cells</td></tr>
+    <tr><th align=left>Lymph:</th><td>Dendritic cells</td></tr>
+    <tr><th align=left>Kidney:</th><td>Mesangial cells</td></tr>
+    <tr><th align=left>Payers patches:</th><td>M cells</td></tr>
+    <tr><th align=left>Skin:</th><td>Langerhans</td></tr>
+    <tr><th align=left>Bone:</th><td>Osteoclasts</td></tr>
+    <tr><th align=left>CT:</th><td>
+	<rl sep=and>
+        <li>Histiocytes
+	<li>Giant cells
+	<li>Epitheloid cells</td></tr>
+	</rl>
+</table></center></answer></question>
+
+<question>What is the CBC for every vasculitis?
+<answer>
+    <rl sep=and>
+    <li>Decreasing RBC
+    <li>Decreasing platelets
+    <li>Increasing WBC
+    <li>Increasing T-cells
+    <li>Increasing MP and schistocytes
+    <li>Increasing ESR
+    </rl>
+</answer></question>
+
+<question>What is the time course of the inflammatory response?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>1 hour:</th><td>Swelling</td></tr>
+    <tr><th align=left>Day 1:</th><td>PMNs show up</td></tr>
+    <tr><th align=left>Day 3:</th><td>PMNs peak</td></tr>
+    <tr><th align=left>Day 4:</th><td>MP/T cells show up</td></tr>
+    <tr><th align=left>Day 7:</th><td>MP/T cells peak, Fibroblasts arrive
+    	</td></tr>
+    <tr><th align=left>Day 30:</th><td>Fibroblasts peak</td></tr>
+    <tr><th align=left>Month 3-6:</th><td>Fibroblasts leave</td></tr>
+</table></center></answer></question>
+
+<question>What state does estrogen mimic?
+<answer>The neuromuscular disease state (estrogen is a muscle relaxant)
+    </answer></question>
+
+<question>What does high GABA levels lead to?
+<answer>
+<rl sep=and>
+    <li>Bradycardia
+    <li>Lethargy
+    <li>Constipation
+    <li>Impotence
+    <li>Memory loss
+</rl>
+</answer></question>

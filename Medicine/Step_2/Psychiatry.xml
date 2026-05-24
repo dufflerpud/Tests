@@ -1,0 +1,178 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Psychiatry.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 3 2006/03/09 20:31
+<question>The first-line pharmacotherapy for depression is:
+<answer>Selective Serotonin reuptake inhibitors (SSRIs)</answer></question>
+
+<question>Antidepressants associated with hypertensive crisis are:
+<answer>MAOIs</answer></question>
+
+<question>Preferred antidepressant for patients with comorbid medical
+	conditions is:
+<answer>Citalopram (few drug interactions)</answer></question>
+
+<question>Benzodiazepines to use in patients with liver dysfunction are:
+(non-P450 metabolism):
+<answer>
+<rl sep=and>
+    <li>Lorazepam
+    <li>Oxyzepam
+    <li>Temazepam
+</rl>
+</answer></question>
+
+<question>A 17 year-old female has left arm paralysis after her boyfriend
+	dies in a car crash.  No medical cause is found, indicating:
+<answer>Conversion disorder</answer></question>
+
+<question>Name the defense mechanism:  A mother who is angry at her
+	husband yells at her child:
+<answer>Displacement</answer></question>
+
+<question>Name the defense mechanism:  A pedophile enters a monastary:
+<answer>Reaction formation</answer></question>
+
+<question>Name the defense mechanism:  A woman calmly discribes a grisly murder:
+<answer>Isolation</answer></question>
+
+<question>Name the defense mechanism:  A hospitalized 10 year-old begins to
+	wet his bed:
+<answer>Regression</answer></question>
+
+<question>A 35 year-old male has recurrent episodes of
+<rl sep=and>
+    <li>palpitations
+    <li>worsening grades
+    <li>flattened affect
+    <li>concrete thinking
+</rl> indicating:
+<answer>Schizophreniform disorder (diagnosis of schizophrenia
+	requires more than 6 months of symptoms)</answer></question>
+
+<question>Key side effects of atypical antipsychotics are:
+<answer>
+<rl sep=and>
+    <li>Weight gain
+    <li>Type 2 DM
+    <li>QT prolongation
+</rl>
+</answer></question>
+
+<question>A young weight lifter receives IV haloperidol and complains
+	that his eyes are deviated sideways.  Diagnosis?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Diagnosis:</th>
+        <td>Acute dystonia (oculogyric crisis)</td></tr>
+    <tr><th align=left>Treatment:</th>
+        <td>Benztropine or diphenhydramine</td></tr>
+</table></center></answer></question>
+
+<question>Medication to avoid in patients with a history of alcohol withdrawl
+	seizures is:
+<answer>Neuroleptics</answer></question>
+
+<question>A 13 year-old male has a history of:
+<rl sep=and>
+    <li>theft
+    <li>vandalism
+    <li>violence towards family pets
+</rl> indicating:
+<answer>Conduct disorder</answer></question>
+
+<question>
+Patient:
+<rl sep=and>
+    <li>is five-month-old
+    <li>is female
+    <li>has decreasing head growth
+    <li>has truncal dyscoordination
+    <li>has decreased social interaction
+</rl> indicating:
+<answer>Rett's disorder</answer></question>
+
+<question>Common therapy for phobias, obsessive-compulsive disorder (OCD)
+	and panic disorder is:
+<answer>Cognitive behavioral therapy (CBT)</answer></question>
+
+<question>A patient hasn't slept for days, lost $20,000 gambling, is agitated,
+	and has pressured speech.  Diagnosis?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Diagnosis:</th>
+        <td>Acute mania</td></tr>
+    <tr><th align=left>Treatment:</th>
+        <td>Start a mood stabilizer (e.g. lithium)</td></tr>
+</table></center></answer></question>
+
+<question>After a minor fender bender, a man
+<rl sep=and>
+    <li>wears a neck brace
+    <li>requests permanent disability
+</rl> indicating:
+<answer>Malingering</answer></question>
+
+<question>A nurse
+<rl sep=and>
+    <li>with severe hypoglycemia
+    <li>with blood analysis showing no elevation in C-Peptide
+</rl> indicating:
+<answer>Factitious disorder (Munchausen syndrome)</answer></question>
+
+<question>A patient continues to use cocaine after being in jail,
+	losing his job and not paying child support, indicating:
+<answer>Substance abuse</answer></question>
+
+<question>A violent patient has vertical and horizontal nystagmus indicating:
+<answer>Phencyclidine hydrochloride (PCP) intoxication</answer></question>
+
+<question>A woman who was abused as a child frequently feels outside of
+	or detached from her body indicating:
+<answer>Depersonalization disorder</answer></question>
+
+<question>A man has repeated, intense urges to rub his body against
+	unsuspecting passengers on a bus indicating:
+<answer>Frotteurism (a paraphilia)</answer></question>
+
+<question>A schizophrenic patient takes haloperidol for one year and
+	develops uncontrollable tongue movements.  Diagnosis?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Diagnosis:</th>
+        <td>Tardive dyskinesia</td></tr>
+    <tr><th align=left>Treatment:</th>
+        <td>Decrease or discontinue haloperidol and consider other
+	    antipsychotic (e.g. risperidone, clozapine)</td></tr>
+</table></center></answer></question>
+
+<question>A man unexpectedly flies across the country, takes a new name
+	and has no memory of his prior life indicating:
+<answer>Dissociative fugue</answer></question>
+</concept>

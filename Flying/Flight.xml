@@ -1,0 +1,104 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Flight.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	Flight.xml - Random quizzing for flying
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	Flight.xml - Random quizzing for flying
+-------------------------------------------------------------------------->
+
+<concept><pre> A letter "R" (R) in the center of the airport symbol indicates the airport<br> is restricted.  "Pvt" in the airport information block indicates a private<br> airport.  An "X" indicates an abandoned airport.<br>
+<question> 140:  Of what practical use, if any are the private airports if a pilot<br> does not have the owner's permission to use them?<br>
+<answer right>Landmark value for navigation and emergency use.
+<answer>Of no practical use.
+<answer>Touch-and-go landing by permission from the nearest FSS.
+<answer>Pickup or discharge of passengers are broadcase in the blind on 122.9 MHz.</pre></concept>
+<concept><pre> All aircraft are requested to maintain a minimum altitude of 2000 feet<br> above the terrain of the following:  National parks, monuments, seashores,<br> lakeshores, recreation areas and scenic riverways administered by the<br> national park service, national wildlife refuges, big games refuges, game<br> ranges and wildlife ranges administered by the U.S. fish and wildlife<br> service, and wilderness and primitive areas administered by the U.S. forest<br> service.<br>
+<question> 142:  What minimum altitude is requested for aircraft over national<br> wildlife refuges?<br>
+<answer right>2000 Feet AGL
+<answer>500 Feet AGL
+<answer>1000 Feet AGL
+<answer>3000 Feet AGL</pre></concept>
+<concept><pre> Restricted Areas.  Restricted areas contain airspace identified by an area<br> on the surface of the earth within which the flight of aircraft, while NOT<br> wholly prohibited, is subject to restrictions.  A restricted area is<br> designated when it is determined necessary to confine or segregate<br> activities considered to be hazardous to nonparticipating aircraft.  They<br> denote the existence of unusual, often invisible, hazards to aircraft such<br> as artillery firing, aerial gunnery, or guided missiles.  Penetration of<br> restricted areas without authorization from the using or controlling agency<br> may be extremely hazardous to the aircraft and its occupants.  Permission<br> must be received from the appropriate authority to operate an aircraft<br> within a restricted area between the designated altitudes during the<br> time specified.<br>
+<question> 143:  Under what condition, if any, may civil pilots enter a restricted<br> area?<br>
+<answer right>With the controlling agency's authorization.
+<answer>For takeoff and landing to take care of official business.
+<answer>On airways with ATC clearance.
+<answer>Under no condition.</pre></concept>
+<concept><pre> Warning area.  Warning areas are airspace, within international airspace,<br> established to contain hazardous operations conducted by U.S. military<br> forces.  The activities conducted within warning areas may be as hazardous<br> to nonparticipating aircraft and its occupants as those contained within<br> restricted areas.  However, no restriction to flight is imposed because<br> flight within international airspace cannot legally be restricted.  Most<br> warning areas are established beyond 3 statute miles of a coastline.  When<br> flying along an uneven coastline, shortcuts over water could result in<br> unintentional flight into a warning area.  Be alert and refer to the<br> current and appropriate chart when flying alone any coastline.<br></pre></concept>
+<concept><pre> Military operations area (MOA).  Military Operations Areas consist of airspace<br> of defined vertical and lateral limits established for the purpose of<br> separating certain military training activities from IFR traffic.  Whenever<br> a MOA is being used, nonparticipating IFR traffic may be cleared through an<br> MOA if IFR separation can be provided by ATC.  Otherwise, ATC will reroute<br> or restrict nonparticipating IFR traffic.  Most training activities<br> necessitate acrobatic or abrupt flight maneuvers.  Military pilots<br> conducting flight in Department of Defense aircraft within a designated and<br> active Military Operations Area are exempt from the provisions of FAR<br> 91.71(c) and (d) which prohibit acrobatic flight within federal airways and<br> control zones.<br> <br> Pilots operating under VFR should exercise extreme caution while flying<br> within a MOA when military activity is being conducted.  The activity<br> status (active/inactive) of MOA's may change frequently.  Therefore, pilots<br> should contact any FSS within 100 miles of the area to obtain accurate<br> real-time information concerning the MOA hours of operation.  Prior to<br> entering an active MOA, pilots should contact the controlling agency for<br> traffic advisories.<br>
+<question> 145: When operating VFR in a MOA, a pilot<br>
+<answer right>Must operate only when military activity is not being conducted.
+<answer>Must obtain a clearance from the controlling agency prior to entering the MOA.<br>
+<answer>May operate only on the airways that traverse the MOA.
+<answer>Should exercise extreme caution when military activity is being conducted.</pre></concept>
+<concept><pre> Alert Area.  Alert Acreas are designated airspace which may contain a high<br> volume of pilot training activities or an unusual type of aeronautical<br> activity - neither of which is hazardous to aircraft.  Alert areas are<br> depicted on aeronautical charts to activity within a specific area.  All<br> activity within an alert area shall be conducted in accordance with Fedearl<br> Aviation Regulations, without waiver, and pilots of participating aircraft<br> as well as pilots of aircraft transiting the area, shall be equally<br> responsible for collision avoidance.  The establishment of alert areas does<br> not impose any flight restrictions or communication requirements on any<br> pilots, though flight service stations in the vicinity may broadcast<br> information regarding the use being made of the area as circumstances<br> dictate.<br>
+<question> 147:  Whos is responsible for collision avoidance in an alert area?<br>
+<answer right>All pilots without exception.
+<answer>The controlling agency.
+<answer>Only the pilots transitioning the area.
+<answer>All pilots except those participating in the training operations.</pre></concept>
+<concept><pre> In the interest of safety and efficiency of aircraft operations, the FAA<br> has established for the guidance of pilots, standard runway and taxiway<br> markings.  Since most airports are marked in this manner, it is important<br> for the pilot to learn the meaning of the markings and how to use them.<br> <br> Standard runway markings are painted in reflective white, while markings of<br> taxiways and non traffic areas such as blast pads and overruns are in<br> reflective yellow.<br> <br> All runways are marked with a runway direction number.  The number is the<br> whole number nearest the 10" increment of the magnetic azimuth of the<br> centerline of the runway, measured clockwise from magnetic north.  The last<br> zero of the magnetic azimuth is not used, and single numbers are not<br> preceded by a zero.  For example, a runway which has a direction of 270" is<br> designated as runway 27; a runway having a direction of 090" is called runway<br> 9.  To differentiate between two parallel runways, the runway direction<br> number has a letter "L" or "R" following it.<br>
+<question> 149:  The numbers 9 and 27 on a runday indicate that the runway is oriented<br> approximately:<br>
+<answer right>090" and 270" magnetic.
+<answer>009" and 027" true.
+<answer>090" and 270" true.
+<answer>009" and 027" magnetic.</pre></concept>
+<concept><pre> Usable runway surfaces.  A line perpendicular to the runway centerline<br> designates the beginning of the portion of a runway that is usable for<br> landing.  No landing should be made short of that line.<br> <br> An overrun or blast pad area at the approach end of a runway is marked by a<br> series of equally spaced yello chevrons to indicate the portion not usable<br> for takeoff or landing.  The apex of the chevrons points to and terminates<br> at the threshold of the usable portion of the runway.<br> <br> When it has been necessary to position the landing threshold up-runway from<br> the end of the paving, it is known as a relocated or displaced threshold.<br> Where thresholds are displaced, the unusable portion is marked with a<br> series of large white arrows.  The arrows are placed along the centerline<br> on the approach side of the relocated threshold and point to the designated<br> landing area.  In all cases a white stripe across the width of the<br> full-strength runway precedes the threshold markings.  Never land short of<br> the stripe.  The paved area behind the displaced runway is available for<br> taxiing, the landing rollout and the takeoff of the aircraft.<br>
+<question> 150:  The arrows that appear on the end of the runway as shown:<br> <br> 			|		36		|<br> 			|				|<br> 			|-------------------------------|<br> 			|	^	^	^	|<br> 			|				|<br> 			|				|<br> 			|		^		|<br> 			|		|		|<br> 			|				|<br> 			|		^		|<br> 			|		|		|<br> 			|				|<br> 			|				|<br> 			+-------------------------------+<br> <br> indicate:<br>
+<answer right>cannot be used for landing, but may be used for taxiing and takeoff
+<answer>May be used only for taxiing.
+<answer>Is usable for taxiing, takeoff and landing.
+<answer>is available for landing at the pilot's discretion.
+<question> 162: An on glide slope indication from a tricolor VASI is:<br>
+<answer right>A green light signal
+<answer>A white light signal
+<answer>An amber light signal
+<answer>A pink light signal
+<question> 163: An above glide slope indication from a tricolor VASI is:<br>
+<answer right>An amber light signal
+<answer>A white light signal
+<answer>A green light signal
+<answer>A pink light signal
+<question> 164: A below glide slope indication from a tricolor VASI is:<br>
+<answer right>A red light signal
+<answer>A pink light signal
+<answer>A green light signal
+<answer>An amber light signal
+<question> 165: When approaching to land on a runway served by a VASI, the pilot<br> shall:<br>
+<answer right>Maintain an altitude at or above the glide slope.
+<answer>Intercept and remain on the glide slope until touchdown only if the aircraft is operating on an instrument plan.<br>
+<answer>Maintain an altitude that captures the glide slope at least 2 miles downwind from the runway threshold.<br>
+<answer>Remain on the glide slope and land between the two-light bar.

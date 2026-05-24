@@ -1,0 +1,551 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Weather.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	Weather.xml - Learn concepts of weather required for flying
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	Weather.xml - Learn concepts of weather required for flying
+-------------------------------------------------------------------------->
+
+<concept><pre> Atmospheric pressure is defined as the result of gravity acting on the mass<br> of the earth's atmosphere.  Although the mass of the atmosphere is evenly<br> spread over the earth's surface, differences in heating and cooling in the<br> lower levels of the atmosphere, where most of the mass is concentrated,<br> cause density variations which in turn cause small horizontal pressure<br> differences.  These pressure differences are only about one ten thousandth<br> the magnitude of the normal change of pressure with altitude; but, they are<br> still the cause of all atmospheric circulation and most weather phenomena.<br>
+<question> 229: Every physical process of weather is accompanied by, or is the result<br> of:<br>
+<answer right>A heat exchange
+<answer>The movement of air
+<answer>A pressure differential
+<answer>Moisture
+<question> 230: Winds at 5000 feet AGL on a particular flight are southwesterly while<br> most of the surface winds are southerly.  This difference in direction is<br> primarily due to:<br>
+<answer right>Friction between the wind and the surface.
+<answer>A stronger pressure gradient at higher altitudes.
+<answer>Stronger coriolis force at the surface.
+<answer>The influence of pressure systems at the lower altitudes.
+<question> 231: What are the processes by which moisuture is added to unsaturated air?<br>
+<answer right>Evaporation and sublimation.
+<answer>Heading and sublimation.
+<answer>Heating and condensation.
+<answer>Supersaturation and evaporation.
+<question> 232: The amount of water vapor which air can hold largely depends on:<br>
+<answer right>Air temperature
+<answer>The dew point
+<answer>Stability of air
+<answer>Relative humidity</pre></concept>
+<concept><pre> When the air is cooled to saturation, it is said to have reached the dew<br> point temperature.  This takes its name from the fact that is is the<br> temperature where moisture first starts to condense on exposed surfaces or<br> forms dew.  Aviation weather reports include the air temperature and dew<br> point temperature.  Dew point when related to air temperature reveals<br> qualitatively how close the air is to saturation.<br>
+<question> 233: What is meant by the term dew point?<br>
+<answer right>The temperature to which air must be cooled to become saturated.
+<answer>The temperature at which condensation and evaporation are equal.
+<answer>The temperature at which dew will always form.
+<answer>The spread between actual temperature and the temperature during evaporation.<br></pre></concept>
+<concept><pre> A good indication of how close the air is to saturation is the temperature<br> - dew point spread.  This is the numerical difference, in degrees, between<br> the temperature and the dew point.  As the temperature - dew point spread<br> approaches zero, the relative humidity approaches 100%.  When the dew point<br> depression has decreased to 4 degrees farenheight, it is said to be at the<br> critical spread.  Any temperature - dew point trend toward the critical<br> spread must be watched closely for the development of visibility<br> restrictions.<br> <br> Dew point is of tremendous significance to the pilot because it represents<br> a critical condition of the air.  When temperature reaches the dew point,<br> water vapor can no longer remain invisible, but is forced to condense,<br> becoming visible on the ground as dew or frost, appearing in the air as fog<br> or clouds.<br>
+<question> 234: Clouds, fog, or dew will always form when:<br>
+<answer right>Water vapor condenses.
+<answer>Water vapor is present.
+<answer>Relative humidity reaches or exceeds 100%.
+<answer>The temperature and dew point are equal.
+<question> 235: If the temperature/dew point spread is small and decreasing, and the<br> temperature is 62 degrees farenheight, what type weather is most likely to<br> develop?<br>
+<answer right>Fog or low clouds.
+<answer>Freezing precipitation.
+<answer>Thunderstorms.
+<answer>Rain showers.</pre></concept>
+<concept><pre> Classification of clouds.  Cloud types are initially classified according<br> to altitude and stability.  The atmosphere has been divided into four<br> altitude regimes, or estages (From the "french" for floors), where clouds<br> have been found to have similar characteristics.  Low clouds are found<br> between the surface and 6500 feet, middle clouds between 6500 feet and<br> 18000 feet, and high clouds above 18000 feet and clouds with extensive<br> vertical development.<br>
+<question> 236: Clouds are divided into four families according to their:<br>
+<answer right>Height range.
+<answer>Origin.
+<answer>Outward shape.
+<answer>Composition.</pre></concept>
+<concept><pre> Within the high, middle, and low cloud groups are two main subdivisions.<br> These are stratiform (Stable) and cumuliform (Unstable).  Stratus clouds<br> form when complete layers of air are cooled until condensation takes place<br> creating a "spread-out" or "sheet-like" appearance.  Flight within<br> stratiform clouds is relatively smooth.  Cumulus clouds form when localized<br> vertical currents carry most air upward to the condensation level creating<br> a "lumpy" or "billowy" appearnace.  Turbulent flying conditions are usually<br> found in and below cumuliform clouds.<br>
+<question> 237: Moist stable air flowing upslope can be expected to:<br>
+<answer right>Produce stratus type clouds.
+<answer>Produce a temperature inversion.
+<answer>Cause showers and thunderstorms.
+<answer>Develop convective turbulence.
+<question> 238: If an unstable air mass is forced upward, what type clouds can be<br> expected?<br>
+<answer right>Clouds with considerable vertical development and associated turbulence.
+<answer>Layer-like clouds with a temperature inversion.
+<answer>Layer-like clouds with little vertical development.
+<answer>Layer-like clouds with considerable associated turbulence.</pre></concept>
+<concept><pre> Towering cumulus signifies a relatively deep layer of unstable air.  It<br> shows considerable vertical development and has billowing cauliflower tops.<br>
+<question> 239: Which of the following cloud types would indicated convective<br> turbulence?<br>
+<answer right>Towering cumulus clouds.
+<answer>Altocumulus standing lenticular clouds.
+<answer>Nimobostratus clouds.
+<answer>Cirrus clouds.</pre></concept>
+<concept><pre> In addition to the two main subdivisions discussed above, the word nimbus,<br> meaning "rain cloud", is added to the names of clouds that normally produce<br> heavy precipitation, either liquid or solid.  For example, a stratiform<br> cloud producing precipitation is referred to as a numbostratus and a heavy,<br> swelling cumulus cloud that has grown into a thunderstorm is referred to as<br> a cumulonimbus.<br>
+<question> 240: The suffix nimbus, used in naming clouds, means:<br>
+<answer right>Rain cloud.
+<answer>Cloud with extensive vertical development.
+<answer>Middle cloud containing ice pellets.
+<answer>Accumulcation of clouds.</pre></concept>
+<concept><pre> Cumulonimbus are heavy and dense clouds with considerable vertical extent<br> in the form of mountains or huge towers.  They may be isolated, may appear<br> in groupds or may appear in lines extending hundreds of miles.  At least<br> part of their upward portion is usually smooth, fibrous, or strated, the<br> shape of an anvil or vast plume.  Under the base of this type cloud, which<br> is often very dark, there are frequently low ragged clouds, either merged<br> or not.  The intensity of precipitation varies from light showers to<br> cloudbursts.  Cumulonimbus produces lightning, thunder, gusty winds, and<br> often hail.<br>
+<question> 241: Which clouds have the greatest turbulence?<br>
+<answer right>Cumulonimbus
+<answer>Towering cumulus
+<answer>Nimbostratus
+<answer>Altocumulus castellanus</pre></concept>
+<concept><pre> Cloud base determination.  You can estimate height of cumuliform cloud<br> bases using surface temperature-dew point spread.  Unsaturated air in a<br> convective current cools at a rate of 5.4 degrees farenheight (3.0C) per<br> thousand feet; dew point decreases at about 1 degree farenheight (5/9C).<br> Thus in a convective current, temperature and dew converge at about 4.4<br> degrees farenheight (2.5C) per thousand feet.  To obtain an estimate of a<br> convective cloud base in thousands of feet, divide the temperature/dew<br> point spread spread by the rate of convergence (4.4"F or 2.4"C).<br>
+<question> 242:  At approximately what altitude above the surface would the pilot<br> expect the base of cumuliform clouds if the surface air temperature is 82'F<br> and the dew point is 51'F.<br>
+<answer right>7000 feet MSL.
+<answer>5000 feet MSL.
+<answer>6000 feet MSL.
+<answer>9000 feet MSL.
+<question> 243:  What is the approximate base of the cumulus clouds if the temperature<br> at 1000 feet MSL is 70"F and the dew point is 48"F.<br>
+<answer right>6000 feet MSL.
+<answer>3000 feet MSL.
+<answer>4000 feet MSL.
+<answer>8000 feet MSL.
+<question> 244:  What situation is mode conducive to the formation of radition fog?<br>
+<answer right>Warm, moist air over low, flatland areas on clear, calm nights.
+<answer>Moist, tropical air moving over cold, offshore water.
+<answer>The movement of cold air over much warmer water.
+<answer>Light wind moving warm, moist air upslope during the night.</pre></concept>
+<concept><pre> Advection fog.  The cause of advection fog formation is the movement of<br> warm, moist air over a colder surface.  Advection fog is common along<br> coastal regions where the temperature of the land surface and the water<br> surface contrasts.  The southeastern area of the United States provides<br> ideal conditions for advection fog formation during the winter months.  If<br> air flows (advection) from the Gulf of Mexico or the Atlantic Ocean over<br> the colder continent, this warm air is cooled by contact with the cold<br> ground.  If the temperature of the air is lowered to the dew point<br> temperature, fog will form.  Advection fog forming under these conditions<br> may extend over the entire eastern two-thirds of the nation from the<br> Rockies to Maine.  It may persist both day and night until replaced by a<br> drier air mass.<br> <br> If advection fog forms over water and is carried onshore by the wind, it is<br> often referred to as a "sea fog".  Cold ocean currents, such as those off<br> the coast of California, may cool and saturate moist air coming from the<br> warmer areas of the open sea.  Sea fog is often very dense both offshore<br> and onshore.<br>
+<question> 245: In which situation is advection fog most likely to form?<br>
+<answer right>An air mass moving inland from the coast in winter.
+<answer>A warm moist air mass on the windward side of the mountains.
+<answer>A light breeze blowing colder air out to sea.
+<answer>Warm, moist air settling over a warmer surface under no-wind conditions.</pre></concept>
+<concept><pre> Upslope fog.  Upslope fog forms when moist, stable air flows up a sloping<br> land surface.  When the air rises, it cools by expansion (adiabatic<br> cooling) as the atmospheric pressure decreases.  When the expansional<br> cooling is sufficient to lower the temperature of the air to the dew point<br> temperature, upslope fog may form.  The windspeed (pressure gradient) must<br> be adequate to support continued upslope motion;  However, if the wind is<br> too strong, the fog may be lifted from the surface, resulting in an<br> overcast of low stratus clouds.  Upslope fog is common on the eastern slope<br> of the Rockies as air flows westward from the Missouri Valley or the Gulf<br> of Mexico.<br>
+<question> 246:  What types of fog depend upon a wind in order to exist?<br>
+<answer right>Advection fog and upslope fog.
+<answer>Radiation fog and ice fog.
+<answer>Steam fog and downslope fog.
+<answer>Precipitation - induced fog and ground fog.</pre></concept>
+<concept><pre> Temperature inversions.  Temperature normally decreases with increasing<br> altitude throughout the troposphere.  This decrease of temperature with<br> altitude is defined as lapse rate.  The average decrease of temperature -<br> average lapse rate - in the troposphere is 2"c per 1000 feet.  But since<br> this is an average, the exact value seldom exists.  In fact, temperature<br> sometimes increases with height through a layer.  When the temperature<br> increases with altitude within a layer in the atmosphere this layer is<br> called an inversion (inverted lapse rate).<br>
+<question> 247:  A temperature inversion would most likely result in which of the<br> following weather conditions?<br>
+<answer right>An increase in temperature as altitude is increased.
+<answer>Clouds with extensive vertical development above an inversion aloft.
+<answer>Good visibility in the lower levels of atmosphere and poor visibility above an inversion aloft.<br>
+<answer>A decrease in temperature as altitude is increased.</pre></concept>
+<concept><pre> Inversions vary in thickness from a few feet to several thousand feet and<br> may occur in a layer of the troposphere at any altitude from the surface to<br> the stratosphere.  Inversions occur frequently, but are generally<br> restricted to relatively small layers in the atmosphere.  Inversions near<br> the earth's surface may be formed as follows:<br> <br> Advection of Warm Air Over a Colder Surface.  Wind may move a mass of air<br> from a warm region over a colder surface, such as a wind from the warm<br> ocean moving over the colder land area during the winter season.  The air<br> will be cooled quickly at the surface by contact with the cold land mass,<br> while the air at and above 1000 feet will not be affected for several<br> hours.  Thus, the surface air will be colder than the air aloft, producing<br> an inverted temperature lapse rate.<br> <br> Nocturnal cooling.  A more frequent type of inversion is caused when the<br> earth cools at night under clear skies.  During the afternoon hours, the<br> ground is waqrm and a normal decrease in temperature with altitude<br> generally exists.  However, as the sun sets, the ground loses its heat to<br> space through terrestrial radiation.  This reradiation is not absorbed in<br> significant quantities by clear, dry air.  As the ground becomes colder,<br> the air immediately above it is cooed by contact (conduction); Since air is<br> a poor conductor, this cooling does not extend very high.  The air near<br> tghe surface may become cool by midnight hours, whereas the temperature of<br> the air at 100 feet may still be as warm as it was during the afternoon<br> hours, thus inverting the typical afternoon temperature lapse rate.  As the<br> cooling continues, the inversion layer deepens.<br>
+<question> 248:  The most frequent type of ground or surface based temperature inversion is<br> that produced by:<br>
+<answer right>Terrestrial radiation on a clear, relatively still night.
+<answer>Warm air being lifted rapidly aloft in the vicinity of mountainous terrain.<br>
+<answer>The movement of colder air under warm air, or the movement of warm air over cold air.<br>
+<answer>Widespread sinking of air within a thich layer aloft resulting in heating by compression.<br></pre></concept>
+<concept><pre> With relatively strong winds over land, the mechanical turbulence from air<br> moving over the rough surface may thoroughly mix the warm and cool air near<br> the surface so that no well-defined inversion exists near the ground,<br> although an inversion may exist several hundred feet above the ground.<br> Inversion layers are stable and produce smooth flying conditions with them;<br> however, fog, haze, smoke, and dust below and within inversion layers often<br> restrict visibility.<br>
+<question> 249: What feature is associated with a temperature inversion?<br>
+<answer right>A stable layer of air.
+<answer>An unstable layer of air.
+<answer>Chinook winds on mountain slopes.
+<answer>Air mass thunderstorms.
+<question> 250: Which weather conditions would be expected beneath a low-level<br> temperature inversion layer when the relative humidity is high?<br>
+<answer right>Smooth air and poor visibility due to fog, haze, or low clouds.
+<answer>Light wind shear and poor visibility due to haze and light rain.
+<answer>Turbulent air and poor visibility due to fog, low stratus type clouds, and showery precipitation.<br>
+<answer>Updrafts and turbulence due to surface heating, fair visibility, and cumulus clouds developing at the top of the inversion.<br></pre></concept>
+<concept><pre> Wind shear.  Rubbing two objects together creates friction.  If the<br> objects are fluid or air currents, friction creates eddies along a common<br> shallow mixing zone, and a mass transfer takes place in the shallow mixing<br> layer.  A relatively steep gradient in wind velocity along a given line or<br> direction (Either vertical or horizontal) produces churning motions<br> (eddies) which result in turbulence.  The greater the change of wind speed<br> and/or direction in the given direction, the more severe the turbulence.<br> This zone of induced eddies and mixing is a shear zone.  Wind shear is best<br> described as a change in wind direction and/or speed within a very short<br> distance in the atmosphere.<br> <br> Wind shear may be associated with either a wind shift or a wind speed<br> gradient at any level in the atmosphere.  Wind shear associated with a<br> low-level temperature inversion occurs when wind just above the inversion<br> is relatively strong;  a wind shear zone develops between the calm and the<br> stronger winds above.  Eddies in the shear zone cause airspeed fluctuations<br> as an aircraft climbs or decends through the inversion.  When airspeed is<br> at a low margin above stall speed, such as during approach or departure,<br> the fluctuations in airspace can induce a stall precariously close to the<br> ground.<br>
+<question> 251:  Where does wind shear occur?<br>
+<answer right>At any level, and it can exist in both a horizontal and vertical direction.<br>
+<answer>Only at higher altitudes, usually in the vicinity of jet streams.
+<answer>Primarily at lower altitudes in the vicinity of mountain waves.
+<answer>Only in the vicinity of thunderstorms.</pre></concept>
+<concept><pre> When taking off or landing in calm wind under clear skies within a few<br> hours before or after sunrise, be prepared for a temperature inversion near<br> the ground.  You can be relatively certain of a shear zone in the inversion<br> if you know the wind at 2000 to 4000 feet is 25 knots or more.  Allow a<br> margin of airspeed above normal climb or approach speed to alleviate danger<br> of stall in event of turbulence or sudden change in wind velocity.<br>
+<question> 252:  A pilot can expect a wind shear zone in a temperature inversion,<br> whenever the wind speed at 2000 to 4000 feet above the surface is at least:<br>
+<answer right>25 kts
+<answer>5 kts
+<answer>10 kts
+<answer>15 kts
+<question> 253: If there is thunderstorm activity in the vicinity of an airport at which<br> you plan to land, which hazardous and invisible atmospheric phenomenon might<br> be expected to on the landing approach.<br>
+<answer right>Wind shear turbulence
+<answer>St. Elmo's fire
+<answer>Tornadoes
+<answer>Virga
+<question> 254: Hazardous wind shear is commonly encountered near the ground:<br>
+<answer right>During periods of strong temperature inversion and near thunderstorms.
+<answer>Near thunderstorms and during periods when the wind velocity is stronger than 35 kts.<br>
+<answer>During periods when the wind velocity is stronger than 35kts and near mountain valleys.<br>
+<answer>Near mountain valleys and on the windward side of a hill or mountain.</pre></concept>
+<concept><pre> Wave action also may occur when the air is too dry to form clouds.<br> Thus, the pilot should analyze weather reports, forecasts, and obtain reports<br> to help avoid a wave since clouds may not be present to indicate the location<br> of wave activity.<br>
+<question> 255: An almond or lens-shapped cloud which appears stationary, but which may<br> contain winds of 50kts or more, is referred to as:<br>
+<answer right>A lenticular cloud.
+<answer>An inactive frontal cloud.
+<answer>A funnel cloud.
+<answer>A stratus cloud.
+<question> 256: Crests of standing mountain waves may be marked by stationary, lens-shaped<br> clouds known as:<br>
+<answer right>Standing lenticular clouds.
+<answer>Cumulonimbus mamma clouds.
+<answer>Roll clouds.
+<answer>Rotor clouds.
+<question> 257: The conditions necessary for the formation of cumulonimbus clouds are<br> lifting action and:<br>
+<answer right>Unstable, moist air.
+<answer>Unstable air containing an excess of condensation nuclei.
+<answer>Either stable or unstable air.
+<answer>Stable, moist air.
+<question> 258: What conditions are necessary for the formation of thunderstorms?<br>
+<answer right>Lifting force, high humidity, and unstable conditions.
+<answer>High humidity, high temperature, and cumulus clouds.
+<answer>Low pressure, high humidity, and cumulus clouds.
+<answer>Lifting force, high temperature, and unstable conditions.
+<question> 259: What feature is normally associated with the cumulus stage of a<br> thunderstorm?<br>
+<answer right>Continuous updraft.
+<answer>Roll cloud.
+<answer>Frequent lightning.
+<answer>Beginning of rain at the surface.
+<question> 260: Which weather phenomenon signals the beginning of the mature stage of a<br> thunderstorm?<br>
+<answer right>The start of rain at the surface.
+<answer>The appearnce of an anvil top.
+<answer>Growth rate of cloud is maximum.
+<answer>Strong turbulence in the cloud.
+<question> 261: Thunderstorms reach their greatest intensity during the<br>
+<answer right>Mature stage.
+<answer>Updraft stage.
+<answer>Downdraft stage.
+<answer>Cumulus stage.
+<question> 262: During the life cycle of a thunderstorm, which stage is characterized<br> predominately by downdrafts?<br>
+<answer right>Dissipating
+<answer>Cumulus
+<answer>Mature
+<answer>Anvil
+<question> 263: A nonfrontal, narrow band of active thunderstorms that often develop<br> ahead of a cold front is known as:<br>
+<answer right>A squall line.
+<answer>An occlusion.
+<answer>A prefrontal system.
+<answer>A shear line.
+<question> 264: Thunderstorms which generally produce the most intense hazard to<br> aircraft are:<br>
+<answer right>Squall line thunderstorms.
+<answer>Air mass thunderstorms.
+<answer>Steady thunderstorms.
+<answer>Warm front thunderstorms.
+<question> 265: Which weather phenomenon is always associated with a thunderstorm?<br>
+<answer right>Lightning.
+<answer>Heavy rain showers.
+<answer>Supercooled raindrops.
+<answer>Hail.</pre></concept>
+<concept><pre> Aircraft icing is one of the major weather hazards to aviation.  Icing is a<br> cumulative hazard.  It reduces aircraft efficiency by increasing weither,<br> reducing lift, decreasing thrust, and increasing drag.  Icing also<br> seriously impairs aircraft engine performance.<br> <br> Two conditions are necessary for structural icing in flight;  (1) the<br> aircraft must be flying through visible liquid moisture such as rain or<br> cloud droplets, and (2) the temperature at the point where the moisture<br> strikes the aircraft must be 0"C or cooler.<br>
+<question> 266: An inflight condition necessary for structural icing to form is:<br>
+<answer right>Visibile moisture
+<answer>Cumuliform clouds
+<answer>Cirrostratus clouds
+<answer>Stratiform clouds</pre></concept>
+<concept><pre> Freezing rain.  Freezing rain or drizzle may be encountered in clear air<br> below a cloud deck.  When warm, moist air is forced to rise over a colder<br> air mass, a frontal inversion will exist.  Below this inversion, icing<br> dangers are frequently encountered.  In beforeced aloft, the air may be<br> sufficiently cooled to produce saturation and precipitation.  The rain or<br> drizzle falling into the colder air should be expected to freeze upon<br> contact with the aircraft if the temperature is 2"C or below.  Freezing<br> rain is the most dangerous icing condition;  it can build to enormous<br> proportions in a few minutes and is extremely difficult to break loose.<br>
+<question> 267:  In which environment is aircraft structural ice most likely to have<br> the highest accumulation rate?<br>
+<answer right>Freezing rain.
+<answer>Cumulus clouds.
+<answer>Cirrus clouds.
+<answer>Stratus clouds.</pre></concept>
+<concept><pre> When raindrops fall through the air that is below freezing, they may freeze<br> to form ice pellets.  This form of ice is a cold weather phenomenon.  It<br> does not bring about the formation of structural ice, except when it is<br> mixed with supercooled water.  However, the presense of ice pellets at a<br> given level in the atmosphere is a good indicator of freezing rain at some<br> higher altitude.<br>
+<question> 268:  The presense of ice pellets at the surface is evidence that:<br>
+<answer right>There is freezing rain at higher altitudes
+<answer>There are thunderstorms in the area
+<answer>A cold front has passed
+<answer>The pilot can climb to a higher altitude without encountering more than light icing.<br></pre></concept>
+<concept><pre> Frost forms in much the same way as dew.  The only difference is that the<br> dewpoint of the surrounding air must be colder than freezing.  Water vapor<br> then sublimates directly as ice crystals or frost rather than condensing as<br> dew.<br>
+<question> 269:  Which conditions result in the formation of frost?<br>
+<answer right>The temperature of the collecting surface is at or below the dew point of the adjacent air and the dew point is below freezing.<br>
+<answer>The freezing of dew.
+<answer>The collecting surface's temperature is at or below freezing and small droplets of moisture fall on the collected surface.<br>
+<answer>Small drops of moisture falling on the collecting surface when the surrounding air temperature is at or below freezing.<br></pre></concept>
+<concept><pre> Frost does not change the basic aerodynamic shape of the wing, but the<br> roughness of its surface spoils the smooth flow of air, thus causing a<br> slowing of the airflow.  This slowing of the airflow causes early airflow<br> separation over the affected airfoil resulting in a loss of lift.  Even a<br> small amount of frost on airfoils may prevent an aircraft from becoming<br> airborne at normal takeoff speed.  Also possible is that, once airborne, an<br> aircraft could have insufficient margin of airspeed above stall so that<br> moderage gusts or turning flight could produce incipient or complete<br> stalling.<br>
+<question> 270:  Why is frost considered hazardous to flight operation?<br>
+<answer right>Frost causes early airflow separation resulting in a loss of lift.
+<answer>The increased weight requires a greater takeoff distance.
+<answer>Frost changes the basic aerodynamic shape of the airfoil.
+<answer>Frost decreases control effectiveness.
+<question> 271:  Frost which has not been removed from the lifting surfaces of an<br> airplane before flight:<br>
+<answer right>May prevent the airplane from becoming airborne.
+<answer>Will change the camber (Curvature of the wing) thereby increasing lift during the takeoff.<br>
+<answer>May cause the airplane to become airborne with a lower angle of attack and at a lower indicated airspeed.<br>
+<answer>Would present no problems since frost will blow off when the airplane starts moving during takeoff.<br>
+<question> 272:  Frost which has not been removed from the wings of an airplane before<br> flight:<br>
+<answer right>May make it difficult or impossible to become airborne.
+<answer>May cause the airplane to become airborne with a lower angle of attack and at a lower indicated airspeed.<br>
+<answer>Would present no problems since frost will blow off when the airplane starts moving during takeoff.<br>
+<answer>Will change the camber (Curvature of the wing) thereby increasing lift during takeoff.<br></pre></concept>
+<concept><pre> Large high pressure systems frequently stagnate over large areas of land or<br> water with relatively uniform surface conditions.  They take on<br> characteristics of these "source regions", the coldness of polar regions,<br> the heat of the tropics, the moisture of oceans, or the dryness of<br> continents.<br> <br> As they move away from their source regions and pass over land or sea, the<br> air masses are constantly being modified through ehating or cooling from<br> below, lifting or subsiding, absorbing or losing moisture.  Actual<br> temperature of the air mass is less important than its temperature in<br> relation to the land or water surface over which it is passing.  For<br> example, an air mass moving from polar regions usually is colder than the<br> land and sea surfaces over which it passes.  On the other hand, an air mass<br> moving from the gulf of Mexico in winter usually is warmer than the<br> territory over which it passes.<br> <br> If the air is colder than the surface, it will be warmed from below and<br> convection currents will be set up, causing turbulence.  Dust, smoke, and<br> atmospheric pollution near the ground will be carried upward by these<br> currents and dissipated at higher levels, improving surface visibility.<br> Such air is called "unstable".<br> <br> Conversely, if the air is warmer than the surface, there is no tendency for<br> convection currents to form, and the air is smooth.  Smoke, dust, etc. are<br> concentrated in lower levels with resulting poor visibility.  Such air is<br> called "stable".<br>
+<question> 273: Which of the following would decrease the stability of an airmass?<br>
+<answer right>Warming from below.
+<answer>Cooling from below.
+<answer>Decrease in water vapor.
+<answer>Sinking of the airmass.</pre></concept>
+<concept><pre> Thus broad and generalized conclusions can be drawn in regard to the<br> stability of the atmosphere.  However, precise atmospheric temperature<br> moisture soundings must be considered to determine whether the air is<br> actually stable or unstable.  The density differences that cause a parcel<br> of air to be eitgher stable or unstable are the result of the differences<br> between the environmental lapse rate (or the vertical temperature profile<br> of the atmosphere) and the adiabatic lapse rate.  The adiabatic lapse rate<br> is the temperature change within a parcel of air that is accelerated<br> vertically.<br>
+<question> 274: Which of the following measurements can be used to determine the stability<br> of the atmosphere?<br>
+<answer right>Actual lapse rate
+<answer>Atmospheric pressure
+<answer>Surface temperature
+<answer>Wind velocity
+<question> 275: An unstable air mass is most likely to have which of the following<br> characteristics?<br>
+<answer right>Turbulent air.
+<answer>Stratiform clouds and fog.
+<answer>Continuous precipitation.
+<answer>Fair to poor visibility in haze and smoke.
+<question> 276: What are the characteristics of unstable air?<br>
+<answer right>Turbulence and good surface visibility.
+<answer>Turbulence and poor surface visibility.
+<answer>Nimbostratus clouds and good surface visibility.
+<answer>Nimbostratus clouds and poor surface visibility.
+<question> 277: A moist, unstable air mass is characterized by:<br>
+<answer right>Cumuliform clouds and showery precipitation.
+<answer>Poor visibility and smooth air.
+<answer>Stratiform clouds and continuous precipitation.
+<answer>Fog and drizzle.
+<question> 278: A stable air mass is most likely to have which of the following<br> characteristics?<br>
+<answer right>Smooth air.
+<answer>Showery precipitation.
+<answer>Turbulent air.
+<answer>Cumuliform clouds.
+<question> 279: What is a characteristic of stable air?<br>
+<answer right>Stratiform clouds.
+<answer>Unlimited visibilty.
+<answer>Fair weather cumulus clouds.
+<answer>Temperature decreases rapidly with altitude.
+<question> 280:  Steady precipitation, in contrast to showery, preceding a front is an<br> indication of:<br>
+<answer right>Stratiform clouds with little or no turbulence.
+<answer>Cumuliform clouds with moderate turbulence.
+<answer>Stratiform clouds with moderate turbulence.
+<answer>Cumuliform clouds with little or no turbulence.
+<question> 281: The boundary between two different air masses is referred to as a:<br>
+<answer right>Front
+<answer>Foehn gap.
+<answer>Frontolysis
+<answer>Frontogenesis
+<question> 282: One weather phenemenon which will always occur when flying across a<br> front is:<br>
+<answer right>A change in the wind.
+<answer>A large precipitation area, if the frontal surface is steep.
+<answer>A large temperature change, especially at high altitudes.
+<answer>The presense of clouds, either ahead of or behind the front.
+<question> 288: Radar weather reports are of special interest to pilots because they<br> report:<br>
+<answer right>Location of precipitation along with type, intensity, and trend.
+<answer>Large areas of low ceilings and fog.
+<answer>Location of broken to overcast clouds.
+<answer>Icing conditions.
+<question> 289: What information is provided by the radar summary chart that is not<br> shown on other weather charts?<br>
+<answer right>Lines and cells of hazardous thunderstorms.
+<answer>Ceilings and precipitation between reporting stations.
+<answer>Types of precipitation between reporting stations.
+<answer>Areas of cloud cover and icing levels within the clouds.
+<question> 290: For what phase of flight planning are the significant weather progs<br> designed?<br>
+<answer right>Information to avoid areas and/or altitudes of most significant icing and turbulence.<br>
+<answer>A complete set of weather forecasts for overall planning.
+<answer>An analysis of frontal activity, cloud coverage, and areas of precipitation.<br>
+<answer>Overall depicition of current ceilings and visibilities with fronts and icing levels.<br></pre></concept>
+<concept><pre> "Ceiling" is defined as:<br> <br> (1) Height of the lowest layer of clouds or obscuring phenomena aloft that<br> is reported as broken or overcast and not classified as thin; or<br> <br> (2) Vertical visibility into a surface based obscuring phenomena that hides<br> all the sky.<br>
+<question> 294: Ceiling, as used in weather reports, is defined as the height above<br> the Earth's surface of the:<br>
+<answer right>Lowest layer of clouds reported as broken or overcast and not classified as thin.<br>
+<answer>Lowest reported obscuration and the highest layer of clouds reported as overcast.<br>
+<answer>Lowest layer of clouds reported as scattered, broken, or thin.
+<answer>Highest layer of clouds reported as broken or thin.</pre></concept>
+<concept><pre> Sky conditions and celing:  The sky condition is reported in SA's using the<br> designators shown in the table:<br> Code	Meaning							Spoken<br> -------------------------------------------------------------------------<br> CLR	Clear (less than 0.1 sky cover)				Clear<br> SCT	Scattered layer aloft (0.1 to 0.5)			Scattered<br> BKN	Broken layer aloft (0.6 to 0.9), considered ceiling	Broken<br> OVC	Overcase layer (0.9 to 1.0), considered ceiling		Overcase<br> X	Sky obscured by some surface phenomena			Sky obscured<br> -X	Sky partially obscured by some surface phenomena	Sky partially<br> 								obscured<br> <br> Weather and obstructions:<br> Code		Spoken<br> ---------------------------<br> Tornado		Tornado<br> Funnel cloud	Funnel cloud<br> Waterspout	Waterspout<br> T		Thunderstorm<br> R		Rain<br> Z		Freezing<br> W		Showers<br> I		Ice<br> C		Crystals<br> P		Pellets<br> S		Snow<br> A		Hail<br> L		Drizzle<br> B		Blowing<br> D		Dust<br> N		Sand<br> Y		Spray<br> F		Fog<br> GF		Ground fog<br> H		Haze<br> K		Smoke<br> +		Heavy<br> -		Light (partial)<br></pre></concept>
+<concept><pre> INK SA 1854 CLR 15 106/77/63/1112G18/000<br> BOI SA 1854 150 SCT 30 181/62/42/1304/015<br> LAX SA 1852 7 SCT 250 SCT 6HK 129/60/59/2504/991<br> MDW RS 1856 -X M7 OVC 11/2R+F 990/63/61/3205/980/RF2 RB12<br> JFK RS 1853 W5 X 1/2F 180/68/64/1804/006/RO4RVR22V30 TWR VSBY 1/4<br>
+<question> 295:  What is the sky condition depicted for Chicago Midway Airport (MDW)?<br>
+<answer right>Sky partially obscured, measured ceiling 700 overcast, visibility 1-1/2, heavy rain, fog.<br>
+<answer>Thin overcast, cealing 700 feet, overcast 1100 feet, visibility 2 miles in rain plus fog.<br>
+<answer>Thin overcast measured 700 feet overcast, visibility 1-1/2, heavy rain, fog.<br>
+<answer>Sky partially obscured, measured ceiling 700 overcast, visibility 11, occasionally 2, with rain and heavy fog.<br>
+<question> 296:  Which of the reporting stations in figure 9 have VFR weather?<br>
+<answer right>All except JFK and MDW
+<answer>All
+<answer>All except JFK
+<answer>INK only
+<question> 297:  The wind direction and velocity at JFK is from:<br>
+<answer right>180" at 4kts
+<answer>180" at 40kts
+<answer>040" at 22 to 30 kts
+<answer>018" at 4 to 6kts
+<question> 298:  What are the wind conditions at Wink, Texas (INK)?<br>
+<answer right>110", 12kts, gusting to 18kts
+<answer>Calm
+<answer>111" gusting to 18kts
+<answer>011", 12kts gusting to 18kts
+<question> 299:  From which primary source should information be obtained regarding<br> expected weather at your destination and estimated time of arrival?<br>
+<answer right>Terminal forecast
+<answer>Low level prog. chart.
+<answer>Weather depiction chart.
+<answer>Radar Summary and Weather Depiction Chart</pre></concept>
+<concept><pre> OK FT 011447<br> <br> GAG FT 011515 100 SCT 250 SCT 2610. 16Z 60 SCT C100 BKN 3315G22 CHC C50 BKN<br> 5TRW. 01Z 250 SCT 3515G25. 09Z VFR WIND..<br> <br> HBR FT 011515 C120 BKN 250 BKN 3010. 17Z 100 SCT C250 BKN 3215G25 CHC<br> C30 BKN 3TRW. 00Z 250 SCT 3515G25.  092 VFR WIND..<br> <br> MLC FT 011515 C20 BKN 1815 BKN OCNL SCT.  20Z C30 BKN 1815G22 CHC C20 BKN<br> 1TRW. 03Z C30 BKN 2015 CHC C7 X 1/2TRW+G40. 09Z MFVR CIG TRW..<br> <br> OKC FT 011515 C12 BKN 140 BKN 1815G28 LWR BKN V SCT. 18Z C30 BKN 250 BKN<br> 2315G25 LWR BKN OCNL SCT CHC C7 X 1/2TRW+G40. 21Z CFP 100 SCT C250<br> BKN 3315G25 CHC C30 BKN 5TRW-. 02Z 100 SCT 250 SCT 3515G25. 09Z VFR WIND..<br> <br> PNC FT 011515 C100 BKN 250 BKN 1810. 16Z CFP 20 SCT C100 BKN 3115 SCT V<br> BKN.  00Z 250 SCT 3515G25.  09Z VFR WIND..<br> <br> TUL FT 011515 C20 BKN 1915G22. 19Z C30 BKN 1815G25 CHC 3TRW. 23Z CFP C100<br> BKN 250 BKN 3215G25 CHC C30 BKN 5TRW.  09Z VFR WIND..<br>
+<question> 300:  What ceiling is forecast for Gage (GAG) between 16Z and midnight Z?<br>
+<answer right>10000 broken.
+<answer>100 scattered.
+<answer>6000 scattered.
+<answer>1000 broken.
+<question> 301:  What wind conditions are expected at Hobart (HBR) at 16Z?<br>
+<answer right>300" at 10kts
+<answer>Calm
+<answer>115" at 15kts
+<answer>320" at 15kts gusting to 25kts
+<question> 302:  According to the terminal forecast for OKC, the cold front should pass<br> through:<br>
+<answer right>between 21Z and 02Z the next day.
+<answer>Between 18Z and 21Z with heavy thunderstorms.
+<answer>Between 1515Z and 18Z.
+<answer>After 09Z the next day.
+<question> 303: When is the wind forecast to shift at Tulsa (TUL)?<br>
+<answer right>Between 19Z and 23Z.
+<answer>15Z.
+<answer>Between 23Z and 09Z the next day.
+<answer>After 09Z the next day.
+<question> 304: What is the outlook for weather conditions at McAlester (MLC)?<br>
+<answer right>Marginal VFR due to low ceilings and thundershowers
+<answer>Ceilings 2000-3000 feet with southerly winds.
+<answer>Ceilings 700 feet, sky obscured, visibility 1/2 mile in thundershowers
+<answer>VFR except in the thundershowers, peak wind gusts 40 kts
+<question> 305:  The wind condition in the terminal forecast outlook for Ponca City (PNC)?<br>
+<answer right>For velocities of 25kts or stronger.
+<answer>Missing.
+<answer>For a wind shift from south to northwest.
+<answer>For the wind to change from a gusty condition to calm.
+<question> 306: To best determine forecast weather conditions between weather reporting<br> stations, the pilot should refer to:<br>
+<answer right>Area forecasts.
+<answer>Pilot reports.
+<answer>Prognostic charts.
+<answer>Weather maps.
+<question> 307: To determine the freezing level and areas of probable icing aloft, the<br> pilot should refer to the:<br>
+<answer right>Area forecast.
+<answer>Radar summary chart.
+<answer>Weather depiction chart.
+<answer>Surface analysis.
+<question> 312: What information is contained in a convective SIGMET in the<br> conterminous United States?<br>
+<answer right>Tornadoes, embedded thunderstorms, and hail 3/4 in or greater in diameter.
+<answer>Severe icing, severe turbulence, or widespread dust storms lowering visibility to less than three miles.<br>
+<answer>Weather less than basic VFR and sustained winds of 30 kts or greater at the surface.<br>
+<answer>Ceilings less than 500 feet and visibility less than 1 mile.
+<question> 313: SIGMET's are issued as a warning of weather conditions hazardous<br>
+<answer right>To all aircraft
+<answer>Particularly to light aircraft
+<answer>Only to light aircraft operations
+<answer>Particularly to heavy aircraft
+<question> 314: Which inflight advisory would contain information on severe icing?<br>
+<answer right>SIGMET
+<answer>Convective SIGMET
+<answer>AIRMET
+<answer>PIREP
+<question> 315: Which in-flight advisory would contain information on severe icing?<br>
+<answer right>Thunderstorms are obscured by massive cloud layers and cannot be seen.
+<answer>Thunderstorms have been visually sighted.
+<answer>Severe thunderstorms are embedded within a squall line
+<answer>Thunderstorms are dissipating and present no serious problem to IFR flight.<br>
+<question> 316: AIRMET's are issued as a warning of weather conditions hazardous<br>
+<answer right>Particularly to light airplanes.
+<answer>To all airplanes
+<answer>to VFR operations only
+<answer>Particularly to heavy airplanes</pre></concept>
+<concept><pre> Winds and temperatures aloft forecast:<br> The winds and temperatures aloft are forecast for specific locations in the<br> contiguous United States.  These forecasts are also prepared for a network<br> of locations in Alaska.  Forecasts are made twice daily based on 0000Z and<br> 1200Z data for use during specific time intervals.<br> <br> Figure 12 is an example of a winds and temperatures aloft forecast (FD)<br> containing the heading and six FD locations.  The heading always includes<br> the time during which the FD may be used (1900-0300Z) in the example) and a<br> notation "TEMPS NEG ABV 24000".  Since temperatures above 24000 feet are<br> always negative, the minus sign is omitted.<br> <br> Forecast levels.  The line labelled "FT" shows 9 of 11 standard FD levels.<br> The 45000 and 53000 foot levels are not transmitted on teletypewriter<br> circuits but are available in the communications system.  The pilot may<br> request these levels from the FSS briefer or NWS meteorologist.  Through<br> 12000 feet the levels are true altitude, 18000 feet and above are pressue<br> altitude.  The station identifiers denoting the location for which the<br> forecast applies are arranged in alphabetical order in a column along the<br> left side of the data sheet.  The coded wind and temperature information in<br> digits is found in columns under each level and in the line to the right of<br> the station identifier.<br> <br> Note that some lower level groups are omitted.  No winds are forecast<br> within 1500 feet of station elevation.  No temperatures are forecast for<br> the 3000 feet level or for a level within 2500 feet of the station<br> elevation.<br> <br> Decoding:  Note that wind direction and speed are jammed together with<br> the direction in tens of degrees.  0507 means wind at 50" from true north,<br> 7 knots.<br></pre></concept>
+<concept><pre> FD WBC 151745<br> BASED ON 151200Z DATA<br> VALID 1600Z FOR USE 1800-0300Z.  TEMPS NEG ABV 24000<br> <br> FT	3000	6000	9000	12000	18000	24000	30000	34000	39000<br> ALA			2420	2635-08	2535-18	2444-30	245945	246755	246862<br> AMA		2714	2725+00	2625-04	2531-15	2542-27	265842	256352	256762<br> DEN			2321-04	2532-08	2434-19	2441-31	235347	236056	236262<br> HLC		1701-01	2113-03	2219-07	2330-17	2435-30	244145	244854	245561<br> MKC	0507	2006+03	2215-01	2322-06	2338-17	2348-29	236143	237252	238160<br> STL	2113	2325+07	2332+02	2339-04	2356-16	2373-27	239440	730649	731960<br>
+<question> 317:  What values are used for Winds Aloft forecasts?<br>
+<answer right>True direction and knots
+<answer>Magnetic direction and knots
+<answer>Magnetic direction and miles per hour
+<answer>True direction and miles per hour
+<question> 318:  Interpret the wind and temperature aloft forecast for 3000 feet at<br> Kansas City (MKC).<br>
+<answer right>050" at 7Kts, temperature missing.
+<answer>360" at 5kts, temperature -7"C.
+<answer>360" at 50kts, temperature at +7"C.
+<answer>005" at 7kts, temperature missing.</pre></concept>
+<concept><pre> A 6-digit group includes the forecast temperature aloft.  Refer to the Kansas<br> (KMC) forecast for the 6000 foot level.  The group "2006+03" means the wind<br> is forecast from 200" at 6kts with a temperature of +3"C.<br>
+<question> 319: What wind is forecast for St. Louis (STL) at 18000 feet?<br>
+<answer right>230" at 56kts
+<answer>030" at 56kts
+<answer>235" at 06kts
+<answer>235" at 6 gusting to 16kts
+<question> 320: Determine the wind and temperature aloft forecast for Denver (DEN) at<br> 30000 feet.<br>
+<answer right>230" at 53kts, -47"C.
+<answer>23" at 53kts, 45"C.
+<answer>235" at 34kts, -7"C.
+<answer>235" at 34kts, -47"C.
+<question> 321: Individual forecasts for specific routes of flight can be obtained<br> from which weather service?<br>
+<answer right>Transcribed weather broadcasts.
+<answer>Terminal forecasts.
+<answer>Area forecasts.
+<answer>In flight advisories.
+<question> 322: To obtain a continuous transcribed weather briefing including winds aloft<br> and route forecasts for a cross country flight, a pilot should monitor:<br>
+<answer right>A TWEB on a low-frequency radio receiver
+<answer>A VHF radio receiver tuend to an ATIS frequency
+<answer>The regularly scheduled weather broadcast on a VOR frequency
+<answer>A high-frequency radio receiver tuned to the en-route Flight Advisory Service (Flight watch) station.<br>
+<question> 323: TWEB's (Transcribed Weather Broadcasts) may be monitored by tuning the<br> appropriate radio receiver to certain<br>
+<answer right>VOR and NDB frequencies
+<answer>FSS communications frequencies
+<answer>Airport advisory frequencies
+<answer>NDB frequencies only</pre></concept>
+<concept><pre> To contact a flight watch facility on 122.0MHz use the name of the VOR<br> nearest to your location, followed by the words "FLIGHT WATCH".  The flight<br> watch facility that provides service that area will respond to your call by<br> the facility name.  If you know in whose flight watch area you are flying,<br> you can use the name of the facility, followed by an abbreviated position<br> report to assist the operator in selecting an appropriate communications<br> outlet.<br>
+<question> 331: Below FL180, enroute weather advisories should be obtained from an FSS<br> on:<br>
+<answer right>122.0 MHz
+<answer>122.1 MHZ
+<answer>123.6 MHz
+<answer>122.4 MHz
+<question> 332: On what frequency can a pilot receive enroute flight advisory service<br> in the area depicted by figure A-4?<br>
+<answer right>122.0 MHz
+<answer>117.1 MHz
+<answer>118.0 MHz
+<answer>122.96 MHz
+<question> 334: What service should a pilot normally expect from an En Route Flight<br> Advisory Service station?<br>
+<answer right>Actual weather information and thunderstorm activity along the route.
+<answer>Preferential routing and provide radar vectoring to circumnavigate severe weather.<br>
+<answer>Severe weather information, changes to flight plans, and receive routine position reports.<br>
+<answer>Radar vectors for traffic avoidance, routine weather advisories and altimeter settings.<br>
+<question> 335: How should you establish contact with an EFAS (En Route Flight Advisory<br> Service) station, and what service would you normally expect?<br>
+<answer right>Call flight watch on 122.0 for information regarding actual weather and thunderstorm activity along your route.<br>
+<answer>Call EFAS on 122.2 for routine weather, current reports on hazardous weather, and altimeter settings.<br>
+<answer>Call flight assistance on 122.5 for advisory service pertaining to severe weather.<br>
+<answer>Call ARTCC on asigned frequency and ask for Flight Watch services.</pre></concept>
+<concept><pre> Telephone Weather Briefing.  When telephoning for a briefing, use the<br> following procedure:<br> (1) Identify yourself as a pilot.<br> (2) State your intended route, destination, proposed departure time,<br> estimated time enroute and type of aircraft.<br> (3) Advise if you intend to fly IFR or VFR.<br> (4) When talking to an FSS, you will be asked your aircraft identification<br> for record purposes.  With this background, the briefer can proceed<br> directly with the briefing and concentrate on weather relevant to your<br> flight.  The weather briefing you receive should include:<br>     Hazardous weather if any (you may elect to cancel at this point)<br>     Weather synopsis (position of lows, fronts, etc.).<br>     Forecast (enroute and destination).<br>     Alternate routes (if any).<br>     Forecast winds aloft.<br>
+<question> 336: When telephoning a weather briefing facility for preflight weather<br> information, pilots should<br>
+<answer right>Identify themselves as pilots
+<answer>Tell the number of hours they have flowin within the preceding 90 days.
+<answer>State the number of occupants on board and the color of the aircraft.
+<answer>State that they possess a current medical certificate.
+<question> 337: When telephoning a weather briefing facility for preflight weather<br> information, pilots should state:<br>
+<answer right>Your intended route, destination and type of aircraft.
+<answer>That you possess a current medical certificate.
+<answer>The color of the aircraft and number of occupants on board.
+<answer>Your total flight time.
+<question> 338: When telephoning a weather briefing facility for preflight weather<br> information, pilots should state<br>
+<answer right>Whether you intend to fly VFR only.
+<answer>The number of hours you have flowin within the preceding 90 days.
+<answer>That you posses a current medical certificate.
+<answer>The color of the aircraft and the number of occupants on board.</pre></concept>
+<concept><pre> The FSSs and WSOs are to serve you.  You should not hesitate to discuss<br> factors that need elaboration or to ask questions.  You have a complete<br> briefing only when you have a clear picture of the weather to expect.  It<br> is to your advantage to make a final weather check immediately before<br> departure if at all possible.  A sample weather briefing is provided you in<br> Figure 14.<br></pre></concept>
+<concept><pre> This is a pilot weather briefing from the FSS at Boston Massachusetts, for<br> a flight to Buffalo, New York.  The pilot advises that the departing time<br> will be 18Z and the ETA is approximately 3 hours.<br> <br> 'Conditions are for marginal VFR and occasionally IFR conditions for the<br> entire flight.  Delta Two calls for occasional moderate icing in the clouds<br> and precipitation from Buffalo to central Massachusetts from 4 thousand to<br> 6 thousand.  SIGMET NINE BRAVO warns of scattered embedded thundershowers<br> along coastal Massachusetts continuing beyond 18Z.'<br> <br> 'At 12Z a warm front extended from a low centered near Toledo, Ohio,<br> eastward accross central Pennsylvania and into the Atlantic just south of<br> Long Island.'<br> <br> 'Current weather here at Boston is 3 thousand scattered, ceiling 4 thousand<br> overcast, 6 miles in light rain and fog, temperature 43, dew point 39 wind<br> 110 at 15, altimeter 29 point 90.  Here at Boston at departure time, we<br> should have 2 thousand scattered 3 thousand 5 hundred overcast, 5 miles in<br> light rain and fog.'<br> <br> 'You should experience VFR conditions through eastern and central<br> Massachusetts with marginal and occasionally IFR conditions from western<br> Massachussetts through central New York and VFR the remainder of the route.<br> Currently, Buffalo is reporting 15 hundred overcast, 5 miles visibility in<br> light rain and fog, wind 090 at 10 gusting to 20.'<br> <br> 'En route, clouds are layered from 1 thousand to above 25 thousand.<br> Visibilities will be 5 miles, occasionally 3 miles in precipitation and<br> fog.  AIRMET DELTA TWO warns of occasionally moderate ixed icing in the<br> clouds and precipitation from 4 to 6 thousand from New York to central<br> Massachusetts.  Convective SIGMET NINE BRAVO forecasts a freezing layer, 4<br> to 6 thousand New York to central Massachusetts, otherwise the freezing<br> level is 12thousand at Buffalo sloping to 14 thousand at Boston.  At 1435Z<br> the pilot of a B747 reported mixed icing during descent from 6 thousand to<br> 4 thousand.'<br> <br> 'At 21Z Buffalo should have 12 hundred overcast, 5 miles visibility in<br> light rain and fog.'<br> <br> 'Winds aloft forecast;  From Boston to Albany, 3 thousand 150 at 18, 6<br> thousand 160 at 35, 9 thousand 270 at 35, 12 thousand and above 270 at 45.<br> From Albany to Buffalo, 3 thousand 100 at 18, 6 thousand 120 at 30, 9<br> thousand and above 240 at 35 to 45.'<br>
+<question> 339: What is the widespread system affecting the enroute weather described in<br> the weather briefing in figure 14?<br>
+<answer right>Warm front.
+<answer>Temperature inversion.
+<answer>Low pressure trough.
+<answer>Occluded front.
+<question> 340: Which portion of the route indicates questionable VFR conditions?<br>
+<answer right>Western Massachusetts through central New York.
+<answer>Eastern Massachusetts to the New York border.
+<answer>Central New York through to Buffalo.
+<answer>In the Buffalo area.
+<question> 341: What change in weather conditions is indicated at Boston from the time<br> of the briefing until departure time?<br>
+<answer right>Second layer of clouds and visibility lowering.
+<answer>IFR to VFR conditions
+<answer>Rain decreasing with pressure and temperature remaining stable.
+<answer>Lowering of ceiling and visibility to 1000 feet, and 3 miles in thundershowers.<br>
+<question> 342: Where is there a possibility of turbulence on the proposed route?<br>
+<answer right>In the Boston area.
+<answer>Below the freezing level along the entire route.
+<answer>Between 12000 and 14000 feet.
+<answer>Albany to New York.
+<question> 343: Why are there two separate levels of freezing temperatures reported?<br>
+<answer right>Freezing temperatures at one level on each side of the temperature inversion.<br>
+<answer>Freezing temperatures from 4000 feet up reported at the cloud layers only.
+<answer>Only the levels where airframe icing has been forecast or reported by pilots.<br>
+<answer>One layer contains conditions for airframe icing and the other contains conditions for carburetor icing.<br>

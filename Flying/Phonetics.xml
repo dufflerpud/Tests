@@ -1,0 +1,184 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Phonetics.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	Phonetics.xml - Learn how to spell over the air
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	Phonetics.xml - Learn how to spell over the air
+-------------------------------------------------------------------------->
+<concept>
+Phonetic codes:
+<pre>
+ Alpha    Beta     Charlie<br>
+ Delta    Echo     Foxtrot<br>
+ Golf     Hotel    Indigo<br>
+ Juliet   Kilo     Lima<br>
+ Mike     November Oscar<br>
+ Poppa    Quebec   Romeo<br>
+ Sierra   Tango    Uniform<br>
+ Victor   Whiskey  X-ray<br>
+ Yankee   Zulu
+</pre>
+<question>Phonetic code for "A"
+	<answer right>Alpha</answer>
+	<answer>Able</answer>
+	<answer>Azor</answer>
+	<answer>Adder</answer></question>
+<question>Phonetic code for "B"
+	<answer right>Bravo</answer>
+	<answer>Baker</answer>
+	<answer>Blame</answer>
+	<answer>Borrowed</answer></question>
+<question>Phonetic code for "C"
+	<answer right>Charlie</answer>
+	<answer>Carried</answer>
+	<answer>Carol</answer>
+	<answer>Crown</answer></question>
+<question>Phonetic code for "D"
+	<answer right>Delta</answer>
+	<answer>Dave</answer>
+	<answer>Damsel</answer>
+	<answer>Darwin</answer></question>
+<question>Phonetic code for "E"
+	<answer right>Echo</answer>
+	<answer>Edward</answer>
+	<answer>Elmira</answer>
+	<answer>Elephant</answer></question>
+<question>Phonetic code for "F"
+	<answer right>Foxtrot</answer>
+	<answer>Fox</answer>
+	<answer>Fred</answer>
+	<answer>Found</answer></question>
+<question>Phonetic code for "G"
+	<answer right>Golf</answer>
+	<answer>Gone</answer>
+	<answer>Galway</answer>
+	<answer>Gangway</answer></question>
+<question>Phonetic code for "H"
+	<answer right>Hotel</answer>
+	<answer>Hot</answer>
+	<answer>Henry</answer>
+	<answer>Harvey</answer></question>
+<question>Phonetic code for "I"
+	<answer right>Indigo</answer>
+	<answer>Icecream</answer>
+	<answer>Idol</answer>
+	<answer>Idea</answer></question>
+<question>Phonetic code for "J"
+	<answer right>Juliet</answer>
+	<answer>June</answer>
+	<answer>Jaguar</answer>
+	<answer>Johnny</answer></question>
+<question>Phonetic code for "K"
+	<answer right>Kilo</answer>
+	<answer>Kingston</answer>
+	<answer>Kidder</answer>
+	<answer>Kipper</answer></question>
+<question>Phonetic code for "L"
+	<answer right>Lima</answer>
+	<answer>Ladder</answer>
+	<answer>Lindsey</answer>
+	<answer>Lover</answer></question>
+<question>Phonetic code for "M"
+	<answer right>Mike</answer>
+	<answer>Mother</answer>
+	<answer>Molly</answer>
+	<answer>Mobster</answer></question>
+<question>Phonetic code for "N"
+	<answer right>November</answer>
+	<answer>Nancy</answer>
+	<answer>Nattily</answer>
+	<answer>Nag</answer></question>
+<question>Phonetic code for "O"
+	<answer right>Oscar</answer>
+	<answer>Oddness</answer>
+	<answer>Obligate</answer>
+	<answer>Object</answer></question>
+<question>Phonetic code for "P"
+	<answer right>Poppa</answer>
+	<answer>Peas</answer>
+	<answer>Paddle</answer>
+	<answer>Pancreas</answer></question>
+<question>Phonetic code for "Q"
+	<answer right>Quebec</answer>
+	<answer>Queen</answer>
+	<answer>Quenton</answer>
+	<answer>Quarry</answer></question>
+<question>Phonetic code for "R"
+	<answer right>Romeo</answer>
+	<answer>Romulus</answer>
+	<answer>Renter</answer>
+	<answer>Rated</answer></question>
+<question>Phonetic code for "S"
+	<answer right>Sierra</answer>
+	<answer>Salmon</answer>
+	<answer>Santa</answer>
+	<answer>Sally</answer></question>
+<question>Phonetic code for "T"
+	<answer right>Tango</answer>
+	<answer>Tarry</answer>
+	<answer>Topper</answer>
+	<answer>Tackle</answer></question>
+<question>Phonetic code for "U"
+	<answer right>Uniform</answer>
+	<answer>Unicorn</answer>
+	<answer>Ukelele</answer>
+	<answer>Uvula</answer></question>
+<question>Phonetic code for "V"
+	<answer right>Victor</answer>
+	<answer>Vector</answer>
+	<answer>Velma</answer>
+	<answer>Vanquish</answer></question>
+<question>Phonetic code for "W"
+	<answer right>Whiskey</answer>
+	<answer>Wackey</answer>
+	<answer>Worthy</answer>
+	<answer>Washer</answer></question>
+<question>Phonetic code for "X"
+	<answer right>Xray</answer>
+	<answer>Xylophone</answer>
+	<answer>Xavier</answer>
+	<answer>Xenia</answer></question>
+<question>Phonetic code for "Y"
+	<answer right>Yankee</answer>
+	<answer>Yardstick</answer>
+	<answer>Yarmouth</answer>
+	<answer>Yaz</answer></question>
+<question>Phonetic code for "Z"
+	<answer right>Zulu</answer>
+	<answer>Zebra</answer>
+	<answer>Zen</answer>
+	<answer>Zucker</answer></question>
+</concept>

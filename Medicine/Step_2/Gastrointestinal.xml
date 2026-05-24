@@ -1,0 +1,253 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Gastrointestinal.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 4 ?
+<question>Patient presents with sudden onset of severe, diffuse abdominal pain.
+	Exam reveals peritoneal signs and abdominal (AXR) reveals free air
+	under the diaphram.  Management?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Diagnosis:</th><td>
+	Perforated viscus, likely stomach</td></tr>
+    <tr><th align=left>Treatment:</th>
+        <td>Emergent laparotomy to repair</td></tr>
+</answer></question>
+
+<question>Most likely cause of acute lower GI bleed in patients
+	greater than 40 years-old:
+<answer>Diverticulosis</answer></question>
+
+<question>Can Diverticulosis cause GI bleeding?
+<answer>No</answer>
+<answer>Yes</answer>
+</question>
+
+<question>What is the diagnostic modality used when ultrasound (U/S) is
+    equivocal for cholecystitis?
+<answer>HIDA scan</answer></question>
+
+<question>Sentinal loop in AXR indicates:
+<answer>Acute pancreatitis</answer></question>
+
+<question>Risk factors for cholethiasis are:
+<answer>
+<rl sep=and>
+    <li>Fat
+    <li>Female
+    <li>Fertile
+    <li>Forty
+    <li>Flatulent
+</rl>
+</answer></question>
+
+<question>Inspiratory arrest during palpation of the upper right quadrant (RUQ)
+    indicates:
+<answer>Murphy's sign, seen in acute cholecystitis</answer></question>
+
+<question>Organism that is the most common cause of diarrhea:
+<answer>Campylobacter</answer></question>
+
+<question>Recent aintibiotic use causing diarrhea:
+<answer>Clostridium difficile</answer></question>
+
+<question>Organism causing diarrhea picked up from camping:
+<answer>Giardia</answer></question>
+
+<question>Traveler's diarrhea comes from what organism:
+<answer>ETEC</answer></question>
+
+<question>Organism causing diarrhea picked up from church picnics or
+	mayonaise:
+<answer>Staphylococcus aureus</answer></question>
+
+<question>Organism causing diarrhea picked up eating uncooked hamburgers:
+<answer>Eschericia Coli (O157:H7)</answer></question>
+
+<question>Organism causing diarrhea picked up eating fried rice:
+<answer>Bacillus Cereus</answer></question>
+
+<question>Organism causing diarrhea picked up eating poultry/eggs:
+<answer>Salmonella</answer></question>
+
+<question>Organism causing diarrhea picked up eating raw seafood:
+<answer>
+<rl sep=and>
+    <li>Vibrio
+    <li>HAV
+</rl>
+</answer></question>
+
+<question>Organism causing diarrhea for persons with AIDS:
+<answer>
+<rl sep=and>
+    <li>Isospora
+    <li>Cryptosporidium
+    <li>Mycobacterium avium complex (MAC)
+</rl>
+</answer></question>
+
+<question>Organism causing diarrhea with pseudoappendicitis:
+<answer>Yersinia</answer></question>
+
+<question>
+<rl sep=and>
+<li>Patient is:
+    <rl sep=and>
+	<li>24 year-old
+	<li>Jewish
+	<li>male
+    </rl>
+<li>Patient complains of:
+    <rl sep=and>
+	<li>pain
+	<li>watery diarrhea after meals
+    </rl>
+<li>Patient's exam shows:
+    <rl sep=and>
+        <li>fistulas between the bowel and skin
+	<li>nodular lesions on his tibias
+    </rl>
+</rl>indicating:
+<answer>Crohn's disease</answer></question>
+
+<question>Inflammatory disease of the colon with increased risk of colon
+	cancer is:
+<answer>Ulcerative colitis</answer></question>
+
+<question>Extraintestinal manifestations of IBD are:
+<answer>
+<rl sep=and>
+<li>Uveitis
+    <li>Ankylosing spondylitis (AS)
+    <li>Pyodema gangrenosum
+    <li>Erythema nodosum
+    <li>Primary sclerosing cholangitis
+</rl>
+</answer></question>
+
+<question>Medical treatment for IBD is:
+<answer>5-aminosalicylic acid +/- sulfasalazine and steroids during acute
+exacerbations</answer></question>
+
+<question>Difference between Mallory-Weiss and Boerhaave tears is:
+<answer><center><table border=1 cellspacing=0>
+<tr><th align=left>Mallory-Weiss:</th>
+    <td>Superficial tear in the esophageal mucosa</td></tr>
+<tr><th align=left>Boerhaave:</th>
+    <td>Full-thickness esophageal rupture</td></tr>
+</table></center></answer></question>
+
+<question>Charcot's triad is:
+<answer>
+<rl sep=and>
+    <li>Right upper quadrant (RUQ) pain
+    <li>Jaundice
+    <li>Fever/chills in the setting of ascending cholangitis
+</rl>
+</answer></question>
+
+<question>Reynold's pentad is:
+<answer>
+<rl sep=and>
+    <li>Charcot's triad
+	<rl sep=and>
+	    <li>Right upper quadrant (RUQ) pain
+	    <li>Jaundice
+	    <li>Fever/chills in the setting of ascending cholangitis
+	</rl>
+    <li>Shock
+    <li>Mental status changes
+    <li>With suppurative ascending cholangitis
+</rl>
+</answer></question>
+
+<question>Medical treatment for hepatic encephalopathy is:
+<answer>
+<rl sep=and>
+    <li>Decreased protein intake
+    <li>Lactulos
+    <li>Neomycin
+</rl>
+</answer></question>
+
+<question>First step in the management of a patient with an acute GI bleed is:
+<answer>Establish the ABCs</answer></question>
+
+<question>A patient
+<rl sep=and>
+    <li>had an illness with bloody diarrhea
+    <li>is 4 years old
+    <li>has oliguria
+    <li>shows petechia
+    <li>shows jaundice
+</rl>Most likely diagnosis and cause?
+<answer>Hemolytic uremic syndrome due to E. Coli O157:H7</answer></question>
+
+<question>Post-HBV exposure treatment is:
+<answer>HBV immunoglobulin</answer></question>
+
+<question>Classic causes of drug-induced hepatitis are:
+<answer>
+<li>TB medications
+    <ul>
+    <li>INH
+    <li>Rifampin
+    <li>pyrazinamide
+    </ul>
+<li>Acetaminophen
+<li>Tetracycline
+</answer></question>
+
+<question>A 40 year-old obese female presents with elevated alkaline
+	phosphatase, elevated bilirubin, pruritus, dark urine, and
+	clay-colored stools indicating:
+<answer>Biliary tract obstruction</answer></question>
+
+<question>Which is the hernia with highest risk of incarceration?
+<li>Indirect
+<li>Direct
+<li>Femoral
+<answer>Femoral hernia</answer></question>
+
+<question>A 50 year-old man with a history of alchohol abuse presents with
+	boring epigastric pain that radiates to the back and is relieved by
+	sitting forward.  Diagnosis?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Suspicion:</th><td>Acute pancreatis</td></tr>
+    <tr><th align=left>Confirm with:</th>
+        <td>Elevated amylase and lipase</td></tr>
+    <tr><th align=left>Treatment:</th><td>
+        <li>Make patient NPS and give IV fluids
+	<li>Oxygen
+	<li>Analgesia
+	<li>"Tincture of time"</td></tr>
+</table></center></answer></question>
+</concept>

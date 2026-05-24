@@ -1,0 +1,1493 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Biochemistry.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<question><p>Question 1 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>At which end of the tRNA is the aa bound?</b> ... <answer><font color=red> <b>The amino acid is covalently bound to the 3' end of the tRNA.
+</b>
+<p>
+</font></answer></question><question><p>Question 2 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Can RNA polymerase initiate chains?</b> ... <answer><font color=red> <b>Yes.
+</b>
+<p>
+</font></answer></question><question><p>Question 3 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Define transition.</b> ... <answer><font color=red> <b>Substituting purine for purine or pyrimidine for pyrimidine.
+</b>
+<p>
+</font></answer></question><question><p>Question 4 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Define transversion.</b> ... <answer><font color=red> <b>Substituting purine for pyrimidine or vice versa.
+</b>
+<p>
+</font></answer></question><question><p>Question 5 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Define tRNA wobble.</b> ... <answer><font color=red> <b>Accurate base pairing is required only in the first 2 nucleotide positions of an mRNA codon, so codons differing in the 3rd 'wobble' position may code for the same tRNA/amino acid.
+</b>
+<p>
+</font></answer></question><question><p>Question 6 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Describe DNA replication.</b> ... <answer><font color=red> <b>Origin of replication: continuous DNA synthesis on leading strand and discontinuous (Okazaki fragments) on lagging strand. Primase makes an RNA primer on which DNA polymerase can initiate replication. DNA polymerase reaches primer of preceding fragment; 5'--&gt;3' exonuclease activity of DNA polymerase I degrades RNA primer; DNA ligase seals;
+3'--&gt;5' exonuclease activity of DNA polymerase 'proofreads' each added nucleotide. DNA topoisomerases create a nick in the helix to relieve supercoils
+</b>
+<p>
+</font></answer></question><question><p>Question 7 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Describe Euchromatin</b> ... <answer><font color=red> <b>Less condensed (vs. Heterochromatin), transcriptionally active.</b>
+<p>
+</font></answer></question><question><p>Question 8 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Describe Heterochromatin</b> ... <answer><font color=red> <b>Condensed, transcriptionally inactive.</b>
+<p>
+</font></answer></question><question><p>Question 9 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Describe key structural differences between nucleotides.</b> ... <answer><font color=red> <b> 1) Purines (A,G) have 2 rings. 2) Pyrimidines (C,T,U) have 1 ring 3) Guanine has a ketone. 4) Thymine has a methyl.</b>
+<p>
+</font></answer></question><question><p>Question 10 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Describe single-strand, excision repair.</b> ... <answer><font color=red> <b>Excision repair-specific glycosylase recognizes and removes damaged base.  Endonuclease makes a break several bases to the 5' side.
+</b>
+<p>
+</font></answer></question><question><p>Question 11 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Describe the difference between Eukaryotic Vs. Bacterial, viral and plasmid origin of replications</b> ... <answer><font color=red> <b>Eukaryotic genome has multiple origins of replication.  Bacteria, viruses and plasmids have only one origin of replication.</b>
+<p>
+</font></answer></question><question><p>Question 12 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Describe the main difference in eukaryotic and prokaryotic synthesis of RNA.</b> ... <answer><font color=red> <b>Eukaryotes have 3 different RNA polymerases ('I, II, III synthesize RMT')  and prokaryotes have 1 RNA polymerase (which makes all 3 kinds of RNA).</b>
+<p>
+</font></answer></question><question><p>Question 13 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Describe the method by which introns are removed from primary mRNA transcript.</b> ... <answer><font color=red> <b>Introns are precisely spliced out of primary mRNA transcripts.  A lariat-shaped intermediate is formed.  Small nuclear ribonucleoprotein particles (snRNP) facilitate splicing by binding to primary mRNA transcripts and forming spliceosomes.</b>
+<p>
+</font></answer></question><question><p>Question 14 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Describe the number of bonds per purine-pyrimidine pair. Which is stronger?</b> ... <answer><font color=red> <b>G-C bond (3 H-bonds) A-T bond (2 H-bonds G-C bond is stronger</b>
+<p>
+</font></answer></question><question><p>Question 15 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Describe the structure of Chromatin.</b> ... <answer><font color=red> <b>Condensed by (-) charged DNA looped around (+) charged histones (nucleosome bead). H1 ties the nucleosome together in a string (30 nm fiber)</b>
+<p>
+</font></answer></question><question><p>Question 16 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Describe tRNA structure.</b> ... <answer><font color=red> <b>75-90 nucleotides, cloverleaf form, anticodon end is opposite 3' aminoacyl end. All tRNAs both eukaryotic and prokaryotic, have CCA at 3' end along with a high percentage of chemically modified bases.  The amino acid is covalently bound to the 3' end of the tRNA.</b>
+<p>
+</font></answer></question><question><p>Question 17 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Does RNA polymerase have a proof reading function?</b> ... <answer><font color=red> <b>No.
+</b>
+<p>
+</font></answer></question><question><p>Question 18 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How do purines and pyrimidines interact, molecularly?</b> ... <answer><font color=red> <b>Purines and pyrimidines pair (A-T, G-C) via H-bonds
+</b>
+<p>
+</font></answer></question><question><p>Question 19 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How does RNA polymerase II open DNA?</b> ... <answer><font color=red> <b>RNA polymerase II opens DNA at promoter site (A-T rich upstream sequence- TATA and CAAT)
+</b>
+<p>
+</font></answer></question><question><p>Question 20 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is the original RNA transcript processed in eukaryotes? (3)</b> ... <answer><font color=red> <b>1) Capping on 5' end (7-methyl G) 2)Polyadenylation on 3' end ( =200 As) 3) Splicing out of introns
+</b>
+<p>
+</font></answer></question><question><p>Question 21 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>In eukaryotes, what must occur before an newly synthesized RNA transcript leaves the nucleus?</b> ... <answer><font color=red> <b>Only processed RNA is transported out the nucleus of eukaryotes.
+</b>
+<p>
+</font></answer></question><question><p>Question 22 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name 3 types of RNA</b> ... <answer><font color=red> <b>1) mRNA  2) rRNA  3) tRNA
+</b>
+<p>
+</font></answer></question><question><p>Question 23 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name the charged histones around which (-) charged DNA loops (nucleosome core).</b> ... <answer><font color=red> <b>H2A, H2B, H3, H4 histones
+</b>
+<p>
+</font></answer></question><question><p>Question 24 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name the enzyme responsible for the synthesis of RNA in prokaryotes.</b> ... <answer><font color=red> <b>RNA polymerase
+</b>
+<p>
+</font></answer></question><question><p>Question 25 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name the enzymes involved in ss-DNA repair. (5)</b> ... <answer><font color=red> <b>1) specific glycosylase.  2) endonuclease.  3) exonuclease.  4) Dan polymerase.  5) DNA ligase.
+</b>
+<p>
+</font></answer></question><question><p>Question 26 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name the enzymes responsible for the synthesis of eukaryotic RNA.</b> ... <answer><font color=red> <b>RNA polymerase I  RNA polymerase II  RNA polymerase III
+</b>
+<p>
+</font></answer></question><question><p>Question 27 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are exons?</b> ... <answer><font color=red> <b>Exons contain the actual genetic information coding for a protein
+</b>
+<p>
+</font></answer></question><question><p>Question 28 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are four types of mutations that can occur in DNA?</b> ... <answer><font color=red> <b>1) Silent  2) Missense  3) Nonsense  4) Frame shift
+</b>
+<p>
+</font></answer></question><question><p>Question 29 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are introns?</b> ... <answer><font color=red> <b>Introns are intervening noncoding segments of DNA
+</b>
+<p>
+</font></answer></question><question><p>Question 30 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the four features of the Genetic Code?</b> ... <answer><font color=red> <b>1) Unambiguous 2) Degenerate 3) Commaless, non-overlapping 4)Universal
+</b>
+<p>
+</font></answer></question><question><p>Question 31 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What atoms link aa in a protein chain?</b> ... <answer><font color=red> <b>Amino acids are linked N to C</b>
+<p>
+</font></answer></question><question><p>Question 32 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What changes occur in DNA structure during mitosis?</b> ... <answer><font color=red> <b>In mitosis, DNA condenses to form mitotic chromosomes</b>
+<p>
+</font></answer></question><question><p>Question 33 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What codon sequence is found at the 3' end of all tRNAs?</b> ... <answer><font color=red> <b>All tRNAs, both eukaryotic and prokaryotic, have CCA at 3' end.</b>
+<p>
+</font></answer></question><question><p>Question 34 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What direction is DNA synthesized in?</b> ... <answer><font color=red> <b>5' &gt; 3'.  Remember that the 5' of the incoming nucleotide bears the triphosphate (energy source for the bond). The 3' hydroxyl of the nascent chain is the target.</b>
+<p>
+</font></answer></question><question><p>Question 35 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What direction is protein synthesized in?</b> ... <answer><font color=red> <b>Protein synthesis also proceed in the 5' to 3' (5' &gt; 3')</b>
+<p>
+</font></answer></question><question><p>Question 36 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What direction is RNA synthesized in?</b> ... <answer><font color=red> <b>5' &gt; 3'.  Remember that the 5' of the incoming nucleotide bears the triphosphate (energy source for the bond). The 3' hydroxyl of the nascent chain is the target.</b>
+<p>
+</font></answer></question><question><p>Question 37 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does the AUG mRNA sequence code for?</b> ... <answer><font color=red> <b>AUG codes for methionin, which may be removed before translation is completed.  In prokaryotes the initial AUG codes for a formyl-methionin (f-met).</b>
+<p>
+</font></answer></question><question><p>Question 38 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does the P in P-site stand for? What does the A in A-site stand for?</b> ... <answer><font color=red> <b>P-site: peptidyl;  A-site: aminoacyl;</b>
+<p>
+</font></answer></question><question><p>Question 39 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does the statement, 'the genetic code is commaless' mean? What is the exception to this rule?</b> ... <answer><font color=red> <b>The code is non-overlapping. The exception are some viruses</b>
+<p>
+</font></answer></question><question><p>Question 40 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does the statement, 'the genetic code is degenerate' mean?</b> ... <answer><font color=red> <b>More than one codon may code for the same amino acid</b>
+<p>
+</font></answer></question><question><p>Question 41 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does the statement, 'the genetic code is unambiguous' mean?</b> ... <answer><font color=red> <b>Each codon specifies only one amino acid</b>
+<p>
+</font></answer></question><question><p>Question 42 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does the statement, 'the genetic code is universal' mean? What are the exceptions (4)?</b> ... <answer><font color=red> <b>The same code is used in all lifeforms. The exceptions are 1. mitochondria, 2. archaeobacteria, 3. Mycoplasma, 4. some yeasts</b>
+<p>
+</font></answer></question><question><p>Question 43 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What enzyme is responsible for 'charging' tRNA? How does it work?</b> ... <answer><font color=red> <b>Aminoacyl-tRNA synthetase. This enzyme (one per aa, uses ATP) scrutinizes aa before and after it binds to tRNA.  If incorrect, bond is hydrolyzed by synthetase.  The aa-tRNA bond has energy for formation of peptide bond.</b>
+<p>
+</font></answer></question><question><p>Question 44 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What inhibits RNA polymerase II?</b> ... <answer><font color=red> <b>alpha-amanitin inhibits RNA polymerase II</b>
+<p>
+</font></answer></question><question><p>Question 45 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is a conservative missense mutation?</b> ... <answer><font color=red> <b>Mutation results in a different aa encoded, but that new aa is similar in chemical structure to the original code</b>
+<p>
+</font></answer></question><question><p>Question 46 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is a frameshift mutation? What is usually the effect on the encoded protein?</b> ... <answer><font color=red> <b>A change in DNA resulting in misreading of all nucleotides downstream. Usually results in a truncated protein.</b>
+<p>
+</font></answer></question><question><p>Question 47 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is a missense mutation?</b> ... <answer><font color=red> <b>Mutation results in a different aa encoded.</b>
+<p>
+</font></answer></question><question><p>Question 48 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is a nonsense mutation?</b> ... <answer><font color=red> <b>A change in DNA resulting in an early stop codon.</b>
+<p>
+</font></answer></question><question><p>Question 49 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is a promoter?</b> ... <answer><font color=red> <b>Site where RNA polymerase and multiple other transcription factors bind to DNA upstream from gene locus.</b>
+<p>
+</font></answer></question><question><p>Question 50 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is a silent mutation? What usually causes a silent mutation?</b> ... <answer><font color=red> <b>Mutation results in the same aa encoded.  Often the base change is in the 3rd position of the codon</b>
+<p>
+</font></answer></question><question><p>Question 51 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is a snRNP? What is its function?</b> ... <answer><font color=red> <b>snRNP = small nuclear ribonucleoprotein.  snRNPs facilitate splicing by binding to primary mRNA transcripts and forming spliceosomes.</b>
+<p>
+</font></answer></question><question><p>Question 52 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is an enhancer?</b> ... <answer><font color=red> <b>Stretch of DNA that alters gene expression by binding transcription facts.  May be located close to, far from, or even within (an intron) the gene whose expression it regulates.</b>
+<p>
+</font></answer></question><question><p>Question 53 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is an Okazaki fragment?</b> ... <answer><font color=red> <b>The discontinuous DNA synthesized on the lagging strand during DNA replication</b>
+<p>
+</font></answer></question><question><p>Question 54 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is hnRNA?</b> ... <answer><font color=red> <b>hnRNA = heterogeneous nuclear RNA  The initial RNA transcript is called hnRNA</b>
+<p>
+</font></answer></question><question><p>Question 55 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is responsible for the accuracy of amino acid selection during peptide synthesis?</b> ... <answer><font color=red> <b>Aminoacyl-tRNA synthetase and binding of charged tRNA to the codon are responsible for accuracy of amino acid selection.</b>
+<p>
+</font></answer></question><question><p>Question 56 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the broad classification of nucleotides? (2)</b> ... <answer><font color=red> <b>Purines (A, G) and Pyrimidines (C, T, U)</b>
+<p>
+</font></answer></question><question><p>Question 57 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the difference between hnRNA and mRNA?</b> ... <answer><font color=red> <b>hnRNA = the initial RNA transcript mRNA = capped and tailed transcript</b>
+<p>
+</font></answer></question><question><p>Question 58 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the difference between thymine and uracil?</b> ... <answer><font color=red> <b>Uracil found in RNA Thymine found in DNA</b>
+<p>
+</font></answer></question><question><p>Question 59 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of DNA ligase during DNA Replication?</b> ... <answer><font color=red> <b>DNA ligase seals synthesized DNA into a continuous strand</b>
+<p>
+</font></answer></question><question><p>Question 60 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of DNA polymerase during DNA Replication?</b> ... <answer><font color=red> <b>DNA polymerase reaches primer of preceding fragment; 5' to 3' exonuclease activity of DNA polymerase I degrades RNA primer; DNA ligase seals; 3' to 5' exonuclease activity of DNA polymerase 'proofreads' each added nucleotide.</b>
+<p>
+</font></answer></question><question><p>Question 61 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of DNA topoisomerase during DNA Replication?</b> ... <answer><font color=red> <b>DNA topoisomerases create a nick in the helix to relieve supercoils</b>
+<p>
+</font></answer></question><question><p>Question 62 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of primase in DNA Replication?</b> ... <answer><font color=red> <b>Primase makes an RNA primer on which DNA polymerase can initiate replication.</b>
+<p>
+</font></answer></question><question><p>Question 63 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of RNA polymerase I?</b> ... <answer><font color=red> <b>RNA polymerase I makes rRNA</b>
+<p>
+</font></answer></question><question><p>Question 64 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of RNA polymerase II?</b> ... <answer><font color=red> <b>RNA polymerase II makes mRNA</b>
+<p>
+</font></answer></question><question><p>Question 65 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of RNA polymerase III?</b> ... <answer><font color=red> <b>RNA polymerase III makes tRNA</b>
+<p>
+</font></answer></question><question><p>Question 66 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the mRNA initiation codon?</b> ... <answer><font color=red> <b>AUG, or rarely GUG</b>
+<p>
+</font></answer></question><question><p>Question 67 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the mRNA stop codons? (3)</b> ... <answer><font color=red> <b>UGA (U Go Away)  UAA (U Are Away)  UAG (U Are Gone)</b>
+<p>
+</font></answer></question><question><p>Question 68 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the result of 'mischarged' tRNA?</b> ... <answer><font color=red> <b>A mischarged tRNA (bound to wrong aa) reads usual codon but inserts wrong amino acid.</b>
+<p>
+</font></answer></question><question><p>Question 69 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the role of endonuclease in ss-DNA repair?</b> ... <answer><font color=red> <b>Endonuclease makes a break several bases to the 5' side.</b>
+<p>
+</font></answer></question><question><p>Question 70 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the role of excision repair-specific glycosylase in ss-DNA repair?</b> ... <answer><font color=red> <b>Recognizes and removes damaged base.</b>
+<p>
+</font></answer></question><question><p>Question 71 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the role of exonuclease in ss-DNA repair?</b> ... <answer><font color=red> <b>Exonuclease removes short stretch of nucleotides.</b>
+<p>
+</font></answer></question><question><p>Question 72 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What prevents an incorrect aa-tRNA pairing?</b> ... <answer><font color=red> <b>If incorrect, the aa-tRNA bond is hydrolyzed by aminoacyl-tRNA synthetase.</b>
+<p>
+</font></answer></question><question><p>Question 73 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What role does histone H1 play in chromatin structure?</b> ... <answer><font color=red> <b>H1 ties the nucleosome together in a string (30nm fiber)</b>
+<p>
+</font></answer></question><question><p>Question 74 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What supplies the energy for formation of peptide bond?</b> ... <answer><font color=red> <b>The aa-tRNA bond has energy for formation of peptide bond.</b>
+<p>
+</font></answer></question><question><p>Question 75 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What would most likely be the result of a mutation of the promoter sequence?</b> ... <answer><font color=red> <b>Promoter mutation commonly results in dramatic decrease in amount of gene transcribed.</b>
+<p>
+</font></answer></question><question><p>Question 76 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>When is ATP used in protein synthesis? When is GTP used in protein synthesis?</b> ... <answer><font color=red> <b>ATP is used in tRNA charging,  whereas GTP is used in binding of tRNA ribosome and for translocations.</b>
+<p>
+</font></answer></question><question><p>Question 77 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>When is recombination involved in DNA repair?</b> ... <answer><font color=red> <b>If both strands are damaged, repair may proceed via recombination with undamaged homologous chromosome.</b>
+<p>
+</font></answer></question><question><p>Question 78 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Where does RNA processing occur in eukaryotes?</b> ... <answer><font color=red> <b>RNA processing occurs in the nucleus.  </b>
+<p>
+</font></answer></question><question><p>Question 79 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Which is the largest type of RNA?</b> ... <answer><font color=red> <b>mRNA (massive)</b>
+<p>
+</font></answer></question><question><p>Question 80 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Which is the most abundant type of RNA?</b> ... <answer><font color=red> <b>rRNA (rampant)</b>
+<p>
+</font></answer></question><question><p>Question 81 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Which is the smallest type of RNA?</b> ... <answer><font color=red> <b>tRNA (tiny)</b>
+<p>
+</font></answer></question><question><p>Question 82 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Which nucleotide position in the codon has room for 'wobble'?</b> ... <answer><font color=red> <b>Codons differing in the 3rd 'wobble' position may code for the same tRNA/amino acid</b>
+<p>
+</font></answer></question><question><p>Question 83 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How do you do a Northern Blot?</b> ... <answer><font color=red> <b>Electrophorese RNA on a gel transfer to a filter expose filter to a labeled DNA probe visualize the DNA probe annealed to the desired RNA</b>
+<p>
+</font></answer></question><question><p>Question 84 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How do you do a Southern Blot?</b> ... <answer><font color=red> <b>Electrophorese DNA on a gel  transfer to a filter and denature the DNA  expose to a labeled DNA probe  visualize probe annealed to desired DNA fragment</b>
+<p>
+</font></answer></question><question><p>Question 85 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How do you do a Southwestern blot?</b> ... <answer><font color=red> <b>Separate protein by electrophoresis transfer to a filter expose to a labeled DNA probe visualize DNA bound to desired protein</b>
+<p>
+</font></answer></question><question><p>Question 86 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How do you do a Western Blot?</b> ... <answer><font color=red> <b>Separate protein by electrophoresis transfer to a filter expose to a labeled antibody visualize Ab bound to desired protein</b>
+<p>
+</font></answer></question><question><p>Question 87 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How do you do PCR? (4 steps)</b> ... <answer><font color=red> <b>1.  Heat DNA to denature.  2. Cool DNA and let the primers aneal.  3. Heat-stable polymerase replicates DNA following each premer  4. Repeat</b>
+<p>
+</font></answer></question><question><p>Question 88 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are some genetic diseases detectable by PCR?(11)</b> ... <answer><font color=red> <b>SCID, Lesh-Nyhan, CF, familial hypercholesterolemia retinoblastoma, sickle cell, B-thalassemia, hemophilia A  and B, von Willebrand's dz, lysosomal dz, and glycogen stroage dz </b>
+<p>
+</font></answer></question><question><p>Question 89 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What gene is involved in cystic fibrosis?</b> ... <answer><font color=red> <b>CFTR</b>
+<p>
+</font></answer></question><question><p>Question 90 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What gene is involved in familial hypercholesterolemia?</b> ... <answer><font color=red> <b>LDL-R</b>
+<p>
+</font></answer></question><question><p>Question 91 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What gene is involved in Lesh-Nyhan syndrome?</b> ... <answer><font color=red> <b>HGPRT</b>
+<p>
+</font></answer></question><question><p>Question 92 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What gene is involved in retinoblastoma?</b> ... <answer><font color=red> <b>Rb</b>
+<p>
+</font></answer></question><question><p>Question 93 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What gene is involved in SCID?</b> ... <answer><font color=red> <b>adenosine deaminase</b>
+<p>
+</font></answer></question><question><p>Question 94 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What gene is involved in Sickle cell and beta-thal?</b> ... <answer><font color=red> <b>beta globin gene</b>
+<p>
+</font></answer></question><question><p>Question 95 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is an ELISA (enzyme linke immunosorbant assay)?</b> ... <answer><font color=red> <b>Rapid lab test in which an antibody or an antigen (usually collected from a patient) is exposed to an Ag or Ab linked to an enzyme. A positive test results in a Ag-Ab match and is usually indicated by a color change </b>
+<p>
+</font></answer></question><question><p>Question 96 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is PCR?</b> ... <answer><font color=red> <b>Lab procedure used to synthsize many copies of a desired fragment of DNA</b>
+<p>
+</font></answer></question><question><p>Question 97 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Von Geirke's disease is a result of?</b> ... <answer><font color=red> <b>Glucose-6-phosphatase deficiency; also known as Type I Glycogen Storage disease</b>
+<p>
+</font></answer></question><question><p>Question 98 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>A build up of sphingomyelin and cholesterol in reticuloendothelial and parenchymal cells and tissues is found in what disease</b> ... <answer><font color=red> <b>Niemann-Pick disease</b>
+<p>
+</font></answer></question><question><p>Question 99 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>A child is born with multiple fractures and blue sclera what is the diagnosis?</b> ... <answer><font color=red> <b>Osteogenesis imperfecta;disease of abnormal collagen synthesis resulting in fractures and translucent Conn tiss over chorioid  causing the blue sclera</b>
+<p>
+</font></answer></question><question><p>Question 100 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>A congenital deficiency of tyrosinase would lead to?</b> ... <answer><font color=red> <b>Albinism, can't synthesize melanin from tyrosine</b>
+<p>
+</font></answer></question><question><p>Question 101 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>A patient presents with cataracts, hepatosplenomegaly, and  mental retardation, what is the Dx?</b> ... <answer><font color=red> <b>Galactosemia</b>
+<p>
+</font></answer></question><question><p>Question 102 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>A patient presents with corneal clouding and mental retardation that is, based on family history, inherited in an Autsomal recessive pattern, you impress your intern with a Dx of?</b> ... <answer><font color=red> <b>Hurler's syndrome</b>
+<p>
+</font></answer></question><question><p>Question 103 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>A patient presents with 1. Hyperextensible skin 2. Tendency to bleed 3. Hypermobile joints you astutely Dx them with?</b> ... <answer><font color=red> <b>Ehlers-Danlos syndrome</b>
+<p>
+</font></answer></question><question><p>Question 104 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Absence of Galactosylceramide Beta-galactosidase leads to thebuild up of what compound in what disease?</b> ... <answer><font color=red> <b>accumulation of galactocerebroside in the brain; Krabbe's disease</b>
+<p>
+</font></answer></question><question><p>Question 105 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Absence of hexosaminidase A results in the acumulation of what molecule that is characteristic of what disease?</b> ... <answer><font color=red> <b>GM2-ganglioside accumulation; Tay-Sachs disease</b>
+<p>
+</font></answer></question><question><p>Question 106 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Albinism increase risk of developing what?</b> ... <answer><font color=red> <b>skin cancer</b>
+<p>
+</font></answer></question><question><p>Question 107 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Autosomal dominant defects will effect what members of a family?</b> ... <answer><font color=red> <b>male and female</b>
+<p>
+</font></answer></question><question><p>Question 108 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Autosomal recessive disorders often  result in what kind of defect/deficiency?</b> ... <answer><font color=red> <b>enzyme deficiencies</b>
+<p>
+</font></answer></question><question><p>Question 109 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Autosomal recessive disorders usually effect how many generations in a family?</b> ... <answer><font color=red> <b>usually only one generation</b>
+<p>
+</font></answer></question><question><p>Question 110 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Bloom's syndrome is characterized by sensitivity to  what as a result of?</b> ... <answer><font color=red> <b>sensitivity to radiation as a result of a DNA repair defect</b>
+<p>
+</font></answer></question><question><p>Question 111 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Creatine and Urea are both made from?</b> ... <answer><font color=red> <b>Arginine</b>
+<p>
+</font></answer></question><question><p>Question 112 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Defects in structural genes often follow what pattern of inheritance?</b> ... <answer><font color=red> <b>Autosomal dominant</b>
+<p>
+</font></answer></question><question><p>Question 113 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Defiency of arylsulfatase A results in the accumulation of what molecule where?</b> ... <answer><font color=red> <b>sulfatide in the brain, kidney, liver, and peripherla nerves.  Characteristic of Metachromatic Leukodystrophy</b>
+<p>
+</font></answer></question><question><p>Question 114 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Define genetic imprinting:</b> ... <answer><font color=red> <b>when differences in phenotype depend on whether the mutation is of paternal or maternal origin</b>
+<p>
+</font></answer></question><question><p>Question 115 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Define incomplete penetrance:</b> ... <answer><font color=red> <b>when not all individuals with a mutant genotype show the mutant phenotype</b>
+<p>
+</font></answer></question><question><p>Question 116 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Define Linkage Disequilibrium:</b> ... <answer><font color=red> <b>the tendency for certain alleles at two linked loci to occur together more often than expected by chance, as measured in a population</b>
+<p>
+</font></answer></question><question><p>Question 117 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Define pleiotropy:</b> ... <answer><font color=red> <b>one gene has more than one effect on an individual's phenotype, autosomal dominant defects are often pleiotropic</b>
+<p>
+</font></answer></question><question><p>Question 118 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Define variable expression:</b> ... <answer><font color=red> <b>nature and severity of the phenotype varies from one individual to another</b>
+<p>
+</font></answer></question><question><p>Question 119 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Fanconi's anemia is caused by what type of agents?</b> ... <answer><font color=red> <b>cross-linking agents</b>
+<p>
+</font></answer></question><question><p>Question 120 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Ganglioside is made up of what?</b> ... <answer><font color=red> <b>Ceramide + oligosacharide + sialic acid</b>
+<p>
+</font></answer></question><question><p>Question 121 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Gaucher's disease is caused by a deficiency of?</b> ... <answer><font color=red> <b>Beta-glucocerebrosidase</b>
+<p>
+</font></answer></question><question><p>Question 122 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Glucocerebroside accumulation in the brain, liver, spleen, and bone marrow are characteristic of?</b> ... <answer><font color=red> <b>Gaucher's disease</b>
+<p>
+</font></answer></question><question><p>Question 123 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Glycine is used to make what important compound?</b> ... <answer><font color=red> <b>Porphyrin which is then used to make Heme</b>
+<p>
+</font></answer></question><question><p>Question 124 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Histamine is synthesized from what compound?</b> ... <answer><font color=red> <b>Histidine</b>
+<p>
+</font></answer></question><question><p>Question 125 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How does adenosine deaminase defiency cause SCID?</b> ... <answer><font color=red> <b>Purine salvage pathway.  ADA normal converts adenosine to inosine without it ATP &amp; dATP build up inhibiting ribonucleotide reductase which  prevents DNA synthesis lowering lymphocyte production</b>
+<p>
+</font></answer></question><question><p>Question 126 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is Lesch-Nyhan syndrome inheritied and what is the result and symptoms?</b> ... <answer><font color=red> <b>X-linked recessive; increase in uric acid production.  Retardation, self mutalation, aggression, hyperuricemia, gout, and choreathetosis</b>
+<p>
+</font></answer></question><question><p>Question 127 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Hunter's syndrome is characterised by what biochemical problem and how is it inherited?</b> ... <answer><font color=red> <b>deficiency of iduronate sulfatase; X-linked recessive mild form of Hurler's</b>
+<p>
+</font></answer></question><question><p>Question 128 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>In ataxia-telangiectasia DNA damage caused by what source cannot be repaired?</b> ... <answer><font color=red> <b>X-rays</b>
+<p>
+</font></answer></question><question><p>Question 129 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>In G6PD deficiency the decrease in NADPH can lead to _____ if exposed to _____ ?</b> ... <answer><font color=red> <b>hemolytic anemia;oxidizing agents( fava beans, sulfonamides, primaquine) and antituberculosis.</b>
+<p>
+</font></answer></question><question><p>Question 130 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>In PKU what builds up and what can be found in the urine?</b> ... <answer><font color=red> <b>phenyalanine builds up leading to phenylketones in the urine</b>
+<p>
+</font></answer></question><question><p>Question 131 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>In PKU, what amino acid becomes essential?</b> ... <answer><font color=red> <b>tyrosine.</b>
+<p>
+</font></answer></question><question><p>Question 132 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>In the Hardy-Weinberg equation, what are the p and q and what is 2pq?</b> ... <answer><font color=red> <b>p and q are each separate alleles; 2pq = heterozygote</b>
+<p>
+</font></answer></question><question><p>Question 133 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>No male to male transmission is characteristic of what type of genetic disorders?</b> ... <answer><font color=red> <b>X-linked recessive</b>
+<p>
+</font></answer></question><question><p>Question 134 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Pompe's disease is caused by a defect in?</b> ... <answer><font color=red> <b>lysosomal alpha-1,4-glucosidase defiency</b>
+<p>
+</font></answer></question><question><p>Question 135 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Sickle cell anemia is caused by what defect and what is it's prevalence?</b> ... <answer><font color=red> <b>AR single missense mutation in the beta globin; 1:400 blacks</b>
+<p>
+</font></answer></question><question><p>Question 136 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Siclkle cell anemia patients often present with?</b> ... <answer><font color=red> <b>recurrent painful crisis and increased susceptibility to infections</b>
+<p>
+</font></answer></question><question><p>Question 137 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Skin sensitivity to UV light  secondary to a DNA repair defect is characteristic of  what?</b> ... <answer><font color=red> <b>xeroderma pigmentosum</b>
+<p>
+</font></answer></question><question><p>Question 138 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Sphingosine + fatty acid yields</b> ... <answer><font color=red> <b>ceramide</b>
+<p>
+</font></answer></question><question><p>Question 139 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>the COL1A gene mutation is associated with what disease and what type of mutation is this?</b> ... <answer><font color=red> <b>Osteogenesis imperfecta;dominant negative mutation</b>
+<p>
+</font></answer></question><question><p>Question 140 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>The main defect in Ataxia-telangiectasia is a ___ ?</b> ... <answer><font color=red> <b>DNA repair defect</b>
+<p>
+</font></answer></question><question><p>Question 141 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>The most common form of Osteogenesis imperfecta has what genetic  problem and inheritance?</b> ... <answer><font color=red> <b>abnormal Collagen Type I synthesis;Autosomal dominant</b>
+<p>
+</font></answer></question><question><p>Question 142 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>The transporter for which amino acids is defective in cystinuria?</b> ... <answer><font color=red> <b>COLA: Cys,Ornithine, Lysine and Arginine</b>
+<p>
+</font></answer></question><question><p>Question 143 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Thymidine dimers are formed by exposure of DNA to UV light, are the dimers formed on the opposing strands of a DNA molecule or on the same side?</b> ... <answer><font color=red> <b>dimers are on same side</b>
+<p>
+</font></answer></question><question><p>Question 144 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Tryptophan can be used to make what three chemicals?</b> ... <answer><font color=red> <b>Niacin, Serotonin, Melatonin</b>
+<p>
+</font></answer></question><question><p>Question 145 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Type III Glycogen storage disease is a defiency of?</b> ... <answer><font color=red> <b>deficiency of debranching enzyme alpha-1,6-glucosidase</b>
+<p>
+</font></answer></question><question><p>Question 146 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the cause, Tx, and symptoms of Lactose intolerance?</b> ... <answer><font color=red> <b>Lactase defiency; avoid diary products or add lactase pills to diet; symptoms include bloating, cramps, osmotic diarrhea</b>
+<p>
+</font></answer></question><question><p>Question 147 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What % of kids born to father with mitochondrial myopathy will be effected?</b> ... <answer><font color=red> <b>none, mitochondrial myopathies are inherited from mitochondria which is only inherited from the mother</b>
+<p>
+</font></answer></question><question><p>Question 148 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the clinical signs of Krabbe's disease?</b> ... <answer><font color=red> <b>optic atrophy, spasticity, early death</b>
+<p>
+</font></answer></question><question><p>Question 149 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the components of Cerebroside?</b> ... <answer><font color=red> <b>Ceramide + glucose/galactose</b>
+<p>
+</font></answer></question><question><p>Question 150 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the components of Sphingomyelin?</b> ... <answer><font color=red> <b>Ceramide + phosphorylcholine</b>
+<p>
+</font></answer></question><question><p>Question 151 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the components of sphingosine?</b> ... <answer><font color=red> <b>serine + palmitate</b>
+<p>
+</font></answer></question><question><p>Question 152 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the findings and treatment of pyruvate dehydrogenase?</b> ... <answer><font color=red> <b>neurologic defects; increase intake of ketogenic nutrients </b>
+<p>
+</font></answer></question><question><p>Question 153 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the findings in McArdles's disease and what is the problem?</b> ... <answer><font color=red> <b>increased glycogen in skeletal muscle due to a Glycogen phosphorylase defiency; strenuous exercise cause myoglobinuria and painful cramps</b>
+<p>
+</font></answer></question><question><p>Question 154 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the findings in PKU and what is the treatment?</b> ... <answer><font color=red> <b>Mental retardation, fair skin, eczema, musty body odor;Tx:  Decreasee phenylalanine (nutrasweet) and increase tyrosine</b>
+<p>
+</font></answer></question><question><p>Question 155 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the findings in Pompe's disease and what is it alternate name?</b> ... <answer><font color=red> <b>Cardiomegaly and systemic findings, leading to early death. Pompe's trashes the Pump. (Heart, Liver and muscle) Type II Glycogen storage disease</b>
+<p>
+</font></answer></question><question><p>Question 156 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the findings in Von Gierke's disease?</b> ... <answer><font color=red> <b>severe fasting hypoglycemia, increased glycogen in the liver</b>
+<p>
+</font></answer></question><question><p>Question 157 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the four assumptions of the Hardy-Weinberg equilibrium?</b> ... <answer><font color=red> <b>1.There is no mutation occuring at the locus 2. There is no selection for any of the geno types at the locus 3. Random mating 4. no migration in or out</b>
+<p>
+</font></answer></question><question><p>Question 158 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the purely ketogneic amino acids?</b> ... <answer><font color=red> <b>lysine and leucine</b>
+<p>
+</font></answer></question><question><p>Question 159 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the signs and symptoms of essential fructosuria?</b> ... <answer><font color=red> <b>asymptomatic, benign, Fructose appears in blood and urine</b>
+<p>
+</font></answer></question><question><p>Question 160 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>what are the signs and symptoms of Homocystinuria?</b> ... <answer><font color=red> <b>Homocysteine accumulates in urine and cystine becomes essential, Methionine and it's metabolites build up in blood; Mental retardation, osteoporosis, dislocation of the lens</b>
+<p>
+</font></answer></question><question><p>Question 161 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the symptoms of Alkaptonuria?</b> ... <answer><font color=red> <b>Dark Urine from alkapton bodies; also connective tissue is dark, may have arthralgias. Bengin disease</b>
+<p>
+</font></answer></question><question><p>Question 162 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the symptoms of Fructose intolerance?</b> ... <answer><font color=red> <b>hypoglycmeia, jaundice, cirrhosis</b>
+<p>
+</font></answer></question><question><p>Question 163 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the symptoms of Maple syrup Urine disease?</b> ... <answer><font color=red> <b>CNS defects, mental retardation and death. Urine smells like maple syrup</b>
+<p>
+</font></answer></question><question><p>Question 164 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What biological chemicals are derived form phenylalanine?</b> ... <answer><font color=red> <b><li>tyrosine --&gt; thyroxine
+<li>tyrosine --&gt; Dopa --&gt; dopamine --&gt; NE --&gt; Epinephrine <li>tyrosine --&gt; Dopa --&gt; dopamine --&gt; melanin</b>
+<p>
+</font></answer></question><question><p>Question 165 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What causes Essential Fructosuria?</b> ... <answer><font color=red> <b>defect in fructokinase</b>
+<p>
+</font></answer></question><question><p>Question 166 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What causes Lesch-Nyhan syndrome?</b> ... <answer><font color=red> <b>Absence of HGPRTase, (normally converts hypoxanthine to IMP and guanine to GMP)  Lacks Nucleotide Salvage (LNS)-purines</b>
+<p>
+</font></answer></question><question><p>Question 167 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What do melanin and Norepinephrine have in common?</b> ... <answer><font color=red> <b>both derived directly from dopamine; phenylalanine to tyrosine to dopa to dopamine...</b>
+<p>
+</font></answer></question><question><p>Question 168 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does the term 'loss of heterozygosity' mean?</b> ... <answer><font color=red> <b>when one allele of an allele pair is lost. An example is  when a patient inherits or develops a mutation in a tumor suppressor gene and the complimentary allele is then lost to deletion/mutation.  The patient would not develop the cancer until the loss of the normal allele.</b>
+<p>
+</font></answer></question><question><p>Question 169 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What enzyme defiencies are associated with hemolytic anemia?</b> ... <answer><font color=red> <b>Glycolytic enzyme deficiencies: Hexokinase, glucose-phosphate isomerase, aldolase, triose-phosphate isomerase, phosphate-glycerate kinase, enolase, and pyruvate kinase.</b>
+<p>
+</font></answer></question><question><p>Question 170 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What event in embryology can cause albinism?</b> ... <answer><font color=red> <b>lack of migration of neural crest cells to skin (form melanocytes)</b>
+<p>
+</font></answer></question><question><p>Question 171 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What genetic error can cause Severe Combined Immnuodeficiency (SCID)?</b> ... <answer><font color=red> <b>Adenosine deaminase deficiency</b>
+<p>
+</font></answer></question><question><p>Question 172 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What group of people can be seen with pyruvate dehydrognase deficiency?</b> ... <answer><font color=red> <b>alcoholics due to B1 defiecincy</b>
+<p>
+</font></answer></question><question><p>Question 173 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is a complication of cystinuria?</b> ... <answer><font color=red> <b>cystine kidney stones</b>
+<p>
+</font></answer></question><question><p>Question 174 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is a dominant negative mutation?</b> ... <answer><font color=red> <b>a mutation that exerts a dominant effect  because the body cannot produce enough of the normal gene product with only one allele functioning normally</b>
+<p>
+</font></answer></question><question><p>Question 175 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is a good pnuemonic for the four glycogen storage diseases?</b> ... <answer><font color=red> <b>Very-Von Gierke's Poor-Pompes Carbohydrate-Cori's Metabolism-McArdles</b>
+<p>
+</font></answer></question><question><p>Question 176 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is commonly associated with xeroderma pigementosa?</b> ... <answer><font color=red> <b>dry skin, melanoma and other cancers</b>
+<p>
+</font></answer></question><question><p>Question 177 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is crucial to the diagnosis of an Autosomal dominant disease?</b> ... <answer><font color=red> <b>Family history</b>
+<p>
+</font></answer></question><question><p>Question 178 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is genetic anticipation?</b> ... <answer><font color=red> <b>the severity of the disease worsens or age of onset of disease is earlier in succeeding generations</b>
+<p>
+</font></answer></question><question><p>Question 179 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is inheritance of G6PD defiency and what population is effected more often?</b> ... <answer><font color=red> <b>X-linked recessive; blacks</b>
+<p>
+</font></answer></question><question><p>Question 180 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is NAD/NADP made form?</b> ... <answer><font color=red> <b>Niacin, Serotonin, Melatonin</b>
+<p>
+</font></answer></question><question><p>Question 181 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is osteogenesis imperfecta often confused with?</b> ... <answer><font color=red> <b>child abuse</b>
+<p>
+</font></answer></question><question><p>Question 182 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the biochemical defect in Metachromatic leukodystrophy and what is the inheritance pattern?</b> ... <answer><font color=red> <b>deficiency of arylsulfatase A; Autosomal recessive</b>
+<p>
+</font></answer></question><question><p>Question 183 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the biochemical defect in Nieman-Pick disease and how is it inherited?</b> ... <answer><font color=red> <b>deficiency of sphingomyelinase; autosomal recessive</b>
+<p>
+</font></answer></question><question><p>Question 184 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the biochemical effect of G6PD defiency?</b> ... <answer><font color=red> <b>decrease in NADPH which is necessary to reduce glutathione which in turn detoxifies free radicals and peroxides</b>
+<p>
+</font></answer></question><question><p>Question 185 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the cause of Cystinuria and  what are the signs/symptoms?</b> ... <answer><font color=red> <b>inheritied defect of tubular amino acid transporter for Cystine, Ornithine, Lysine and Arginine in kidneys; excess cystine in urine can lead to the precipitation of cystine kidney stones.</b>
+<p>
+</font></answer></question><question><p>Question 186 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the cause of Fabry's disease and what is the common clinical problem?</b> ... <answer><font color=red> <b>Alpha-galactosidase A deficiency; gives accumulation of ceramide trihexoside causing renal failure</b>
+<p>
+</font></answer></question><question><p>Question 187 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the cause of galactosemia?</b> ... <answer><font color=red> <b>Absence of galactose-1-phosphate uridyltransferase; accumualtion of toxic substances (galactitol)</b>
+<p>
+</font></answer></question><question><p>Question 188 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the characteristic defect in Hurler's syndrome?</b> ... <answer><font color=red> <b>Alpha-L-iduronidase defiency leads to corneal clouding and mental retardation</b>
+<p>
+</font></answer></question><question><p>Question 189 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the characteristic findings in Neurofibromatosis?</b> ... <answer><font color=red> <b>Multiple café-au-lait spots, neurofibromas increased tumor susceptibilty</b>
+<p>
+</font></answer></question><question><p>Question 190 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the clinical picture of a patient with cystic fibrosis?</b> ... <answer><font color=red> <b>pulmonary infections, exocrine pancreatic insufficiency, infertility in men</b>
+<p>
+</font></answer></question><question><p>Question 191 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the clinical picture of Duchenne's muscular dystrophy?</b> ... <answer><font color=red> <b>muscular weakness and degeneration</b>
+<p>
+</font></answer></question><question><p>Question 192 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the defect in Maple Syrup Urine disease?</b> ... <answer><font color=red> <b>Decreased Alpha-ketoacid dehydrogenase. Blocks degradation of branched amino acids Ile, Val,  Leu.</b>
+<p>
+</font></answer></question><question><p>Question 193 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the epidemiology of lactose intolerance?</b> ... <answer><font color=red> <b>Age-dependnet and/or hereditary (blacks and Asians)</b>
+<p>
+</font></answer></question><question><p>Question 194 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the etiology of Homocystinuria?</b> ... <answer><font color=red> <b>Defect in cystathionine synthase. Two forms: 1. deficiency  2. decreased affinity of synthase for pyridoxal phosphate (cofactor)</b>
+<p>
+</font></answer></question><question><p>Question 195 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the finding of Hunter's syndrome on H&amp;P?</b> ... <answer><font color=red> <b>mild mental retardation but no corneal clouding</b>
+<p>
+</font></answer></question><question><p>Question 196 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the formula for Hardy-Weinberg  equilibrium?</b> ... <answer><font color=red> <b>p^2 +2pq + q^2 =1 and p+q=1</b>
+<p>
+</font></answer></question><question><p>Question 197 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the genetic mechanism of Cystic fibrosis and it's inheritance?</b> ... <answer><font color=red> <b>AR; multiple loss-of-function mutations in chloride channels</b>
+<p>
+</font></answer></question><question><p>Question 198 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the genetic mechanism of Duchenne's muscular dystrophy?</b> ... <answer><font color=red> <b>X-linked recessive;caused by multiple loss-of-funtion mutations in a muscle protein</b>
+<p>
+</font></answer></question><question><p>Question 199 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the genetic mechanism of Fragile X MR?</b> ... <answer><font color=red> <b>X-linked; progressive expansion of unstable DNA causes failure to express gene-encoding RNA-binding protein</b>
+<p>
+</font></answer></question><question><p>Question 200 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the genetic mechanism of Neurofibromatosis?</b> ... <answer><font color=red> <b>AD, multiple loss-of function mutations in a signaling molecule</b>
+<p>
+</font></answer></question><question><p>Question 201 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the genetic problem in Down's Syndrome?</b> ... <answer><font color=red> <b>trisomy 21 chromosomal imbalance</b>
+<p>
+</font></answer></question><question><p>Question 202 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the inheritance of Krabbe's disease?</b> ... <answer><font color=red> <b>Autosomal recessive</b>
+<p>
+</font></answer></question><question><p>Question 203 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>what is the inheritance pattern and carrier frequency in Tay-Sach's?</b> ... <answer><font color=red> <b>Autosomal recessive; 1:30 in Jews of European descent and 1:300 in the general populaition</b>
+<p>
+</font></answer></question><question><p>Question 204 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the inheritance pattern of Ehlers-Danlos syndrome?</b> ... <answer><font color=red> <b>10 types of this syndrome: Type IV - Auto Dominant, Type VI - Auto Recessive, Type IX - X-linked recessive.</b>
+<p>
+</font></answer></question><question><p>Question 205 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the inheritance pattern of Gaucher's disease?</b> ... <answer><font color=red> <b>Autosomal recessive</b>
+<p>
+</font></answer></question><question><p>Question 206 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the inheritance pattern of xeroderma pigmentosa?</b> ... <answer><font color=red> <b>autosomal recessive</b>
+<p>
+</font></answer></question><question><p>Question 207 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the inheritiance pattern of Fabry's disease?</b> ... <answer><font color=red> <b>X-linked recessive</b>
+<p>
+</font></answer></question><question><p>Question 208 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the lab symptoms of G6PD defiency?</b> ... <answer><font color=red> <b>Heinz Bodies: altered hemoglobin precipitate in RBC</b>
+<p>
+</font></answer></question><question><p>Question 209 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the most distinguishing finding in Tay-Sach's disease on Physical exam?</b> ... <answer><font color=red> <b>cherry red Macula; these patients die by 3</b>
+<p>
+</font></answer></question><question><p>Question 210 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the pathogneumonic cell type founde in Gaucher's disease?</b> ... <answer><font color=red> <b>Gaucher's cells with the characteristic 'crinkled paper' appearance  of enlarged cytoplasm</b>
+<p>
+</font></answer></question><question><p>Question 211 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the pattern of inheritance of Leber's hereditary optic neuropathy?</b> ... <answer><font color=red> <b>mitochondrial inheritance</b>
+<p>
+</font></answer></question><question><p>Question 212 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the phenotype in Osteogenesis imperfecta?</b> ... <answer><font color=red> <b>increased susceptibility to fractures;connective tissue fragility</b>
+<p>
+</font></answer></question><question><p>Question 213 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the phenotype of Down's syndrome?</b> ... <answer><font color=red> <b>Mental and growth retardation, dysmorphic features, internal organ anomalies especially heart problems</b>
+<p>
+</font></answer></question><question><p>Question 214 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the phenotype of Fragile X?</b> ... <answer><font color=red> <b>mental retardation, characteristic facial features, large testes</b>
+<p>
+</font></answer></question><question><p>Question 215 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the predominant problem in Ehlers-Danlos syndrome?</b> ... <answer><font color=red> <b>Faulty collagen synthesis</b>
+<p>
+</font></answer></question><question><p>Question 216 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the prevalance of cystic fibrosis?</b> ... <answer><font color=red> <b>1:2000 whites; very rare among Asians</b>
+<p>
+</font></answer></question><question><p>Question 217 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the prevalence of Neurofibromatosis?</b> ... <answer><font color=red> <b>1:3000 with 50% being new mutations</b>
+<p>
+</font></answer></question><question><p>Question 218 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the prevalence of Down's syndrome and what are the risk factors?</b> ... <answer><font color=red> <b>1:800; increased risk with advanced maternal age</b>
+<p>
+</font></answer></question><question><p>Question 219 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the prevalence of Duchenne's musc. dys.?</b> ... <answer><font color=red> <b>1:300; 33% new mutations</b>
+<p>
+</font></answer></question><question><p>Question 220 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the prevalence of Fragile X- associated mental retardation?</b> ... <answer><font color=red> <b>1:1500 males</b>
+<p>
+</font></answer></question><question><p>Question 221 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the prevalence of osteogenesis imperfecta?</b> ... <answer><font color=red> <b>1:10000,</b>
+<p>
+</font></answer></question><question><p>Question 222 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the prevalence of Phenylketonuria?</b> ... <answer><font color=red> <b>1:10000</b>
+<p>
+</font></answer></question><question><p>Question 223 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the priamry defect in Fructose intolerance and how is it inherited?</b> ... <answer><font color=red> <b>defiency of aldolase B, autosomal recessive</b>
+<p>
+</font></answer></question><question><p>Question 224 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the primary defect in Alkaptonuria?</b> ... <answer><font color=red> <b>congenital defiency of homogentisic acid oxidase  in the degradative pathway of tyrosine</b>
+<p>
+</font></answer></question><question><p>Question 225 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the primary defect(s) found in Phenylketoneuria?</b> ... <answer><font color=red> <b>either 1.decreased phenylalanie hydroxylase or 2. decreased tetrahydrobiopterin cofactor</b>
+<p>
+</font></answer></question><question><p>Question 226 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the rate-limiting enzyme in the Hexose-Monophosphate shunt?</b> ... <answer><font color=red> <b>Glucose-6-phosphate dehydrogenase</b>
+<p>
+</font></answer></question><question><p>Question 227 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the result of pyruvate dehydrognase deficiency?</b> ... <answer><font color=red> <b>backup of substrate (pyruvate and alanine) resulting in lactic acidosis</b>
+<p>
+</font></answer></question><question><p>Question 228 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the specific defect in Xeroderma pigmentosa?</b> ... <answer><font color=red> <b>defective excision repair such as uvr ABC exonuclease; have inability to repair thymidine dimer formed by UV light</b>
+<p>
+</font></answer></question><question><p>Question 229 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the treament  of Cystinuria and what is a possible consequence of not treating?</b> ... <answer><font color=red> <b>Acetazolamide to alkalanize the urine; cystine kidney stones due to excess cysteine</b>
+<p>
+</font></answer></question><question><p>Question 230 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the treatment of fructose intolerance?</b> ... <answer><font color=red> <b>decrease intake of both fructose and sucrose (glucose + fructose)</b>
+<p>
+</font></answer></question><question><p>Question 231 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the treatment of Homocystinuria?</b> ... <answer><font color=red> <b><li>1) For  a defiency in cystathionine synthase tx by decreasing Met and increasing Cys in diet <li>2) For decreased affinity of synthase Tx by increasing vitamin B6 in diet</b>
+<p>
+</font></answer></question><question><p>Question 232 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the Tx of galactosemia?</b> ... <answer><font color=red> <b>Exclude galactose and lactose (galactose +glucose) form diet</b>
+<p>
+</font></answer></question><question><p>Question 233 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What offspring of females affected with a mitochondrial inherited disease will be effected?</b> ... <answer><font color=red> <b>all offspring can be effected</b>
+<p>
+</font></answer></question><question><p>Question 234 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What percent of offspring from two autosomal recessive carrier parents will be effected?</b> ... <answer><font color=red> <b>25%</b>
+<p>
+</font></answer></question><question><p>Question 235 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What percent of sons of a heterazygous mother carrying an x-linked disease will be effected?</b> ... <answer><font color=red> <b>50%</b>
+<p>
+</font></answer></question><question><p>Question 236 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What period of life do autosomal dominant defects present in?</b> ... <answer><font color=red> <b>often present clinically after puberty</b>
+<p>
+</font></answer></question><question><p>Question 237 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What three phenyl ketones build up in the urine of PKU patients?</b> ... <answer><font color=red> <b>phenylacetate, phenyllactate, phenylpyruvate</b>
+<p>
+</font></answer></question><question><p>Question 238 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What to thyroxine and Dopa have in common?</b> ... <answer><font color=red> <b>both derived form tyrosine</b>
+<p>
+</font></answer></question><question><p>Question 239 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What type of genetic error is usually more severe:  autosomal recessive or dominant?</b> ... <answer><font color=red> <b>AR disorders are often more severe</b>
+<p>
+</font></answer></question><question><p>Question 240 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What type of inheritance is transmitted only through mothers?</b> ... <answer><font color=red> <b>mitochondrial</b>
+<p>
+</font></answer></question><question><p>Question 241 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>When do patients usually present with autosomal recessive disorders?</b> ... <answer><font color=red> <b>present in childhood</b>
+<p>
+</font></answer></question><question><p>Question 242 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Why are RBC so susceptible to Glycolytic enzyme def.?</b> ... <answer><font color=red> <b>RBC's metabolize glucose anaerobically (no mitochondria)  and depend on glycolysis</b>
+<p>
+</font></answer></question><question><p>Question 243 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Why do people with fructose intolerance become hypoglycemic?</b> ... <answer><font color=red> <b>Deficient aldolase B causes the accumulation of Fructose 1-phosphate which acts as a phosphate sink and traps the phosphate.  Decreased phosphate availability inhibits glycogenolysis and gluconeogenesis</b>
+<p>
+</font></answer></question><question><p>Question 244 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>X-linked recessive disease is often more severe in males or females?</b> ... <answer><font color=red> <b>males</b>
+<p>
+</font></answer></question><question><p>Question 245 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>1,3-BPG to 2,3-BPG via what enzyme?</b> ... <answer><font color=red> <b>bisphosphoglycerate mutase</b>
+<p>
+</font></answer></question><question><p>Question 246 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Common precursor for prostaglandins, -thromboxanes, -leukotrienes?</b> ... <answer><font color=red> <b>Arachidonate</b>
+<p>
+</font></answer></question><question><p>Question 247 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>At body pH, what AA are negatively charged?</b> ... <answer><font color=red> <b>Asp and Glu;  His is neutral at pH 7.4</b>
+<p>
+</font></answer></question><question><p>Question 248 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>At body pH, what AA are positvely charged?</b> ... <answer><font color=red> <b>Arg and Lys</b>
+<p>
+</font></answer></question><question><p>Question 249 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>ATP to cAMP via what enzyme?</b> ... <answer><font color=red> <b>adenylate cyclase</b>
+<p>
+</font></answer></question><question><p>Question 250 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>By what rxn order kinetics does alcohol dehydrogenase operate?</b> ... <answer><font color=red> <b>zero order kinetics</b>
+<p>
+</font></answer></question><question><p>Question 251 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Choline to ACh via what enzyme?</b> ... <answer><font color=red> <b>choline acetyltransferase </b>
+<p>
+</font></answer></question><question><p>Question 252 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Contrast glucagon and insulin.</b> ... <answer><font color=red> <b>glucagon phosphorylates stuff, -turns glycogen synthase off and phosphorylase on</b>
+<p>
+</font></answer></question><question><p>Question 253 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Contrast hexokinase and glucokinase.</b> ... <answer><font color=red> <b>hexokinase throughout the body, -GK in liver and has lower affinity but higher capacity for glucose</b>
+<p>
+</font></answer></question><question><p>Question 254 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Are hexokinase and glucokinase inhibited by G6P?</b> ... <answer><font color=red> <b>only HK is feedback inhibited by G6P</b>
+<p>
+</font></answer></question><question><p>Question 255 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Does insulin affect glucose uptake of brain, RBC's and liver?</b> ... <answer><font color=red> <b>No</b>
+<p>
+</font></answer></question><question><p>Question 256 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Does insulin inhibit glucagon release by alpha cells of pancreas?</b> ... <answer><font color=red> <b>Yes</b>
+<p>
+</font></answer></question><question><p>Question 257 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Fructose-6-phosphate to fructose-1,6-bis-P via what enzyme?</b> ... <answer><font color=red> <b>PFK (rate limiting step of glycolysis)</b>
+<p>
+</font></answer></question><question><p>Question 258 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>glutamate to GABA via what enzyme?</b> ... <answer><font color=red> <b>glutamate decarboxylase (requires vit. B6)</b>
+<p>
+</font></answer></question><question><p>Question 259 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>GTP to cGMP via what enzmye?</b> ... <answer><font color=red> <b> guanylate cyclase</b>
+<p>
+</font></answer></question><question><p>Question 260 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How are ketone bodies excreted?</b> ... <answer><font color=red> <b>in urine</b>
+<p>
+</font></answer></question><question><p>Question 261 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How are ketone bodies formed?</b> ... <answer><font color=red> <b>FA and AA converted to acetoacetate and b-hydroxybutyrate</b>
+<p>
+</font></answer></question><question><p>Question 262 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How do the statin drugs work?</b> ... <answer><font color=red> <b>they inhibit HMG-CoA reductase</b>
+<p>
+</font></answer></question><question><p>Question 263 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How does disulfiram work?</b> ... <answer><font color=red> <b>inhibits acetylaldehyde dehydrogenase</b>
+<p>
+</font></answer></question><question><p>Question 264 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How does FA enter the cytosol?</b> ... <answer><font color=red> <b>via citrate shuttle</b>
+<p>
+</font></answer></question><question><p>Question 265 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How does FA enter the mitochondria?</b> ... <answer><font color=red> <b>via the carnitine shuttle</b>
+<p>
+</font></answer></question><question><p>Question 266 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How does lead affect heme synthesis?</b> ... <answer><font color=red> <b>inhibits ALA dehydratase and ferrochelatase prevents incorporation of Fe </b>
+<p>
+</font></answer></question><question><p>Question 267 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How does the brain metabolize ketone bodies?</b> ... <answer><font color=red> <b>to 2 molecules of acetyl coA</b>
+<p>
+</font></answer></question><question><p>Question 268 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is bilirubin removed from the body?</b> ... <answer><font color=red> <b>collected by liver, conjugated with glucuronate excreted in bile</b>
+<p>
+</font></answer></question><question><p>Question 269 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is ethanol metabolized?</b> ... <answer><font color=red> <b>Ethanol oxidized to acetylaldehyde by alcohol dehydrogenase and NAD+; acetalaldehyde oxidized to acetate by acetylaldehyde dehydrogenase and NAD+.</b>
+<p>
+</font></answer></question><question><p>Question 270 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is FA entering the mitochondria inhibited?</b> ... <answer><font color=red> <b>By cytoplasmic malonyl-CoA.</b>
+<p>
+</font></answer></question><question><p>Question 271 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is glutamate converted to a-ketogluturate?</b> ... <answer><font color=red> <b>By the loss of ammonium and reduction of NADP.</b>
+<p>
+</font></answer></question><question><p>Question 272 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is glutamine converted to glutamate?</b> ... <answer><font color=red> <b>By the loss of ammonium.</b>
+<p>
+</font></answer></question><question><p>Question 273 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is heme catabolized?</b> ... <answer><font color=red> <b>scavenged from RBC's and Fe+2 is reused</b>
+<p>
+</font></answer></question><question><p>Question 274 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is LDL uptake undergone?</b> ... <answer><font color=red> <b>by target cells through receptor-mediated endocytosis</b>
+<p>
+</font></answer></question><question><p>Question 275 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is most plasma cholesterol esterified?</b> ... <answer><font color=red> <b>LCAT(lecithin-cholesterol acyltransferase)</b>
+<p>
+</font></answer></question><question><p>Question 276 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is NAD+ generally used metabolically?</b> ... <answer><font color=red> <b>catabolic processes</b>
+<p>
+</font></answer></question><question><p>Question 277 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is NADPH generally used metabolically?</b> ... <answer><font color=red> <b>anabolic processes (steroid and FA synthesis), repiratory burst, P-450</b>
+<p>
+</font></answer></question><question><p>Question 278 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is TCA regulated?</b> ... <answer><font color=red> <b>by need for ATP and supply of NAD+</b>
+<p>
+</font></answer></question><question><p>Question 279 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How many ATP's per acetyl CoA?</b> ... <answer><font color=red> <b>12</b>
+<p>
+</font></answer></question><question><p>Question 280 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How many ATP equivalants are needed to generate glucose from pyruvate?</b> ... <answer><font color=red> <b>6</b>
+<p>
+</font></answer></question><question><p>Question 281 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How many enzyme activities does pyruvate dehydrognase possess?</b> ... <answer><font color=red> <b>3</b>
+<p>
+</font></answer></question><question><p>Question 282 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How many moles of ATP are generated aerobically through G3P shuttle?</b> ... <answer><font color=red> <b>36 ATP</b>
+<p>
+</font></answer></question><question><p>Question 283 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How many moles of ATP are generated aerobically through malate shuttle?</b> ... <answer><font color=red> <b>38 ATP</b>
+<p>
+</font></answer></question><question><p>Question 284 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How many moles of ATP are generated anaerobically?</b> ... <answer><font color=red> <b>2 ATP</b>
+<p>
+</font></answer></question><question><p>Question 285 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>In what tissue does heme synthesis occur (2)?</b> ... <answer><font color=red> <b>liver and bone marrow</b>
+<p>
+</font></answer></question><question><p>Question 286 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Insulin mneumonic</b> ... <answer><font color=red> <b>insulin moves glucose into cells</b>
+<p>
+</font></answer></question><question><p>Question 287 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Is Serum C peptide present with exogenous insulin intake?</b> ... <answer><font color=red> <b>No</b>
+<p>
+</font></answer></question><question><p>Question 288 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Kwashikor results from a protein deficient MEAL (what does mneumonic MEAL stand for?)</b> ... <answer><font color=red> <b>Malabsorption, Edema, Anemia, Liver (fatty)</b>
+<p>
+</font></answer></question><question><p>Question 289 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Mnemonic for gluconeogenesis irreversible enzymes?</b> ... <answer><font color=red> <b>Pathway Produces Fresh Glucose</b>
+<p>
+</font></answer></question><question><p>Question 290 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Mnemonic for SAM?</b> ... <answer><font color=red> <b>SAM the methyl donor man</b>
+<p>
+</font></answer></question><question><p>Question 291 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name 6 common products of pyruvate metabolism?</b> ... <answer><font color=red> <b>glucose, lactate, Acetyl CoA+CO2, OAA, Alanine</b>
+<p>
+</font></answer></question><question><p>Question 292 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name the activated carriers with associated moleclues: one carbon units</b> ... <answer><font color=red> <b>tetrahydrofolates</b>
+<p>
+</font></answer></question><question><p>Question 293 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name the activated carriers with associated moleclues: phosphoryl</b> ... <answer><font color=red> <b>ATP</b>
+<p>
+</font></answer></question><question><p>Question 294 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name the activated carriers with associated moleclues: CH(3) groups</b> ... <answer><font color=red> <b>SAM</b>
+<p>
+</font></answer></question><question><p>Question 295 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name the activated carriers with associated moleclues: Choline</b> ... <answer><font color=red> <b>CDP-choline</b>
+<p>
+</font></answer></question><question><p>Question 296 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name the activated carriers with associated moleclues: electrons carriers</b> ... <answer><font color=red> <b>NADH, NADPH, FADH(2)</b>
+<p>
+</font></answer></question><question><p>Question 297 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name the activated carriers with associated moleclues: Acyl</b> ... <answer><font color=red> <b>coenzyme A, lipoamide</b>
+<p>
+</font></answer></question><question><p>Question 298 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name the activated carriers with associated moleclues: CO(2)</b> ... <answer><font color=red> <b>biotin</b>
+<p>
+</font></answer></question><question><p>Question 299 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name the activated carriers with associated moleclues: Aldehydes</b> ... <answer><font color=red> <b>TPP</b>
+<p>
+</font></answer></question><question><p>Question 300 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Name the activated carriers with associated moleclues: Glucose</b> ... <answer><font color=red> <b>UDP-glucose</b>
+<p>
+</font></answer></question><question><p>Question 301 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>T/F.  Uncouplers stop ATP production?</b> ... <answer><font color=red> <b>TRUE.  ATP synthesis stops.  Electron transport continues.</b>
+<p>
+</font></answer></question><question><p>Question 302 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Underproduction of heme causes what anemia?</b> ... <answer><font color=red> <b>microcytic hypochromic anemia</b>
+<p>
+</font></answer></question><question><p>Question 303 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What AA are required during periods of growth?</b> ... <answer><font color=red> <b>Arg and His</b>
+<p>
+</font></answer></question><question><p>Question 304 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are clincial syndromes of Familial Hypercholesterolemia?</b> ... <answer><font color=red> <b>xanthomas, atherosclerosis,  homozygotes MI by age 30</b>
+<p>
+</font></answer></question><question><p>Question 305 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are major pathways that occur in the liver (8)?</b> ... <answer><font color=red> <b>gluconeogenesis, Beta-oxidation, ketogenesis, lipoprotien formation, urea, uric acid and bile acid formation, cholesterol synthesis.</b>
+<p>
+</font></answer></question><question><p>Question 306 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the activators of glycogenolysis?</b> ... <answer><font color=red> <b>cAMP, and calcium ion</b>
+<p>
+</font></answer></question><question><p>Question 307 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the cofactors of pyruvate dehydrogenase (5)?</b> ... <answer><font color=red> <b>pyrophosphate, lipoic acid, CoA, FAD and NAD</b>
+<p>
+</font></answer></question><question><p>Question 308 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the components of a cholymicron remnant?</b> ... <answer><font color=red> <b>TG, FFA and apo E</b>
+<p>
+</font></answer></question><question><p>Question 309 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the components of a cholymicron?</b> ... <answer><font color=red> <b>TG, apo C-II, apo E, B-48, apo A</b>
+<p>
+</font></answer></question><question><p>Question 310 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the components of IDL?</b> ... <answer><font color=red> <b>less TG, CE, B-100 and E</b>
+<p>
+</font></answer></question><question><p>Question 311 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the components of LDL?</b> ... <answer><font color=red> <b>CE and B-100</b>
+<p>
+</font></answer></question><question><p>Question 312 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the components of VLDL?</b> ... <answer><font color=red> <b>TG, Cholesterol ester, B-100, CII and E</b>
+<p>
+</font></answer></question><question><p>Question 313 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>RBC: What are the degradation product steps (3)?</b> ... <answer><font color=red> <b>heme to biliverdin to bilirubin</b>
+<p>
+</font></answer></question><question><p>Question 314 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the effector hormones of cholesterol synthesis?</b> ... <answer><font color=red> <b>insulin increases, glucagon decreases</b>
+<p>
+</font></answer></question><question><p>Question 315 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the effector hormones of glycolysis and pyruvate oxidation?</b> ... <answer><font color=red> <b>decreased glucagon and increased insulin</b>
+<p>
+</font></answer></question><question><p>Question 316 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the effector hormones of glycogenolysis?</b> ... <answer><font color=red> <b>insulin  decreases,  epi and glucagon increases</b>
+<p>
+</font></answer></question><question><p>Question 317 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the effector hormones of lipogenesis (2)?</b> ... <answer><font color=red> <b>insulin increases, glucagon decreases</b>
+<p>
+</font></answer></question><question><p>Question 318 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the electron transport chain inhibitors?</b> ... <answer><font color=red> <b>rotenone, antimycin A, CN-, CO </b>
+<p>
+</font></answer></question><question><p>Question 319 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the essential glucogenic/ketogenic AA?</b> ... <answer><font color=red> <b>Ile, Phe, Try</b>
+<p>
+</font></answer></question><question><p>Question 320 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the essential glucogenic AA?</b> ... <answer><font color=red> <b>Met, Thr, Val, Arg, His</b>
+<p>
+</font></answer></question><question><p>Question 321 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the essential ketogenic AA?</b> ... <answer><font color=red> <b>Leu and Lys</b>
+<p>
+</font></answer></question><question><p>Question 322 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the irreversible enzymes of gluconeogenesis (4)?</b> ... <answer><font color=red> <b>-pyruvate carboxylase, -PEP carboxykinase,-fructose-1,6-bisphosphotase, -glu-6-phosphotase</b>
+<p>
+</font></answer></question><question><p>Question 323 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the irreversible enzymes of glycolysis (4)?</b> ... <answer><font color=red> <b>-glucokinase/hexokinase,-PFK,-pyruvate kinase,-pyruvate dehydrogenase</b>
+<p>
+</font></answer></question><question><p>Question 324 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the main substrates used by adipose tissue (2)?</b> ... <answer><font color=red> <b>-glucose, -lipoprotein triacylglycerol</b>
+<p>
+</font></answer></question><question><p>Question 325 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the main substrates used by the brain?</b> ... <answer><font color=red> <b>-glucose, -aa and ketone bodies when starved, -polyunsat FA in neonates</b>
+<p>
+</font></answer></question><question><p>Question 326 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the main substrates used by heart?</b> ... <answer><font color=red> <b>FFA, -some glucose, -lactate, -ketone bodies, VLDL and cholymicrom triacylglycerol</b>
+<p>
+</font></answer></question><question><p>Question 327 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the main substrates used by liver?</b> ... <answer><font color=red> <b>FFA, -glucose, -lactate, -glycerol, fructose, -AA</b>
+<p>
+</font></answer></question><question><p>Question 328 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the major activators of  gluconeogenesis?</b> ... <answer><font color=red> <b>Acetyl CoA for pyruvate carboxylase and cAMP for PEP carboxykinase and F-1,6-bis-P</b>
+<p>
+</font></answer></question><question><p>Question 329 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the major activators of  glycolysis and pyruvate oxidation?</b> ... <answer><font color=red> <b>AMP, fructose2,6-bis-P, fructose 1,6-bis-P in muscle, CoA, NAD, ADP and pyruvate</b>
+<p>
+</font></answer></question><question><p>Question 330 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the major metabolic pathways of the adipose tissue (2)?</b> ... <answer><font color=red> <b> - esterfication of FA's - lipolysis</b>
+<p>
+</font></answer></question><question><p>Question 331 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the major metabolic pathways of the brain (2)?</b> ... <answer><font color=red> <b>-glycolysis,-aa metabolism</b>
+<p>
+</font></answer></question><question><p>Question 332 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the major metabolic pathways of the heart?</b> ... <answer><font color=red> <b>Aerobic pathways like B oxidation and TCA cycle</b>
+<p>
+</font></answer></question><question><p>Question 333 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the major products of the adipose tissue (2)?</b> ... <answer><font color=red> <b>-FFA, -glycerol</b>
+<p>
+</font></answer></question><question><p>Question 334 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the major products of the brain?</b> ... <answer><font color=red> <b>lactate</b>
+<p>
+</font></answer></question><question><p>Question 335 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the major products of the liver (10)?</b> ... <answer><font color=red> <b>glucose,-VLDL,-HDL,-ketone bodies,-urea,-uric acid, -bile acids, -plasma proteins</b>
+<p>
+</font></answer></question><question><p>Question 336 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the major regulatory enzymes of  gluconeogenesis (3)?</b> ... <answer><font color=red> <b>pyruvate carboxylase, PEP carboxykinase and F-1,6-bis-P</b>
+<p>
+</font></answer></question><question><p>Question 337 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the major regulatory enzymes of  glycolysis and pyruvate oxidation?</b> ... <answer><font color=red> <b>PFK and pyruvate dehydrogenase</b>
+<p>
+</font></answer></question><question><p>Question 338 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the major regulatory enzymes of cholesterol synthesis?</b> ... <answer><font color=red> <b>HMG-CoA reductase</b>
+<p>
+</font></answer></question><question><p>Question 339 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the products of the liver in the fasting state?</b> ... <answer><font color=red> <b>glucose and ketone bodies</b>
+<p>
+</font></answer></question><question><p>Question 340 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the products of the liver in the fed state?</b> ... <answer><font color=red> <b>glycogen and fats/VLDL</b>
+<p>
+</font></answer></question><question><p>Question 341 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the products of the TCA cycle?</b> ... <answer><font color=red> <b>3NADH, 1FADH2, 2CO2, 1GTP per Acetyl CoA</b>
+<p>
+</font></answer></question><question><p>Question 342 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the some causes of hyperbilirubinemia (4)?</b> ... <answer><font color=red> <b>massive hemolysis, -block in catabolism, -diplaced from binding sites on albumin, decreased excretion</b>
+<p>
+</font></answer></question><question><p>Question 343 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the sources of hyperbilirubinemia (2)?</b> ... <answer><font color=red> <b>conjugated (direct/glucuronidated) and  unconjugated(indirect/insoluble)</b>
+<p>
+</font></answer></question><question><p>Question 344 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the specialist enzymes of muscle (2)?</b> ... <answer><font color=red> <b>-lipoprotein lipase, and well developed resp chain</b>
+<p>
+</font></answer></question><question><p>Question 345 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the specialist enzymes of the adipose tissue (2)?</b> ... <answer><font color=red> <b>-lipoprotein lipase,-hormone sensitive lipase</b>
+<p>
+</font></answer></question><question><p>Question 346 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the specialist enzymes of the heart (2)?</b> ... <answer><font color=red> <b>-lipoprotein lipase, -respiratory chain well-developed</b>
+<p>
+</font></answer></question><question><p>Question 347 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the specialist enzymes of the liver?</b> ... <answer><font color=red> <b>-glucokinase,-glu-6-phosphotase,-glycerol kinase, -PEP carboxykinase, -fructokinase,-arginase,-HMG coA synthase and lyase, -7a-hydroxylase</b>
+<p>
+</font></answer></question><question><p>Question 348 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the three sites in the electron transport chain for active proton transfer?</b> ... <answer><font color=red> <b>NADH dehydrogenase, Cyt b/c1, and cytochrome oxidase aa3</b>
+<p>
+</font></answer></question><question><p>Question 349 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What can occur as an excess of cholymicrons (3)?</b> ... <answer><font color=red> <b>pancreatitis, lipemia retinalis and eruptive xanthomas</b>
+<p>
+</font></answer></question><question><p>Question 350 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What can occur as an excess of VLDL?</b> ... <answer><font color=red> <b>pancreatitis</b>
+<p>
+</font></answer></question><question><p>Question 351 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What catalyzes cholymicron to cholymicron remnant?</b> ... <answer><font color=red> <b>lipoprotein lipase</b>
+<p>
+</font></answer></question><question><p>Question 352 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What catalyzes IDL to LDL?</b> ... <answer><font color=red> <b>hepatic TG lipase</b>
+<p>
+</font></answer></question><question><p>Question 353 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What catalyzes VLDL to IDL?</b> ... <answer><font color=red> <b>lipoprotein lipase</b>
+<p>
+</font></answer></question><question><p>Question 354 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What causes a hangover?</b> ... <answer><font color=red> <b>acetylaldehyde accumulates</b>
+<p>
+</font></answer></question><question><p>Question 355 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What color is bilirubin and what is the condition of excess?</b> ... <answer><font color=red> <b>yellow, jaundice</b>
+<p>
+</font></answer></question><question><p>Question 356 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What complex is pyruvate dehydrogenase similar to?</b> ... <answer><font color=red> <b>a-ketogluturate dehydrogenase complex</b>
+<p>
+</font></answer></question><question><p>Question 357 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What do LT C4, D4 and E4 do (4)?</b> ... <answer><font color=red> <b>bronchconstriction, vasoconstriction, contract smooth muscle, increase vascular permeability</b>
+<p>
+</font></answer></question><question><p>Question 358 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does breath smell like during ketoacidosis?</b> ... <answer><font color=red> <b>fruity(acetone)</b>
+<p>
+</font></answer></question><question><p>Question 359 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does excess LDL cause(3)?</b> ... <answer><font color=red> <b>atherosclerosis, xanthomas, and arcus corneae</b>
+<p>
+</font></answer></question><question><p>Question 360 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does oligomycin do to ETC?</b> ... <answer><font color=red> <b>ATPase inhibitor that increases proton gradient but not ATP production</b>
+<p>
+</font></answer></question><question><p>Question 361 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does PGI stand for?</b> ... <answer><font color=red> <b>platelet gathering inhibitor</b>
+<p>
+</font></answer></question><question><p>Question 362 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does the COX pathway yield?</b> ... <answer><font color=red> <b>thromboxanes, prostaglandins and prostacyclin</b>
+<p>
+</font></answer></question><question><p>Question 363 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does the lipooxygenase pathway yield?</b> ... <answer><font color=red> <b>leukotrienes</b>
+<p>
+</font></answer></question><question><p>Question 364 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does this stand for?:  Ordinarily, Careless Crappers Are Also Frivolous About Urination.</b> ... <answer><font color=red> <b>Urea Cycle: Ornithine, citrulline, carbamoyl-p, aspartate, arginosuccinate, fumurate, arginine, urea</b>
+<p>
+</font></answer></question><question><p>Question 365 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What enzyme catalyzes the rate limiting step of cholesterol syn.?</b> ... <answer><font color=red> <b>HMG-CoA reductase</b>
+<p>
+</font></answer></question><question><p>Question 366 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What induces the PPP?</b> ... <answer><font color=red> <b>insulin</b>
+<p>
+</font></answer></question><question><p>Question 367 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is a major component of atherosclerotic plaque?</b> ... <answer><font color=red> <b>modified LDL</b>
+<p>
+</font></answer></question><question><p>Question 368 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is an uncoupling agent to the ETC?</b> ... <answer><font color=red> <b>2,4 DNP (dynamite)</b>
+<p>
+</font></answer></question><question><p>Question 369 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is cofactor required for methionine (SAM) regeneration?</b> ... <answer><font color=red> <b>vitamin B12</b>
+<p>
+</font></answer></question><question><p>Question 370 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What does PGI 2 inhibit (2)?</b> ... <answer><font color=red> <b>platelet aggregation and vasodilation</b>
+<p>
+</font></answer></question><question><p>Question 371 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is familial hypercholesteremia?</b> ... <answer><font color=red> <b>AD genetic defect in LDL receptor</b>
+<p>
+</font></answer></question><question><p>Question 372 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is Kwashikor?</b> ... <answer><font color=red> <b>protein malnutrition</b>
+<p>
+</font></answer></question><question><p>Question 373 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is LT B4?</b> ... <answer><font color=red> <b>neutrophil chemotactic agent</b>
+<p>
+</font></answer></question><question><p>Question 374 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is Marasmus?</b> ... <answer><font color=red> <b>Protein-calorie malnutrition resulting in tissue wasting</b>
+<p>
+</font></answer></question><question><p>Question 375 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the activator of lipogenesis?</b> ... <answer><font color=red> <b>Citrate</b>
+<p>
+</font></answer></question><question><p>Question 376 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the activator of PPP?</b> ... <answer><font color=red> <b>NADP+</b>
+<p>
+</font></answer></question><question><p>Question 377 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the clinical picture of Kwashikor?</b> ... <answer><font color=red> <b>small child with swollen belly</b>
+<p>
+</font></answer></question><question><p>Question 378 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the committed step of heme synthesis?</b> ... <answer><font color=red> <b>glycine+succ CoA to delta-aminolevulinate</b>
+<p>
+</font></answer></question><question><p>Question 379 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the composition of ATP?</b> ... <answer><font color=red> <b>Base(adenine), ribose, 3 phosphoryls</b>
+<p>
+</font></answer></question><question><p>Question 380 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the consequence of accumulated intermediates of heme synthesis?</b> ... <answer><font color=red> <b>porphyrias</b>
+<p>
+</font></answer></question><question><p>Question 381 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the easy way to remember the cofactors of PDH complex?</b> ... <answer><font color=red> <b>First 4 B vitamins + lipoic acid</b>
+<p>
+</font></answer></question><question><p>Question 382 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the effector hormone for glycogenesis?</b> ... <answer><font color=red> <b>Glucagon</b>
+<p>
+</font></answer></question><question><p>Question 383 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the energy content of the 2 phosphoanhydride bonds?</b> ... <answer><font color=red> <b>7 kcal/mol each</b>
+<p>
+</font></answer></question><question><p>Question 384 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the functiion of HDL (2)?</b> ... <answer><font color=red> <b>Transfers cholesterol from periphery to liver; acts as a repository for apoC and apoE.</b>
+<p>
+</font></answer></question><question><p>Question 385 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the functioin of lipoprotein lipase?</b> ... <answer><font color=red> <b>FA uptake into cells from chylomicrons and VLDL's</b>
+<p>
+</font></answer></question><question><p>Question 386 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of aminolevulinate (ALA) synthase?</b> ... <answer><font color=red> <b>Rate limiting step of heme synthesis; converts succinyl CoA and glycine to ALA.</b>
+<p>
+</font></answer></question><question><p>Question 387 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of cholymicrons (2)?</b> ... <answer><font color=red> <b>Delivers dietary TG to peripheral tissues;  delivers dietary cholesterol to liver.</b>
+<p>
+</font></answer></question><question><p>Question 388 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of hormone sensitive lipase?</b> ... <answer><font color=red> <b>degradation of stored TG's</b>
+<p>
+</font></answer></question><question><p>Question 389 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of LDL?</b> ... <answer><font color=red> <b>delivers hepatic cholesterol to peripheral tissues</b>
+<p>
+</font></answer></question><question><p>Question 390 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of phospholipase A2?</b> ... <answer><font color=red> <b>liberates arachidonic acid from cell membrane</b>
+<p>
+</font></answer></question><question><p>Question 391 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of PPP (3)?</b> ... <answer><font color=red> <b>-produces ribose-5-P from G6P for nucleotide synthesis,-produces NADPH,-part of HMP shunt</b>
+<p>
+</font></answer></question><question><p>Question 392 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of SAM?</b> ... <answer><font color=red> <b>transfers methyl units to wide variety of receptors</b>
+<p>
+</font></answer></question><question><p>Question 393 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of the Cori Cycle?</b> ... <answer><font color=red> <b>transfers excess reducing equivalants from RBC's and muscle to liver to allow muscle to function anaerobically</b>
+<p>
+</font></answer></question><question><p>Question 394 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of Tx A2 (2)?</b> ... <answer><font color=red> <b>platelet aggregation and vasoconstriction</b>
+<p>
+</font></answer></question><question><p>Question 395 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the function of VLDL?</b> ... <answer><font color=red> <b>Delivers hepatic TG to peripheral tisssue</b>
+<p>
+</font></answer></question><question><p>Question 396 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the inhibitor of lipogenesis (2)?</b> ... <answer><font color=red> <b>long-chain acyl-CoA, -cAMP</b>
+<p>
+</font></answer></question><question><p>Question 397 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the inhibitor of PPP?</b> ... <answer><font color=red> <b>NADPH</b>
+<p>
+</font></answer></question><question><p>Question 398 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the limiting reagent of ethanol metabolism?</b> ... <answer><font color=red> <b>NAD+</b>
+<p>
+</font></answer></question><question><p>Question 399 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the main substrate of fast twitch muscle?</b> ... <answer><font color=red> <b>glucose</b>
+<p>
+</font></answer></question><question><p>Question 400 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the main substrate of slow twitch muscle?</b> ... <answer><font color=red> <b>ketone bodies, -FFA, -triacylglycerol</b>
+<p>
+</font></answer></question><question><p>Question 401 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of fast twitch muscle?</b> ... <answer><font color=red> <b>rapid movement</b>
+<p>
+</font></answer></question><question><p>Question 402 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of slow twitch muscle?</b> ... <answer><font color=red> <b>sustained movement</b>
+<p>
+</font></answer></question><question><p>Question 403 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the a1 receptor?</b> ... <answer><font color=red> <b>increase vascular smooth muscle contraction</b>
+<p>
+</font></answer></question><question><p>Question 404 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the a2 receptor (2)?</b> ... <answer><font color=red> <b>-decrease sympathetic outflow, -decrease insulin release</b>
+<p>
+</font></answer></question><question><p>Question 405 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the B1 receptor (5)?</b> ... <answer><font color=red> <b>increase HR, -inc. conntractility, -inc. renin release,-inc. lipolysis, -inc. aq. Humor formation</b>
+<p>
+</font></answer></question><question><p>Question 406 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the B2 receptor (3)?</b> ... <answer><font color=red> <b>vasodilation, bronchodilation,  inc. glucagon release</b>
+<p>
+</font></answer></question><question><p>Question 407 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the D1 receptor?</b> ... <answer><font color=red> <b>relax renal vascular smooth muscle</b>
+<p>
+</font></answer></question><question><p>Question 408 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the D2 receptor?</b> ... <answer><font color=red> <b>modulate transmitter release, esp. in brain</b>
+<p>
+</font></answer></question><question><p>Question 409 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the H1 receptor (4)?</b> ... <answer><font color=red> <b>increase mucous production, -contract bronchioles, -pruritis, -pain</b>
+<p>
+</font></answer></question><question><p>Question 410 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the H2 receptor (4)?</b> ... <answer><font color=red> <b>increase gastric acid secretion</b>
+<p>
+</font></answer></question><question><p>Question 411 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the liver?</b> ... <answer><font color=red> <b>service for the other organs and tissues</b>
+<p>
+</font></answer></question><question><p>Question 412 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the M1 receptor?</b> ... <answer><font color=red> <b>CNS</b>
+<p>
+</font></answer></question><question><p>Question 413 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the M2 receptor?</b> ... <answer><font color=red> <b>decrease heart rate</b>
+<p>
+</font></answer></question><question><p>Question 414 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the M3 receptor?</b> ... <answer><font color=red> <b>increase exocrine gland secretions</b>
+<p>
+</font></answer></question><question><p>Question 415 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the V1 receptor?</b> ... <answer><font color=red> <b>increase vascular smooth muscle contraction</b>
+<p>
+</font></answer></question><question><p>Question 416 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major function of the V2 receptor?</b> ... <answer><font color=red> <b>increase water permeability and reabsorption in the renal collecting tubules</b>
+<p>
+</font></answer></question><question><p>Question 417 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major inhibitor of  glyc and pyr ox?</b> ... <answer><font color=red> <b>citrate (FA and ketone bodies) ATP and cAMP, -acetyl CoA, NADH, ATP</b>
+<p>
+</font></answer></question><question><p>Question 418 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major inhibitor of  TCA?</b> ... <answer><font color=red> <b>ATP, long-chain acyl-coA</b>
+<p>
+</font></answer></question><question><p>Question 419 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major inhibitor of cholesterol synthesis (2)?</b> ... <answer><font color=red> <b>cholesterol and cAMP</b>
+<p>
+</font></answer></question><question><p>Question 420 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major inhibitor of glycogenesis?</b> ... <answer><font color=red> <b>ADP and AMP and F-2,6-bis-P</b>
+<p>
+</font></answer></question><question><p>Question 421 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major metabolic pathway of fast twitch muscle?</b> ... <answer><font color=red> <b>glycolysis</b>
+<p>
+</font></answer></question><question><p>Question 422 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major metabolic pathway of slow twitch muscle?</b> ... <answer><font color=red> <b>Aerobic pathways like B oxidation and TCA cycle</b>
+<p>
+</font></answer></question><question><p>Question 423 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major product of fast twitch muscle?</b> ... <answer><font color=red> <b>lactate</b>
+<p>
+</font></answer></question><question><p>Question 424 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major product of slow twitch muscle?</b> ... <answer><font color=red> <b>lactate</b>
+<p>
+</font></answer></question><question><p>Question 425 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major regulatory enzyme of  glycogenolysis?</b> ... <answer><font color=red> <b>glycogen phosphorylase</b>
+<p>
+</font></answer></question><question><p>Question 426 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major regulatory enzyme of  lipogenesis?</b> ... <answer><font color=red> <b>acetyl CoA carboxylase</b>
+<p>
+</font></answer></question><question><p>Question 427 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major regulatory enzyme of  pentose phosphate pathway (PPP)?</b> ... <answer><font color=red> <b>glucose-6-P dehydrogenase</b>
+<p>
+</font></answer></question><question><p>Question 428 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the major regulatory enzyme of  TCA?</b> ... <answer><font color=red> <b>citrate synthase</b>
+<p>
+</font></answer></question><question><p>Question 429 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the mechanism for the ETC inhibitors?</b> ... <answer><font color=red> <b>directly block ETC, cause decreased proton gradient</b>
+<p>
+</font></answer></question><question><p>Question 430 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the mechanism for the ETC uncoupler?</b> ... <answer><font color=red> <b>inc. membrane permeability, decreases proton gradient and increases O2 consmption</b>
+<p>
+</font></answer></question><question><p>Question 431 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the mechanism of ethanol hypoglycemia?</b> ... <answer><font color=red> <b>NADH/NAD increases in liver causes diversion of pyruvate to lactate and OAA to malate inhibits gluconeogenesis and thus leads to hypoglycemia</b>
+<p>
+</font></answer></question><question><p>Question 432 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the mnemonic for the various substrates of the TCA cycle?</b> ... <answer><font color=red> <b>Cindy Is Kinky So She Fornicates More Often</b>
+<p>
+</font></answer></question><question><p>Question 433 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the mneumonic for essential AA?</b> ... <answer><font color=red> <b>PriVaTe TIM HALL</b>
+<p>
+</font></answer></question><question><p>Question 434 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the mneumonic for major apolipoproteins?</b> ... <answer><font color=red> <b><li>A-1 Activates LCAT <li>B-100 Binds to receptor <li>C-II is a Cofactor for LPL <li>E mediates Extra (remnant) uptake</b>
+<p>
+</font></answer></question><question><p>Question 435 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is the pneumonic for the Urea cylce substrates?</b> ... <answer><font color=red> <b>Ordinarily, Careless Crappers Are Also Frivolous About Urination</b>
+<p>
+</font></answer></question><question><p>Question 436 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What is urobilinogen?</b> ... <answer><font color=red> <b>an intestinal intermediate reabsorbed to blood and excreted in urine as urobilin</b>
+<p>
+</font></answer></question><question><p>Question 437 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Where does fatty acid degradation occur?</b> ... <answer><font color=red> <b>Where its products will be consumed--in the mitochondria.</b>
+<p>
+</font></answer></question><question><p>Question 438 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What rxn does pyruvate dehydrogenase catalyze?</b> ... <answer><font color=red> <b>pyruvate+NAD+CoA goes to acetyl-CoA +CO2+NADH</b>
+<p>
+</font></answer></question><question><p>Question 439 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What second messenger system does Gi work through?</b> ... <answer><font color=red> <b>adenylcyclase reduces cAMP levels and protein kinase A is reduced</b>
+<p>
+</font></answer></question><question><p>Question 440 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What second messenger system does Gq work through?</b> ... <answer><font color=red> <b>phospholipase C, PIP2 to IP3 and DAG DAG works through protein kinase C IP3 increases IC calcium ion</b>
+<p>
+</font></answer></question><question><p>Question 441 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What second messenger system does Gs work through?</b> ... <answer><font color=red> <b>adenylcyclase converts ATP to cAMP to phosphorylate protein kinase A</b>
+<p>
+</font></answer></question><question><p>Question 442 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are some properties of bilirubin (3)?</b> ... <answer><font color=red> <b>Sparingly water soluble, toxic to CNS, transported by albumin.</b>
+<p>
+</font></answer></question><question><p>Question 443 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What step does HMG-CoA reductase work on?</b> ... <answer><font color=red> <b>HMG-CoA to mevalonate</b>
+<p>
+</font></answer></question><question><p>Question 444 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What suppresses glycogenesis?</b> ... <answer><font color=red> <b>glucagon (liver), epinephrine.</b>
+<p>
+</font></answer></question><question><p>Question 445 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What tissues require insulin for glucose uptake?</b> ... <answer><font color=red> <b>adipose and skeletal muscle</b>
+<p>
+</font></answer></question><question><p>Question 446 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What type of metabolism occurs in both the cytoplasm and mitochondria (3)?</b> ... <answer><font color=red> <b>gluconeogenesis, urea cycle, heme synthesis</b>
+<p>
+</font></answer></question><question><p>Question 447 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What type of metabolism occurs in the cytoplasm (5)?</b> ... <answer><font color=red> <b>glycolysis, -fatty acid synthesis, -HMP shunt, -protein synthesis (RER), -steroid synthesis (SER)</b>
+<p>
+</font></answer></question><question><p>Question 448 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What type of metabolism occurs in the mitochondria (3)?</b> ... <answer><font color=red> <b>Beta oxidation, -Acetyl-CoA production, -Kreb's cycle</b>
+<p>
+</font></answer></question><question><p>Question 449 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>When are ketone bodies formed (2)?</b> ... <answer><font color=red> <b>During prolonged starvation, diabetic ketoacidosis.</b>
+<p>
+</font></answer></question><question><p>Question 450 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Where are basic AA found in high amounts?</b> ... <answer><font color=red> <b>in Histones that bind to negative DNA</b>
+<p>
+</font></answer></question><question><p>Question 451 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Where are cholymicrons made?</b> ... <answer><font color=red> <b>small intestine</b>
+<p>
+</font></answer></question><question><p>Question 452 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Where are ketone bodies made?</b> ... <answer><font color=red> <b>liver</b>
+<p>
+</font></answer></question><question><p>Question 453 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Where does FA degradation occur?</b> ... <answer><font color=red> <b>mitochondria, where it will be used</b>
+<p>
+</font></answer></question><question><p>Question 454 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Where does FA synthesis occur?</b> ... <answer><font color=red> <b>cytosol</b>
+<p>
+</font></answer></question><question><p>Question 455 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Where is ALA synthase found and what inhibits it?</b> ... <answer><font color=red> <b>mitochondria, heme</b>
+<p>
+</font></answer></question><question><p>Question 456 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Where is HDL secreted from (2)?</b> ... <answer><font color=red> <b>liver and small intestine</b>
+<p>
+</font></answer></question><question><p>Question 457 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Where is insulin made?</b> ... <answer><font color=red> <b>B cells of pancreas</b>
+<p>
+</font></answer></question><question><p>Question 458 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Where is NADPH generated?</b> ... <answer><font color=red> <b>is a product of HMP shunt and the malate dehydrogenase rxn</b>
+<p>
+</font></answer></question><question><p>Question 459 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Where is SAM generated?</b> ... <answer><font color=red> <b>From ATP and methionine</b>
+<p>
+</font></answer></question><question><p>Question 460 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Where is VLDL made?</b> ... <answer><font color=red> <b>liver</b>
+<p>
+</font></answer></question><question><p>Question 461 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Which ketone body is detected in urine test (1 only)?</b> ... <answer><font color=red> <b>acetoacetate</b>
+<p>
+</font></answer></question><question><p>Question 462 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Carbon monoxide has a greater affinity for what molecule?</b> ... <answer><font color=red> <b>CO has 200x greater affinity for hemoglobin than oxygen does.</b>
+<p>
+</font></answer></question><question><p>Question 463 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Describe the subunits for hemoglobin?</b> ... <answer><font color=red> <b>hemoglobin is composed of 4 polypeptide subunits (2 alpha and 2 beta)</b>
+<p>
+</font></answer></question><question><p>Question 464 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>During the cycle of the Na<sup>+</sup>-K<sup>+</sup>ATPase pump, it is __.</b> ... <answer><font color=red> <b>phosphorylated</b>
+<p>
+</font></answer></question><question><p>Question 465 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How are enzymes regulated?</b> ... <answer><font color=red> <b>1. enzyme concentration alteration (syntesis and/or destruction) 2. covalent modification (eg. phosphorylation) 3. proteolytic modification (zymogen) 4. allosteric regulation (eg. feedback inhibition) 5. transcriptional regulation (eg. steroid hormones)</b>
+<p>
+</font></answer></question><question><p>Question 466 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How does calcium cause skeletal muscle contraction?</b> ... <answer><font color=red> <b>Ca2+ -&gt; activates troponin -&gt; moves tropomyosin -&gt; exposes actin-bining site -&gt; allows actin-myosin interaction</b>
+<p>
+</font></answer></question><question><p>Question 467 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How does calcium cause smooth muscle contraction?</b> ... <answer><font color=red> <b>Ca2+ -&gt; binds to calmodulin because smooth muscle doesn't have troponins!</b>
+<p>
+</font></answer></question><question><p>Question 468 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How does procollagen molecules become collagen fibrils?</b> ... <answer><font color=red> <b>Procollagen molecules are exocytosed into extracellular space.  Procollagen molecules cleaved at terminal regions by peptidases to become insoluble tropocollagen, which aggregates to form fibrils.</b>
+<p>
+</font></answer></question><question><p>Question 469 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is  CO2 transported from tissue to lungs?</b> ... <answer><font color=red> <b>- binds to amino acids in globin chain (at N-terminus), not to heme - favors T form of Hb (thus promotes O2 unloading)</b>
+<p>
+</font></answer></question><question><p>Question 470 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is collagen fibillar structure reinforced?</b> ... <answer><font color=red> <b>by the formation of covalent lysine-hydroxylysine crosslinks between tropocollagen molecules</b>
+<p>
+</font></answer></question><question><p>Question 471 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>How is hemoglobin structure regulated?</b> ... <answer><font color=red> <b>Increased Cl<sup>-</sup>, H<sup>+</sup>,  CO<sub>2</sub>, DPG, and temperature favor T form (low affinity of O<sub>2</sub>)--shifting the dissociation curve to the right, leading to increased O<sub>2</sub> unloading.</b>
+<p>
+</font></answer></question><question><p>Question 472 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Most cells are in which cell cycle phase?</b> ... <answer><font color=red> <b>G0</b>
+<p>
+</font></answer></question><question><p>Question 473 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>On what cellular stuctures are microtubules found?</b> ... <answer><font color=red> <b>flagella, cilia, mitotic spindles</b>
+<p>
+</font></answer></question><question><p>Question 474 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>On which cells is phosphotidylcholine (lecithin) a major component?</b> ... <answer><font color=red> <b>- RBC membranes - myelin - bile - surfactant (DPPC--dipalmitoyl phosphatidylcholine) - also used in the esterification of cholesterol</b>
+<p>
+</font></answer></question><question><p>Question 475 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>Only the non-cytoplasmic side of membrane contains what?</b> ... <answer><font color=red> <b>glycosylated lipids or proteins</b>
+<p>
+</font></answer></question><question><p>Question 476 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>The lower the Km, the (higher/lower/remains same) the affinity?</b> ... <answer><font color=red> <b>higher</b>
+<p>
+</font></answer></question><question><p>Question 477 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the 2 forms of hemoglobin?</b> ... <answer><font color=red> <b>- T (taut) form has low affininty for oxygen - R (relaxed) form has 300x higher affinity for oxygen. Hb exerts positive cooperativity and negative allostery, accounting for the sigmoid-shaped O<sub>2</sub> disassociation curve (which myoglobin doesn't have).[Hint: When you're RELAXED, you do your job better (carry more O2)]</b>
+<p>
+</font></answer></question><question><p>Question 478 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the cell cycle phases?</b> ... <answer><font color=red> <b>Mitosis (Prophase-Metaphase-Anaphase-Telophase) G1 (Gap or Growth) S (Synthesis of DNA) G2 (Gap or Growth) G0 (quiescent G1 phase)</b>
+<p>
+</font></answer></question><question><p>Question 479 of 479: <b>Biochemistry</b>
+<p><font size=5> <b>What are the characteristics of a microtubule?</b> ... <answer><font color=red> <b>- cylindrical structure 24nm in dia and variable length - helical array of polymerized dimers of alpha- and beta-tubulin</b>
+<p>
+</font></answer></question>

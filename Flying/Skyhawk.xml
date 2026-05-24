@@ -1,0 +1,128 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Skyhawk.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	Skyhawk.xml - Learn critical numbers and characteristics of a Cessna 172
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	Skyhawk.xml - Learn critical numbers and characteristics of a Cessna 172
+-------------------------------------------------------------------------->
+
+<concept><pre> Total fuel/tank:				21.5 Gallons<br> Usable fuel:					40 Gallons<br> Oil:						4-8 quarts<br> VNe (Maximum air speed in any condition):	158<br> VNo (Maximum air speed in rough air):		127<br> VFe (Maximum air speed with flaps):		85<br> Va (maneuvering speed):				82-99<br> VS (Stall speed without flaps):			44<br> VSo (Stall speed with flaps):			33<br> Vx (Best angle):				56<br> Vy (Best rate):					70<br> Engine at 2700RPM:				160HP<br> <br> Engine failure after takeoff:			60 Kias<br> Maneuvering speed (1670 lbs):			104 Kias<br> Maneuvering speed (1500 lbs):			98 Kias<br> Maneuvering speed (1350 lbs):			93 Kias<br> Maximum glide:					60 Kias<br> Precautionary landing with engine power:	55 Kias<br> Landing without engine power and flaps up:	65 Kias<br> Landing without engine power and flaps down:	60 Kias<br>
+<question> What is the emergency airspeed for engine failure after takeoff?<br>
+<answer right>60 Kias
+<answer>55 Kias
+<answer>65 Kias
+<answer>95 Kias
+<question> What is the emergency maneuvering air speed when loaded to 1670 gross weight?<br>
+<answer right>104 Kias
+<answer>98 Kias
+<answer>93 Kias
+<answer>125 Kias
+<question> What is the emergency maneuvering air speed when loaded to 1500 gross weight?<br>
+<answer right>98 Kias
+<answer>104 Kias
+<answer>93 Kias
+<answer>125 Kias
+<question> What is the emergency maneuvering air speed when loaded to 1350 gross weight?<br>
+<answer right>93 Kias
+<answer>104 Kias
+<answer>98 Kias
+<answer>125 Kias
+<question> What is the air speed for the longest glide path?<br>
+<answer right>60 Kias
+<answer>55 Kias
+<answer>65 Kias
+<answer>70 Kias
+<question> What air speed should be used for a precautionary landing with engine power?<br>
+<answer right>55 Kias
+<answer>60 Kias
+<answer>65 Kias
+<answer>70 Kias
+<question> What air speed should be used for landing without engine power and flaps up?<br>
+<answer right>65 Kias
+<answer>60 Kias
+<answer>55 Kias
+<answer>70 Kias
+<question> What air speed should be used for landing without engine power and flaps down?<br>
+<answer right>60 Kias
+<answer>65 Kias
+<answer>55 Kias
+<answer>70 Kias
+<question> What is the total usable fuel in a tank?<br>
+<answer right>21.5 Gal
+<answer>30 Gal
+<answer>20.5 Gal
+<answer>20.5 Gal
+<question> What is the oil range for a Skyhawk?<br>
+<answer right>4-8
+<answer>6-8
+<answer>4-6
+<answer>8-12
+<question> What is VNe?<br>
+<answer right>Maximum speed in any conditions, 158 KIAS
+<answer>Maximum speed in any conditions, 150 KIAS
+<answer>Maximum speed in smooth air, 127 KIAS
+<answer>Maximum speed in smooth air, 158 KIAS
+<question> What is VNo?<br>
+<answer right>Maximum speed in smooth air, 127 KIAS
+<answer>Maximum speed in any conditions, 158 KIAS
+<answer>Maximum speed in any conditions, 150 KIAS
+<answer>Maximum speed in smooth air, 158 KIAS
+<question> What is VFe?<br>
+<answer right>Maximum speed with flaps extended, 85 KIAS
+<answer>Maximum speed in smooth air, 127 KIAS
+<answer>Stall speed with flaps extended, 33 KIAS
+<question> What is VA?<br>
+<answer right>Manuevering speed, 88-99 KIAS (Heavier means faster)
+<answer>Maximum speed in smooth air, 127 KIAS
+<answer>Maximum speed with flaps extended, 85 KIAS
+<question> What is VS?<br>
+<answer right>Stall speed without flaps, 44 KIAS
+<answer>Stall speed, 33 KIAS
+<answer>Never exceed speed, 158 KIAS
+<question> What is VSo?<br>
+<answer right>Stall speed with flaps, 33 KIAS
+<answer>Stall speed without flaps, 44 KIAS
+<answer>Never exceed speed, 127 KIAS
+<question> What is Vx?<br>
+<answer right>Best angle of climb, 56 KIAS
+<answer>Best rate of climb, 70 KIAS
+<answer>Best angle of climb, 70 KIAS
+<answer>Best rate of climb, 56 KIAS
+<question> What is Vy?<br>
+<answer right>Best rate of climb, 70 KIAS
+<answer>Best angle of climb, 56 KIAS
+<answer>Best angle of climb, 70 KIAS
+<answer>Best rate of climb, 56 KIAS

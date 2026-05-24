@@ -1,0 +1,78 @@
+<!------------------------------------------------------------------------
+--
+--indx#	NTSB.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	NTSB.xml - Learn about dealing with the National Transportation Safety Board
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	NTSB.xml - Learn about dealing with the National Transportation Safety Board
+-------------------------------------------------------------------------->
+
+<concept><pre> 830.1 Applicability.  This part contains rules pertaining to:<br> (a) Notification and reporting aircraft accidents and incidents and certain<br> other occurances in the operating of aircraft when they involve civil<br> aircraft of the United States wherever they occur, or foreign civil<br> aircraft when such events occur in the United States, its territories or<br> possession.<br> (b) Preservation of aircraft wreckage, mail, cargo, and records involving<br> all aircraft in the United States, its territories or possessions.<br> 830.2 Definitions.  As used in this part the following words or phrases are<br> defined as follows:<br>     "Aircraft accident" means any occurrence associated with the operation<br>     of an aircraft which takes place between the time any person boards the<br>     aircraft with the intention of flight and such persons have<br>     disembarked, and in which any person suffers death or series injury, or<br>     in which the aircraft receives substantial damage.<br> <br>     "Fatal injury" means any injury which results in death within 30 days<br>     of the accident.<br> <br>     "Incident" means any occurrence other than an accident, associated with<br>     the operation of an aircraft, which affects or could affect the safety<br>     of operations.<br> <br>     "Serious Injury" means any injury which (1) requires hospitalization<br>     for more than 48 hours, commencing within 7 days from the date of the<br>     injury was received; (2) results in a fracture of any bones (Except<br>     simple fractures of fingers, toes, or nose); (3) causes severe<br>     hemorrhages, nerve, muscle, or tendon damage; (4) involves any internal<br>     organ; or (5) involves second- or third-degree burns, or any burns<br>     affecting more than 5 percent of the body surface.<br> <br>     "Operator" means any person who causes or authorizes the operation of<br>     an aircraft, such as the owner, lesee, or bailee of an aircraft.<br> <br>     "Substantial damage" means damage or failure which adversely affects<br>     the structural strength, performance, or flight characteristics of the<br>     aircraft, and which would normally require major repair or replacement<br>     of the affected component.  Engine failure, damage limited to an<br>     engine, bent fairings, or cowling, dented skin, small punctured holes<br>     in the skin or fabric, ground damage to rotor or propeller blades,<br>     damage to landing gear, wheels, tires, flaps, engine eaccessories,<br>     brakes, or wingtips are not considered "substantial damage" for the<br>     purposes of this part.<br> <br> Initial notification of Aircraft Accidents, Incidents, and Overdue<br> Aircraft:<br> 830.5 Immediate Notification.  The operator of an aircraft shall<br> immediately, and by the most expeditious means available, notify the<br> nearest National Transportation Safety Board field office when:<br> (a) An aircraft accident or any of the following incidents occur:<br>     (1) Flight control system malfunction or failure;<br>     (2) Inability of any required flight crewmember to perform normal<br> 	flight duties as a result of injury or illness;<br>     (3) Failure of structural components of a turbine engine excluding<br> 	compressor and turbine blades and vanes;<br>     (4) In flight fire; or<br>     (5) Aircraft collide in flight.<br> (b) An aircraft is overdue and is believed to have been involved in an<br> accident.<br>
+<question> 125: If an aircraft is involved in an accident which resulted in<br> substantial damage to the aircraft, the nearest NTSB field office should be<br> notified:<br>
+<answer right>Immediately
+<answer>Within 5 days
+<answer>Within 7 days
+<answer>Within 10 days
+<question> 126: An aircraft is involved in an accident that results in substantial<br> damage to the aircraft, but no injuries to the occupants.  When must the<br> pilot or operator of the aircraft notify the nearest NTSB field office of<br> the occurrence?<br>
+<answer right>Immediately
+<answer>Within 1 week
+<answer>Within 48 hours
+<answer>Within 10 days
+<question> 127: Which incident requires an immediate notification to the nearest NTSB<br> field office?<br>
+<answer right>Inability of any required crewmember to perform normal flight duties due to in-flight injury or illness.<br>
+<answer>A forced landing due to engine failure.
+<answer>Landing gear damage, due to a hard landing.
+<answer>Substantial aircraft ground fire with no intention of flight.
+<question> 128: Of the following incidents, which would necessitate an immediate<br> notification to the nearest NTSB field office?<br>
+<answer right>An in-flight fire
+<answer>An in-flight generator/alternator failure.
+<answer>An in-flight loss of VOR receiver capability.
+<answer>Ground damage to the propellar blades.
+<question> 129: Which of these incidents would require that an immediate notification<br> be made to the nearest NTSB field office?<br>
+<answer right>An overdue aircraft that is believed to be involved in an accident.
+<answer>An in-flight radio (Communication) failure.
+<answer>An in-flight generator or alternator failure.
+<answer>In-flight hail damage.</pre></concept>
+<concept><pre> 830.15 Reports and statements to be filed.<br> (a) Reports.  The operator of an aircraft shall file a report...within 10<br> days after an accident, or after 7 days if an overdue aircraft is still<br> missing.  A report on an incident for which notification is required by<br> section 830.5(a) shall be filed only as required by an authorized<br> representative of the board.<br>
+<question> 130: The operator of an aircraft that has been involved in an accident is<br> required to file an accident report within how many days?<br>
+<answer right>10
+<answer>3
+<answer>5
+<answer>7
+<question> 131: The operator of an aircraft that has been involved in an incident is<br> required to submit a report to the nearest field office of the NTSB:<br>
+<answer right>Only if requested to do so.
+<answer>Within 3 days
+<answer>Within 10 days
+<answer>Within 7 days

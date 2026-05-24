@@ -1,0 +1,148 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Azimuth.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	Azimuth.xml - Quiz to teach you the compass rose
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	Quiz to teach you the compass rose
+-------------------------------------------------------------------------->
+<concept>
+<pre>
+       0-360<br>
+         |  <br>
+  315    N    45<br>
+      NW | NE<br>
+270--W---*---E--90<br>
+      SW | SE<br>
+   225   S   135<br>
+         |  <br>
+	180<br>
+<question>Azimuth bearing for North is
+<answer right>0 or 360 degrees</answer>
+<answer>90 degrees</answer>
+<answer>180 degrees</answer>
+<answer>270 degrees</answer>
+</question>
+<question>0 degrees points:
+<answer right>North</answer>
+<answer>East</answer>
+<answer>South</answer>
+<answer>West</answer>
+</question>
+<question>Azimuth bearing for East is
+<answer>0 or 360 degrees</answer>
+<answer right>90 degrees</answer>
+<answer>180 degrees</answer>
+<answer>270 degrees</answer>
+</question>
+<question>90 degrees points:
+<answer>North</answer>
+<answer right>East</answer>
+<answer>South</answer>
+<answer>West</answer>
+</question>
+<question>Azimuth bearing for South is
+<answer>0 or 360 degrees</answer>
+<answer>90 degrees</answer>
+<answer right>180 degrees</answer>
+<answer>270 degrees</answer>
+</question>
+<question>180 degrees points:
+<answer>North</answer>
+<answer>East</answer>
+<answer right>South</answer>
+<answer>West</answer>
+</question>
+<question>Azimuth bearing for West is
+<answer>0 or 360 degrees</answer>
+<answer>90 degrees</answer>
+<answer>180 degrees</answer>
+<answer right>270 degrees</answer>
+</question>
+<question>270 degrees points:
+<answer>North</answer>
+<answer>East</answer>
+<answer>South</answer>
+<answer right>West</answer>
+</question>
+<question>Azimuth bearing for North East is
+<answer right>45 degrees</answer>
+<answer>135 degrees</answer>
+<answer>225 degrees</answer>
+<answer>315 degrees</answer>
+</question>
+<question>45 degrees points:
+<answer>North East</answer>
+<answer>North West</answer>
+<answer>South East</answer>
+<answer>South West</answer>
+</question>
+<question>Azimuth bearing for North West is
+<answer>45 degrees</answer>
+<answer>135 degrees</answer>
+<answer>225 degrees</answer>
+<answer right>315 degrees</answer>
+</question>
+<question>315 degrees points:
+<answer>North East</answer>
+<answer right>North West</answer>
+<answer>South East</answer>
+<answer>South West</answer>
+</question>
+<question>Azimuth bearing for South East is
+<answer>45 degrees</answer>
+<answer right>135 degrees</answer>
+<answer>225 degrees</answer>
+<answer>315 degrees</answer>
+</question>
+<question>135 degrees points:
+<answer>North East</answer>
+<answer>North West</answer>
+<answer right>South East</answer>
+<answer>South West</answer>
+</question>
+<question>Azimuth bearing for South West is
+<answer>45 degrees</answer>
+<answer>135 degrees</answer>
+<answer right>225 degrees</answer>
+<answer>315 degrees</answer>
+</question>
+<question>225 degrees points:
+<answer>North East</answer>
+<answer>North West</answer>
+<answer>South East</answer>
+<answer right>South West</answer>
+</question>
+</concept>

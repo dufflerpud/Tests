@@ -1,0 +1,262 @@
+<!------------------------------------------------------------------------
+--
+--indx#	ER.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 3 2006/03/09 22:33
+<question>Class of drugs that may cause
+<rl sep=and commamode>
+    <li> syndrome of muscle rigidity
+    <li> hyperthermia
+    <li> autonomic instability
+    <li> extrapyramidal symptoms
+</rl> is:
+<answer>Antipsychotics (neuroleptic malignant syndrome)</answer></question>
+
+<question>Side effects of corticosteriods are:
+<answer>
+<ol sep=and commamode>
+    <li> Acute mania
+    <li> Immunosuppression
+    <li> Thin skin
+    <li> Osteoporosis
+    <li> Easy bruising
+    <li> Myopathies
+</ol>
+</answer></question>
+
+<question>Treatment for DTs is:
+<answer>Benzodiazepines</answer></question>
+
+<question>Treatment for acetaminophen overdose is:
+<answer>N-acetylcysteine</answer></question>
+
+<question>Treatment for opiod overdose is:
+<answer>Naloxone</answer></question>
+
+<question>Treatment for benzodiazepine overdose is:
+<answer>Flumazenil</answer></question>
+
+<question>Treatment for iron overdose is:
+<answer>Deferoxamine</answer></question>
+
+<question>Treatment for neuroleptic malignant syndrome is:
+<answer>
+<ol sep=and commamode>
+    <li> Dantrolene
+    <li> Bromocriptine
+</ol>.</answer></question>
+
+<question>Treatment for malignant hypertension (HTN) is:
+<answer>Nitroprusside</answer></question>
+
+<question>Treatment for Atrial Fibrulation (AF) is:
+<answer>
+<ol sep=and commamode>
+    <li> Rate control
+    <li> Rhythm conversion
+    <li> Anticoagulation
+</ol>.
+</answer></question>
+
+<question>Treatment for supraventricular tachycardia (SVT) is:
+<answer>Rate control with carotid message or other vagal stimulation
+	</answer></question>
+
+<question>Causes of drug-induced SLE are:
+<answer>
+<ol sep=and commamode>
+    <li> INH
+    <li> Penicillamine
+    <li> Hydralazine
+    <li> Procainamide
+</ol>.
+</answer></question>
+
+<question>A patient presents with
+<rl sep=and commamode>
+    <li> Macrocytic megaloblastic anemia
+    <li> Neurologic symptoms
+</rl> indicating:
+<answer>B12 deficiency</answer></question>
+
+<question>A patient presents
+<rl sep=and commamode>
+    <li> with Macrocytic, megaloblastic anemia
+    <li> without neurologic symptoms
+</rl> indicating:
+<answer>Folate deficiency</answer></question>
+
+<question>Burn patient presents with
+<rl sep=and commamode>
+    <li> cherry-red flushed skin
+    <li> coma
+    <li> SaO2 is normal
+    <li> carboxyhemoglobin is elevated
+</rl>.  What is the treatment?
+<answer>Treat CO poisoning with 100% oxygen or with hyperbaric oxygen
+	if poison is severe or patient is pregnant.</answer></question>
+
+<question>
+<rl sep=and commamode>
+    <li> Blood in the urethral meatus
+    <li> High-riding prostate
+</rl> indicate:
+<answer>
+<ol sep=and commamode>
+    <li> Bladder rupture
+    <li> Urethral injury
+</ol>.</answer></question>
+
+<question>Test to rule out urethral injury is:
+<answer>Retrograde cystourethrogram</answer></answer>
+
+<question>Radiographic evidence of aortic disruption or dissection:
+<answer>
+<ol sep=and commamode>
+    <li> Widened mediastinum more than 8cm
+    <li> Loss of aortic knob
+    <li> Pleural cap
+    <li> Tracheal deviation to the right
+    <li> Depression of left main stem bronchus
+</ol>
+</answer></question>
+
+<question>Radiographic indications for surgery in patients with acute abdomen:
+<answer>
+<ol sep=and commamode>
+    <li> Free air under the diaphram
+    <li> Extravasation of contrast
+    <li> Severe bowel distention
+    <li> Space-occupying lesion (CT)
+    <li> Mesenteric occlusion (angiography)
+</ol>
+</answer></question>
+
+<question>Most common organism in burn-related infections is:
+<answer>Pseudomonas</answer></question>
+
+<question>Method of calculating fluid repletion in burn patients is:
+<answer>Parkland formula</answer></question>
+
+<question>Acceptable urine output in a trauma patient is:
+<answer>At least 50cc per hour</answer></question>
+
+<question>Acceptable urine output in a stable patient is:
+<answer>At least 30cc per hour</answer></question>
+
+<question>Cannon "a" waves indicate:
+<answer>Third degree heart block</answer></question>
+
+<question>Signs of neurogenic shock are:
+<answer>
+    <ol sep=and commamode>
+    <li> Hypotension
+    <li> Bradycardia
+    </ol>
+</answer></question>
+
+<question>Signs of increased ICP (Cushing's triad) are:
+<answer>
+    <ol sep=and commamode>
+    <li> Hypertension (HTN)
+    <li> Bradycardia
+    <li> Abnormal respirations
+    </ol>
+</answer></question>
+
+<question>
+<rl sep=and commamode>
+    <li> Decreased Cardiac Output (CO)
+    <li> Decreased pulmonary capillary wedge pressure (PCWP)
+    <li> Increase peripheral vascular resistance (PVR)
+</rl> indicate:
+<answer>Hypovolemic shock</answer></question>
+
+<question>
+<rl sep=and commamode>
+    <li> Decreased Cardiac Output (CO)
+    <li> Increased pulmonary capillary wedge pressure (PCWP)
+    <li> Increased peripheral vascular resistance (PVR)
+</rl> indicate:
+<answer>Cardiogenic shock</answer></question>
+
+<question>
+<rl sep=and commamode>
+    <li> Increased Cardiac Output (CO)
+    <li> Decreased pulmonary capillary wedge pressure (PCWP)
+    <li> Decreased peripheral vascular resistance (PVR)
+</rl> indicate:
+<answer>Septic or anaphylatic shock</answer></question>
+
+<question>Treatment for septic shock is:
+<answer>
+<ol sep=and commamode>
+    <li> Fluids
+    <li> Antibiotics
+</ol>
+</answer></question>
+
+<question>Treatment for cardiogenic shock is:
+<answer>
+<ol>
+    <li>Identify cause
+    <li>Pressors (e.g. dobutamine)
+</ol>
+</answer></question>
+
+<question>Treatment for hypovolemic shock is:
+<answer>
+<ol>
+    <li>Identify cause
+    <li>Fluid or blood repletion
+</ol>
+</answer></question>
+
+<question>Treatment for anaphylactic shock is:
+<answer>Diphenhydramine or epinephrine 1:1000</answer></question>
+
+<question>Supportive treatment for ARDS is:
+<answer>Continuous positive airway pressure (CPAP)</answer></question>
+
+<question>Signs of an air embolism are:
+<answer>Patient with chest trauma who was previously stable dies
+	</answer></question>
+
+<question>Trauma series is:
+<answer>
+<ol sep=and commamode>
+    <li> AP chest
+    <li> AP Cervical-Spine
+    <li> Lateral Cervical-Spine
+    <li> AP pelvis
+</ol>
+</answer></question>
+</concept>

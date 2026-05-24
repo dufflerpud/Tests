@@ -1,0 +1,209 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Pulmonary.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 4 ?
+<question>Risk factors for DVT are:
+<answer>
+<rl sep=and>
+    <li>Stasis
+    <li>Endothelial injury
+    <li>Hypercoagulability
+</rl>
+</answer></question>
+
+<question>Hampton's hump on an X-ray indicates:
+<answer>Pulmonary Embolism (PE)</answer></question>
+
+<question>Criteria for exudative effusion are:
+<answer>
+<rl sep=and>
+    <li>Pleural/serum protein more than 0.5
+    <li>Pleural/serum LDH more than 0.6
+</rl>
+</answer></question>
+
+<question>Causes of exudative effusion are:
+<answer>Think of leaky capillaries:
+<rl sep=and>
+    <li>Malignancy
+    <li>TB
+    <li>Bacterial infection
+    <li>Viral infection
+    <li>Pulmonary Embolism (PE) with infarct
+    <li>Pancreatitis
+</rl>
+</answer></question>
+
+<question>Causes of transudative effusion are:
+<answer>Think of intact capillaries:
+<rl sep=and>
+    <li>CHF
+    <li>Liver disease
+    <li>Kidney disease
+    <li>Protein losing enteropathy
+</rl>
+</answer></question>
+
+<question>Pulmonary lesion of sarcoidosis is:
+<answer>Noncaseating granulomas</answer></question>
+
+<question>Normalizing PCO2 in a patient having an asthma exacerbation may
+	indicate:
+<answer>Fatigue and impending respiratory failure</answer></question>
+
+<question>
+Patient has:
+<rl sep=and>
+    <li>Dyspnea
+    <li>Lateral hilar lymphodenopathy on CXR
+    <li>Increased ACE
+    <li>Hypercalcemia
+</rl> indicating:
+<answer>Sarcoidosis</answer></question>
+
+<question>Treatment for child presenting with acute asthma attack:
+<answer>IV steroids</answer></question>
+
+<question>Curschmann's spirals (whorled mucous plugs) indicate:
+<answer>Bronchial Asthma</answer></question>
+
+<question>PFT showing decrease FEV1/FVC indicate:
+<answer>Obstructive pulmonary disease (e.g. asthma)</answer></question>
+
+<question>PFT showing increased FEV1/FVC indicate:
+<answer>Restrictive pulmonary disease</answer></question>
+
+<question>Infant presents with:
+<rl sep=and>
+    <li>Failure to thrive
+    <li>Frequent pulmonary infections
+    <li>Greasy stools
+</rl> What is the diagnostic test?
+<answer>Sweat chloride test more than 60 mEq/L=CF (in children)
+	</answer></question>
+
+<question>Common pathogens in CF patients are:
+<answer>
+<rl sep=and>
+    <li>Pseudomonas
+    <li>S. Aureus
+</rl>
+</answer></question>
+
+<question>Honeycomb pattern on CXR.  Diagnosis?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+<tr><th align=left>Diagnosis:</th>
+    <td>Diffuse interstitial pulmonary fibrosis</td></tr>
+<tr><th align=left>Treatment:</th>
+    <td><li>Supportive care
+    	<li>Steroids may help
+    </td></tr>
+</table></center></answer>
+
+<question>Treatment for superior vena cava syndrome is:
+<answer>Radiation</answer></question>
+
+<question>Treatment for mild, persistent asthma is:
+<answer>Inhaled Beta-agonists and inhaled corticosteroids</answer></question>
+
+<question>What are the blood gas values for a pulmonary embolism:
+<answer>
+<rl sep=and>
+    <li>Hypoxia
+    <li>Hypocarbia
+</rl>
+</answer></question>
+
+<question>Non-small cell lung cancer (NSCLC) associated with hypercalcemia is:
+<answer>Squamous Cell Carcinmoa (SCC)</answer></question>
+
+<question>Lung cancer assciated with SIADH is:
+<answer>Small cell lung cancer (SCLC)</answer></question>
+
+<question>Lung cancer highly related to cigarette exposure is:
+<answer>Small cell lung cancer (SCLC)</answer></question>
+
+<question>Tall, white male presents with acute shortness of breath.
+	Diagnosis?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+<tr><th align=left>Diagnosis:</th>
+    <td>Spontaneous pneumothorax</td></tr>
+<tr><th align=left>Treatment:</th>
+    <td><li>Spontaneous regression
+    	<li>Oxygen may be helpful
+    </td></tr>
+</table></center></answer>
+
+<question>Treatment of tension pneumothorax is:
+<answer>Immediate needle thoracostomy</answer></question>
+
+<question>Characteristics favoring carcinoma in an isolated pulmonary nodule:
+<answer>
+<rl sep=and>
+    <li>Patient more than 45 to 50 years old
+    <li>Lesions new or larger in comparison to old films
+    <li>Absence of calcification or irregular calcification
+    <li>Size more than 2cm
+    <li>Irregular margins
+</rl>
+</answer></question>
+
+<question>Hypoxemia and pulmonary edema with normal pulmonary capillary wedge
+	pressure indicate:
+<answer>Acute respiratory distress syndrome (ARDS)</answer></question>
+
+<question>Silicosis increases the risk of what infection:
+<answer>Mycobacterium tuberculosis</answer></question>
+
+<question>Causes of hypoxemia are:
+<answer>
+<rl sep=and>
+    <li>Right to left shunt
+    <li>Hypoventilation
+    <li>Low inspired oxygen tension
+    <li>Diffusion defect
+    <li>Ventilation-perfusion mismatch
+</rl>
+</answer></question>
+
+<question>Classic CXR findings for pulmonary edema are:
+<answer>
+<rl sep=and>
+    <li>Cardiomegaly
+    <li>Prominant pulmonary vessels
+    <li>Kerley B lines
+    <li>"Bat's-wing" appearance of hilar shadows
+    <li>Perivascular cuffing
+    <li>Peribronchial cuffing
+</rl>
+</answer></question>
+</concept>

@@ -1,0 +1,77 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Wrong.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	Wrong.xml - Questions I got wrong
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	Wrong.xml - Questions I got wrong
+-------------------------------------------------------------------------->
+
+<concept><pre> Grow up!<br>
+<question> 1105-383:<br> The proper adjustment to make on the attitude indicator, Figure 17 during<br> level flight is to align the:<br>
+<answer right>Miniature airplane to the horizon bar.
+<answer>Horizon bar to the level flight indication.
+<answer>Hoizon bar to the miniature airplane.
+<answer>Banking indicator to the zero-bank indication.
+<question> 1310-175:<br> If Coeur D'Alene Tower is not in operation, which frequency should be used to<br> monitor airport traffic?<br>
+<answer right>119.1 Mhz, CTAF.
+<answer>122.2/108.8 MHz, Fss.
+<answer>122.8 MHz, UNICOM
+<answer>122.9 MHz, MULTICOM
+<question> 1330-416:<br> On what bearing should the VOR receiver (OBS) be set in order to navigate<br> direct from Majors airport to Quitman VORTAC (Figure A-3, Area A to B).<br>
+<answer right>101
+<answer>108
+<answer>281
+<answer>288
+<question> 1478-210:<br> What is the recommended communications procedure for landing at Lincoln<br> Municipal during the hours when the tower is not in operation (See Fig 6)<br>
+<answer right>Contact the Lincoln FSS on 118.5 MHz for traffic advisories.
+<answer>Contact UNICOM on 122.95 MHz for traffic advisories
+<answer>Monitor ATIS for airport conditions, then announce position on 122.95 MHz.
+<answer>Request advisories and sequencing from Minneapolis Center Approach Control.
+<question> 1707-453:<br> Upon entering severe turbulence, which condition should the pilot attempt to<br> maintain?<br>
+<answer right>Level flight attitude
+<answer>Constant altitude
+<answer>Constant airspeed
+<answer>Constant altitude and constant airspeed
+<question> 1748-292:<br> What weather is forecast for the Gulf Coast area just ahead of the cold front<br> during the first 12 hours. (See figure 8)<br>
+<answer right>Marginal VFR to IFR with intermittent thundershowers and rain showers.
+<answer>IFR with moderate or greater turbulence over the coastal areas.
+<answer>Thunderstorm cells moving northeastward ahead of the front.
+<answer>Rain and drizzle dissipating, clearing along the front.
+<question> 1765-329:<br> What type clouds normally produce the icing mentioned by the PIREP in the TWEB<br> (See figure 13).<br>
+<answer right>Stratus
+<answer>Cumulus
+<answer>Stratocumulus
+<answer>Cumulonimbus

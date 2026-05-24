@@ -1,0 +1,279 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Cardiovascular.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 4 ?
+<question>Classic ECG finding in atrial flutter:
+<answer>"Sawtooth" P waves</answer></question>
+
+<question>Definition of unstable angina:
+<answer>Angina is:
+<rl sep=and>
+    <li>New
+    <li>Worsening
+    <li>Occurs at rest
+</rl>
+</answer></question>
+
+<question>Antihypertensive for a diabetic patient with proteinuria:
+<answer>ACE inhibitor (ACE I)</answer></question>
+
+<question>Patient develops Mobitz type I heart block
+	following an MI with ECG changes in:
+<rl sep=and>
+    <li>leads II
+    <li>leads III
+    <li>aVF
+</rl> Treatment?
+<answer>Atropine for an Inferior MI
+</answer></question>
+
+<question>Beck's triad for cardiac tamponade:
+<answer>
+<rl sep=and>
+    <li>Hypotension
+    <li>Distant heart sounds
+    <li>JVD
+</rl>
+</answer></question>
+
+<question>Drugs that slow AV node transmission?
+<answer>
+<rl sep=and>
+    <li>Beta-blockers
+    <li>Digoxin
+    <li>Calcium channel blockers
+</rl>
+</answer></question>
+
+<question>Hypercholesterolemia treatment that causes:
+<rl sep=and>
+    <li>flushing
+    <li>puritus
+</rl> is:
+<answer>Niacin</answer></question>
+
+<question>Treatments for atrial fibrillation (AF):
+<answer sep=and>
+<rl sep=and>
+    <li>Anticoagulation
+    <li>Rate control
+    <li>Cardioversion
+</rl>
+</answer></question>
+
+<question>Treatment for ventricular fibrillation (VF):
+<answer>Immediate cardioversion</answer></question>
+
+<question>Autoimmune complication occuring 2 to 4 weeks post MI:
+<answer>Dressler's syndrome:
+<rl sep=and>
+    <li>Fever
+    <li>Pericarditis
+    <li>Increased ESR
+</rl>
+</answer></question>
+
+<question>IVDU with:
+<rl sep=and>
+    <li>JVD
+    <li>holosystolic murmur at left sternal border
+</rl> Treatment?
+<answer>
+<ol>
+    <li>Treat existing heart failure
+    <li>replace tricuspid valve
+</ol>
+</answer></question>
+
+<question>Diagnostic test for hypertrophic cardiomyopathy:
+<answer>Echocardiogram (showing thickened LV wall and outflow obstruction)
+</answer></question>
+
+<question>Fall in systolic BP of more than 10 mmHg with inspiration:
+<answer>Pulsus paradoxus (seen in cardiac tamponade)</answer></question>
+
+<question>Classic ECG findings in pericarditis:
+<answer>
+<rl sep=and>
+    <li>Low-voltage
+    <li>Diffuse ST-segment elevation
+</rl>
+</answer></question>
+
+<question>Definition of hypertension (HTN):
+<answer>BP more than 140/90 mmHg on three separate occasions two weeks apart
+</answer></question>
+
+<question>Eight surgically correctable causes of hypertension (HTN):
+<answer>
+<ol sep=and>
+    <li>Renal artery stenosis
+    <li>Coarctation of the aorta
+    <li>Pheochromocytoma
+    <li>Conn's syndrome
+    <li>Cushing's syndrome
+    <li>Unilateral renal parenchymal disease
+    <li>Hyperthyroidism
+    <li>Hyperparathyroidism
+</ol>
+</answer></question>
+
+<question>Evaluation of pulsatile abdominal mass and bruit:
+<answer>Abdominal ultrasound (U/S)</answer></question>
+
+<question>Indications for surgical repair of abdominal aortic aneurysm:
+<answer>
+<rl sep=and>
+    <li>More than 5cm
+    <li>Rapidly enlarging
+    <li>Symptomatic
+    <li>Ruptured
+</rl>
+</answer></question>
+
+<question>Treatment for acute coronary syndrome:
+<answer>
+<rl sep=and>
+    <li>Oxygen
+    <li>Sublingual nitroglycerin
+    <li>ASA
+    <li>IV Beta-blockers (metroprolol)
+    <li>Heparin
+    <li>Clopidogrel
+</rl>
+</answer></question>
+
+<question>What is the metabolic syndrome?
+<answer>
+<rl sep=and>
+    <li>Abdominal obesity
+    <li>High triglycerides
+    <li>Low HDL
+    <li>HTN
+    <li>Insulin resistance
+    <li>Prothrombotic
+    <li>Proinflammatory states
+</rl>
+</answer></question>
+
+<question>Appropriate diagnostic test for a person who:
+<rl sep=and>
+    <li>is 50 years old
+    <li>is male
+    <li>complains of angina
+    <li>can exercize to 85% of maximum predicted heart rate (HR)
+</rl>
+<answer>Exercize stress treadmill with ECG</answer></question>
+
+<question>Appropriate diagnostic test for a person who:
+<rl sep=and>
+    <li>is 65 year-old
+    <li>is female
+    <li>has left bundle branch block
+    <li>has severe osteoarthritis
+    <li>has unstable angina:
+</rl>
+<answer>Pharmacologic stress test (e.g. dobutamine echo)
+</answer></question>
+
+<question>Target LDL in a patient with diabetes?
+<answer>Less than 100</answer></question>
+
+<question>Signs of active ischemia during stress testing:
+<answer>
+<rl sep=and>
+    <li>Angina
+    <li>ST-segment changes on ECG
+    <li>Decreased BP
+</rl>
+</answer></question>
+
+<question>ECG findings suggesting an MI:
+<answer>
+<rl sep=and>
+    <li>ST-segment elevation (depression means ischemia)
+    <li>Flattened T waves
+    <li>Q waves
+</rl>
+</answer></question>
+
+<question>Young patient at rest has:
+<rl sep=and>
+    <li>angina
+    <li>ST-segment elevation
+    <li>normal cardiac enzymes
+</rl>
+<answer>Prinzmetal's angina</answer></question>
+
+<question>Common symptoms associated with silent MIs:
+<answer>
+<rl sep=and>
+    <li>CHF
+    <li>Shock
+    <li>Altered mental status
+</rl>
+</answer></question>
+
+<question>Diagnostic test for pulmonary embolism (PE):
+<answer>V/Q scan (plus pulmonary angiogram if indeterminate)
+</answer></question>
+
+<question>Agent that reverses the effects of heparin:
+<answer>Protamine</answer></question>
+
+<question>Coagulation parameter affected by warfarin:
+<answer>PT</answer></question>
+
+<question>
+Patient who
+<rl sep=and>
+    <li>is young
+    <li>has a family history of sudden death collapses
+    <li>dies while exercising
+</rl>had:
+<answer>Hypertrophic cardiomyopathy</answer></question>
+
+<question>Endocarditis prophylaxis regimens:
+<answer>
+<table border=1 cellspacing=0><tr><th>Type</th><th>Regimens</th></tr>
+	<tr><td>Oral surgery</td><td>Amoxicillin</td></tr>
+	<tr><td>GI or GU procedures</td><td>Ampicillin and gentamicin before
+		and amoxicillin after</td></tr>
+</table>
+</answer></question>
+
+<question>Most common cause of hypertension in young women:
+<answer>OCPs</answer></question>
+
+<question>Most common cause of hypertension in young men:
+<answer>Excessive EtOH</answer></question>
+</concept>

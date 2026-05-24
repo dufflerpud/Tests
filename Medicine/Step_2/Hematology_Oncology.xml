@@ -1,0 +1,333 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Hematology_Oncology.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 3 ?
+<question>Four causes of microcytic anemia:
+<answer>
+TICS:
+<ol>
+    <li><u>T</u>halassemia
+    <li><u>I</u>ron deficiency
+    <li>Anemia of <u>C</u>hronic disease
+    <li><u>S</u>ideroblastic anemia
+</ol>
+</answer></question>
+
+<question>Elderly male with hypochromic, microcytic anemia is asymptomatic.
+	Probable diagnosis?
+	Diagnostic tests?
+<answer><center><table border=1 cellspacing=0>
+	<tr><th align=left>Probable diagnosis:</th>
+	    <td>Colorectal cancer</td></tr>
+	<tr><th align=left>Diagnostic tests:</th>
+	    <td><li>FOBT
+	        <li>Sigmoidoscopy
+	    </td></tr>
+</table></center></answer></question>
+
+<question>Precipitants of hemolytic crisis in patients with G6PD deficiency:
+<answer>
+<ol sep=and>
+    <li>Sulfonamides
+    <li>Antimalarial drugs
+    <li>Fava beans
+</ol>
+</answer></question>
+
+<question>Most common inherited hemolytic anemia is:
+<answer>Hereditary spherocytosis</answer></question>
+
+<question>Diagnostic test for hereditary spherocytosis is:
+<answer>Osmotic fragility test</answer></question>
+
+<question>Pure RBC aplasia is from:
+<answer>Diamond-Blackfan anemia</answer></question>
+
+<question>Anemia associated with:
+<rl sep=and>
+    <li>Absent radii and thumbs
+    <li>Diffuse hyperpigmentation
+    <li>Cafe-au-lait spots
+    <li>Microcephaly
+    <li>Pancytopenia
+</rl>
+<answer>Faconi's anemia</answer></question>
+
+<question>Treatments and viruses that cause aplastic anemia:
+<answer><center><table border=1 cellspacing=0>
+<tr><th>Treatments</th><th>Viruses</th></tr>
+<tr><td>
+	<rl sep=and>
+	<li>Chloramphenicol
+	<li>Sulfonamides
+	<li>Radiation
+	<li>Chemotherapeutic agents
+	</rl>
+    </td><td>
+	<rl sep=and>
+	<li>HIV
+	<li>Hepatitis
+	<li>Parvovirus B19
+	<li>EBV
+	</rl>
+    </td></tr>
+</table></center></answer></question>
+
+<question>How do you distinguish
+<rl sep=from>
+    <li>primary polycythemia vera
+    <li>secondary polycythemia vera
+</rl>
+<answer>Both have increased HCT and RBC mass, but primary polycythemia vera
+    should have normal oxygen saturation and low erythropoietin level.
+    </answer></question>
+
+<question>Thrombotic thrombocytopenic purpura (TTP) pentad is:
+<answer>
+<ol sep=and>
+    <li>Anemia/Splenomegaly
+    <li>Thrombocytopenia
+    <li>Fever
+    <li>Acute Renal Failure (ARF)
+    <li>Neurologic changes (change in Mental Status)
+</ol>
+</answer></question>
+
+<question>Hemolytic-uremic syndrom (HUS) triad is:
+<answer>
+<ol sep=and>
+    <li>Anemia
+    <li>Thrombocytopenia
+    <li>Acute Renal Failure (ARF)
+</ol>
+</answer></question>
+
+<question>Treatment for Thrombotic thrombocytopenic purpura (TTP) is:
+<answer>
+<ol sep=and>
+    <li>Emergent large-volume plasmapheresis
+    <li>Corticosteroids
+    <li>Antiplatelet drugs
+</ol>
+</answer></question>
+
+<question>Treatment for ITP in children:
+<answer>
+<ol sep=and>
+    <li>Usually resolves spontaneously
+    <li>May require IVIG and/or corticosteriods
+</ol>
+</answer></question>
+
+<question>Which of the following are elevated in DIC:
+<rl sep=and>
+    <li>Fibrin split products
+    <li>D-dimer
+    <li>Fibrinogen
+    <li>Platelets
+    <li>HCT
+</rl>
+<answer>
+<ol sep=and>
+    <li>Fibrin split products are elevated
+    <li>D-dimer is elevated
+    <li>Platelets are decreased
+    <li>Fibrinogen is decreased
+    <li>HCT is decreased
+</ol>
+</answer></question>
+
+<question>An 8 year-old boy presents with hemathrosis and increased PTT
+    with normal PT and BT.  What is the diagnosis and treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Diagnosis:</th>
+	<td>Hemophilia A or B</td></tr>
+    <tr><th align=left>Treatment:</th>
+	<td><li>Consider desmopressin (for hemophilia A)
+	    <li>Factor VIII or IX supplements
+	</td></tr>
+</table></center></answer></question>
+
+<question>A 14 year-old girl presents with prolonged bleeding after dental
+    surgery and with menses, normal PT, normal and increased PTT, and
+    increased BT.  What is the diagnosis and treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Diagnosis:</th>
+	<td>von Willebrand's disease</td></tr>
+    <tr><th align=left>Treatment:</th>
+	<td>
+	    <rl sep=and>
+	    <li>Desmopressin
+	    <li>FFP
+	    <li>Cryoprecipitate
+	    </rl>
+	</td></tr>
+</table></center></answer></question>
+
+<question>A 60 year-old African-American male presents with bone pain.
+    Workup for multiple myeloma might reveal what?
+<answer>
+<ol sep=and>
+    <li>Monoclonal gammopathy
+    <li>Bence Jones proteinuria
+    <li>"punched-out" lesions on X-ray of skull and long bones
+</ol>
+</answer></question>
+
+<question>Reed-Sternberg cells indicate:
+<answer>Hodgekin's lymphoma</answer></question>
+
+<question>
+With a patient who:
+<rl sep=and>
+    <li>is 10 year-old
+    <li>is a boy
+    <li>has a fever
+    <li>is experiencing weight loss
+    <li>is experiencing night sweats
+    <li>has an eam showing anterior mediastinal mass
+</rl> Suspected diagnosis is:
+<answer>non-Hodgekin's lymphoma</answer></question>
+
+<question>
+A patient with:
+<rl sep=and>
+    <li>Microcytic anemia
+    <li>Decreased serum iron
+    <li>Decreased total iron-binding capacity (TIBC)
+    <li>Normal or increased ferritin
+</rl> has:
+<answer>Anemia of chronic disease</answer></question>
+
+<question>
+A patient with:
+<rl sep=and>
+    <li>Microcytic anemia
+    <li>Decreased serum iron
+    <li>Increased total iron-binding capacity (TIBC)
+    <li>Decreased ferritin
+</rl> has:
+<answer>Iron-deficiency anemia</answer></question>
+
+<question>
+A patient:
+<rl sep=and>
+    <li>is 80 year-old
+    <li>is male
+    <li>with fatique
+    <li>with lymphadenopathy
+    <li>with splenomegaly
+    <li>isolated lymphocytosis
+</rl> Suspected diagnosis is:
+<answer>Chronic lymphocytic leukemia (CLL)</answer></question>
+
+<question>Late, life-threatening complication of chronic myelogenous
+    leukemia (CML) is:
+<answer>A blast crisis consisting of:
+<ol sep=and>
+    <li>Fever
+    <li>Bone pain
+    <li>Splenomegaly
+    <li>Pancytopenia
+</ol>
+</answer></question>
+
+<question>Auer rods on a blood smear indicate:
+<answer>Acute myelogenous leukemia (AML)</answer></question>
+
+<question>Acute myelogenous leukemia (AML) subtype associated with DIC:
+<answer>M3</answer></question>
+
+<question>Electrolyte changes in tumor lysis syndrome are:
+<answer>
+<ol sep=and>
+    <li>Decreased Ca2+
+    <li>Increased K+
+    <li>Increased phosphate
+    <li>Increased uric acid
+</ol>
+</answer></question>
+
+<question>What is the treatment for Acute myelogenous leukemia (AML) M3?
+<answer>Retinoic acid</answer></question>
+
+<question>
+<rl sep=and>Patient is
+    <li>50 year-old
+    <li>male
+    <li>with early satiety
+    <li>with splenomegaly
+    <li>with bleeding
+    <li>with Cytogenetics showing t(9,22)
+</rl> Diagnosis?
+<answer>Chronic Myelogenous Leukemia (CML)</answer></question>
+
+<question>What are Heinz bodies?
+<answer>Intracellular inclusions seen in
+<ol sep=and>
+    <li>Thalassemia
+    <li>G6PD deficiency
+    <li>postsplenectomy
+</ol>
+</answer></question>
+
+<question>
+Patient
+<rl sep=and>
+    <li>with autosomal-recessive disorder
+    <li>with a defect in the GPIIbIIIa platelet receptor
+    <li>with decreased platelet aggregation
+</rl> has:
+<answer>Glanzmann's thrombasthenia</answer></question>
+
+<question>Virus associated with aplastic anemia in patients with sickle cell
+    anemia is:
+<answer>Parvovirus B19</answer></question>
+
+<question>A 25 year-old African-American male with sickle cell anemia has
+    sudden onset of bone pain.  What is the management for the pain crisis?
+<answer>
+<ol sep=and>
+    <li>Oxygen (O2)
+    <li>Analgesia
+    <li>Hydration
+    <li>Transfusion (if severe)
+</ol>
+</answer></question>
+
+<question>What is the significant cause of morbidity in thalassemia patients?
+    What is the treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Cause:</th><td>Iron overload</td></tr>
+    <tr><th align=left>Treatment:</th><td>Deferoxamine</td></tr>
+</table></center></answer></question>
+</concept>

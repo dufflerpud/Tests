@@ -1,0 +1,201 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Pediatrics.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 3 ?
+<question>A non tender abdominal mass associated with elevated VMA and HVA is:
+<answer>Neuroblastoma</answer></question>
+
+<question>What is the most common type of tracheoesophageal fistula (TEF)?
+	What is the diagnosis?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Type:</th>
+        <td>Esophageal atresia with distal TEF (85%)</td></tr>
+    <tr><th align=left>Diagnosed by:</th>
+        <td>Unable to pass NG tube</td></tr>
+</table></center></answer></question>
+
+<question>What medical conditions are <b><u>not</u></b> contraindications
+	to vaccination?
+<answer>
+<ol sep=and>
+    <li>Mild illness and/or low grade fever
+    <li>Current antibiotic therapy
+    <li>Prematurity
+</ol>
+</answer></question>
+
+<question>What are the tests to rule out shaken baby syndrome?
+<answer>
+<ol sep=and>
+    <li>Opthalmologic exam
+    <li>CT
+    <li>MRI
+</ol>
+</answer></question>
+
+<question>A neonate has meconium ileus indicating:
+<answer>Cystic fibrosis or Hirschsprung's disease</answer></question>
+
+<question>Bilious emesis within hours after the first feeding indicates:
+<answer>Duodenal atresia</answer></question>
+
+<question>A two month old presents with nonbilious, projectile emesis.
+	What are the first two steps in management?
+<answer>
+<ol>
+    <li>Correct metabolic abnormalities
+    <li>Correct pyloric stenosis with pyloromyotomy
+</ol></answer></question>
+
+<question>What is the most common primary immunodeficiency?
+<answer>Selective IgA deficiency</answer></question>
+
+<question>An infant has a high fever and onset of rash as the fever breaks.
+	What is he at risk for?
+<answer>Febrile seizures (roseola infantum)</answer></question>
+
+<question>
+Patient:
+<rl sep=and>
+    <li>is a boy
+    <li>has chronic respiratory infections
+    <li>whose Nitroblue tetrazolium test was positive
+</rl> What immunodeficiency is indicated:
+<answer>Chronic granulomatous disease</answer></question>
+
+<question>
+Patient:
+<rl sep=and>
+    <li>is a child
+    <li>with eczema
+    <li>with thrombocytopenia
+    <li>with high levels of IgA
+</rl> What immunodeficiency is indicated?
+<answer>Wiskott-Aldrich syndrome</answer></question>
+
+<question>What immunodeficiency
+Patient:
+<rl sep=and>
+    <li>is a four month old
+    <li>is male
+    <li>has life threatening Pseudomonas infection
+</rl> indicating:
+<answer>Bruton's X-linked agammaglobulinemia</answer></question>
+
+<question>What is the acute phase treatment for Kawasaki disease?
+<answer>
+<ol sep=and>
+    <li>High dose aspirin for inflammation and fever
+    <li>IVIG to prevent coronary artery aneurysms
+</ol>
+</answer></question>
+
+<question>
+Patient:
+<rl sep=and>
+    <li>is one year old
+    <li>is able to cruise
+    <li>can use two-finger pincer grasp
+    <li>can babble
+    <li>can imitate actions
+</rl> Diagnosis?
+<answer>Suspect language delay</answer></question>
+
+<question>What is the treatment for mild and severe unconjugated
+	hyperbilirubinemia?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Mild:</th><td>Phototherapy</td></tr>
+    <tr><th align=left>Severe:</th><td>Exchange transfusion</td></tr>
+</table></center></answer></question>
+
+<question>A patient
+<rl sep=and>
+    <li>with a sudden onset of mental status changes
+    <li>with emesis
+    <li>with liver dysfunction
+    <li>who recently took asprin
+</rl> indicating:
+<answer>Reye's syndrome</answer></question>
+
+<question>A child has loss of red light reflex indicating:
+<answer>Suspect retinoblastoma</answer></question>
+
+<question>What are the vaccinations for a healthy six month-old?
+<answer>
+<ol sep=and>
+    <li>HBV
+    <li>DTap
+    <li>Hib
+    <li>IPV
+    <li>PCV
+</ol>
+</answer></question>
+
+<question>What is Tanner stage III in a six year-old female?
+<answer>Precocious puberty</answer></question>
+
+<question>What is an infection of the small airways with epidemics in
+	winter and spring?
+<answer>RSV bronchiolitis</answer></question>
+
+<question>What is the cause of neonatal RDS?
+<answer>Surfactant deficiency</answer></question>
+
+<question>What is the condition associated with red "currant-jelly" stools?
+<answer>Intussusception</answer></question>
+
+<question>What congenital heart disease causes secondary hypertension (HTN)?
+<answer>Coarctation of the aorta</answer></question>
+
+<question>What is the first-line treatment for otitis media?
+<answer>Amoxicillin x 10 days</answer></question>
+
+<question>What is the most common pathogen that causes croup?
+<answer>PIV type 1</answer></question>
+
+<question>A homeless child is small for his age and has peeling skin
+	and a swollen belly indicating:
+<answer>Kwashiorkor (protein malnutrition)</answer></question>
+
+<question>What syndrome comes from an X-linked defect causing:
+<rl sep=and>
+    <li>mental retardation
+    <li>gout
+    <li>self-mutilation
+    <li>choreoathetosis?
+</rl>
+<answer>Lesch-Nyhan syndrome
+	(purine salvage problem with HGPRTase deficiency)</answer></question>
+
+<question>A newborn female has continuous "machinery murmur" indicating:
+<answer>Patent ductus arteriosus (PDA)</answer></question>
+</concept>

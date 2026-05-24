@@ -1,0 +1,102 @@
+<!------------------------------------------------------------------------
+--
+--indx#	VFR_limits.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	VFR_limits.xml - Learn the altitudes and speeds for VFR flight
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	VFR_limits.xml - Learn the altitudes and speeds for VFR flight
+-------------------------------------------------------------------------->
+
+<concept><pre> VFR requirements.  Rules governing VFR flight have been adopted to assist<br> the pilot in meeting his responsibility to see and avoid other aircraft.<br> Minimum weather conditions and distance from clouds required for VFR flight<br> are contained in these rules.<br> 91.105 Basic VFR weather minimums.<br> (a) Except as provided in Part 91.107, no person may operate an aircraft<br> under VFR when the flight visibility is less, or at a distance from clouds<br> that is less, than that prescribed for the coresponding altitude in the<br> table:<br> Altitude	Uncontrolled airspace		Controlled airspace<br> 		Visibility	Clouds		Visibility	Clouds<br> ---------------------------------------------------------------------------<br>  &lt;=1200'AGL	1 St. Mile	Clear		3 St. Miles	500' Below<br> 								1000' Above<br> 								2000' Horiz<br> ---------------------------------------------------------------------------<br>  &lt;10000'MSL	1 St. Mile	500' Below	3 St. Miles	500' Below<br> 				1000' Above			1000' Above<br> 				2000' Horiz			2000' Horiz<br> ---------------------------------------------------------------------------<br>  &gt;=10000'MSL	5 St. Miles	1000' Below	5 St. Miles	1000' Below<br> 				1000' Above			1000' Above<br> 				1 SM horiz			1 SM Horiz<br>
+<question> 83: The minimum flight visibility required for VFR flights above 10000 feet<br> MSL and more than 1200 feet AGL is:<br>
+<answer right>5 Statute mile
+<answer>1 Statute mile
+<answer>3 Statute mile
+<answer>Not specified by regulation
+<question> 84: For VFR flight operations above 10000 feet MSL and more than 1200 feet<br> AGL, the minimum horizontal distance from clouds required is:<br>
+<answer right>1 mile
+<answer>1000 feet
+<answer>2000 feet
+<answer>5 miles
+<question> 85: During operations at altitudes of more than 1200 feet AGL and at or<br> above 10000 feet MSL, the minimum distance above clouds requirement for VFR<br> flight is:<br>
+<answer right>1000 feet
+<answer>500 feet
+<answer>1500 feet
+<answer>2000 feet
+<question> 86: What minimum flight visibility is required for VFR flight operations on<br> an airway below 10000 feet?<br>
+<answer right>3 miles
+<answer>1 mile
+<answer>4 miles
+<answer>5 miles
+<question> 87: During operations within controlled airspace at altitudes of more than<br> 1200 feet AGL but less than 10000 feet MSL, the minimum distance above<br> clouds requirement for VFR flight is:<br>
+<answer right>1000 feet
+<answer>500 feet
+<answer>1500 feet
+<answer>2000 feet
+<question> 88: The minimum distance from clouds required for VFR operations on an<br> airway below 10000 feet is:<br>
+<answer right>500 feet below, 1000 feet above, and 2000 feet horizontally
+<answer>remain clear of clouds
+<answer>500 feet above, 1000 feet below, and 2000 feet horizontally
+<answer>1000 feet above, 1000 feet below, and 1 mile horizontally
+<question> 89: VFR flight above 1200 feet AGL and below 10000 feet MSL requires a<br> minimum visibility and vertical cloud clearance of:<br>
+<answer right>3 miles, and 500 feet below or 1000 feet above the clouds in controlled airspace.<br>
+<answer>5 miles, and 1000 feet below or 1000 feet above the clouds at all altitudes.
+<answer>5 miles, and 1000 feet below or 1000 feet above the clouds only in the continental control area.<br>
+<answer>3 miles, and 1000 feet below or 2000 feet above the clouds at all altitudes within and outside of controlled airspace.<br>
+<question> 90: During operations within controlled airspace at altitudes of less than<br> 1200 feet AGL, the minimum horizontal distance from clouds requirement for<br> VFR flight is:<br>
+<answer right>2000 feet
+<answer>500 feet
+<answer>1000 feet
+<answer>1500 feet
+<question> 91: Outside controlled airspace, the minimum flight visibility requirement<br> for VFR flight above 1200 feet AGL and below 10000 feet MSL during daylight<br> hours is:<br>
+<answer right>1 Statute mile
+<answer>3 Statute mile
+<answer>5 Statute mile
+<answer>7 Statute mile
+<question> 92: During operations outside controlled airspace at altitudes of more than<br> 1200 feet AGL, but less than 10000 feet MSL, the minimum horizontal<br> distance from clouds requirement for VFR flight is:<br>
+<answer right>2000 feet
+<answer>500 feet
+<answer>1000 feet
+<answer>1500 feet
+<question> 93: During operations outside controlled airspace at altitudes of more than<br> 1200 feet AGL, but less than 10000 feet MSL, the minimum distance below<br> clouds requirement for VFR flight is:<br>
+<answer right>500 feet
+<answer>1000 feet
+<answer>1500 feet
+<answer>2000 feet
+<question> 94: What minimum visibility and clearance from clouds are required for VFR<br> operations in uncontrolled airspace at 1200 feet AGL or below during<br> daylight hours?<br>
+<answer right>1 mile visibility and clear of clouds.
+<answer>3 miles visibility and clear of clouds.
+<answer>1 mile visibility, 500 feet below, 1000 feet above, and 2000 feet horizontal clearance from clouds.<br>
+<answer>3 miles visibility, 500 feet above, 1000 feet below and 2000 feet horizontal cleanrance from clouds.<br>

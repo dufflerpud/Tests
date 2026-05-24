@@ -1,0 +1,192 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Gynecology.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 5 ?
+<question>First test to perform when a woman presents with amenorrhea:
+<answer>Beta-hCG;  The most common cause of amenorrhea is pregnancy.
+</answer></question>
+
+<question>Term for heavy bleeding during and between menstrual periods:
+<answer>Menometrorrhagia</answer></question>
+
+<question>Cause of amenorrhea with
+<rl sep=and>
+    <li>normal prolactin
+    <li>no response to estrogen-progesterone challenge
+    <li>a history of D and C
+</rl> is:
+<answer>Asherman's syndrome</answer></question>
+
+<question>Therapy for polycystic ovarian syndrome:
+<answer>Weight loss and OCPs</answer></question>
+
+<question>Medication used to induce ovulation:
+<answer>Clomiphene citrate</answer></question>
+
+<question>Diagnostic step required in a postmenopausal woman who presents
+	with vaginal bleeding:
+<answer>Endometrial biopsy</answer></question>
+
+<question>Indications for medical treatment of ectopic pregnancy:
+<answer>
+<rl sep=and>
+    <li>Stable
+    <li>Unruptured ectopic pregnancy
+    <li>Less than 3.5cm
+    <li>Before 6 weeks gestation
+</rl>
+</answer></question>
+
+<question>Medical options for endometriosis:
+<answer>
+<rl sep=and>
+    <li>OCPs
+    <li>Danazol
+    <li>GnRH agonists
+</rl>
+</answer></question>
+
+<question>A patient presents with:
+<rl sep=and>
+    <li>Uterine bleeding at 18 weeks' gestation
+    <li>No products expelled
+    <li>Cervical os closed
+</rl> indicating:
+<answer>Threatened abortion</answer></question>
+
+<question>A patient presents with:
+<rl sep=and>
+    <li>Uterine bleeding at 18 week's gestation
+    <li>No products expelled
+    <li>Membranes ruptured
+    <li>Cervical os is open
+</rl> indicating:
+<answer>Inevitable abortion</answer></question>
+
+<question>Laproscopic findings in endometriosis usually show:
+<answer>
+<rl sep=and>
+    <li>"Chocolate cysts"
+    <li>powder burns
+</rl>
+</answer></question>
+
+<question>Most common location for an ectopic pregnancy is:
+<answer>Ampulla of the oviduct</answer></question>
+
+<question>How do you diagnose and follow a leiomyoma?
+<answer>Ultrasound (U/S)</answer></question>
+
+<question>You would expect a natural history of leiomyoma to:
+<answer>Regress after menopause</answer></question>
+
+<question>Patient has increased vaginal discharge and petechial patches in
+	the upper vagina and cervix.  This indicates:
+<answer>Trichomonas vaginitis</answer></question>
+
+<question>Treatment for bacterial vaginosis is:
+<answer>Oral or topical metronidazole</answer></question>
+
+<question>Most common cause of bloody nipple discharge is:
+<answer>Intraductal papilloma</answer></question>
+
+<question>Contraceptive methods that protect against PID:
+<answer>
+<rl sep=and>
+    <li>OCPs
+    <li>Barrier contraception
+</rl>
+</answer></question>
+
+<question>Unopposed estrogen is contraindicated in which cancers?
+<answer>Endometrial or estrogen receptor-positive breast cancer.
+</answer></question>
+
+<question>With a patient with recent PID with right upper quadrant
+	(RUQ) pain, you should consider:
+<answer>Fitz-Hugh-Curtis syndrome</answer></question>
+
+<question>Breast malignancy presenting as itching, burning and erosion
+	of the nipple indicate:
+<answer>Paget's disease</answer></question>
+
+<question>Annual screening for women with strong family history of ovarian
+	cancer includes:
+<answer>
+<rl sep=and>
+    <li>CA-125
+    <li>Transvaginal ultrasound (U/S)
+</rl>
+</answer></question>
+
+<question>A 50 year-old woman leaks urine when laughing or coughing.  What
+	are the non surgical options?
+<answer>
+<rl sep=and>
+    <li>Kegel exercizes
+    <li>Estrogen
+    <li>Pessaries for stress incontinence
+</rl>
+</answer></question>
+
+<question>A patient:
+<rl sep=and>
+    <li>is 30 years old
+    <li>has unpredictable urine loss
+    <li>has a normal exam
+</rl> What are the medical options?
+<answer>
+<rl sep=and>
+    <li>Anticholinergics (oxybutynin)
+    <li>Beta-adrenergics (metaproterenol) for urge incontinence
+</rl>
+</answer></question>
+
+<question>Lab values suggestive of menopause are:
+<answer>Elevated serum FSH</answer></question>
+
+<question>Most common cause of female infertility is:
+<answer>Endometriosis</answer></question>
+
+<question>Two consecutive findings of atypical squamous cells of undetermined
+	significance (ASCUS) on Pap smear.  What is the followup evaluation?
+<answer>
+<rl sep=and>
+    <li>Colposcopy
+    <li>Endocervical curettage
+</rl>
+</answer></question>
+
+<question>Breast cancer type that increases future risk of invasive carcinoma
+	in both breasts:
+<answer>Lobular carcinoma in situ</answer></question>
+</concept>

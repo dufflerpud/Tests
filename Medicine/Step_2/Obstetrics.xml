@@ -1,0 +1,177 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Obstetrics.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 3 ?
+<question>What is the treatment for breast-feeding mastitis?
+<answer>Continue breast-feeding and give PO antibiotics</answer></question>
+
+<question>What is the most common cause of nonobstetric postpartum death?
+<answer>Thromboembolic disease</answer></question>
+
+<question>What are the characteristics of postmaturity syndrome?
+<answer>
+    <li>Oligohydromnios and passage of meconium in utero
+    <li>"Scrawny" neonate with dry, peeling skin
+</answer></question>
+
+<question>What are the cardinal movements of labor?
+<answer>
+<rl sep=and>
+    <li>Engagement
+    <li>Descent
+    <li>Flexion
+    <li>Internal rotation
+    <li>Extension
+    <li>Restitution (External rotation)
+    <li>Expulsion
+</rl>
+</answer></question>
+
+<question>A pregnant woman has an HCT of 10g/dL.  Is this the normal anemia
+	of pregnancy?
+<answer>No.  An HCT of less than 11 g/dL should raise suspicions for
+	iron deficiency</answer>
+<answer>Yes.  An HCT of as low as 5 g/dL is frequently found in pregnant
+	women</answer>
+</question>
+
+<question>What are the tests used to assess neural tube defects?
+<answer>
+<rl sep=and>
+    <li>Alpha-fetoprotein (AFP)
+    <li>Amniocentesis
+</rl>
+</answer></question>
+
+<question>What is the test used in the tenth week of gestation to screen
+	for chromosomal abnormalities?
+<answer>Chorionic villus sampling</answer></question>
+
+<question>A patient presents with a discrepancy between fundal height
+	and gestational age; the biparietal diameter is normal but
+	abdominal circumference is decreased indicating:
+<answer>Asymmetric IUGR</answer></question>
+
+<question>What is the prophylaxis to prevent seizures in severe preeclampsia?
+<answer>IV magnesium sulfate</answer></question>
+
+<question>What is the HELLP syndrome?
+<answer>
+A variant of preeclampsia with poor prognosis:
+    <rl sep=and>
+    <li>Hemolysis
+    <li>Elevated LFTs
+    <li>Low platelets
+    </rl>
+</answer></question>
+
+<question>What is the cure for preeclampsia/eclampsia?
+<answer>Delivery</answer></question>
+
+<question>What is the cause of erythroblastosis fetalis?
+<answer>Maternal antibodies against the infant's Rh-positive RBCs result
+	in fetal RBC hemolysis</answer></question>
+
+<question>What is the cause of hydrops fetalis?
+<answer>Decreased protein production by the fetal liver resulting in
+<rl sep=and>
+    <li>Decreased oncotic pressure
+    <li>Edema
+    <li>High output cardiac failure
+</rl>
+</answer></question>
+
+<question>Preclampsia in the first trimester is pathognomonic for what
+	condition?
+<answer>Hydatidiform mole</answer></question>
+
+<question>What are the primary causes of third-trimester bleeding?
+<answer>
+<rl sep=and>
+    <li>Placental abruption
+    <li>Placenta previa
+</rl></answer></question>
+
+<question>What is the classic ultrasound (U/S) and gross appearance
+	of complete hydatidiform mole?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Ultrasound:</th><td>"Snowstorm"</td></tr>
+    <tr><th align=left>Gross exam:</th><td>"Cluster of grapes"</td></tr>
+</table></center></answer></question>
+
+<question>What is the chromosomal pattern of a complete mole?
+<answer>46,XX</answer></question>
+
+<question>What is a molar pregnancy containing fetal tissue?
+<answer>Partial mole</answer></question>
+
+<question>What are the symptoms of placental abruption?
+<answer>Continuous, painful vaginal bleeding</answer></question>
+
+<question>What are the symptoms of placenta previa?
+<answer>Self limited, painless vaginal bleeding</answer></question>
+
+<question>When should a vaginal exam be performed with suspected placenta
+	previa?
+<answer>Never</answer></question>
+
+<question>What antibiotics have teratogenic effects?
+<answer>
+<rl sep=and>
+    <li>Tetracycline
+    <li>Fluoroquinolones
+    <li>Aminoglycosides
+    <li>Sulfonamides
+</rl>
+</answer></question>
+
+<question>What is the shortest AP diameter of the pelvis?
+<answer>Obstetric conjugate:  Between the sacral promontory and midpoint
+	of the symphysis pubis</answer></question>
+
+<question>What medication is given to accelerate fetal lung maturity?
+<answer>Betamethasone or dexamethasone x 48 hours</answer></question>
+
+<question>What is the most common cause of postpartum hemorrhage?
+<answer>Uterine atony</answer></question>
+
+<question>What is the treatment for postpartum hemorrhage?
+<answer>Uterine massage; if that fails, give oxytocin</answer></question>
+
+<question>What antibiotics are typically given as a group-B streptococcus
+	(GBS) prophylaxis?
+<answer>IV penicillin or ampicillin</answer></question>
+
+<question>Patient fails to lactate after an emergency C-section with
+	marked blood loss indicating:
+<answer>Sheehan's syndrome (postpartum pituitary necrosis)</answer></question>
+</concept>

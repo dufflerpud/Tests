@@ -1,0 +1,236 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Renal.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 3 2006/03/09 22:55
+<question>Renal tubular acidosis (RTA) associated with abnormal H+ secretion
+	and nephrolithiasis is called:
+<answer>Type I (distal) RTA</answer></question>
+
+<question>Renal tubular acidosis (RTA) associated with abnormal HCO3-
+	and rickets is called:
+<answer>Type II (proximal) RTA</answer></question>
+
+<question>Renal tubular acidosis (RTA) associated with aldosterone defect
+	is called:
+<answer>Type IV (distal) RTA</answer></question>
+
+<question>"Doughy skin" is caused by:
+<answer>Hypernatremia</answer></question>
+
+<question>Differential of hypervolemic hyponatremia is:
+<answer>
+<rl sep=and>
+    <li>Cirrhosis
+    <li>CHF
+    <li>Nephritic syndrome
+</rl>
+</answer></question>
+
+<question>Chvostek's and Trousseau's signs are:
+<answer>Hypocalcemia</answer></question>
+
+<question>Most common causes of hypercalcemia are:
+<answer>
+<rl sep=and>
+    <li>Malignancy
+    <li>Hyperparathyroidism
+</rl>
+</answer></question>
+
+<question>T-wave flattening and U waves are caused by:
+<answer>Hypokalemia</answer></question>
+
+<question>Peaked T waves and widened QRS is caused by:
+<answer>Hyperkalemia</answer></question>
+
+<question>First line treatment for moderate hypercalcemia is:
+<answer>IV hydration and loop diuretics (furosemide)</answer></question>
+
+<question>Type of Acute Renal Failure (ARF) in patient with FE(Na)
+	less than 1% is:
+<answer>Prerenal</answer></question>
+
+<question>
+Patient:
+<rl sep=and>
+    <li>is 49 year old
+    <li>is male
+    <li>with acute-onset flank pain
+    <li>with hematuria
+</rl> Diagnosis?
+<answer>Nephrolithiasis</answer></question>
+
+<question>Most common type of nephrolithiasis is:
+<answer>Calcium oxalate</answer></question>
+
+<question>
+Patient:
+<rl sep=and>
+    <li>is 20 years old
+    <li>is male
+    <li>with a palpable flank mass
+    <li>with hematuria
+    <li>with Ultrasound (U/S) shows bilateral enlarged kidneys and cysts
+</rl> Associated brain anomaly is:
+<answer>Cerebral berry aneurysms (AD PcKD)</answer></question>
+
+<question>
+<rl sep=and>
+    <li>Hematuria
+    <li>Hypertension (HTN)
+    <li>Oliguria
+</rl> is:
+<answer>Nephritic Syndrome</answer></question>
+
+<question>
+<rl sep=and>
+    <li>Proteinuria
+    <li>Hypoalbuminemia
+    <li>Hyperlipidemia
+    <li>Hyperlipiduria
+    <li>Edema
+</rl> is:
+<answer>Nephrotic syndrome</answer></question>
+
+<question>Most common form of nephritic syndrome is:
+<answer>Membranous glomerulonephritis</answer></question>
+
+<question>Most common form of glomerulonephritis is:
+<answer>IgA nephropathy (Berger's disease)</answer></question>
+
+<question>Glomerulonephritis with deafness is:
+<answer>Alport's syndrome</answer></question>
+
+<question>Glomerulonephritis with hemoptsys is:
+<answer>
+<rl sep=and>
+    <li>Wegener's granulomatosis
+    <li>Goodpasture's syndrome
+</rl></answer></question>
+
+<question>Presence of red cell casts in urine sediment indicate:
+<answer>Glomerulonephritis/nephritic syndrome</answer></question>
+
+<question>Eosinophils in urine sediment indicate:
+<answer>Allergic interstitial nephritis</answer></question>
+
+<question>Waxy casts in urine sediment and Maltese crosses (seen with
+	lipiduria) are caused by:
+<answer>Nephrotic syndrome</answer></question>
+
+<question>
+<rl sep=and>
+    <li>Drowsiness
+    <li>Asterixis
+    <li>Nausea
+    <li>Pericardial friction rub
+</rl> is:
+<answer>Uremic syndrome seen in patients with renal failure</answer></question>
+
+<question>A 55 year-old man is diagnosed with prostate cancer.
+	Treatment options?
+<answer>
+<rl sep=and>
+    <li>Wait
+    <li>Surgical resection
+    <li>Radiation
+    <li>Androgen suppression
+</rl>
+</answer></question>
+
+<question>Low urine specific gravity in the presence of high serum osmolality
+	is caused by:
+<answer>DI</answer></question>
+
+<question>Treatment of SIADH is:
+<answer>
+<rl sep=and>
+    <li>Fluid restriction
+    <li>Demeclocycline
+</rl>
+</answer></question>
+
+<question>
+<rl sep=and>
+    <li>Hematuria
+    <li>Flank pain
+    <li>Palpable flank mass
+</rl> are probably caused by:
+<answer>Renal cell carcinoma (RCC)</answer></question>
+
+<question>Testicular cancer associated with B-hCG, AFP is:
+<answer>Choriocarcinoma</answer></question>
+
+<question>Complication of overly rapid correction of hyponatremia is:
+<answer>Central pontine myelinosis</answer></question>
+
+<question>Salicylate ingestion results in what type of acid-base disorder?
+<answer>Anion gap acidosis and primary respiratory alkalosis due to
+	central respiratory stimulation</answer></question>
+
+<question>Acid-base disturbance commonly seen in pregnant women is:
+<answer>Respiratory alkalosis</answer></question>
+
+<question>Three systemic diseases causing nephrotic syndrome are:
+<answer>
+<rl sep=and>
+    <li>DM
+    <li>SLE
+    <li>Amyloidosis
+</rl>
+</answer></question>
+
+<question>Elevated erythropoietin level, elevated HCT and normal O2
+	saturation suggest what?  What is the work-up?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Suspect:</th>
+        <td>RCC or other erythropoietin-producing tumor</td></tr>
+    <tr><th align=left>Work-up:</th>
+	<td>Evaluate with CT scan</td></tr>
+</table></center></answer></question>
+
+<question>A 55 year-old presents with irritative and obstructive urinary
+	symptoms.  Diagnosis?  Treatment options?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Suspect:</th>
+        <td>BPH</td></tr>
+    <tr><th align=left>Treatment options:</th>
+    	<td>
+	    <rl sep=and>
+	    <li>No treatment
+	    <li>Terazosin
+	    <li>Finasteride
+	    <li>Surgical intervention (TURP)
+	    </rl>
+	</td></tr>
+</table></center></answer></question>
+</concept>

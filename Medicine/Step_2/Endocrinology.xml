@@ -1,0 +1,194 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Endocrinology.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 3 ?
+<question>Most common cause of hypothyroidism is:
+<answer>Hashimoto's thyroiditis.</answer></question>
+
+<question>
+<rl sep=and commamode>
+    <li>Exophthalmos
+    <li>Pretibial myxedema
+    <li>Decreased TSH
+</rl> are indications of:
+<answer>Graves' disease</answer></question>
+
+<question>First line treatment for growth hormone secreting pituitary
+	adenoma is:
+<answer>Transsphenoidal surgical resection.</answer></question>
+
+<question>Source of lesion in Cushing's syndrome with high ACTH levels is:
+<answer>Either
+<rl sep=or commamode>
+    <li>Ectopic
+    <li>Pituitary
+</rl>.
+</answer></question>
+
+<question>Most common two causes of Cushing's syndrome are:
+<answer>
+<ol>
+<li>First most common:  Latrogenic steroid administration
+<li>Second most common:  Cushing's desease
+</ol>
+</answer></question>
+
+<question>Patient presents with
+<rl sep=and commamode>
+    <li>Signs of hypocalcemia
+    <li>High phosphorus
+    <li>Low PTH
+</rl> indicating:
+<answer>Hypoparathyroidism</answer></question>
+
+<question>"Stones, bones, groans and psychiatric overtones" are signs of:
+<answer>Hypercalcemia</answer></question>
+
+<question>
+Patient
+<ul>
+<li> complains of
+    <rl sep=and commamode>
+	<li> Headache
+	<li> Weakness
+	<li> Polyuria
+    </rl>
+<li> exam reveals
+    <rl sep=and commamode>
+	<li> Hypertension (HTN)
+	<li> Tetany
+    </rl>
+<li> lab reveals
+    <rl sep=and commamode>
+	<li> Hypernatremia
+	<li> Hypokalemia
+	<li> Metabolic alkalosis
+    </rl>
+</ul> indicating:
+<answer>Primary hyperaldosteronism due to Conn's syndrome or bilateral
+	adrenal hyperplasia</answer></question>
+
+<question>Patient presents with:
+<rl sep=and commamode>
+    <li> Tachycardia
+    <li> Wild swings in blood pressure (BP)
+    <li> Headache
+    <li> Diaphoresis
+    <li> Altered mental status
+    <li> A sense of panic
+</rl> indicating:
+<answer>Pheochromocytoma</answer></question>
+
+<question>Should
+<rl sep=or commamode>
+<li> alpha
+<li> beta
+</rl> antagonists be used first in treating
+	pheochromocytoma?
+<answer>Alpha antagonists (phentolamine and phenoxybenzamine)</answer>
+<answer>Beta antagonists</answer>
+</answer></question>
+
+<question>Patient with a history of lithium use presents with copius
+	amounts of dilute urine indicating:
+<answer>Nephregenic diabetes insipidus (DI)</answer></question>
+
+<question>Diagnostic test that helps differentiate central from
+	nephregenic diabetes insipidus (DI) is:
+<answer>Administration of DDAVP and measurement of urine osmolality
+	</answer></question>
+
+<question>
+Patient
+<rl sep=and commamode>
+    <li> is postoperative
+    <li> has significant pain
+    <li> has hyponatremia
+    <li> has normal volume status
+</rl> indicating:
+<answer>SIADH due to stress</answer></question>
+
+<question>The only indication for administering hypertonic saline to a
+	patient with SIADH is:
+<answer>Active seizures</answer></question>
+
+<question>Antidiabetic agent associated with lactic acidosis is:
+<answer>Metformin</answer></question>
+
+<question>Morning hyperglycemia that is a rebound response to nighttime
+	hypoglycemia, not a need for more insulin.  Treatment?
+<answer>Somogyi effect.  Reduce PM insulin dose</answer></question>
+
+<question>
+Patient
+<rl sep=and commamode>
+    <li> presents with
+        <rl sep=and commamode>
+	    <li>weakness
+	    <li>nausea
+	    <li>vomiting
+	    <li>weight loss
+	    <li>a new skin pigmentation
+	</rl>
+    <li> labs show
+        <rl sep=and commamode>
+	    <li>hyponatremia
+	    <li>hyperkalemia
+	</rl>
+</rl>.  Treatment?
+<answer>Addison's disease.  Treat with
+<rl commamode sep=and>
+    <li> replacement glucocorticoids
+    <li> mineralocorticoids
+</rl>.</answer></question>
+
+<question>Goal hemoglobin A(1c) for a patient with diabetes mellitus (DM) is?
+<answer>Less than 7.0</answer></question>
+
+<question>Treatment for Diabetic Ketoacidosis (DKA) is:
+<answer>
+<rl sep=and commamode>
+    <li>Fluids
+    <li>Insulin
+    <li>Aggressive replacement of electrolytes (e.g. K+)
+</rl></answer></question>
+
+<question>In obese patients with this disorder, weight loss may
+	completely eliminate the need for medication:
+<answer>Type 2 Diabetes Mellitus (DM)</answer></question>
+
+<question>Why are beta blockers contraindicated in diabetics?
+<answer>They can mask symptoms of hypoglycemia</answer></question>
+
+<question>Most common cause of pathologic fractures in elderly thin women is?
+<answer>Osteoporosis</answer></question>
+</concept>

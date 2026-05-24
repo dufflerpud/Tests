@@ -1,0 +1,131 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Ethics.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 5 2006/03/09 23:02
+<question>Once a patients signs a statement giving consent, they must continue
+	treatment.
+<answer>False.  Patients may change their minds at any time.</answer>
+<answer>True.  The signed statement is a contract which may not be broken
+	by either party.</answer>
+</question>
+
+<question>Exceptions to the requirement of informed consent
+<answer>
+<rl sep=and>
+    <li>Emergency situations
+    <li>Patients without decision-making capacity
+    <li>Patients who sign waivers to the rights of informed consent
+</rl>
+</answer></question>
+
+<question>A 15 year-old pregnant girl requires hospitalization for
+	preeclampsia.  Should her parents be informed?
+<answer>No.  Parental consent is not necessary for medical treatment of
+	pregnant minors.</answer>
+<answer>Yes.  Minors do not have the capacity to consent so they're
+	legal guardians must consent to any medical treatment if it
+	is not an emergency.</answer>
+</question>
+
+<question>What problems arise if a doctor refers a patient for an MRI
+	at a facility he owns.
+<answer>Conflict of interest</answer></question>
+
+<question>Involuntary psychiatric hospitalization can be undertaken for which
+	three reasons?
+<answer>
+<rl sep=and>
+    <li>Patient is a danger to self
+    <li>Patient is a danger to others
+    <li>Patient is gravely disabled (unable to provide for basic needs)
+</rl>
+</answer></question>
+
+<question>Withdrawing life-sustaining care is a more serious measure than
+	withholding care.
+<answer>False.  Withdrawing and withholding life-sustaining care are the
+	same from an ethical standpoint.</answer>
+<answer>True.  Withdrawing life-sustaining care is an active act whereas
+	withholding life-sustaining care is in-action and falls into
+	a lesser category of liability.</answer>
+</question>
+
+<question>When can a physician refuse to continue treating a patient
+	on grounds of futility?
+<answer>
+<rl sep=and>
+    <li>When there is no rationale for treatment
+    <li>Maximal intervention is failing
+    <li>A given intervention has already failed
+    <li>Treatment will not achive the goals of care
+</rl>
+</answer></question>
+
+<question>An 8 year-old child is in a serious accident.  She requires
+	emergent transfusion but her parents are not present.
+<answer>Treat immediately.  Consent is implied in emergency situations.</answer>
+<answer>Wait until the legal guardians can be found.</answer>
+</question>
+
+<question>Conditions in which confidentiality must be overriden.
+<answer>
+<rl sep=and>
+    <li>Real threat of harm to third parties
+    <li>Suicidality
+    <li>Certain contagious diseases (e.g. AIDS)
+    <li>Elder and child abuse
+</rl>
+</answer></question>
+
+<question>Involuntary commitment or isolation for medical treatment may be
+	undertaken for what reason?
+<answer>Treatment noncompliance represents a serious threat to public health
+	(e.g. active TB)
+</answer></question>
+
+<question>A 10 year-old child presents in status epilepticus, but her parents
+	refuse treatment on religious grounds.
+<answer>Treat because the disease represents an immediate threat to the
+	child's life.  Then seek a court order.</answer>
+<answer>The parents are the legal guardians of the patient and have the
+	right to refuse treatment on the basis of their religion.
+</answer></question>
+
+<question>A son asks that his mother not be told about her recently discovered
+	cancer.
+<answer>A patient's family cannot require that a doctor withhold information
+	from the patient.</answer>
+<answer>The patient's family can withhold information from the patient
+	when the doctor deems that there is no medical benefit to informing
+	the patient.</answer>
+</answer></question>
+</concept>

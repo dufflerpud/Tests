@@ -1,0 +1,570 @@
+<!------------------------------------------------------------------------
+--
+--indx#	FAR_91.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	FAR_91.xml - Learn about federal aviation regulations, part 91
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	FAR_91.xml - Learn about federal aviation regulations, part 91
+-------------------------------------------------------------------------->
+
+<concept><pre> 91.3  Responsibility and Authority of the Pilot in command<br> (a) The pilot in command of an aircraft is directly responsible for, and is the<br> final authority to the operation of that aircraft.<br> (b) In an emergency requiring immediate action, the pilot in command may<br> deviate from an rule of this subpart or of Subpart B to the extent required to<br> meet the emergency.<br> (c) Each pilot in command who deviates from a rule under paragraph (b) of this<br> section shall, upon the request of the administrator, send a written report of<br> that deviation to the administrator.<br>
+<question> 16: The final authority as to the operation of an aircraft is the:<br>
+<answer right>Pilot in command
+<answer>FAA
+<answer>Owner or operator of the aircraft
+<answer>Inspector who performs the periodic check
+<question> 17: If an in-flight emergency requires immediate action, a pilot in command may<br>
+<answer right>Deviate from FAR's to the extent required to meet that emergency.
+<answer>Deviate from FAR's to the extent required to meet the emergency, but must  submit a written report to the administrator within 24 hours<br>
+<answer>Not deviate from FAR's unless prior to the deviation approval is granted by the administrator<br>
+<answer>Not deviate from FAR's unless permission is obtained from air traffic control.<br></pre></concept>
+<concept><pre> 91.5 Preflight Action.  Each pilot in command shall, before beginning a flight,<br> familarize himself with all available information concerning that flight.  This<br> information must include:<br> (a) For a flight under IFR or a flight not in the vicinity of an airport,<br> weather reports and forecasts, fuel requirements, alternatives available if<br> the planned flight cannot be completed, and any known traffic delays of which<br> he has been advised by ATC.<br> (b) For any flight, runway lengths at airports of intended use, and the<br> following takeoff and landing distance information:<br>     (1) For civil aircraft for which an approved airplane...flight manual<br>     containing takeoff and landing distance data is required, the takeoff and<br>     landing distance data contained therein; and<br>     (2) For civil aircraft other than those specified in subparagraph (1)<br>     of this paragraph, other reliable information appropriate to the aircraft,<br>     relating to aircraft performance under expected values of airport elevation<br>     and runway slope, aircraft gross weight, and wind and temperature<br>
+<question> 18: Prior to each flight, the pilot in command must<br>
+<answer right>Become familar with all available information concerning that flight
+<answer>Check the personal logbook for appropriate recent experience
+<answer>Calculate the weight and balance of the aircraft to determine if the CG is within limits.<br>
+<answer>Check with ATC for the latest traffic advisories and any possible delays.
+<question> 19: Preflight action, as required by regulations for all flights away from<br> the vicinity of an airport, shall include a study of the weather, taking into<br> consideration fuel requirements and<br>
+<answer right>An alternate course of action if the flight cannot be completed as planned.
+<answer>An operation check of the navigation radios
+<answer>The designation of an alternate airport
+<answer>The filing of a flight plan
+<question> 20: Which preflight action is required for every flight:<br>
+<answer right>Determine runway length of airports of intended use.
+<answer>Check weather reports and forecasts.
+<answer>Determine alternatives if the flight cannot be completed.
+<answer>Check for any known traffic delays.
+<question> 21: In addition to other preflight actions for a VFR flight away from the<br> vicinity of the departure airport, regulations require the pilot in command to:<br>
+<answer right>Determine runway lengths of airports of intended use and the airplane's takeoff and landing distance data.<br>
+<answer>File a flight plan
+<answer>Check each fuel tank visually to ensure that it is full
+<answer>Check the accuracy of the omnivigation equipment and the emergency locator transmitter<br></pre></concept>
+<concept><pre> 91.22:  Fuel requirements for flight under VFR<br> (a)  No person may begin a flight in an airplane under VFR unless (considering<br> wind and forecast weather conditions) there is enough fuel to fly to the first<br> point of intended landing and, assuming normal cruising speed:<br>     (1) During the day, to fly after that for at least 30 minutes<br>     (2) During the night, to fly after that for at least 45 minutes<br>
+<question> 22: What is the fuel requirement for flight under VFR during daylight hours?<br>
+<answer right>Enough to fly to the first point of intended landing and to fly after that for 30 minutes at normal cruising speed.<br>
+<answer>Full fuel tanks
+<answer>Enough to complete the flight at normal cruising flight with adverse wind conditions.<br>
+<answer>Enough to fly to the first point of intended landing and to fly after that for 45 minutes at normal cruising speed.<br>
+<question> 23: What is the fuel requirement for flight under VFR at night?<br>
+<answer right>Enough to fly to the first point of intended landing and to fly after that for 45 minutes at normal cruising speed.<br>
+<answer>Full fuel tanks
+<answer>Enough to complete the flight at normal cruising flight with adverse wind conditions.<br>
+<answer>Enough to fly to the first point of intended landing and to fly after that for 30 minutes at normal cruising speed.<br></pre></concept>
+<concept><pre> 91.11 Liquor and drugs.<br> (a) No person may act as a crewmember of a civil aircraft<br>     (1) within 8 hours after the consumption of any alcoholic beverage,<br>     (2) While under the influence of alcohol,<br>     (3) While using any drug that effects the person's faculties in any<br> 	way contrary to safety;<br>     (4) While having 0.04 percent by weight or more alcohol in the blood.<br> (b) Except in an emergency, no pilot of a civil aircraft may allow a person<br> who appears to be intoxicated or who demonstrates by manner or physical<br> indications that the individual is under the influence of drugs (except a<br> medical patient under proper care) to be carried in that aircraft.<br>
+<question> 24: A person may not act as a crewmember of a civil aircraft if alcholic<br> beverages have been consumed by that person within the preceding<br>
+<answer right>8 hours
+<answer>16 hours
+<answer>24 hours
+<answer>48 hours
+<question> 25: Under what condition, if any, may a pilot allow a person who is obviously<br> under the influence of intoxicating liquors or drugs to be carried aboard<br> an aircraft.<br>
+<answer right>Only if the person is a medical patient under proper care or in an emergency
+<answer>Under no condition
+<answer>Only if the person does not have access to the cockpit or pilot's compartment
+<answer>Only if a second pilot is aboard</pre></concept>
+<concept><pre> (a) General.  No person may operate a civil aircraft of U.S. registry -<br>     (1) At cabin pressure altitudes above 12500 feet (MSL) up to and including<br> 	14000 feet (MSL), unless the required minimum flight crew is provided<br> 	with and uses supplemental oxygen for that part of the flight at those<br> 	altitudes that is of more than 30 minutes duration.<br>     (2) At cabin pressure altitudes above 14000 feet (MSL) unless the required<br> 	minimum flight crew is provided with and uses supplemental oxygen<br> 	during the entire flight time at those altitudes.<br>     (3) At cabin pressure altitudes above 15000 feet (MSL) unless each<br> 	occupant of the aircraft is provided with supplemental oxygen.<br>
+<question> 26: Unless each occupant is provided with supplemental oxygen, no person may<br> operate a civil aircraft of U.S. registry above a cabin pressure altitude<br> of:<br>
+<answer right>15000 feet MSL
+<answer>14000 feet MSL
+<answer>12500 feet MSL
+<answer>10000 feet MSL</pre></concept>
+<concept><pre> 91.14 Use of safety belts.<br> (a) Unless otherwise authorized by the Administrator:<br>     (1) No pilot may take off...unless the pilot in command of that aircraft<br> 	ensures that each person on board is briefed on how to fasten and<br> 	unfasten that person's safety belt and shoulder harness if installed<br>     (2) No pilot may take off or land...unless the pilot in command of that<br> 	aircraft ensures that each person on board has been notified to<br> 	fasten his safety belt and shoulder harness, if installed<br>     (3) During the takeoff and landing...each person on board that aircraft<br> 	must occupy a seat or berth with a safety belt and shoulder harness,<br> 	if installed, properly secured about him.<br>
+<question> 27: What obligation does a pilot in command have concerning the use of<br> seatbelts?<br>
+<answer right>The pilot in command must brief the passengers on the use of seatbelts and notify them to fasten the seatbelts during takeoff and landing.<br>
+<answer>The pilot in command's seatbelt must be fastened during the entire flight.
+<answer>The pilot in command must instruct the passengers to keep seatbelts fastened for the entire flight except for brief rest periods.<br>
+<answer>The pilot in command must instruct the passengers on the use of seatbelts, but does not have the authority to require their use, except during a<br> emergency.<br>
+<question> 28: Regulations require that seatbelts in an airplane be properly secured about<br> the:<br>
+<answer right>Occupants during takeoffs and landings.
+<answer>Crewmembers only, during takeoffs and landings.
+<answer>Occupants during flight in moderate or severe turbulence only.
+<answer>Passengers and crewmembers during the entire flight.</pre></concept>
+<concept><pre> 91.15 Parachutes and Parachuting.<br> (c) Unless each occupant of the aircraft if wearing an approved parachute,<br> no pilot of a civil aircraft, carrying any person (other than a crewmember)<br> may execute any intentional maneuver that exceeds:<br>     (1) A bank of 60 degrees relative to the horizon<br>     (2) A nose-up or nose-down attitude of 30 degrees relative to the horizon<br> (d) Provides exceptions to this section<br>
+<question> 29: When must each occupant of an aircraft wear an approved parachute?<br>
+<answer right>When an intentional bank that exceeds 60 degrees is made
+<answer>When an aircraft is being tested after major repair
+<answer>When flying over water beyond gliding distance to the shore
+<answer>When a door is removed from the aircraft to facilitate parachute jumpers</pre></concept>
+<concept><pre> Emergency Locator Transmitters.  An Emergency Locator Transmitter (ELT) is<br> a small, self-contained radio transmitter which is activated automatically<br> by the impact force of a crash.  It is designed to transmit an immediate<br> electronic distress signal which can be used by other pilots and search and<br> rescure organizations to locate a downed airplane.<br>     ELTs of various types have been developed to provide a means of<br> locating downed aircraft and their occupants.  These electronic, battery<br> operated transmitters emit a distinctive downward swept audio town on<br> 121.5MHz and/or 243.0MHz.  The equipment is capable of providing continuous<br> operations for at least 48 hours at a wide range of ambient temperatures.<br>     FAR 91.52 requires that an approved ELT must be installed in most U.S.<br> registered airplanes.  There are certain exceptions to this regulation;<br> They are:  (1) Turbo airplanes, (2) Agricultural airplanes while dispensing<br> chemicals, (3) Scheduled airline operations not over water or uninhabited<br> areas, (4) Training airplanes operated within 50 miles of point of origin<br> of flight, and (5) aircraft equipped to carry not more than one person.<br>
+<question> 30:  When activated, an ELT transmits on:<br>
+<answer right>121.5 and 243.0 MHz
+<answer>122.3 and 122.8 MHz
+<answer>123.0 and 119.0 MHz
+<answer>118.0 and 118.8 MHz</pre></concept>
+<concept><pre> ELT battery replacement is required at 50 percent of the normal shelf life<br> as defined by the manufacturer, or after one cumulative hour of use.<br>     Purchased ELT batteries should be stamped with the date of the 50<br> percent battery life.  The new expiration date for the replacement (or<br> recharged) battery must be legibly marked on the outside of the transmitter<br> and entered in the aircraft maintenance record.  Failure to replace<br> batteries at the specified dates may not only limit the operating time, but<br> may cause damaging corrosion within the unit.<br>
+<question> 31: When are non-rechargeable batteries of an ELT (Emergency Locator<br> Transmitter) required to be replaced?<br>
+<answer right>When 50 percent of their useful life expires or they were in use for a cumulative period of 1 hour.<br>
+<answer>Every 24 Months.
+<answer>At the time of each 100-hour or annual inspection.
+<answer>Annually.</pre></concept>
+<concept><pre> ELTs should be tested in accordance with the manufacturer's instructions,<br> preferably in shielded or screened room to prevent the broadcast of signals<br> which could trigger a false alert.  When this cannot be done, aircraft<br> operational testing is authorized on 121.5MHz and 243.0MHz only during the<br> first 5 minutes after any hour and should be limited to three audio sweeps.<br> If operational tests should be made outside of this time-frame, they should<br> be coordinated with the nearest FAA control tower or FSS.<br>
+<question> 32: Operational tests of the ELT should be made only:<br>
+<answer right>During the first 5 minutes of the hour.
+<answer>During the annual inspection.
+<answer>After one-half the shelf life of the battery.
+<answer>Upon replacing the battery.</pre></concept>
+<concept><pre> Caution should be exercised to prevent the inadvertent activation of ELTs<br> in the air or while they are being handled on the ground.  Accidental or<br> unauthorized activation will generate an signal that cannot be<br> distinguished from the real thing, leading to expensive and frustrating<br> searches.  A false ELT signal could also intefere with genuine emergency<br> transmissions and hinder or prevent the timely location of crash sites.<br> Frequent false alarms could also result in complacency and decrease the<br> vigorous reaction that must be attached to all ELT signals.  Numerous cases<br> of inadvertent activation have occurred as a result of aerobatics, hard<br> landings, movement by ground crews and aircraft maintenance.  These false<br> alarms can be minimized by monitoring 121.5MHz and/or 243.0MHz as follows:<br>     (1) In flight when a receiver is available.<br>     (2) Prior to engine shut down at the end of each flight.<br>     (3) When the ELT is handled during installation or maintenance.<br>     (4) When maitenance is being performed in the vicinity of the ELT.<br>     (5) When the aircraft is moved by a ground crew.<br>     (6) If an ELT signal is heard, turn off the ELT to determine if it is<br> transmitting.  If it has been activated, maintenance might be required<br> before the unit is returned to the "ARMED" position.<br>
+<question> 33: Which procedure is recommended to ensure that the ELT has not been<br> activated?<br>
+<answer right>Monitor 121.5 before engine shut down.
+<answer>Turn off the aircraft ELT after landing.
+<answer>Ask the airport tower if they are receiving an ELT signal.
+<answer>Have a certified repair station inspect the ELT.</pre></concept>
+<concept><pre> 91.31 Civil Aircraft Operating Limitations and Marking Requirements.<br> (a) No person may operate a civil aircraft without compliance with the<br> operating limitations for that aircraft...<br> (b) No person may operate a U.S. registered civil aircraft-<br>     (1) For which an airplane...flight manual is required...unless there is<br> 	available in the aircraft a current approved Airplane...Flight<br> 	manual<br>     (2) For which an Airplane...Flight Manual is not required...unless<br> 	there is available in the aircraft a current approved<br> 	Airplane...Flight Manual, approved manual material, markings, and<br> 	placards, or any combination thereof...<br> (e) The Airplane...Flight Manual, or manual material, markings and placards<br> required by paragraph (b) of this section must contain each operating<br> limitation prescribed for that aircraft by the administrator, including the<br> following:<br>     (1) Powerplant<br>     (2) Airspeeds<br>     (3) Aircraft weight, center of gravity, and weight distribution,<br> 	including the composition of the useful load in those combinations<br> 	and ranges intended to ensure that the weight and center of gravity<br> 	position will remain within approved limits.<br>     (4) Minimum flight crew<br>     (5) Kinds of operation<br>     (6) Maximum operating altitude<br>     (7) Maneuvering flight load factors<br>
+<question> 34: An aircraft's operating limitations may be found:<br>
+<answer right>In the airplane flight manual, approved manual material, markings, and placards or any combination thereof<br>
+<answer>On the airworthiness certificate
+<answer>Only in the FAA approved airplane flight manual
+<answer>Only in the owner's handbook published by the aircraft manufacturer</pre></concept>
+<concept><pre> 91.27 Civil Aircraft:  Certificates required.<br> (a) No person may operate a civil aircraft unless it has within the<br> following:<br>     (1) An appropriate and current airworthiness certificate.<br>     (2) A registration certificate issued to the owner.<br> (b) No person may operate a civil aircraft unless the airworthiness<br> certificate...is displayed the cabin or cockpit entrance so that it is<br> legible to passengers or crew.<br> Certificate of Aircraft Registration.  Before an aircraft can be legally<br> flown it must be registered with the FAA aircraft registry an dhave within<br> it a certificate of registration issued to the owner as evidence of the<br> registration.  An aircraft is eligible for registration only if it is not<br> registered under the laws of any foreign country.<br>     The certificate of Aircraft Registration will expire when:<br>     (1) The aircraft is registered under the laws of a foreign country.<br>     (2) The registration of the aircraft is cancelled at the written<br>     request of the owner.<br>     (3) The aircraft is totally destroyed or scrapped.<br>     (4) The ownership of the aircraft is transferred.<br>     (5) The holder of the certificate loses United States citizenship<br>     (6) Thirty days have elapsed since the death of the holder of the<br> 	certificate.<br> The FAA does not issue any certificate of ownership or endorse any<br> information with respect to ownership on a certificate of aircraft<br> registration.<br> <br> Airworthiness Certificate.  An Airworthiness Certificate is issued by the<br> FAA only after the aircraft has been inspected and it is found that it<br> meets the requirements of the FARs and is in a condition for safe<br> operation.  Under any circumstances, the aircraft must meet the<br> requirements of the original type certificate.  The certificate must be<br> displayed in the aircraft so that it is legible to passengers or crew<br> whenever the aircraft is operated.  The airworthiness certificate may be<br> transferred with the aircraft except when it is sold to a foreign<br> purchaser.<br> <br> The standard airworthiness certificate is issued for aircraft type<br> certificated in the normal, utility, arobatic and transport categories.<br>
+<question> 35: No person may operate a civil aircraft unless the airworthiness<br> certificate, or special flight permit or authorization required by<br> regulations is:<br>
+<answer right>Displayed at the cabin or cockpit entrance so that it is legible to passengers or crewmembers.<br>
+<answer>On file in the owner's operation office where the aircraft is based.
+<answer>Filed with the other required certificates or documents within the aircraft to be flown.<br>
+<answer>Included in the approved logbooks for the aircraft to be flown.
+<question> 36: What documents or records must be aboard an aircraft during flight?<br>
+<answer right>Operating limitations; a registration certificate; and an appropriate, current, and properly displayed airworthiness certificate<br>
+<answer>Operating limitations and an aircraft use and inspection report
+<answer>Repair and alteration forms and a registration certificate
+<answer>Aircraft and engine logbooks and a registration certificate.</pre></concept>
+<concept><pre> The FAA initially determines that the aircraft is in a condition for safe<br> operation and conforms to type design, then issues an airworthiness<br> certificate.  A standard airworthiness certificate remains in effect so<br> long as the aircraft receives the required maitenance and is properly<br> registered in the United States.  Flight safety relies in part on the<br> condition of the aircraft, which may be determined on inspection by<br> mechanics, approved repair stations, or manufacturers who meet specific<br> requirements of FAR.<br>
+<question> 37: An airworthiness certificate remains valid<br>
+<answer right>Provided the aircraft is maintained and operated according to FAR's.
+<answer>Until ownership is transferred
+<answer>Provided the aircraft has not had major damage
+<answer>Until surrendered, suspended, or revoked.
+<question> 38: How long does the airworthiness certificate of an an airplane remain<br> valid?<br>
+<answer right>As long as the airplane is maintained and operated as required by FAR's.
+<answer>As long as the aircraft has a current registration certificate.
+<answer>Indefinitely, unless the aircraft suffers major damage.
+<answer>Indefinitely, unless the prescribed operating limitations are exceeded.</pre></concept>
+<concept><pre> Airworthiness standards.  The term "category" as used with respect to the<br> certification of aircraft, means a grouping of aircraft based upon intended<br> use or operating limitations.  Examples include:  Transport; normal;<br> utility; acrobatic; limited; restricted; and provisional.  The category of<br> each airplane can be readily identified by a placard in the cockpit or<br> document (Airworthiness certificate) which states the operational category<br> or categories in which the airplane is certified.<br> 91.39:  Restricted Category Civil Aircraft;  Operating limititions:<br> (d) No person may operate a restricteed category civil aircraft within the<br> United States-<br>     (1) Over a densely populated area;<br>     (2) In a congested airway; or<br>     (3) Near a busy airport where passenger transport operations are<br> 	conducted.<br>
+<question> 39: Which is normally prohibited when operating a restricted category civil<br> aircraft?<br>
+<answer right>Flight over a densely populated area.
+<answer>Flight under instrument flight rules.
+<answer>Flight within a control zone.
+<answer>Flight within the Continental Control Area.</pre></concept>
+<concept><pre> 91.29 Civil Aircraft Airworthiness.<br> (a) No person may operate a civil aircraft unless it is in an airworthy<br> condition.<br> (b) The pilot in command of a civil aircraft is responsible for determining<br> whether that aircraft is in condition for safe flight.  He shall<br> discontinue the flight when unairworthy mechanical or structural conditions<br> occur.<br>
+<question> 40: Who is responsible for determining if an aircraft is in condition for<br> safe flight?<br>
+<answer right>The pilot in command
+<answer>A certificated aircraft mechanic
+<answer>A certificated aircraft maintenance inspector
+<answer>The owner or operator</pre></concept>
+<concept><pre> Inspections.  Far Part 91 places primary responsibility on the owner or<br> operator for maintaining an aircraft in an airworthy condition.  Certain<br> inspections must be performed on the aircraft and the owner must maintain<br> the airworthiness of the aircraft during the time between required<br> inspections by having any unsafe defects corrected.<br>
+<question> 41: The responsibility for ensuring that an aircraft is maintained in an<br> airworthy condition is primarily that of the<br>
+<answer right>Owner or operator of the aircraft
+<answer>Pilot in command of the aircraft
+<answer>Maintenance shop
+<answer>Certified mechanic who signs the aircraft maintenance records.</pre></concept>
+<concept><pre> Annual Inspection.  A reciprocating powered single-engine aircraft flown<br> for pleasure is required to be inspected at least annually by a<br> certificated airframe and powerplant mechanic holding an inspection<br> authorization, or by a certificated repair station that is appropriately<br> rated, or by the manufacturer of the aircraft.  The aircraft may not be<br> operated unless the annual inspection has been performed within the<br> preceding 12 calendar months.  A period of 12 calendar months extends from<br> any day of any month to the last day of the same month the following year.<br> However, an aircraft with the annual inspection overdue may be operated<br> under a special flight permit for the purpose of flying the aircraft to a<br> location where the annual inspection can be performed.<br>
+<question> 42: An aircraft's last annual inspection was performed on July 12, this year.<br> The next annual inspection will be due no later than:<br>
+<answer right>July 31, next year
+<answer>July 13, next year.
+<answer>100 flight hours following the last annual inspection
+<answer>12 calendar months after the date shown on the airworthiness certificate.</pre></concept>
+<concept><pre> Repairs and Alterations.  All repairs and alterations are classed as either<br> major or minor.  Major repairs or alterations must be approved for return<br> to service by an appropriately rated certified repair satation, an airframe<br> and powerplant mechanic holding an inspection authorization, or a<br> representative of the administrator.  Minor repairs and alterations may be<br> approved for return to service by a certified airframe and powerplant<br> mechanic or an appropriately certified repair station.<br> Carrying persons other than crewmembers after repairs or alterations.<br> No person may carry any person (Other than crewmembers) in an aircraft that<br> has been repaired or altered in any manner that may have appreciably<br> changed its flight characteristics, or substantially affected it operatin<br> in flight, until it has been approved for return to service and an<br> appropriately rated pilot, with at least a private pilot's certificate,<br> flies the aircraft, makes an operation check of the repaired or altered<br> part, and logs the flight in the aircraft's records.<br>
+<question> 43: If an alteration or repair substantially affects an aircraft's<br> operation in flight, that aircraft must be test flown by an appropriately<br> rated pilot and approved for return to service prior to being operated<br>
+<answer right>With passengers aboard
+<answer>By any private pilot
+<answer>For compensation or hire
+<answer>Away from the vicinity of the airport
+<question> 44: Before passengers can be carried in an aircraft that has been altered<br> in a manner that may have appreciably changed its flight characteristics,<br> it must be flight tested by an appropriately rated pilot with at least a:<br>
+<answer right>Private pilot certificate.
+<answer>Commercial pilot certificate and an instrument rating.
+<answer>Commercial pilot certificate and a mechanic's certificate.
+<answer>Commercial pilot certificate.</pre></concept>
+<concept><pre> Maintenance Records.  Proper management of aircraft operation begins with a<br> good system of maintenance records.  A properly completed maitenance<br> record provides the information needed by the owner/operator and<br> maintenance personnel to determine when scheduled maintenance is to be<br> performed.  It is the owner's or operator's responsibility to make this<br> determination and to present the aircraft and records when maintenance is<br> to be performed.<br> <br> The information required to be kept in maintenance records is listed in<br> FAR 91.173.  A properly executed set of maintenence records will save the<br> owner/operator money since maintenance personnel will spend less time in<br> research to establish the status of the item to be worked on.  Good records<br> are also invaluable to maintenance personnel in trouble-shooting.  Only<br> that information required by FAR 91.173 should be included, since<br> irrelevant information tends to clutter up the records and hamper<br> maintenance research.  Carefully study this section and ensure that your<br> records comply.<br>
+<question> 45: Completion of an annual inspection and the return of the aircraft to<br> service should always be indicated by:<br>
+<answer right>An appropriate notation in the aircraft maintenance records.
+<answer>The relicensing date on teh registration certificate.
+<answer>An inspection sticker placed on the instrument panel that lists the annual inspection completion date.<br>
+<answer>The issuance date of the airworthiness certificate.
+<question> 46: To determine the expiration date of the last annual aircraft<br> inspection, a person should refer to the<br>
+<answer right>Aircraft maintenance records
+<answer>Airworthiness certificate
+<answer>registration certificate
+<answer>Owner/Operator manual
+<question> 47: Which record or documents shall the owner or operator of an aircraft keep<br> to show compliance with an applicable airworthiness directive?<br>
+<answer right>The aircraft maintenance records.
+<answer>Airworthiness certificate and owner's handbook.
+<answer>Airworthiness and registration certificates.
+<answer>Aircraft flight manual and owner's handbook.</pre></concept>
+<concept><pre> 91.67: Right of way Rules; Except water operations.<br> (a) General.  When weather conditions permit, regardless of whether an<br> operation is conducted under instrument flight rules or visual flight<br> rules, vigilance shall be maintained by each person operating an aircraft<br> so as to see and avoid other aircraft in compliance with this section.<br> When a rule of this section gives another the right of way, he shall give<br> way to that aircraft and may not pass over, under, or ahead of it unless<br> well clear.<br> (b) In distress.  An aircraft in distress has the right of way over all<br> other air traffic.<br> (c) Converging.  When aircraft of the same category are converging at<br> approximately the same altidue (except head-on, or nearly so) the aircraft<br> to the other's right has the right of way.  If the aircraft are of<br> different categories -<br>     (1) A balloon has the right of way over any other category of aircraft.<br>     (2) A glider has the right of way over an airship airplane or<br> 	rotorcraft<br>     (3) An airship has the right of way over an airplane or rotorcraft.<br> However, an aircraft towing or refuel other aircraft has the right of way<br> over all other engine-driven aircraft.<br> (d) Approaching head-on.  When aircraft are approaching head-on, or nearly<br> so, each pilot of each aircraft shall alter course to the right.<br> (e) Overtaking.  Each aircraft that is being overtaken has the right of way<br> and each pilot of an overtaking aircraft shall alter course to the right to<br> pass well clear.<br> (f) Landing.  Aircraft, while on final approach to land, or while landing,<br> have the right of way over other aircraft in flight or operating on the<br> surface.  When two or more aircraft are approaching an airport for the<br> purpose of landing, the aircraft at the lower altitude has the right of<br> way, but it shall not take advantage of this rule to cut in front of<br> another which is on final approach to land, or to overtake that aircraft.<br>
+<question> 48: Which aircraft has the right-of-way over all other air traffic?<br>
+<answer right>An aircraft in distress.
+<answer>A balloon.
+<answer>An aircraft on final approach to land.
+<answer>An aircraft towing or refueling another aircraft.
+<question> 49: What action is required when two aircraft converge at the same<br> altitude, but not head on?<br>
+<answer right>The aircraft on the left shall give way.
+<answer>The more maneuverable aircraft shall give way.
+<answer>The faster aircraft shall give way.
+<answer>Each aircraft shall give way to the right.
+<question> 50: Which aircraft has the right of way over all other air traffic?<br>
+<answer right>Balloon
+<answer>Airship
+<answer>Experimental aircraft
+<answer>Restricted aircraft
+<question> 51: An airplane and an airship are converging.  If the airship is left of<br> the airplane's position, which aircraft has the right of way?<br>
+<answer right>The airship has the right of way.
+<answer>The pilot of the airplane should give way; the airship is to the left.
+<answer>Each pilot should alter course to the right.
+<answer>The airplane has the right of way; it is more maneuverable.
+<question> 52: What action should be taken if a glider and an airplane approach each<br> other at the same altitude and on a head-on collision course?<br>
+<answer right>Both should give way to the right.
+<answer>The airplane should give way because the glider has the right of way.
+<answer>The airplane should give way because it is more maneuverable.
+<answer>The airplane should clib and the glider should decend so as to pass each other by at least 500 feet.<br>
+<question> 53: When two or more airplanes are approaching an airport for the purpose of<br> landing, the right-of-way belongs to the airplane:<br>
+<answer right>At the lower altitude, but it shall not take advantage of this rule to cut in front of or to overtake another.<br>
+<answer>That has the other to its right
+<answer>That is the least maneuverable
+<answer>That is either ahead of or to the other's right regardless of altitude</pre></concept>
+<concept><pre> Airplane lighting and Equipment.  Federal Aviation regulations, Part 91,<br> specify certain minimum airplane equipment required for night flight.  This<br> equipment includes instruments, lights, electrical energy source and spare<br> fuses.<br> <br> An anticollision light system including a flashing or rotating beacon and<br> position lights, is required equipment.  Airplane position lights are<br> arranged similar to those of boats and ships.  A red light is positioned on<br> the left wingtip, a green light on the right wingtip, and a white light on<br> the tail.  This arrangement provides a mean by which pilots can determine<br> the direction of movement of other airplanes in flight.  For example:  If<br> both a red and green light of another airplane are observed, the airplane<br> would be flying in a general direction toward the pilot seeing the lights<br> and could be on a collision course.  For example:  If only a red light is<br> seen, the airplane is traveling from right to left in relationto the<br> observing pilot.  On the other hand, if only a green light is observed, the<br> airplane is traveling from left to right.<br> <br> 91.73:  Aircraft lights.  No person may, during the period from sunset to<br> sunrise operate an aircraft unless it has lighted position lights.<br>
+<question> 54: During what time period should lighted position lights be displayed on<br> an aircraft?<br>
+<answer right>Sunset to sunrise
+<answer>30 Minutes before sunset to 30 minutes after sunrise
+<answer>1 hour before sunset to 1 hour after sunrise
+<answer>1 hour before sunset to 1 hour before sunrise
+<question> 55: When an aircraft is being operated at night, it must display lighted<br> position lights during the period from:<br>
+<answer right>sunset to sunrise
+<answer>1 hour before sunset to 1 hour after sunrise
+<answer>30 minutes after sunset to 30 minutes after sunrise
+<answer>30 minutes before sunset to 30 minutes after sunrise
+<question> 56: What is the general direction of movement of the other aircraft if during a<br> night flight you observe steady red and green lights ahead and at the same<br> altitude?<br>
+<answer right>The other aircraft is approaching head-on.
+<answer>The other aircraft is crossing to the left.
+<answer>The other aircraft is crossing to the right.
+<answer>The other aircraft is headed away from you.
+<question> 57: What is the general direction of the other aircraft if during a night<br> flight you observe a steady white light and a flashing red light ahead and<br> at the same altitude?<br>
+<answer right>The other aircraft is headed away from you.
+<answer>The other aircraft is crossing to the left.
+<answer>The other aircraft is crossing to the right.
+<answer>The other aircraft is approaching head-on.
+<question> 58: What is the general direction of movement of the other aircraft<br> during a night flight if you observe a steady red light and a flashing red<br> light ahead and at the same altitude?<br>
+<answer right>The other aircraft is crossing to the left.
+<answer>The other aircraft is crossing to the right.
+<answer>The other aircraft is approaching head-on.
+<answer>The other aircraft is headed away from you.
+<question> 59: What action should be taken, if during a night flight, a pilot observes<br> a steady green light and a flashing red light on another aircraft at the<br> same altitude?<br>
+<answer right>Be alert, the other aircraft should give way.
+<answer>Exercise extreme caution, the other aircraft is in distress.
+<answer>Give way to the right, the other aircraft is approaching head on.
+<answer>Give way to the left, the other aircraft is passing to the right.</pre></concept>
+<concept><pre> 91.89 Operation at airports without control towers.  Each person operating<br> an aircraft to or from an airport without an operating control tower shall<br> (a) In the case of an airplane approaching to land, make all turns of that<br> airplane to the left unless the airport displays approved light signals or<br> visual markings indicating that turns should be made to the right, in which<br> case the pilot shall make all turns to the right.<br> (b) In the case of an aircraft departing the airport, comply with any FAA<br> traffic pattern for that airport.<br>
+<question> 60: Which is the correct traffic pattern departure procedure to use at a<br> noncontrolled airport?<br>
+<answer right>Comply with any FAA traffic pattern established for the airport.
+<answer>Depart in any direction consistent with safety, after crossing the airport boundry.<br>
+<answer>Make all turns to the left.
+<answer>Depart as prearranged with other pilots using the airport.</pre></concept>
+<concept><pre> Preparatory to landing at an airport without a control tower, or when the<br> control tower, or when the control towner is not in operating, the pilot<br> should concern himself with the indicator for the approach end of the<br> runway to be used.  When approaching for landing, all turns must be made to<br> the left unless a traffic pattern indicator indicates that all turns should<br> be made to the right.  If the pilot will mentally enlarge the indicator for<br> the runway to be used, the base and final approach legs of the traffic<br> pattern to be flown immediately become apparent.  Similar treatment of the<br> indicator at the departure end of the runway will clearly indicate the<br> direction of the turn after takeoff.<br> <br> "Airport traffic area" means that airspace within a horizontal radious of 5<br> statute miles from the geographical center of any airport at which a<br> control tower is operating, extending from the surface to, but not<br> including, an altitude of 3000 feet above the elevation of the airport.<br>
+<question> 61: What are the horizontal limits of an airport traffic area?<br>
+<answer right>5 Statute Miles from the geographic center
+<answer>3 Statute Miles from the airport boundry
+<answer>5 Statute Miles from the airport boundry
+<answer>3 Statute Miles from the geographic center
+<question> 62: The vertical limit of an airport traffic area is from the surface up to:<br>
+<answer right>but not including 3000 ft
+<answer>and including 1500 ft
+<answer>and including 2000 ft
+<answer>the base of the overlying control area</pre></concept>
+<concept><pre> The boundaries are not depicted on aeronautic charts, but the presense of<br> an airport traffic area is indicated when tower frequencies are shown in<br> the airport data box (Letters CT appear on sectional charts)  While this<br> area is not designated as "controlled airspace", the radio communications<br> and operating requirements affect all flights taking off and landing at<br> airports with operating control towers.<br>
+<question> 63: An airport traffic area is automatically in effect when<br>
+<answer right>Its associated control tower is in operation.
+<answer>The weather is below VFR minimums
+<answer>Nighttime hours exist
+<answer>Radar services is available
+<question> 64: When is an airport traffic area in effect?<br>
+<answer right>When the associated control tower is in operation.
+<answer>From 1 hour before sunrise to 1 hour after sunset.
+<answer>When the associated FSS is in operation.
+<answer>From sunrise to sunset.</pre></concept>
+<concept><pre> When operating at an airport where traffic control is being exercised by a<br> federally operated control tower, pilots are required to maintain two-way<br> radio communication with thower while within the airport traffic area,<br> unless tower authorizes otherwise.  Through this communication the pilot<br> requests permission from the tower operator to taxi, take off, or land and<br> receives a specific clearance along with pertinent information about the<br> traffic pattern.<br>
+<question> 65: What is the purpose of an airport traffic area?<br>
+<answer right>To provide for the control of aircraft landing and taking off from an airport with an operating control tower.<br>
+<answer>To provide for the control of all aircraft operating in the vicinity of an airport with an operating control tower.<br>
+<answer>To provide for the control of air traffic within a control sone that has an operating control tower.<br>
+<answer>To restrict aircraft without radios from operating in the vicinity of an airport with an operating control tower.<br>
+<question> 66: Unless otherwise authorized, two-way radio communications with air traffic<br> tonrol are required for landings or takeoffs<br>
+<answer right>At all tower controlled airports regardless of the weather conditions
+<answer>Within control zones regardless of the weather conditions
+<answer>At all tower controlled airports only when weather conditions are less than VFR<br>
+<answer>At tower controlled airports within control zones only when weather conditions are less than VFR<br></pre></concept>
+<concept><pre> Radio Communications Breakdown (VFR).  Procedures in which light-gun<br> signals are used apply only when the aircraft using the particular airport<br> is not equipped with two-radio, or when radio contact cannot be established<br> or maintained.  ATC personnel use a directive traffic control signal which<br> emits an intense narrow light beam of a selected color (Either red, white<br> or green) when controlling traffic by light signals.<br> 91.77: ATC light signals have the meaning shown below:<br> Signal			Meaning while on ground		Meaning in flight<br> -----------------------------------------------------------------------------<br> Steady green		Cleared for take-off		Cleared for landing<br> Flashing green		Cleared for taxiing		Return for landing<br> Steady red		Stop				Continue circling<br> Flashing red		Taxi clear of landing area	Airport unsafe (go away)<br> Flashing white		Return to staring point		Bomb Steve Alonso's<br> Alternating green &amp; red	Exercise extreme caution	Exercise extreme caution<br>
+<question> 67: A flashing white light signal from the control tower to an aircraft taxiing<br> in an indication:<br>
+<answer right>To return to the starting point on the airport.
+<answer>To taxi at a faster speed.
+<answer>To taxi only on taxiways and not cross runways
+<answer>That instrument conditions exist.
+<question> 68: A steady green air traffic control light signal directed to an aircraft in<br> flight is a signal that the pilot:<br>
+<answer right>Is cleared to land
+<answer>Should give way to other aircraft and continue circling
+<answer>Should return for landing
+<answer>Should exercise extreme caution
+<question> 69: What is the difference between a steady red and a flashing red light<br> signal from the tower to an aircraft approaching to land?<br>
+<answer right>A steady red light signals to continue circling and a flashing red light signals that the airport is unsafe for landing.<br>
+<answer>Both light signals mean the same except the flashing light requires a more urgent reaction.<br>
+<answer>A steady red light signals to continue circling and a flashing light signals to continue, but exercise extreme caution.<br>
+<answer>A steady red light signals that the airport is unsafe and a flashing red light signals to use a different runway.<br>
+<question> 70: While on the final approach for landing, an alternating green and red<br> light followed by a flashing red light is received from the control tower.<br> Under these circumstances, the pilot should:<br>
+<answer right>Abandon the approach, realizing the airport is unsafe for landing.
+<answer>Land and clear the runway in use as safely and quickly as possible.
+<answer>Discontinue the approach, fly the same traffic pattern and approach again, and land.<br>
+<answer>Abandon the approach, circle the airport to the right, and expect a flashing white light when the airport is safe for landing.<br></pre></concept>
+<concept><pre> If you have reason to believe your radio is inoperative, remain outside or<br> above the traffic area until the direction and flow of traffic has been<br> determined, then join the airport traffic pattern and maintain visual<br> contact with the tower to receive light signals.  During hours of daylight,<br> acknowledge light signals by rocking your wings.  At night, acknowledge by<br> blinking the landing or navigation lights.<br>
+<question> 71: If the aircraft's radio fails, what is the recommended procedure when<br> landing at a controlled airport?<br>
+<answer right>Observe the traffic flow, enter the pattern, and look for a light signal from the tower.<br>
+<answer>Enter a crosswind leg and rock the wings.
+<answer>Flash the landing lights and cycle the landing gear while circling the airport.<br>
+<answer>Select 7700 on the transponder and fly a normal traffic pattern.</pre></concept>
+<concept><pre> ATC Clearances.  A clearance issued by ATC is predicated on known traffic<br> and known physical airport conditions.  An ATC clearance means an<br> authorization by ATC for the purpose of preventing collision between known<br> aircraft, for an aircraft to proceed under specified conditions within<br> controlled airspace.  It is not authorization for a pilot to deviate from<br> any rule, regulation, or minimum altitude, nor to conduct unsafe operation<br> of his aircraft.<br>
+<question> 72: An air traffic control clearance provides:<br>
+<answer right>Authorization to proceed under specified traffic conditions in controlled airspace.<br>
+<answer>Authorization for flight in uncontrolled airspace.
+<answer>Priority over all other traffic.
+<answer>Adequate separation from all traffic.</pre></concept>
+<concept><pre> Whether operating VFR or IFR, a pilot must not deviate from the air traffic<br> clearance without obtaining an amended clearance.  If the pilot cannot<br> comply with any provision of the clearance, ATC should be informed<br> immediately giving a brief reason, and normally ATC will issue an ammended<br> clearance.  In the event of emergency deviation from the provisions of an<br> ATC clearance, the pilot must notify ATC as soon as possible and get an<br> amended clearance.<br> 91.75 Compliance with ATC Clearances and Instructions.<br> (a) When an ATC clearance has been obtained, no pilot in command may<br> deviate from that clearance, except in an emergency, unless he obtains an<br> amended clearance...If a pilot is uncertain of the meaning of an ATC<br> clearance, he shall immediately request clarification from ATC.<br> (b) Except in an emergency, no person may, in an area in which air traffic<br> control is exercised, operate an aircraft contrary to an ATC instruction.<br> (c) Each pilot in command who deviates, in an emergency, from an ATC<br> clearance or instruction shall notify ATC of that deviation as soon as<br> possible.<br> (d) Each pilot in command who (Though not deviating from a rule of this<br> subpart) is given priority by ATC in an emergency, shall, if requested by<br> ATC, submit a detailed report of that emergency within 48 hours to the<br> chief of that ATC facility.<br>
+<question> 73: What action should be taken if a pilot receives a clearance that will<br> cause a deviation from a rule?<br>
+<answer right>Refuse the clearance as stated and request it be amended.
+<answer>Accept the clearance, because the pilot is not responsible for the deviation.<br>
+<answer>Accept the clearance and advise air traffic control when deviation occurs.
+<answer>Accept the clearance and advise air traffic control that you believe a rule deviation will occur.<br>
+<question> 74: When may air traffic control request a detailed report of an emergency<br> even though a rule has not been violated?<br>
+<answer right>When priority has been given.
+<answer>Anytime an emergency occurs.
+<answer>When the emergency occurs in controlled airspace.
+<answer>Only when an accident results from the emergency.
+<question> 75: What action, if any, is appropriate if the pilot deviates from an air<br> traffic control instruction during an emergency and is given priority?<br>
+<answer right>If requested, file a detailed report within 48 hours to the chief of the air traffic control facility.<br>
+<answer>Take no special action since you are pilot in command.
+<answer>File a report to the FAA Administrator within 48 hours.
+<answer>File a report to the chief of that air traffic control facility within 24 hours.<br></pre></concept>
+<concept><pre> Understanding and complying with air traffic clearances also speeds up<br> traffic movement on an airport.  Before starting to taxi, the pilot should<br> always call for a taxi clearance from the tower.  (At many airports, this<br> is done on a special radio frequency assigned to ground control)  Then,<br> when cleared to a particular runway, the pilot may taxi close to, but not<br> onto the specified runway.  A clearance to move onto the runway and to take<br> off, must be obtained on the regular control tower frequency.<br>
+<question> 76: If instructed by ground control to taxi to Runway 9, the pilot may<br> proceed:<br>
+<answer right>Via taxiways and across runways to, but not onto, Runway 9.
+<answer>To the next intersecting runway where further clearance is required.
+<answer>Via taxiways and across runways to Runway 9, where an immediate take off may be made.<br>
+<answer>Via any route at the pilot's discretion onto Runway 9 and hold until cleared for takeoff.<br></pre></concept>
+<concept><pre> After landing, unless otherwise instructed by the control tower, aircraft<br> should continue to taxi in the landing direction, proceed to the nearest<br> turnoff and exit the runway without delay.  Do not turn on to another<br> runway or make a 180 degree turn to taxi back on an active runway or change<br> to ground control frequency while on the active runway without<br> authorization from the tower.<br>
+<question> 77: After landing at a tower-controlled airport, when should the pilot contact<br> ground control?<br>
+<answer right>When advised by the tower to do so.
+<answer>Prior to turning off the runway.
+<answer>After reaching a taxiway that leads directly to the parking area.
+<answer>After leaving the runway and crossing the runway holding lines.</pre></concept>
+<concept><pre> Controlled Airspace.  Just as there are traffic laws and restrictions<br> regulating the operation of automobiles in certain areas or zones, there<br> are regulations governing the operation of aircraft within designated<br> airspace.  However, unlike streets and highways where automobile operation<br> is restricted, airspace with special flight restrictions has no posted<br> signs or markers.  Consequently, in locating controlled airspace, you must<br> visualize it by correlating the chart symbols with ground reference points.<br> Although each airspace has its individual boundaries and rules, you should<br> remember that frequently one overlaps or is collocated with another, as in<br> the case of an airport having an airport traffic area within a control<br> zone.<br> <br> "Controlled airspace" means airspace designated as a "Continental Control<br> Area", "Control area", "Control zone", "Terminal Control Area", or<br> "Transition area", within which some or all aircraft may be subject to air<br> traffic control.<br> <br> "Positive Control Area" consists of controlled airspace within which there<br> is positive control of aircraft i.e, control of all air traffic by air<br> traffic control.  This area includes, in general, airspace within the<br> conterminous U.S. from 18000 feet MSL to and including FL600.<br> <br> 91.97: Positive Control Areas<br> (a) ...No person may operate an aircraft within a positive control area...<br> unless that aircraft is:<br>     (1) Operated under IFR at a specific flight level assigned by ATC,<br>     (2) Equipped with instruments and equipment required for IFR<br>     operations,<br>     (3) Flown by a pilot rated for instrument flight,<br>     (4) Equipped when in a positive control area with:<br> 	(i) The applicable equipment specified in FAR 91.24 I.E., a<br> 	transponder with altitude reporting capability,<br> 	(ii) A radio providing direct pilot controller communication on the<br> 	frequency specified by ATC for the area concerned.<br>
+<question> 78: In which type of airspace are VFR flights prohibited?<br>
+<answer right>Positive control area
+<answer>Terminal control areas
+<answer>Continental control areas
+<answer>Control zone</pre></concept>
+<concept><pre> Continental Control Area - Consists of the airspace of the 48 contiguous<br> states at and above 14500 feet MSL, but does not include<br> (a) The airspace less than 1500 feet AGL and<br> (b) Certain prohibited and restricted areas<br></pre></concept>
+<concept><pre> Continental Area is designated airspace starting at 700 feet above ground<br> level (unless a higher altitude is specified) and extending upward to the<br> base of the overlying Continental Control Area (14500 Feet MSL).  The<br> lateral limits, normally identical to Federal Airways, but frequently<br> including far-reaching extensions are shown on sectional charts with<br> colored boundaries.  Those areas bounded by magenta tint start at 700 feet<br> AGL, while those bounded by blue tint start at 1200 feet AGL (unless a<br> higher altitude is specified).  The dark edges of tinted borders indicate<br> the outer boundary of the airspace.  VFR flights within Control Areas<br> require certain weather minimums which vary according to the altitude<br> flown.  The table in Figure 1-15 contains these weather minimums as well as<br> the minimums for flight outside of controlled airspace.<br></pre></concept>
+<concept><pre> Federal Airway - each airway is based on a center line that extens from one<br> navigational aide or intersection to another navigational aide specified<br> for that airway.  The centerline is shown on aero-nautical charts, and the<br> airway identity are indicated.  Each airway includes airspace within<br> parallel boundary lines normally 4 nautical miles each side of the<br> centerline, and extends from 1200 feet above the surface (unless a higher<br> altitude is indicated) upward to, but not including 18000 feet MSL.<br> Inasmuch as a Federal Airway is controlled airspace divided at 10000 feet<br> MSL, VFR flight within the airway requires distinct weather minimums above<br> and below 10000 feet.<br>
+<question> 81:  Unless otherwise specified, Federal airways extend from:<br>
+<answer right>Uncontrolled airspace - surface to 1200 feet AGL, control area 1200 feet AGL to 14500 feet MSL<br>
+<answer>Uncontrolled airspace, surface to 14500 feet
+<answer>Uncontrolled airspace, surface to 700 feet AGL, control area - 700 feet AGL to 14500 feet MSL<br>
+<answer>Control area surface to 14500 feet MSL
+<answer>An airport traffic area from the surface to 3000 feet AGL
+<answer>A control zone from the surface to 14500 feet MSL
+<answer>Uncontrolled airspace from the surface to 700 feet AGL
+<answer>Special use airspace from the surface to overlying area.
+<answer>1200 feet above the surface upward to 14500 feet MSL and are 16 NM wide
+<answer>700 feet above the surface upward to the continental control area and are 10 NM wide.<br>
+<answer>1200 feet above the surface upward to 18000 feet MSL and are 8 NM wide
+<answer>The surface upward to 18000 feet MSL and are 4 NM wide</pre></concept>
+<concept><pre> Control Zone - Airspace that is normally a circular area with a 5-mile radius<br> and extensions as necessary for instrument approach and departure paths at<br> certain airports.  (A control tower may or may not be located with the control<br> zone.)  It starts at the surface, and extends up to the base of the continental<br> control area.  The lateral limits are shown on aeronautical charts by a dashed<br> line.  Specific weather minimums are required for VFR flight within this zone,<br> and an ATC clearance is required when the weather is less than VFR minimums.<br> Certain other flight restrictions are also in effect within this airspace.<br>
+<question> 95: Within the contiguous United States, a control zone extends from the<br> surface upward to the base of:<br>
+<answer right>1200 feet AGL to 7500 feet MSL
+<answer>700 feet AGL to 7500 feet MSL
+<answer>7500 feet MSL to 12500 feet MSL
+<answer>7500 feet MSL to 18000 feet MSL
+<answer>An airport traffic area.
+<answer>The Continental Control Area.
+<answer>A transition area.
+<answer>A Terminal Control Area.</pre></concept>
+<concept><pre> 91.105 Basic VFR weather minimums:<br> (c) ...No person may operate an aircraft, under VFR within a control zone<br> beneath the ceiling when the ceiling is less than 1000 feet.<br> (d) ...No person may take off or land an aircraft or enter the traffic pattern<br> of an airport under VFR with a control zone:<br>     (1) Unless ground visibility at that airport is at least three statute miles<br>     (2) If ground visibility is not reported, flight visibility is at least<br> 	three statute miles<br> Note: "Ceiling" means the height above the earth's surface of the lowest layer<br> of clouds or obscuring phenomena that is reported as "broken," "overcast,"<br> or "obscuration," and not classified as "thin" or "partial."<br>
+<question> 96: The basic VFR weather minimums for operating an aircraft beneath the<br> ceiling within a control zone are:<br>
+<answer right>1000 foot ceiling and 3 mile visibility.
+<answer>500 foot ceiling and 1 mile visibility.
+<answer>clear of clouds and 2 miles visibility.
+<answer>2000 foot ceiling and 1 mile visibility.</pre></concept>
+<concept><pre> 91.107 Special VFR Weather Minimums<br> (a) ... When a person has received an appropriate ATC clearance, the special<br> weather minimums of this section instead of those contained in part 91.105<br> apply to the operation of an aircraft by that person in a Control Zone<br> under VFR.<br> (b) No person may operate an aircraft...in a control zone under VFR except<br> clear of clouds.<br> (c) No person may operate an aircraft...in a control zone under VFR unless<br> flight visibility is at least one statute mile.<br> (d) No person may take off or land an aircraft ... at any airport in a<br> control zone under VFR:<br>     (1) Unless ground visibility is at least one statute mile or<br>     (2) If ground visibility is not reported at that airport, unless flight<br> 	visibility during landing or takeoff is at least one statute mile.<br>
+<question> 97: What minimum condition must exist to operate within a control zone<br> special VFR?<br>
+<answer right>1 mile flight visibility.
+<answer>2400 RVR.
+<answer>500 feet below clouds.
+<answer>1000 feet above clouds.
+<question> 98: What is the minimum weather condition required for airplanes operating<br> under special VFR in a control zone?<br>
+<answer right>1 mile flight visibility
+<answer>1 mile flight visibility and 1000 foot ceilings
+<answer>3 miles flight visibility and 1000 foot ceilings
+<answer>3 miles flight visibility
+<question> 99: Except for a helicopter, a special VFR clearance authorizes the pilot<br> of an aircraft to operate VFR while within a control zone:<br>
+<answer right>If clear of clouds and the visibility is at least 1 mile
+<answer>When the ceiling is less than 1000 feet and the visibility less than 1 mile if the aircraft does not exceed maneuvering speed.<br>
+<answer>With no minimum visibility requirements if clear of the clouds
+<answer>At or below cloud base with a flight visibility of 1 mile or less, provided the aircraft remains below 1000 feet above the surface.<br></pre></concept>
+<concept><pre> 91.107(e)  No person may operate an aircraft...in a control zone under the<br> special weather minimums of this section between sunset and sunrise unless:<br> (1) That person meets the applicable requirements for instrument flight<br> under part 61 of this chapter (i.e. instrument rating) and<br> (2) The aircraft is equipped as required in part 91.33 (i.e. instrument and<br> equipment required for IFR flight).<br>
+<question> 100: What are the minimum requirements for airplane operations under<br> special VFR in a control zone at night?<br>
+<answer right>The pilot must be instrument rated and the airplane must be IFR equipped.
+<answer>The minimum visibility is 3 miles and the airplane must operate clear of clouds.<br>
+<answer>The airplane must be under radar surveillance at all times while in the control zone.<br>
+<answer>The airplane must be equipped for IFR and with an altitude reporting transponder.<br>
+<question> 101: No person may operate an airplane within a control zone at night under<br> special VFR unless:<br>
+<answer right>The airplane is equipped for instrument flight.
+<answer>The flight can be conducted 500 feet below the clouds.
+<answer>An instructor is aboard.
+<answer>The flight visibility is at least 3 miles.</pre></concept>
+<concept><pre> An ATC clearance must be obtained prior to operating within a control zone<br> when the weather is less than that required for VFR flight.  A VFR pilot<br> may request and be given a clearance to enter, leave or operate within most<br> control zones in special VFR conditions, traffic permitting, and providing<br> such flight will not delay IFR operations.  When a control tower is located<br> within the control zone, requests for clearances should be to the tower.<br> If no tower is located within the control zone, a clearance may be obtained<br> from the nearest tower, FSS or center.<br> Note:  Special VFR operations by fixed-wing aircraft are prohibited in some<br> control zones due to the volume of IFR traffic.  A list of these control<br> zones is contained in FAR 93.113.  They are also depicted on sectional<br> aeronautical charts with the following simple:    T T T T T<br>
+<question> 102:  Who should the pilot contact to receive a special VFR clearance in a<br> control zone collocated with an airport traffic area?<br>
+<answer right>Airport control tower.
+<answer>FSS.
+<answer>Air route traffic control center.
+<answer>Approach control.</pre></concept>
+<concept><pre> Terminal Control Area.  The FAA has adopted additional air traffic rules<br> for the control or segregation of all aircraft within airspace designated<br> as "Terminal Control Areas" (TCAs) surrounding some of the nation's busiest<br> airports.  The major problem inherent in a terminal airspace operation is<br> the mixture of controlled and noncontrolled air traffic.<br> <br> To increase safety and to reduce the risk of midair collisions, a system<br> has been developed to segretate air traffic operating to or from the<br> airports within the designated Terminal Control Area (TCA) from other<br> traffic operating near that terminal area.  All traffic operating within<br> the terminal control area is separated and controlled by ATC.  This<br> requires that aircraft operating within this type designated airspace have<br> certain communication and navigation equipment.  Appropriate authorization<br> from ATC must be received prior to operating within the Terminal Control<br> Area.<br>
+<question> 103:  Regardless of weather conditions, air traffic control authorization<br> is required prior to operating an aircraft wihin a:<br>
+<answer right>Terminal control area.
+<answer>Control zone.
+<answer>Terminal Radar Service area.
+<answer>Transition area.</pre></concept>
+<concept><pre> Horizontal and vertical boundaries of each terminal control area vary<br> according to (1) the types of aircraft normally using the area and the<br> nature of air operations in that area; (2) the facilities at the airports<br> and the navigational aids available; (3) the air traffic capabilities to<br> meet the needs of the terminal control concept.  Although the configuration<br> of each TCA is tailored to individual needs of the area, the general<br> appearance is circular in nature with layers as in an upside-down wedding<br> cake.  The altitudes and distances outlining the TCA are shown on the<br> aeronautical sectional charts for individual terminals.  These are<br> available for purchase at many airports.<br> <br> The terminal control areas are classed as Group I, or Group II depending on<br> the number of aircraft operations and passengers they service.  To operate<br> within either group, an airplane must be equipped with an operable VOR or<br> TACAN receiver, two-way radio capable of communicating with ATC on<br> appropriate frequencies and, with certain exceptions, an approved<br> transponder.  A 4096 code transponder with MODE C automatic altitude<br> reporting equipment is required for a group I TCA.  Group II TCAs require a<br> 4096 code transponder, except for IFR flights operating to or from an<br> airport outside of but in close proximity to tghe TCA when the commonly<br> used transition, approach, or departure procedures to such airport require<br> flight within the TCA.  In addition, the pilot in command must have at<br> least a private pilot certificate to land or take off at an airport within<br> a group I terminal control area.<br> <br> Note:  ATC may, upon notification, immediately authorize a deviation from<br> the altitude reporting equipment requirement (Group I TCAs); however,<br> request for a deviation from the 4096 transponder equipment requirement<br> must be submitted to the controlling ATC facility at least 1 hour before<br> the proposed operation.<br> <br> Note:  In addition to the ATC transponder and altitude reporting equipment<br> requirements for operation in a terminal control area and positive control<br> area, FAR 91.24 requires this same equipment for operation in all<br> controlled airspace of the 48 contiguous states and the District of<br> Columbia, above 12500 feet MSL, excluding the airspace at and below 2500<br> feet MSL.<br>
+<question> 104: What minimum pilot certification is required for takeoff or landing<br> operations in a group I terminal control are?<br>
+<answer right>Private pilot certificate.
+<answer>Student pilot certificate with appropraiate log book endorsements.
+<answer>Private pilot certificate with an instrument rating.
+<answer>Commercial pilot certificate.
+<question> 105: What equipment is required when operating an airplane within a group<br> II terminal control area.<br>
+<answer right>A 4096 code transponder with Mode C capability.
+<answer>A 4096 code transponder.
+<answer>A VOR receiver with distance measuring equipment.
+<answer>An automatic direction finder.
+<question> 106: An operable transponder is required in which airspaces?<br>
+<answer right>Group I TCA's, Group II TCA's, and positive control areas.
+<answer>Group I TCA's, ADIZ and positive control areas.
+<answer>Group I and Group II TCA's only.
+<answer>High density airport traffic areas and Group I TCA's</pre></concept>
+<concept><pre> Altimeter settings.  Federal Aviation Regulations require that you maintain<br> specific cruising altitudes by reference to an altimeter.  The altimeter<br> should be set to the current reported altimeter setting of a station along<br> the route of flight (Flight Service Stations, control towers, etc.).  If<br> your aircraft is not equipped with a radio, you should obtain an altimeter<br> setting prior to departure if one is available, or you should adjust the<br> altimeter to the elevation of the departure airport.<br> 91.81 Altimeter settings.<br> (a) Each person operating an aircraft shall maintain the cruising altitude<br> or flight level of that aircraft, as the case may be, by reference to an<br> altimeter that is set, when operating:<br> (1) Below 18000 feet MSL, to -<br>     (i) The current reported altimeter setting of a station along the route<br>     and within 100 nautical miles of the aircraft;\<br>     (ii) If there is no station within the area prescribed in subdivision<br>     (i) of this subparagraph, the current reported altimeter setting of an<br>     appropriate available station; or<br>     (iii) In the case of an aircraft not equipped with a radio, the<br>     elevation of the departure airport or an appropriate altimeter setting<br>     available before departure; or<br> (2) At or above 18000 feet MSL, to 29.92" Hg.<br>
+<question> 107:  Prior to takeoff, the altimeter should be set to:<br>
+<answer right>The current local altimeter setting, if available, or the departure airport elevation.<br>
+<answer>The corrected density altitude of the departure airport.
+<answer>The corrected pressure altitude for the departure airport.
+<answer>29.92"Hg.
+<question> 108:  If an altimeter setting is not available before flight, to which<br> altitude or setting should the pilot adjust the altimeter?<br>
+<answer right>The elevation of the departure area.
+<answer>To 29.92"Hg for flight above 18000 feet MSL.
+<answer>The elevation of the nearest airport corrected to mean sea level.
+<answer>Pressure altitude corrected for nonstandard temperature.
+<question> 109:  When is it first required that the altimeter be set to 29.92"Hg, when<br> climbing to cruising altitude or flight level?<br>
+<answer right>18000 Feet MSL
+<answer>12500 Feet MSL
+<answer>14500 Feet MSL
+<answer>24000 Feet MSL</pre></concept>
+<concept><pre> VFR cruising altitudes.  Cruising altitude is a level above mean sea level<br> (MSL), but the rules pertaining to the selection of a cruising altitude<br> approprate to the flight's magnetic course are applicable only when flying<br> more than 3000 feet above the ground.<br> 91.109 VFR cruising altitude or flight level.<br> ...Each person operating an aircraft under VFR in level-cruising flight more<br> than 3000 feet above the surface shall maintain the appropriate altitude or<br> flight level prescribed below:<br> (a) When operating below 18000 feet MSL and -<br>     (1) On a magnetic course of 0 degrees through 179 degrees, any odd thousand<br>     feet MSL altitude plus 500 feet (Such as 3500, 5500 or 7500 foot); or<br>     (2) On a magnetic course of 180 degrees through 359 degrees, any even<br>     thousand foot MSL altitude plus 500 feet (Such as 4500, 6500 or 8500).<br> Adhering to the VFR altitude/flight level rule appropriate for the<br> direction of flight plays an important role in the avoidance of mid-air<br> collisions.  The rule is specifically designed to provide altitude<br> separation, and applies to local as well as cross-country flights.<br> <br> When an aircraft is operated in VFR level cruising flight at more thatn<br> 3000 feet above the surface up to flight level 390 (39000 feet) inclusive,<br> the cruising altitudes shall be observed in accordance with the magnetic<br> course being flown.<br> <br> Note:  "Magnetic course" is true course corrected for variation.  Do not<br> confuse this with:  True course, compass course, magnetic heading, true<br> heading or compass heading.<br>
+<question> 110:  Each person operating an aircraft under VFR in level cruising flight<br> at an altitude of more than 3000 feet above the surface, and below 18000<br> feet MSL shall maintain an odd-thousand plus 500 foot altitude while on a:<br>
+<answer right>magnetic course of 0" through 179".
+<answer>magnetic heading of 180" through 359".
+<answer>true course of 180" through 359".
+<answer>true course of 0" through 179".
+<question> 111:  Which VFR cruising altitude is acceptable for a flight on a victor<br> airway with a magnetic course of 175"?  The terrain is less than 1000 feet.<br>
+<answer right>5500 feet MSL
+<answer>4000 feet MSL
+<answer>4500 feet MSL
+<answer>5000 feet MSL
+<question> 112:  Which VFR cruising altitude is acceptable for a flight on a Victor<br> airway with a magnetic course of 185"?  The terrain is less than 1000 feet.<br>
+<answer right>4500 feet MSL
+<answer>4000 feet MSL
+<answer>5000 feet MSL
+<answer>5500 feet MSL</pre></concept>
+<concept><pre> 91.70 Aircraft speed.<br> (a) Unless otherwise authorized by the administrator, no person may operate<br> an aircraft below 10000 feet MSL and an indicated airspeed of more than 250<br> kts (288 Mph)<br> (b) Unless otherwise authorized or required by ATC, no person may operate<br> an aircraft within an airport traffic area at an indicated airspeed of more<br> than<br>     (1) In the case of reciprocating engine aircraft, 156kts (180MPH); or...<br> Paragraph (b) does not apply to any operations within a Terminal Control<br> Area.  Such operations shall comply with paragraph (a) of this section, 250<br> kts (288MPH).<br> (c) No person may operate an aircraft in the airspace underlying a terminal<br> control area, or in a VFR corridor designated through a terminal control<br> area at an indicated airspeed of more than 200 kts (230MPH).<br>
+<question> 114:  Unless otherwise authorized or required by air traffic control, what<br> is the maximum indicated airspeed at which a person may operate an aircraft<br> below 10000 feet MSL:<br>
+<answer right>6500 feet MSL
+<answer>4000 feet MSL
+<answer>4500 feet MSL
+<answer>5500 feet MSL
+<answer>156 kts
+<answer>180 kts
+<answer>200 kts
+<answer>250 kts
+<question> 115:  Unless otherwise authorized or required by air traffic control, the<br> maximum indicated airspeed at which a reciprocating engine equipped<br> aircraft should be flown within an airport traffic area is:<br>
+<answer right>156 kts
+<answer>180 kts
+<answer>200 kts
+<answer>288 kts
+<question> 116:  When flying beneath the lateral limits of a Terminal Control Area,<br> the maximum speed authorized is:<br>
+<answer right>200 kts
+<answer>250 kts
+<answer>180 kts
+<answer>156 kts</pre></concept>
+<concept><pre> 91.79 Minimum safe altitudes; General.  Except when necessary for takeoff<br> or landing, no person may operate an aircraft below the following<br> altitudes:<br> (a) Anywhere.  An altitude allowing, if a power unit fails, an emergency<br> landing without undue hazard to persons or property on the surface.<br> (b) Over congested areas.  Over any congested area of a city, town, or<br> settlement, or over any open air assembly of persons, an altitude of 1000<br> feet above the highest obstacle within a horizontal radious of 2000 feet of<br> the aircraft.<br> (c) Over other than congested areas. An altitude of 500 feet above the<br> surface, except over open water or sparsely populated areas.  In that case,<br> the aircraft may not be operated closer than 500 feet to any person,<br> vessel, vehicle, or structure.<br>
+<question> 117:  Except when necessary for takeoff or landing, what is the minimum<br> safe altitude for a pilot to operate an aircraft anywhere?<br>
+<answer right>An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface.<br>
+<answer>An altitude of 500 feet above the surface, and no closer tna 500 feet to any person, vessel, vehicle, or structure.<br>
+<answer>An altitude of 500 feet above the highest obstacle within a horizontal radius of 1000 feet.<br>
+<answer>An altitude of 1000 feet above the highest obstacle within a horizontal radius of 2000 feet.<br>
+<question> 118:  Except when necessary for takeoff or landing, what is the minimum<br> safe altitude required for a pilot to operate an aircraft over congested<br> areas?<br>
+<answer right>An altitude of 1000 feet above the highest obstacle within a horizontal radius of 2000 feet.<br>
+<answer>An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface.<br>
+<answer>An altitude of 500 feet above the surface and no closer than 500 feet to any person, vessel, vehicle or structure<br>
+<answer>An altitude of 500 feet above the highest obstacle within a horizontal radious of 1000 feet.<br>
+<question> 119:  Except when necessary for takeoff or landing, an aircraft may not be<br> operated closer than what distance from any person vehicle or structure?<br>
+<answer right>500 feet
+<answer>2000 feet
+<answer>1500 feet
+<answer>1000 feet
+<question> 120:  Except when necessary for takeoff or landing, what is the minimum<br> safe altitude for a pilot to operate an airplane over other than a<br> congested area?<br>
+<answer right>An altitude of 500 feet AGL except over opean water or a sparsely populated area which requires 500 feet from any person, vessel, vehicle or<br> structure.<br>
+<answer>An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface.<br>
+<answer>An altitude of 500 feet above the highest obstacle within a horizontal radious of 1000 feet.<br>
+<answer>An altutide of 1000 feet above the highest obstacle within a horizontal radious of 2000 feet.<br></pre></concept>
+<concept><pre> 91.71:  Acrobatic flight.  No person may operate an aircraft in acrobatic<br> flight:<br> (a) Over any congested area of a city, town, or settlement;<br> (b) Over an open air assembly of persons;<br> (c) within a control zone or Federal airway<br> (d) Below an altitude of 1500 feet above the surface or<br> (e) When visibility is less than three miles.<br> For the purposes of this section, acrobatic flight means an intentional<br> maneuver involving an abrupt change in an aircraft's attitude, an abnormal<br> attitude, or abnormal acceleration, not necessary for normal flight.<br>
+<question> 121:  According to regulations, no person may operate an aircraft in<br> acrobatic flight:<br>
+<answer right>Over any congested area of a city, town, or settlement.
+<answer>Within 5 miles of a federal airway.
+<answer>Below an altitude of 2000 feet above the surface.
+<answer>when flight visibility is less than 5 miles.
+<question> 122:  In which controlled airspace is acrobatic flight prohibited?<br>
+<answer right>Control zones and federal airways.
+<answer>All controlled airspace.
+<answer>Control zones, federal airways and control areas.
+<answer>Control zones, federal airways, control areas, and traffic control areas.
+<question> 123:  What is the altitude permitted for acrobatic flight?<br>
+<answer right>1500 feet AGL
+<answer>1000 feet AGL
+<answer>1000 feet above the highest obstacle within 5 miles
+<answer>1500 feet above the highest obstacle within 5 miles
+<question> 124:  No person may operate an aircraft in acrobatic flight when the flight<br> visibility is less than:<br>
+<answer right>3 miles
+<answer>5 miles
+<answer>7 miles
+<answer>10 miles

@@ -1,0 +1,104 @@
+<!------------------------------------------------------------------------
+--
+--indx#	vi.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	vi.xml - A quiz to teach you the UNIX vi text editor
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	A quiz to teach you the UNIX vi text editor
+-------------------------------------------------------------------------->
+
+<concept><pre> Vi has many commands which are formed by the letter followed by a<br> movement command.  For instance, the "w" command moves the cursor<br> to the next word.  The "dw" command deletes to the next word.  If the<br> command is preceded by a number, it is as if the movement command was<br> preceded by that number.  "45dw" is the same as "d45w".  If the command<br> is just repeated ("dd"), it applies the operation to the current line.<br>
+<question> If V is a vi command that is supposed to be followed by a movement command,<br> what does "VV" do?<br>
+<answer right>Execute the "V" command to the current line
+<answer>Execute the "V" command twice
+<answer>Execute the "V" command once (Ignoring errors)
+<question> If V is a vi command that is supposed to be followed by a movement command,<br> what does "25Vb" do?<br>
+<answer right>Applies the "V" command to previous 25 words
+<answer>Applies the "V" command 25 times to the previous word
+<answer>Applies the "Vb" command to line 25
+<question> If V is a vi command that is supposed to be followed by a movement command,<br> what does "3Vj" do?<br>
+<answer right>The same thing as "V3j"
+<answer>The same thing as "Vj3"
+<answer>The same thing as "Vjjj"</pre></concept>
+<concept><pre> The "c" command (change) is followed by a movement command.  It replaces<br> the text between the cursor and the specified position with text terminated<br> by an escape key.<br>
+<question> What does "c3wfred the farmer&lt;escape&gt;" do?<br>
+<answer right>Change the next three words to "fred the farmer".
+<answer>Change the next word with "fred the farmerfred the farmerfred the farmer".
+<answer>Change the next three words to "fred the farmer&lt;escape&gt;".
+<question> What does "3ccralph&lt;escape&gt;? do?<br>
+<answer right>Change the next three lines to the word "ralph"
+<answer>Change the current line three times to "ralph"
+<answer>Change line three to "ralph"</pre></concept>
+<concept><pre> The "&gt;" command is followed by a movement command.  It shifts text one<br> shift width to the right.  "&lt;" shifts text one shift width to the left.<br> (To set your shift width to four, type ":set sw=4&lt;return&gt;")  Shifting only<br> works on a line by line basis (I.E. &lt;w" is illegal).<br>
+<question> What does "&gt;&gt;" do?<br>
+<answer right>Shift the current line right one shift width
+<answer>Shift the current line right two shift widths
+<answer>Put the cursor at the end of the line
+<question> What does "4&gt;" do?<br>
+<answer right>Nothing, the shift command requires a movement command.
+<answer>Shift four lines to the right
+<answer>Shift four characters to the right
+<question> What does "&gt;4w" do?<br>
+<answer right>Nothing. (Illegal command) Shifting can only be done to lines
+<answer>Shift four words to the right
+<question> How do you set your shift width to 7?<br>
+<answer right>":set sw=7&lt;return&gt;"
+<answer>":set sw=7"
+<answer>"set sw=7&lt;return&gt;"
+<answer>"set sw 7&lt;return&gt;"
+<answer>"set sw 7"</pre></concept>
+<concept><pre> The "~" command changes the case of the current character and moves the<br> cursor to the next character.  (I.E. if the cursor is on an "A", it replaces<br> it with "a", or if the cursor is on a "b", it replaces it with "B".)  "~"<br> does nothing to non-alphabetic characters.  Unfortunately, preceding the<br> "~" command with a number does nothing useful.<br>
+<question> What command changes the case of the next character?<br>
+<answer right>~
+<answer>c
+<answer>cl
+<answer>cc</pre></concept>
+<concept><pre> Typing "vi" runs the UNIX editor "ex" in visual mode (makes use of<br> smart or semi smart terminals).  Typing "ex" runs the UNIX editor<br> in non-visual mode (dumb mode).  Although visual mode provides most of<br> the normal editing functions, it lacks substitution and extended file<br> handling capabilities.  To execute a non-visual ex command from visual<br> mode, precede the command with a colon (:).<br>
+<question> How do you execute a non-visual command from visual mode in ex?<br>
+<answer right>Precede the command with a colon (:).
+<answer>Precede the command with a "Q".</pre></concept>
+<concept><pre> Non-visual commands are usually designed to work on a line by line basis.<br> A line specification is called an "address".  Most commands can be applied<br> to a range of lines.  A range of lines is specified by an address followed<br> by a comma (,) followed by another address.  For instance, to apply the<br> command "fred" to lines 45 to 70, one might type ":45,70fred&lt;return&gt;".  You<br> can use "." in place of a number to indicate the current line.  ":.,20fred"<br> will apply the command "fred" to the current line through line 70.  You<br> can use "$" in place of a number to indicate the last line.  ".,$fred&lt;return&gt;"<br> means execute the "fred" command on everthing from here to end of file.<br> Also, you may use limited math in your address specification.  For instance,<br> ".+23" means "23 lines from here".  ":45,.+40fred&lt;return&gt;" would apply the<br> command to lines 45 through the current line number plus 40.<br>
+<question> How do you apply the non-visual command V to lines 20 through the line<br> after the current line?<br>
+<answer right>:20,.+1V&lt;return&gt;
+<answer>:20G,jV&lt;return&gt;
+<answer>:20-.+1V&lt;return&gt;
+<question> How could you "fred" every line in the file (in non-visual mode)?<br>
+<answer right>:1,$fred&lt;return&gt;
+<answer>:fred&lt;return&gt;
+<answer>:1,Gfred&lt;return&gt;
+<question> The command ":5,.V&lt;return&gt;":<br>
+<answer right>Applies the command V to lines 5 through the current line
+<answer>Executes the colon command from line 5 to the current line followed by the V command<br></pre></concept>
+<concept><pre> The non-visual command "d" deletes a line.  ":10,20d&lt;return&gt;" would delete<br> lines 10 through 20.<br>

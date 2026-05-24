@@ -1,0 +1,265 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Cardio2.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 2 ?
+<question>Which drug decreases LDL the most?
+<answer>HMG-CoA Reductase inhibitors (statins)</answer></question>
+
+<question>Which drug decreases triglycerides the most?
+<answer>Lipoprotein lipase stimulators (gemfibrozil, clofibrate)
+</answer></question>
+
+<question>What can cause sinus bradycardia?
+<answer>
+<ol sep=and>
+    <li>CV conditioning (normal response)
+    <li>Sinus node dysfunction
+</ol>
+</answer></question>
+
+<question>What are the ECG findings for bradycardia?
+<answer>
+<ro sep=and>
+    <li>Rate &lt; 60 bpm
+    <li>Normal P waves before every QRS
+</ro>
+</answer></question>
+
+<question>What is the treatment for bradycardia?
+<answer>
+<ro sep=and>
+    <li>Atropine
+    <li>Pacemaker placement (definitive treatment)
+</ro>
+</answer></question>
+
+<question>Is right bundle branch block pathologic?
+<answer>No</answer>
+<answer>Yes</answer>
+</question>
+
+<question>What can cause right bundle branch block
+<answer>
+<ro sep=and>
+    <li>Can occur in normal individuals
+    <li>COPD
+    <li>Valvular disease
+    <li>Chronic CAD
+    <li>Status post surgical repair of VSD
+</ro>
+</answer></question>
+
+<question>What are the ECG findings of right bundle branch block?
+<answer>
+<ro sep=and>
+    <li>QRS duration of &gt; 0.12 seconds
+    <li>RSR complex with wide R wave in V1
+    <li>QRS pattern with a wide S wave in V6
+</ro>
+</answer></question>
+
+<question>What is the treatment for right bundle branch block?
+<answer>None needed</answer></question>
+
+<question>Is left bundle branch block pathologic?
+<answer>Yes</answer>
+<answer>No</answer>
+</question>
+
+<question>What can cause left bundle branch block?
+<answer>
+<ro sep=and>
+    <li>Organic heart disease
+    <li>HTN
+    <li>Valvular disease
+    <li>Cardiomyopathy
+    <li>CAD
+</ro>
+</answer></question>
+
+<question>What are the ECG findings for left bundle branch block?
+<answer>
+<ro sep=and>
+    <li>QRS duration &gt; 0.12 seconds
+    <li>Wide, entirely negative QS complex in V1
+    <li>Wide, tall R wave with no Q wave in V6
+</ro>
+</answer></question>
+
+<question>What is the cause of first degree heart block?
+<answer>
+<ro sep=and>
+    <li>Can occur in normal individuals
+    <li>Increased vagal tone
+    <li>Lyme disease
+</ro>
+</answer></question>
+
+<question>What are the ECG findings in first degree heart block?
+<answer>PR interval &gt; 0.2 seconds</answer></question>
+
+<question>What is the treatment for first degree heart block?
+<answer>None needed</answer></question>
+
+<question>What causes second degree heart block (Mobitz I)?
+<answer>
+<ro sep=and>
+    <li>Drug effect (digoxin, Beta-blockaged, Ca-channel blockers)
+    <li>Increased vagal tone
+</ro>
+</answer></question>
+
+<question>What are the ECG findings for second degree heart block (Mobitz I)?
+<answer>
+<ro sep=and>
+    <li>Increasing PR interval until a dropped beat occurs.
+    <li>PR then resets
+</ro>
+</answer></question>
+
+<question>What is the treatment for second degree heart block (Mobitz I)?
+<answer>Stop the offending drug</answer></question>
+
+<question>What is the cause of second degree heart block (Mobitz II )?
+<answer>
+<ro sep=and>
+    <li>Fibrotic disease of the conduction system
+    <li>Previous septal MI
+    <li>Lyme Disease
+</ro>
+</answer></question>
+
+<question>What are the signs and symptoms of second degree heart block
+	(Mobitz II)?
+<answer>
+<ro sep=and>
+    <li>Occasionally syncope
+    <li>Progression to third degree AV block
+</ro>
+</answer></question>
+
+<question>What are the ECG findings of second degree heart block (Mobitz II)?
+<answer>
+<ro sep=and>
+    <li>Unexpected dropped beat
+    <li>No changes in the PR interval
+</ro>
+</answer></question>
+
+<question>What is the treatment for second degree heart block (Mobitz II)?
+<answer>Pacemaker placement</answer></question>
+
+<question>What causes third degree (complete) heart block?
+<answer>No electrical communications between the atria and ventricles
+</answer></question>
+
+<question>What are the ECG findings for third degree (complete) heart block?
+<answer>
+<ro sep=and>
+    <li>No relationship between P waves and QRS complexes
+    <li>Wide QRS complexes
+</ro>
+</answer></question>
+
+<question>What is the treatment for third degree (complete) heart block)?
+<answer>Pacemaker placement</answer></question>
+
+<question>Define malignant hypertension:
+<answer> Is one or more of:
+<ro sep=and>
+    <li>Progressive renal failure
+    <li>Encephalopathy with papilledema
+</ro>
+</answer></question>
+
+<question>What valvular lesion is associated with:
+<rl sep=and>
+    <li>Exertional dyspnea
+    <li>Angina
+    <li>syncope?
+</rl>
+<answer>Aortic Stenosis</answer></question>
+
+<question>What are the risk factors for aortic stenosis?
+<answer>
+<rl sep=and>
+    <li>Rheumatic heart disease
+    <li>Congenital aortic stenosis
+    <li>Bicuspid aortic valve
+</rl>
+</answer></question>
+
+<question>What valvular lesion is associated with midsystolic
+	crescendo-decrescendo murmur heard best at second intercostal space,
+	radiating to the neck?
+<answer>Aortic stenosis</answer></question>
+
+<question>What PE signs are associated with aortic stenosis?
+<answer>
+<ol sep=and>
+    <li>Pulsus parvus et tardus (weak, delayed carotid upstroke)
+    <li>Sustained apical beat
+    <li>Paradoxically split S2
+</ol>
+</answer></question>
+
+<question>What is the treatment for aortic stenosis?
+<answer>
+<ro sep=and>
+    <li>Avoid afterload reducers.
+    <li>Valve replacement is curative
+</ro>
+</answer></question>
+
+<question>What valvular lesion is associated with LVH, angina, LHF due to
+	volume overload?
+<answer>Aortic regurge</answer></question>
+
+<question>What are the risk factors for aortic regurge?
+<answer>
+<ro sep=and>
+    <li>Rheumatic heart disease
+    <li>VSD
+    <li>Infective endocarditis
+    <li>Congenital bicuspid aortic valve
+    <li>Marfan's
+</ro>
+</answer></question>
+
+<question>What valvular lesion is associated with a high-pitched blowing
+	diastolic murmur at left sternal border?
+<answer>Aortic regurge</answer></question>
+
+<question>What valvular lesion is associated with a low-pitched mid-diastolic
+	rumble?
+<answer>Aortic regurge</answer></question>
+</concept>

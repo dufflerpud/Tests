@@ -1,0 +1,2735 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Anatomy.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<question><p>Question 1 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Define anisocytosis</b> ... <answer><font color=red> <b>varying cell sizes</b>
+<p>
+</font></answer></question><question><p>Question 2 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Define poikilocytosis</b> ... <answer><font color=red> <b>varying cell shapes</b>
+<p>
+</font></answer></question><question><p>Question 3 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>From which cells do B cells arise?</b> ... <answer><font color=red> <b>stem cells in bone marrow</b>
+<p>
+</font></answer></question><question><p>Question 4 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>From which cells do plasma cells differentiate?</b> ... <answer><font color=red> <b>B cells</b>
+<p>
+</font></answer></question><question><p>Question 5 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How can a Nissl stain be used to differentiate microglia from oligodendroglia?</b> ... <answer><font color=red> <b>Microglia are not discernable in a Nissl stain while oligodendroglia appear as small dark nuclei with dark chromatin</b>
+<p>
+</font></answer></question><question><p>Question 6 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>In what type of CNS tissue (white or grey) are oligodendroglia predominant?</b> ... <answer><font color=red> <b>white matter</b>
+<p>
+</font></answer></question><question><p>Question 7 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Into what cell type does a monocyte differentiate in tissues?</b> ... <answer><font color=red> <b>Macrophages</b>
+<p>
+</font></answer></question><question><p>Question 8 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name 2 substances produced by an eosinophil.</b> ... <answer><font color=red> <b>histiminase and arylsulfatase</b>
+<p>
+</font></answer></question><question><p>Question 9 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the three types of leukocytic granulocytes.</b> ... <answer><font color=red> <b>basophils, eosinophils, and neutrophils</b>
+<p>
+</font></answer></question><question><p>Question 10 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the two types of mononuclear leukocytes.</b> ... <answer><font color=red> <b>lymphocytes and monocytes</b>
+<p>
+</font></answer></question><question><p>Question 11 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are 2 functions of T cell lymphocytes?</b> ... <answer><font color=red> <b> - cellular immune response - regulation of B lymphocytes and macrophages</b>
+<p>
+</font></answer></question><question><p>Question 12 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are 2 morphological features of microglia?</b> ... <answer><font color=red> <b> - small irregular nuclei - and relatively little cytoplasm</b>
+<p>
+</font></answer></question><question><p>Question 13 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are 3 examples of peripheral lymphoid tissue?</b> ... <answer><font color=red> <b> - follicles of lymph nodes - white pulp of spleen - unencapsulated lymphoid tissue</b>
+<p>
+</font></answer></question><question><p>Question 14 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are 3 functions of a macrophage?</b> ... <answer><font color=red> <b>pagocytosis of bacteria, cell debris, and senescent red cells - scavenges damaged cells and tissues - can function as an antigen presenting cell</b>
+<p>
+</font></answer></question><question><p>Question 15 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are 3 morphological characteristics of monocytes?</b> ... <answer><font color=red> <b><br>- Large <br>- Kidney-shaped nucleus <br>- Extensive 'frosted glass' cytoplasm</b>
+<p>
+</font></answer></question><question><p>Question 16 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are 4 characteristics of the plasma cell morphology?</b> ... <answer><font color=red> <b>- Off center nucleus - Clock face chromatin distribution - Abundant RER - Well developed Golgi apparatus</b>
+<p>
+</font></answer></question><question><p>Question 17 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are 4 morphologic characteristics of lymphocytes?</b> ... <answer><font color=red> <b>- Round - Small - Densely staining nucleus - Small amount of pale cytoplasm</b>
+<p>
+</font></answer></question><question><p>Question 18 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are 4 substances contained within the lysosomes of neutrophils?</b> ... <answer><font color=red> <b>- hydrolytic enzymes - lysozyme - myeloperoxidase - lactoferrin</b>
+<p>
+</font></answer></question><question><p>Question 19 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are 4 types of cells into which T cells differentiate?</b> ... <answer><font color=red> <b>- cytotoxic T cells (MHC I, CD8) - helper T cells (MHCII, CD4) - suppressor T cells - delayed hypersensitivity T cells</b>
+<p>
+</font></answer></question><question><p>Question 20 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the 5 important causes for eosinophilia in humans?</b> ... <answer><font color=red> <b>Neoplastic, Asthma, Allergic process, Collagen vascular disease, and Parasites (pneumonic NAACP)</b>
+<p>
+</font></answer></question><question><p>Question 21 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the blood cell diffenentiation names of the ACTIVE T CELL line beginning with the pluripotent hematopoietic stem cell? (4)</b> ... <answer><font color=red> <b>- Pluripotent hematopoietic stem cell - Lymphoblast - T cell - Active T cell</b>
+<p>
+</font></answer></question><question><p>Question 22 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the blood cell differentiation names of the ERYTHROCYTE cell line beginning with pluripotent hematopoietic stem cell? (4)</b> ... <answer><font color=red> <b>- Pluripotent hematopoietic stem cell - Proerythroblast - Reticulocyte - Erythrocyte</b>
+<p>
+</font></answer></question><question><p>Question 23 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the blood cell differentiation names of the MONOCYTE cell lines beginning with the pluripotent hematopoietic stem cell? (3)</b> ... <answer><font color=red> <b>- Pluripotent hematopoietic stem cell - Monoblast - Monocyte</b>
+<p>
+</font></answer></question><question><p>Question 24 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the blood cell differentiation names of the NEUTROPHIL, EOSINOPHIL, and BASOPHIL cell lines beginning with the myeloblast stage? (6)</b> ... <answer><font color=red> <b>- Myeloblast - Promyelocyte - Myelocyte - Metamyelocyte - Stab cell - Neutrophil, eosinophil or basophil</b>
+<p>
+</font></answer></question><question><p>Question 25 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the blood cell differentiation names of the PLASMA CELL line beginning with the pluripotent hematopoietic stem cell? (4)</b> ... <answer><font color=red> <b>- Pluripotent hematopoietic stem cell - Lymphoblast - B cell - Plasma cell</b>
+<p>
+</font></answer></question><question><p>Question 26 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the blood cell differentiation names of the PLATELET CELL line beginning with the hematopoietic stem cell? (4)</b> ... <answer><font color=red> <b>- Pluripotento hematopoietic stem cell - Megakaryoblast - Megakaryocyte - Platelets</b>
+<p>
+</font></answer></question><question><p>Question 27 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the components of the air-blood barrier?</b> ... <answer><font color=red> <b>- Type I pneumocyte,  endothelial cell, and their fused basement membrane.</b>
+<p>
+</font></answer></question><question><p>Question 28 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the steps of maturation of a B cell? (2 points)</b> ... <answer><font color=red> <b>- maturation in the marrow - migration to peripheral lymphoid tissue</b>
+<p>
+</font></answer></question><question><p>Question 29 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the substances contained within the densly basophilic granules of the basophil? (4)</b> ... <answer><font color=red> <b>- Heparin (anticoagulant) - histamine (vasodilator) - vasoactive amines - Slow reacting substance of anaphylaxis</b>
+<p>
+</font></answer></question><question><p>Question 30 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are two basic morphological characteristics of neutrophils?</b> ... <answer><font color=red> <b>- multilobed nucleus - large, spherical azurophilic primary granules (lysosomes) </b>
+<p>
+</font></answer></question><question><p>Question 31 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are two important functions of a neutrophil?</b> ... <answer><font color=red> <b>- acute inflammmatory response of a cell - phagocytosis</b>
+<p>
+</font></answer></question><question><p>Question 32 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are two names for an increased number of red cells?</b> ... <answer><font color=red> <b>Erythrocytosis and polycythemia</b>
+<p>
+</font></answer></question><question><p>Question 33 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What cell type closely resembles a mast cell?</b> ... <answer><font color=red> <b>basophil</b>
+<p>
+</font></answer></question><question><p>Question 34 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What cranial nerves are commonly involved in an acoustic neuroma?</b> ... <answer><font color=red> <b>CN VII, VIII (association with internal acoustic meatus)</b>
+<p>
+</font></answer></question><question><p>Question 35 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What disease is characterized by destruction of oligodendroglia?</b> ... <answer><font color=red> <b>Multiple sclerosis</b>
+<p>
+</font></answer></question><question><p>Question 36 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does CD stand for?</b> ... <answer><font color=red> <b>cluster of differentiation
+</b>
+<p>
+</font></answer></question><question><p>Question 37 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What drug prevents mast cell degranulation?</b> ... <answer><font color=red> <b>Cromolyn sodium</b>
+<p>
+</font></answer></question><question><p>Question 38 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What immunoglobulin can bind to the membrane of a mast cell?</b> ... <answer><font color=red> <b>IgE
+</b>
+<p>
+</font></answer></question><question><p>Question 39 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is a reticulocyte?</b> ... <answer><font color=red> <b>a baby (developing) erythrocyte
+</b>
+<p>
+</font></answer></question><question><p>Question 40 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is an important example of a Schwannoma?</b> ... <answer><font color=red> <b>Acoustic neuroma
+</b>
+<p>
+</font></answer></question><question><p>Question 41 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is another name for pulmonary surfactant?</b> ... <answer><font color=red> <b>DPPC (dipalmitoylphosphatidylcholine)
+</b>
+<p>
+</font></answer></question><question><p>Question 42 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is percentage of leukocytes in the blood exist as basophils?</b> ... <answer><font color=red> <b>less than 1%
+</b>
+<p>
+</font></answer></question><question><p>Question 43 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the 'gap' between the myelination segment of 2 Schwann cells called?</b> ... <answer><font color=red> <b>Node of Ranvier
+</b>
+<p>
+</font></answer></question><question><p>Question 44 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the advantage of the large surface area:volume ratio in erythrocytes?</b> ... <answer><font color=red> <b>easy gas exchange (Oxygen and Carbon dioxide)
+</b>
+<p>
+</font></answer></question><question><p>Question 45 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the basic morphologic structure of an erythrocyte?</b> ... <answer><font color=red> <b>Anucleate, biconcave
+</b>
+<p>
+</font></answer></question><question><p>Question 46 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the basic morphology of an eosinophil? (2 things)</b> ... <answer><font color=red> <b> - bilobate nucleus - packed with large eosinophilic granules of uniform size</b>
+<p>
+</font></answer></question><question><p>Question 47 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the embryologic origin of microglia?</b> ... <answer><font color=red> <b>mesoderm</b>
+<p>
+</font></answer></question><question><p>Question 48 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of Interferon gamma with relation to macrophages?</b> ... <answer><font color=red> <b>macrophage activation</b>
+<p>
+</font></answer></question><question><p>Question 49 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of microglia?</b> ... <answer><font color=red> <b>phagocytosis in CNS</b>
+<p>
+</font></answer></question><question><p>Question 50 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of oligodendroglia?</b> ... <answer><font color=red> <b>myelination of multiple CNS axons</b>
+<p>
+</font></answer></question><question><p>Question 51 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of pulmonary surfactant?</b> ... <answer><font color=red> <b>lowers alveolar surface tension and prevents atelectasis</b>
+<p>
+</font></answer></question><question><p>Question 52 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of Schwann cells?</b> ... <answer><font color=red> <b>myelination of PNS (a Schwann cell myelinates only one PNS axon)</b>
+<p>
+</font></answer></question><question><p>Question 53 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the importance of the lecithin:sphingomyelin ratio?</b> ... <answer><font color=red> <b>&gt; 2.0 in fetal lung is indicative of fetal lung maturity</b>
+<p>
+</font></answer></question><question><p>Question 54 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the importance of the physiologic chloride shift in erythrocytes?</b> ... <answer><font color=red> <b>Membranes contain the chloride bicarbonate antiport allowing the RBC to transport carbon dioxide from the the lung periphery for elimination.</b>
+<p>
+</font></answer></question><question><p>Question 55 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the last segment of lung tissue in which ciliated cells are found?</b> ... <answer><font color=red> <b>respiratory bronchioles</b>
+<p>
+</font></answer></question><question><p>Question 56 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the last segment of lung tissue in which goblet cells are found?</b> ... <answer><font color=red> <b>terminal broncioles (remember ciliated cells sweep away mucous produced by goblet cells and therefore run deeper)</b>
+<p>
+</font></answer></question><question><p>Question 57 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the primary function of a basophil?</b> ... <answer><font color=red> <b>Mediates allergic reactions</b>
+<p>
+</font></answer></question><question><p>Question 58 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the primary function of a leukocyte?</b> ... <answer><font color=red> <b>Defense against infections</b>
+<p>
+</font></answer></question><question><p>Question 59 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the primary function of a mast cell?</b> ... <answer><font color=red> <b>Mediates allergic reactions</b>
+<p>
+</font></answer></question><question><p>Question 60 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the primary function of a plasma cell?</b> ... <answer><font color=red> <b>production of large amounts of a specific antibody to a particular antigen</b>
+<p>
+</font></answer></question><question><p>Question 61 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the primary source of energy for erythrocytes?</b> ... <answer><font color=red> <b>glucose (90% anaerobically degraded to lactate, 10% by HMP shunt)</b>
+<p>
+</font></answer></question><question><p>Question 62 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the process of degranulation in mast cells?</b> ... <answer><font color=red> <b>release of histamine, heparin, and eosinophil chemotactic factors</b>
+<p>
+</font></answer></question><question><p>Question 63 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the range of concentration for leukocytes in the blood?</b> ... <answer><font color=red> <b>4,000 - 10,000 cells per microliter</b>
+<p>
+</font></answer></question><question><p>Question 64 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the response of an eosiniphil to antigen antibody complexes?</b> ... <answer><font color=red> <b>high degree of phagocytosis</b>
+<p>
+</font></answer></question><question><p>Question 65 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the response of microglia to tissue dammage?</b> ... <answer><font color=red> <b>transformation into large ameboid phagocytic cells</b>
+<p>
+</font></answer></question><question><p>Question 66 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the response to microglia infected with HIV?</b> ... <answer><font color=red> <b>fusion to form multinucleated giant cells in CNS</b>
+<p>
+</font></answer></question><question><p>Question 67 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the survival time for an erythrocyte?</b> ... <answer><font color=red> <b>120 days</b>
+<p>
+</font></answer></question><question><p>Question 68 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What pathognomonic change is seen in neutrophils of a person who is folate/vitamin B12 deficient?</b> ... <answer><font color=red> <b>hypersegmented polys</b>
+<p>
+</font></answer></question><question><p>Question 69 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What percentage of leukocytes exist as eosinophils in the blood?</b> ... <answer><font color=red> <b>1 - 6%</b>
+<p>
+</font></answer></question><question><p>Question 70 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What percentage of leukocytes exist as neutrophils in the blood?</b> ... <answer><font color=red> <b>40 - 75%</b>
+<p>
+</font></answer></question><question><p>Question 71 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What percentage of leukocytes in blood are monocytes?</b> ... <answer><font color=red> <b>2 - 10%</b>
+<p>
+</font></answer></question><question><p>Question 72 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What process occurs when type I pneumocytes are damaged?</b> ... <answer><font color=red> <b>Type II pneumocytes develop into type I</b>
+<p>
+</font></answer></question><question><p>Question 73 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What substance in eosinophilic granules is primarily responsible for defense against helminths and protozoan infections?</b> ... <answer><font color=red> <b>major basic protein</b>
+<p>
+</font></answer></question><question><p>Question 74 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where is the site of maturation of T lymphocytes?</b> ... <answer><font color=red> <b>Thymus</b>
+<p>
+</font></answer></question><question><p>Question 75 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which cell type constituitively secretes pulmonary surfactant?</b> ... <answer><font color=red> <b>Type II pneumocyte</b>
+<p>
+</font></answer></question><question><p>Question 76 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which cell type lines the alveoli?</b> ... <answer><font color=red> <b>Type I pneumocyte</b>
+<p>
+</font></answer></question><question><p>Question 77 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which leukemia is the result of plasma cell neoplasm?</b> ... <answer><font color=red> <b>Multiple myeloma</b>
+<p>
+</font></answer></question><question><p>Question 78 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which type of hypersensitivity reaction is a mast cell involved in?</b> ... <answer><font color=red> <b>Type I hypersensitivity reaction</b>
+<p>
+</font></answer></question><question><p>Question 79 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which type of immunity do B cells exhibit?</b> ... <answer><font color=red> <b>humoral immunity</b>
+<p>
+</font></answer></question><question><p>Question 80 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>After arising from the floor of the primitive pharynx, where does the thryoid diverticulum go?</b> ... <answer><font color=red> <b>It descends down into the neck</b>
+<p>
+</font></answer></question><question><p>Question 81 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>After the first breath at birth, what causes closure of the ductus arteriosus?</b> ... <answer><font color=red> <b>An increase in oxygen</b>
+<p>
+</font></answer></question><question><p>Question 82 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>After the first breath at birth, what causes the closure of the foramen ovale?</b> ... <answer><font color=red> <b>A decrease resistance in pulmonary vasculature causes increased left atrial pressure vs. right atrial pressure</b>
+<p>
+</font></answer></question><question><p>Question 83 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Although the diaphragm descends during development, it maintains innervation from ____?</b> ... <answer><font color=red> <b>C3-C5</b>
+<p>
+</font></answer></question><question><p>Question 84 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>An easy pneumonic to remember fetal erythropoiesis is?</b> ... <answer><font color=red> <b>Young Liver Synthesizes Blood</b>
+<p>
+</font></answer></question><question><p>Question 85 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>At what time in the course of development is the fetus most susceptible to teratogens?</b> ... <answer><font color=red> <b>Weeks 3-8</b>
+<p>
+</font></answer></question><question><p>Question 86 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Deoxygenated blood from the SVC is expelled into the pulmonary artery and ____ ____ to the lower body of the fetus.</b> ... <answer><font color=red> <b>ductus arteriosus</b>
+<p>
+</font></answer></question><question><p>Question 87 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Do the cardiovascular structures arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Mesoderm</b>
+<p>
+</font></answer></question><question><p>Question 88 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Do the chromaffin cells of the adrenal medulla arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Neural Crest (Ectoderm)</b>
+<p>
+</font></answer></question><question><p>Question 89 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Do the enterochromaffin cells arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Neural Crest (Ectoderm)</b>
+<p>
+</font></answer></question><question><p>Question 90 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Do the lungs arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Endoderm</b>
+<p>
+</font></answer></question><question><p>Question 91 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Do the lymphatics arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Mesoderm</b>
+<p>
+</font></answer></question><question><p>Question 92 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Do the melanocytes arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Neural Crest (Ectoderm)
+</b>
+<p>
+</font></answer></question><question><p>Question 93 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Do the neural crest cells arise from mesoderm, ectoderm, or endoderm?</b> ... <answer><font color=red> <b>Ectoderm
+</b>
+<p>
+</font></answer></question><question><p>Question 94 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Do the odontoblasts arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Neural Crest (Ectoderm)
+</b>
+<p>
+</font></answer></question><question><p>Question 95 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Do the parafollicular (C) cells of the thyroid arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Neural Crest (Ectoderm)
+</b>
+<p>
+</font></answer></question><question><p>Question 96 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Do the Schwann cells arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Neural Crest (Ectoderm)
+</b>
+<p>
+</font></answer></question><question><p>Question 97 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Do the urogenital structures arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Mesoderm
+</b>
+<p>
+</font></answer></question><question><p>Question 98 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does blood arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Mesoderm
+</b>
+<p>
+</font></answer></question><question><p>Question 99 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does bone arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Mesoderm
+</b>
+<p>
+</font></answer></question><question><p>Question 100 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does muscle arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Mesoderm
+</b>
+<p>
+</font></answer></question><question><p>Question 101 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the  thyroid arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Endoderm
+</b>
+<p>
+</font></answer></question><question><p>Question 102 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the adrenal cortex arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Mesoderm
+</b>
+<p>
+</font></answer></question><question><p>Question 103 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the ANS arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Neural Crest (Ectoderm)
+</b>
+<p>
+</font></answer></question><question><p>Question 104 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the celiac ganglion arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Neural Crest (Ectoderm)
+</b>
+<p>
+</font></answer></question><question><p>Question 105 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the dorsal root ganglion arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Neural Crest (Ectoderm)
+</b>
+<p>
+</font></answer></question><question><p>Question 106 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the dura connective tissue arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Mesoderm
+</b>
+<p>
+</font></answer></question><question><p>Question 107 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the gut tube epithelium arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>
+Endoderm</b>
+<p>
+</font></answer></question><question><p>Question 108 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the liver arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Endoderm
+</b>
+<p>
+</font></answer></question><question><p>Question 109 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the pancreas arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Endoderm</b>
+<p>
+</font></answer></question><question><p>Question 110 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the parathyroid arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Endoderm</b>
+<p>
+</font></answer></question><question><p>Question 111 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the pia arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Neural Crest (Ectoderm)
+</b>
+<p>
+</font></answer></question><question><p>Question 112 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the serous linings of body cavities arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Mesoderm</b>
+<p>
+</font></answer></question><question><p>Question 113 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the spleen arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Mesoderm</b>
+<p>
+</font></answer></question><question><p>Question 114 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Does the thymus arise from neural crest (ectoderm), mesoderm, or endoderm?</b> ... <answer><font color=red> <b>Endoderm</b>
+<p>
+</font></answer></question><question><p>Question 115 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>From what does the ligamentum teres hepatis arise?</b> ... <answer><font color=red> <b>Umbilical vein
+</b>
+<p>
+</font></answer></question><question><p>Question 116 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How does a bicornate uterus form?</b> ... <answer><font color=red> <b>Results from incomplete fusion of the paramesonephric ducts
+</b>
+<p>
+</font></answer></question><question><p>Question 117 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How does a cleft lip form?</b> ... <answer><font color=red> <b>Failure of fusion of the maxillary and medial nasal processes
+</b>
+<p>
+</font></answer></question><question><p>Question 118 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How does a cleft palate form?</b> ... <answer><font color=red> <b>Failure of fusion of the lateral palatine processes, the nasal septum, and/or the median palatine process
+</b>
+<p>
+</font></answer></question><question><p>Question 119 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How does a horseshoe kidney form?</b> ... <answer><font color=red> <b>Inferior poles of both kidneys fuse, as they ascend from the pelvis during development they get trapped under the inferior mesenteric artery, and remain low in the abdomen
+</b>
+<p>
+</font></answer></question><question><p>Question 120 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How is meckel's diverticulum different than an omphalomesenteric cyst?</b> ... <answer><font color=red> <b>Omphalomesenteric cyst is a cystic dilatation of the vitelline duct
+</b>
+<p>
+</font></answer></question><question><p>Question 121 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How long does full development of spermatogenesis take?</b> ... <answer><font color=red> <b>2 months
+</b>
+<p>
+</font></answer></question><question><p>Question 122 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How many arteries and veins does the umbilical cord contain?</b> ... <answer><font color=red> <b>- 2 umbilical arteries (carries deoxygenated blood away from fetus) - 1 umbilical vein (oxygenated blood to fetus)
+</b>
+<p>
+</font></answer></question><question><p>Question 123 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Is a primary spermatocyte 2N or 4N?</b> ... <answer><font color=red> <b>4N
+</b>
+<p>
+</font></answer></question><question><p>Question 124 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Is a primary spermatocyte haploid or diploid?</b> ... <answer><font color=red> <b>Diploid, 4N
+</b>
+<p>
+</font></answer></question><question><p>Question 125 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Is a secondary spermatocyte haploid or diploid?</b> ... <answer><font color=red> <b>Haploid, 2N
+</b>
+<p>
+</font></answer></question><question><p>Question 126 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Is a secondary spermatocyte N or 2N?</b> ... <answer><font color=red> <b>2N
+</b>
+<p>
+</font></answer></question><question><p>Question 127 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Is a speratogonium haploid or diploid?</b> ... <answer><font color=red> <b>Diploid, 2N
+</b>
+<p>
+</font></answer></question><question><p>Question 128 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Is a spermatid haploid or diploid?</b> ... <answer><font color=red> <b>Haploid, N
+</b>
+<p>
+</font></answer></question><question><p>Question 129 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Meiosis I is arrested in which phase until ovulation?</b> ... <answer><font color=red> <b>Prophase
+</b>
+<p>
+</font></answer></question><question><p>Question 130 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Meiosis II is arrested in which phase until fertilization?</b> ... <answer><font color=red> <b>Metaphase (an egg MET a sperm)
+</b>
+<p>
+</font></answer></question><question><p>Question 131 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Most oxygenated blood reaching the heart via IVC is diverted through the ____ ____ and pumped out the aorta to the head.</b> ... <answer><font color=red> <b>foramen ovale
+</b>
+<p>
+</font></answer></question><question><p>Question 132 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The right common cardinal vein and right anterior cardinal vein give rise to what adult heart structure?</b> ... <answer><font color=red> <b>Superior vena cava
+</b>
+<p>
+</font></answer></question><question><p>Question 133 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The stapedius muscle of the ear is formed by which branchial arch?</b> ... <answer><font color=red> <b>2nd
+</b>
+<p>
+</font></answer></question><question><p>Question 134 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>This type of bone formation consists of ossification of cartilaginous molds and forms long bones at primary and secondary centers.</b> ... <answer><font color=red> <b>Endochondral
+</b>
+<p>
+</font></answer></question><question><p>Question 135 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>True or False, blood in the umbilical vein is 100% saturated with oxygen?</b> ... <answer><font color=red> <b>False, it is 80% saturated
+</b>
+<p>
+</font></answer></question><question><p>Question 136 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>True or False, there are two types of spermatogonia?</b> ... <answer><font color=red> <b>True, type A &amp; type B
+</b>
+<p>
+</font></answer></question><question><p>Question 137 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the 1st branchial arch derivatives innervated by?</b> ... <answer><font color=red> <b>CN V2 and V3
+</b>
+<p>
+</font></answer></question><question><p>Question 138 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the 2nd branchial arch derivatives innervated by?</b> ... <answer><font color=red> <b>CN VII
+</b>
+<p>
+</font></answer></question><question><p>Question 139 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the 3rd branchial arch derivatives innervated by?</b> ... <answer><font color=red> <b>CN IX
+</b>
+<p>
+</font></answer></question><question><p>Question 140 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the 4th and 6th branchial arch derivatives innervated by?</b> ... <answer><font color=red> <b>CN X
+</b>
+<p>
+</font></answer></question><question><p>Question 141 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the cartilage derivatives (5) of the 4th and 6th branchial arches?</b> ... <answer><font color=red> <b>- Thyroid - Cricoid - Arytenoids - Corniculate - Cuneiform
+</b>
+<p>
+</font></answer></question><question><p>Question 142 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the five 2's associated with meckel's diverticulum?</b> ... <answer><font color=red> <b>- 2 inches long - 2 feet from the ileocecal valve - 2% of the population - Commonly presents in the first 2 years of life - May have 2 types of epithelia
+</b>
+<p>
+</font></answer></question><question><p>Question 143 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the rule of 2's for the 2nd week of development?</b> ... <answer><font color=red> <b>- 2 germ layers: epiblast &amp; hypoblast - 2 cavities: amniotic cavity &amp; yolk sac - 2 components to the placenta: cytotrophoblast &amp; syncytiotrophoblast
+</b>
+<p>
+</font></answer></question><question><p>Question 144 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the rule of 3's for the 3rd week of development?</b> ... <answer><font color=red> <b>3 germ layers (gastrula): ectoderm, mesoderm, endoderm
+</b>
+<p>
+</font></answer></question><question><p>Question 145 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What can a persistent cervical sinus lead to?</b> ... <answer><font color=red> <b>A branchial cyst in the neck
+</b>
+<p>
+</font></answer></question><question><p>Question 146 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What can be found in the cortex of the thymus?</b> ... <answer><font color=red> <b>It is dense with immature T cells
+</b>
+<p>
+</font></answer></question><question><p>Question 147 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What can be found in the medulla of the thymus?</b> ... <answer><font color=red> <b>It is pale with mature T cells, epithelial reticular cells, and Hassall's corpuscles
+</b>
+<p>
+</font></answer></question><question><p>Question 148 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What connects the thyroid diverticulum to the tongue?</b> ... <answer><font color=red> <b>The thyroglossal duct
+</b>
+<p>
+</font></answer></question><question><p>Question 149 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What devlopmental contributions does the 5th branchial arch make?</b> ... <answer><font color=red> <b>None
+</b>
+<p>
+</font></answer></question><question><p>Question 150 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What do the 2nd - 4th branchial clefts form, which are obliterated by proliferation of the 2nd arch mesenchyme?</b> ... <answer><font color=red> <b>Temporary cervical sinuses
+</b>
+<p>
+</font></answer></question><question><p>Question 151 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does aberrant development of the 3rd and 4th pouches cause?</b> ... <answer><font color=red> <b>DiGeorge's syndrome
+</b>
+<p>
+</font></answer></question><question><p>Question 152 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the 1st aortic arch give rise to?</b> ... <answer><font color=red> <b>Part of the maxillary artery
+</b>
+<p>
+</font></answer></question><question><p>Question 153 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the 2nd pharyngeal pouch develop into?</b> ... <answer><font color=red> <b>Epithelial lining of the palantine tonsils
+</b>
+<p>
+</font></answer></question><question><p>Question 154 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the 3rd aortic arch give rise to?</b> ... <answer><font color=red> <b>Common carotid artery and proximal part of the internal carotid artery
+</b>
+<p>
+</font></answer></question><question><p>Question 155 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the 4th pharyngeal pouch develop into?</b> ... <answer><font color=red> <b>Superior parathyroids
+</b>
+<p>
+</font></answer></question><question><p>Question 156 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the 5th aortic arch give rise to?</b> ... <answer><font color=red> <b>Nothing
+</b>
+<p>
+</font></answer></question><question><p>Question 157 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the 5th pharyngeal pouch develop into?</b> ... <answer><font color=red> <b>C cells of the thyroid
+</b>
+<p>
+</font></answer></question><question><p>Question 158 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the 6th aortic arch give rise to?</b> ... <answer><font color=red> <b>The proximal part of the pulmonary arteries and (on left only) ductus arteriosus
+</b>
+<p>
+</font></answer></question><question><p>Question 159 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the ductus arteriosus give rise to?</b> ... <answer><font color=red> <b>Ligamentum arteriosum
+</b>
+<p>
+</font></answer></question><question><p>Question 160 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the ductus venosus shunt blood away from?</b> ... <answer><font color=red> <b>Liver
+</b>
+<p>
+</font></answer></question><question><p>Question 161 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the first branchial cleft develop into?</b> ... <answer><font color=red> <b>The external auditory meatus
+</b>
+<p>
+</font></answer></question><question><p>Question 162 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the foramen ovale give rise to?</b> ... <answer><font color=red> <b>Fossa ovalis
+</b>
+<p>
+</font></answer></question><question><p>Question 163 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the left 4th aortic arch give rise to?</b> ... <answer><font color=red> <b>Aortic arch
+</b>
+<p>
+</font></answer></question><question><p>Question 164 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the ligamentum venosum come from?</b> ... <answer><font color=red> <b>Ductus venosus
+</b>
+<p>
+</font></answer></question><question><p>Question 165 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the notochord give rise to?</b> ... <answer><font color=red> <b>Nucleus Pulposus
+</b>
+<p>
+</font></answer></question><question><p>Question 166 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the primitive atria give rise to?</b> ... <answer><font color=red> <b>Trabeculated left and right atrium
+</b>
+<p>
+</font></answer></question><question><p>Question 167 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the primitive ventricle give rise to?</b> ... <answer><font color=red> <b>Trabeculated parts of the left and right ventricle
+</b>
+<p>
+</font></answer></question><question><p>Question 168 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the right 4th aortic arch give rise to?</b> ... <answer><font color=red> <b>Proximal part of the right subclavian artery
+</b>
+<p>
+</font></answer></question><question><p>Question 169 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the right horn of the sinus venosus give rise to?</b> ... <answer><font color=red> <b>Smooth part of the right atrium
+</b>
+<p>
+</font></answer></question><question><p>Question 170 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the spleen arise from?</b> ... <answer><font color=red> <b>Dorsal mesentery, but is supplied by the artery of the foregut
+</b>
+<p>
+</font></answer></question><question><p>Question 171 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the thymus arise from?</b> ... <answer><font color=red> <b>Epithelium of the 3rd branchial pouch
+</b>
+<p>
+</font></answer></question><question><p>Question 172 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the thyroid diverticulum arise from?</b> ... <answer><font color=red> <b>The floor of the primitive pharynx
+</b>
+<p>
+</font></answer></question><question><p>Question 173 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the truncus arteriosus give rise to?</b> ... <answer><font color=red> <b>The ascending aorta and pulmonary trunk
+</b>
+<p>
+</font></answer></question><question><p>Question 174 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What does the umbilical arteries give rise to?</b> ... <answer><font color=red> <b>Medial umbilical ligaments
+</b>
+<p>
+</font></answer></question><question><p>Question 175 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What ear muscle does the 1st branchial arch form?</b> ... <answer><font color=red> <b>Tensor tympani
+</b>
+<p>
+</font></answer></question><question><p>Question 176 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What effect does 13-cis-retinoic acid have on the fetus?</b> ... <answer><font color=red> <b>Extremely high risk for birth defects
+</b>
+<p>
+</font></answer></question><question><p>Question 177 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What effect does ACE inhibitors have on the fetus?</b> ... <answer><font color=red> <b>Renal Damage
+</b>
+<p>
+</font></answer></question><question><p>Question 178 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What effect does iodide have on the fetus?</b> ... <answer><font color=red> <b>Congenital goiter or hypothyroidism
+</b>
+<p>
+</font></answer></question><question><p>Question 179 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What effect does warfarin and x-rays have on the fetus?</b> ... <answer><font color=red> <b>Multiple anomalies
+</b>
+<p>
+</font></answer></question><question><p>Question 180 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What effects does cocaine have on the fetus?</b> ... <answer><font color=red> <b>Abnormal fetal development and fetal addiction
+</b>
+<p>
+</font></answer></question><question><p>Question 181 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What embryonic structure are the smooth parts of the left and right ventricle derived from?</b> ... <answer><font color=red> <b>Bulbus cordis
+</b>
+<p>
+</font></answer></question><question><p>Question 182 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What embryonic structure does the coronary sinus come from?</b> ... <answer><font color=red> <b>Left horn of the sinus venosus
+</b>
+<p>
+</font></answer></question><question><p>Question 183 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What embryonic structure does the median umbilical ligament come from?</b> ... <answer><font color=red> <b>Allantois (urachus)
+</b>
+<p>
+</font></answer></question><question><p>Question 184 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What fetal landmark has developed within week 2 of fertilization?</b> ... <answer><font color=red> <b>Bilaminar disk
+</b>
+<p>
+</font></answer></question><question><p>Question 185 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What fetal landmark has occurred within week 1 of fertilization?</b> ... <answer><font color=red> <b>Implantation
+</b>
+<p>
+</font></answer></question><question><p>Question 186 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What fetal landmark has occurred within week 3 of fertilization?</b> ... <answer><font color=red> <b>Gastrulation
+</b>
+<p>
+</font></answer></question><question><p>Question 187 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What fetal landmarks (2) have developed within week 3 of fertilization?</b> ... <answer><font color=red> <b>Primitive streak and neural plate begin to form
+</b>
+<p>
+</font></answer></question><question><p>Question 188 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What five things arise from neuroectoderm?</b> ... <answer><font color=red> <b>- Neurohypophysis - CNS neurons - Oligodendrocytes - Astrocytes - Pineal gland
+</b>
+<p>
+</font></answer></question><question><p>Question 189 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What four structures make up the diaphragm?</b> ... <answer><font color=red> <b>- Septum transversum - pleuroperitoneal folds - body wall - dorsal mesentery of esophagus
+</b>
+<p>
+</font></answer></question><question><p>Question 190 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What four things arise from surface ectoderm?</b> ... <answer><font color=red> <b>- Adenohypophysis - Lens of eye - Epithelial linings - Epidermis
+</b>
+<p>
+</font></answer></question><question><p>Question 191 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What four things does Meckel's cartilage (from the 1st arch) develop into?</b> ... <answer><font color=red> <b>- Mandible - Malleus - Incus - Sphenomandibular ligament
+</b>
+<p>
+</font></answer></question><question><p>Question 192 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What four things does Reichert's cartilage (from the 2nd arch) develop into?</b> ... <answer><font color=red> <b>- Stapes - Styloid process - Lesser horn of hyoid - Stylohyoid ligament
+</b>
+<p>
+</font></answer></question><question><p>Question 193 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What four things does the dorsal pancreatic bud become?</b> ... <answer><font color=red> <b>Body, tail, isthmus, and accessory pancreatic duct
+</b>
+<p>
+</font></answer></question><question><p>Question 194 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What four things does the mesonephric (wolffian) duct develop into?</b> ... <answer><font color=red> <b>- Seminal vesicles - Epididymis - Ejaculatory duct - Ductus deferens
+</b>
+<p>
+</font></answer></question><question><p>Question 195 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What induces the ectoderm to form the neuroectoderm (neural plate)?</b> ... <answer><font color=red> <b>Notochord
+</b>
+<p>
+</font></answer></question><question><p>Question 196 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is a congenital diaphragmatic hernia?</b> ... <answer><font color=red> <b>Abdominal contents herniate into the thorax due to incomplete development of the diaphragm
+</b>
+<p>
+</font></answer></question><question><p>Question 197 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is a hypospadias?</b> ... <answer><font color=red> <b>Abnormal opening of penile urethra on inferior side of penis due to failure of urethral folds to close
+</b>
+<p>
+</font></answer></question><question><p>Question 198 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is a single umbilical artery associated with?</b> ... <answer><font color=red> <b>Congenital and chromosomal anomalies
+</b>
+<p>
+</font></answer></question><question><p>Question 199 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is a urachal cyst or sinus a remnant of?</b> ... <answer><font color=red> <b>The allantois
+</b>
+<p>
+</font></answer></question><question><p>Question 200 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is an abnormal opening of penile urethra on superior side of penis due to faulty positioning of the genital tubercle?</b> ... <answer><font color=red> <b>Epispadias
+</b>
+<p>
+</font></answer></question><question><p>Question 201 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is associated with an epispadias?</b> ... <answer><font color=red> <b>Exstrophy of the bladder
+</b>
+<p>
+</font></answer></question><question><p>Question 202 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is Meckel's diverticulum?</b> ... <answer><font color=red> <b>Persistence of the vitelline duct or yolk sac
+</b>
+<p>
+</font></answer></question><question><p>Question 203 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is oligohydramnios associated with?</b> ... <answer><font color=red> <b>Bilateral renal agenesis or posterior urethral valves (in males)
+</b>
+<p>
+</font></answer></question><question><p>Question 204 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is oligohydramnios?</b> ... <answer><font color=red> <b>&lt; 0.5 L of amniotic fluid
+</b>
+<p>
+</font></answer></question><question><p>Question 205 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is polyhydramnios associated with?</b> ... <answer><font color=red> <b>Esophageal/duodenal atresia, anencephaly
+</b>
+<p>
+</font></answer></question><question><p>Question 206 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is polyhydramnios?</b> ... <answer><font color=red> <b>&gt; 1.5-2 L of amniotic fluid
+</b>
+<p>
+</font></answer></question><question><p>Question 207 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is Potter's syndrome?</b> ... <answer><font color=red> <b>Bilateral renal agenesis, that results in ologohydramnios causing limb and facial deformities and pulmonary hypoplasia (Babies with Potter's can’t pee in utero)
+</b>
+<p>
+</font></answer></question><question><p>Question 208 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the acrosome of sperm derived from?</b> ... <answer><font color=red> <b>Golgi apparatus
+</b>
+<p>
+</font></answer></question><question><p>Question 209 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the female homologue to the corpus spongiosum in the male?</b> ... <answer><font color=red> <b>Vestibular bulbs
+</b>
+<p>
+</font></answer></question><question><p>Question 210 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the female homologue to the prostate gland in the male?</b> ... <answer><font color=red> <b>Urethral and paraurethral glands (of Skene)
+</b>
+<p>
+</font></answer></question><question><p>Question 211 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the female homologue to the scrotum in the male?</b> ... <answer><font color=red> <b>Labia majora
+</b>
+<p>
+</font></answer></question><question><p>Question 212 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the female homologue to the ventral shaft of the penis in the male?</b> ... <answer><font color=red> <b>Labia minora
+</b>
+<p>
+</font></answer></question><question><p>Question 213 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the flagellum (tail) derived from?</b> ... <answer><font color=red> <b>One of the centrioles
+</b>
+<p>
+</font></answer></question><question><p>Question 214 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the food supply of sperm?</b> ... <answer><font color=red> <b>Fructose
+</b>
+<p>
+</font></answer></question><question><p>Question 215 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the male homologue to the glans clitoris in the female?</b> ... <answer><font color=red> <b>Glans penis
+</b>
+<p>
+</font></answer></question><question><p>Question 216 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the male homologue to the greater vestibular glands (of Bartholin) in the female?</b> ... <answer><font color=red> <b>Bulbourethral glands (of Cowper)
+</b>
+<p>
+</font></answer></question><question><p>Question 217 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the most common congenital anomaly of the GI tract?</b> ... <answer><font color=red> <b>Meckel's diverticulum
+</b>
+<p>
+</font></answer></question><question><p>Question 218 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the most common ectopic thyroid tissue site?</b> ... <answer><font color=red> <b>The tongue
+</b>
+<p>
+</font></answer></question><question><p>Question 219 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the normal remnant of the thyroglossal duct?</b> ... <answer><font color=red> <b>Foramen cecum
+</b>
+<p>
+</font></answer></question><question><p>Question 220 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the postnatal derivative of the notochord?</b> ... <answer><font color=red> <b>The nucleus pulposus of the intervertebral disc
+</b>
+<p>
+</font></answer></question><question><p>Question 221 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the site of T-cell maturation?</b> ... <answer><font color=red> <b>Thymus
+</b>
+<p>
+</font></answer></question><question><p>Question 222 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What part of the gut is the pancreas derived?</b> ... <answer><font color=red> <b>Foregut
+</b>
+<p>
+</font></answer></question><question><p>Question 223 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What suppresses the development of the paramesonephric ducts in males?</b> ... <answer><font color=red> <b>Mullerian inhibiting substance (secreted by the testes)
+</b>
+<p>
+</font></answer></question><question><p>Question 224 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What teratogenic agent causes limb defects ('flipper' limbs)?</b> ... <answer><font color=red> <b>Thalidomide
+</b>
+<p>
+</font></answer></question><question><p>Question 225 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What three structures does the 3rd pharyngeal pouch develop into?</b> ... <answer><font color=red> <b>- Thymus - Left inferior parathyroid - Right inferior parathyroid
+</b>
+<p>
+</font></answer></question><question><p>Question 226 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What three things does the 1st pharyngeal pouch develop into?</b> ... <answer><font color=red> <b>- Middle ear cavity - Eustachian tube - Mastoid air cells
+</b>
+<p>
+</font></answer></question><question><p>Question 227 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What three things does the paramesonephric (mullerian) duct develop into?</b> ... <answer><font color=red> <b>- Fallopian tube - Uterus - Part of the vagina
+</b>
+<p>
+</font></answer></question><question><p>Question 228 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What three things does the ventral pancreatic bud become?</b> ... <answer><font color=red> <b>- Pancreatic head - uncinate process - main pancreatic duct
+</b>
+<p>
+</font></answer></question><question><p>Question 229 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What two things occur during week 4 of fetal development?</b> ... <answer><font color=red> <b>Heart begins to beat, upper and lower limb buds begin to form
+</b>
+<p>
+</font></answer></question><question><p>Question 230 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of bone formation is spontaneous without preexisting cartilage?</b> ... <answer><font color=red> <b>Intramembranous
+</b>
+<p>
+</font></answer></question><question><p>Question 231 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of twins would have 1 placenta, 2 amniotic sacs, and 1 chorion?</b> ... <answer><font color=red> <b>Monozygotic twins
+</b>
+<p>
+</font></answer></question><question><p>Question 232 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of twins would have 2 amniotic sacs and 2 placentas?</b> ... <answer><font color=red> <b>Monozygotic or dizygotic twins
+</b>
+<p>
+</font></answer></question><question><p>Question 233 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What will DiGeorge's syndrome lead to?</b> ... <answer><font color=red> <b>T cell deficiency &amp; hypocalcemia
+</b>
+<p>
+</font></answer></question><question><p>Question 234 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>When do primary oocytes begin meiosis I?</b> ... <answer><font color=red> <b>During fetal life
+</b>
+<p>
+</font></answer></question><question><p>Question 235 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>When do primary oocytes complete meiosis I?</b> ... <answer><font color=red> <b>Just prior to ovulation
+</b>
+<p>
+</font></answer></question><question><p>Question 236 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>When does fetal erythropoiesis occur in the bone marrow?</b> ... <answer><font color=red> <b>Week 28 and onward
+</b>
+<p>
+</font></answer></question><question><p>Question 237 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>When does fetal erythropoiesis occur in the liver?</b> ... <answer><font color=red> <b>Weeks 6-30
+</b>
+<p>
+</font></answer></question><question><p>Question 238 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>When does fetal erythropoiesis occur in the spleen?</b> ... <answer><font color=red> <b>Weeks 9-28
+</b>
+<p>
+</font></answer></question><question><p>Question 239 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>When does organogenesis occur in the fetus?</b> ... <answer><font color=red> <b>Weeks 3-8
+</b>
+<p>
+</font></answer></question><question><p>Question 240 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where does positive and negative selection occur in the thymus?</b> ... <answer><font color=red> <b>At the corticomedullary junction
+</b>
+<p>
+</font></answer></question><question><p>Question 241 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where does spermatogenesis take place?</b> ... <answer><font color=red> <b>Seminferous tubules
+</b>
+<p>
+</font></answer></question><question><p>Question 242 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where is the first place fetal erythropoiesis occurs and when does this take place?</b> ... <answer><font color=red> <b>Yolk sac (3-8 wk)
+</b>
+<p>
+</font></answer></question><question><p>Question 243 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which aortic arch does the stapedial artery and the hyoid artery come from?</b> ... <answer><font color=red> <b>2nd aortic arch
+</b>
+<p>
+</font></answer></question><question><p>Question 244 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which branchial arch are the greater horn of hyoid and the stylopharyngeus muscle derived from?</b> ... <answer><font color=red> <b>3rd branchial arch
+</b>
+<p>
+</font></answer></question><question><p>Question 245 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which branchial arch does Meckel's cartilage develop from?</b> ... <answer><font color=red> <b>1st arch
+</b>
+<p>
+</font></answer></question><question><p>Question 246 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which branchial arch forms the anterior 2/3 of the tongue?</b> ... <answer><font color=red> <b>1st arch
+</b>
+<p>
+</font></answer></question><question><p>Question 247 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which branchial arch forms the incus and malleus of the ear?</b> ... <answer><font color=red> <b>1st arch
+</b>
+<p>
+</font></answer></question><question><p>Question 248 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which ear bone(s) does the 2nd branchial arch form?</b> ... <answer><font color=red> <b>Stapes
+</b>
+<p>
+</font></answer></question><question><p>Question 249 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which embryonic tissue are branchial clefts derived from?</b> ... <answer><font color=red> <b>Ectoderm
+</b>
+<p>
+</font></answer></question><question><p>Question 250 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which embryonic tissue are branchial pouches derived from?</b> ... <answer><font color=red> <b>Endoderm
+</b>
+<p>
+</font></answer></question><question><p>Question 251 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which is more common a hypospadias or epispadias?</b> ... <answer><font color=red> <b>Hypospadias
+</b>
+<p>
+</font></answer></question><question><p>Question 252 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which muscles (3) are derivatives of the 4th branchial arch?</b> ... <answer><font color=red> <b>- Most pharyngeal constrictors - Cricothyroid - Levator veli palatini
+</b>
+<p>
+</font></answer></question><question><p>Question 253 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which muscles (4) are derivatives of the 2nd branchial arch?</b> ... <answer><font color=red> <b>- Muscles of facial expression - Stapedius - Stylohyoid - Posterior belly of digastric
+</b>
+<p>
+</font></answer></question><question><p>Question 254 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which muscles (8) are derivatives of the 1st branchial arch?</b> ... <answer><font color=red> <b>- Temporalis - Masseter - Lateral pterygoid - Medial pterygoid - Mylohyoid - Anterior belly of digastric - Tensor tympani - Tensor veli palatini
+</b>
+<p>
+</font></answer></question><question><p>Question 255 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which muscles are derivatives of the 6th branchial arch?</b> ... <answer><font color=red> <b>All intrinsic muscles of the larynx, except the cricothyroid
+</b>
+<p>
+</font></answer></question><question><p>Question 256 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which pharyngeal arch does Reichert's cartilage develop from?</b> ... <answer><font color=red> <b>2nd arch
+</b>
+<p>
+</font></answer></question><question><p>Question 257 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which teratogenic agent causes vaginal clear cell adenocarcinoma?</b> ... <answer><font color=red> <b>DES
+</b>
+<p>
+</font></answer></question><question><p>Question 258 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which two branchial arches form the posterior 1/3 of the tongue?</b> ... <answer><font color=red> <b>3rd and 4th arches
+</b>
+<p>
+</font></answer></question><question><p>Question 259 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which two embryonic tissues are branchial arches derived from?</b> ... <answer><font color=red> <b>Mesoderm and neural crests
+</b>
+<p>
+</font></answer></question><question><p>Question 260 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which week of fetal development have the genitalia taken on male/female characteristics?</b> ... <answer><font color=red> <b>Week 10
+</b>
+<p>
+</font></answer></question><question><p>Question 261 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A common football injury caused by clipping from the lateral side will damage what structures (3 answers)?</b> ... <answer><font color=red> <b>--Medial collateral ligament --Medial meniscus --Anterior cruciate ligament
+</b>
+<p>
+</font></answer></question><question><p>Question 262 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A lumbar puncture is performed at what landmark?</b> ... <answer><font color=red> <b>Iliac crest
+</b>
+<p>
+</font></answer></question><question><p>Question 263 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A positive anterior drawer sign indicates damage to what structure?</b> ... <answer><font color=red> <b>Anterior cruciate ligament(ACL)
+</b>
+<p>
+</font></answer></question><question><p>Question 264 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A pudendal nerve block is performed at what landmark?</b> ... <answer><font color=red> <b>Ischial spine
+</b>
+<p>
+</font></answer></question><question><p>Question 265 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Abnormal passive abduction of the knee indicates damage to what structure?</b> ... <answer><font color=red> <b>Medial collateral ligament(MCL)
+</b>
+<p>
+</font></answer></question><question><p>Question 266 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>'Anterior' in ACL refers to what attachment?</b> ... <answer><font color=red> <b>Tibial
+</b>
+<p>
+</font></answer></question><question><p>Question 267 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>At what level is a lumbar puncture performed?</b> ... <answer><font color=red> <b>Between L3-L4 or L4-L5
+</b>
+<p>
+</font></answer></question><question><p>Question 268 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Common peroneal nerve damage manifests what deficit?</b> ... <answer><font color=red> <b>Loss of dorsiflexion(Foot Drop)
+</b>
+<p>
+</font></answer></question><question><p>Question 269 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Common peroneal, Tibial, Femoral, and Obturator nerves arise from what spinal cord segments (4 answers)?</b> ... <answer><font color=red> <b>--'L4-S2 (common peroneal) --L4-S3 (tibial) --L2-L4 (femoral) and (obturator)
+</b>
+<p>
+</font></answer></question><question><p>Question 270 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Coronary artery occlusion usually occurs where?</b> ... <answer><font color=red> <b>Left anterior descending artery (LAD)
+</b>
+<p>
+</font></answer></question><question><p>Question 271 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Do the coronary arteries fill during systole or diastole?</b> ... <answer><font color=red> <b>Diastole
+</b>
+<p>
+</font></answer></question><question><p>Question 272 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Erection and sensation of the penis is in what dermatomes?</b> ... <answer><font color=red> <b>S2-S4
+</b>
+<p>
+</font></answer></question><question><p>Question 273 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Femoral nerve damage manifests what deficit?</b> ... <answer><font color=red> <b>Loss of knee jerk
+</b>
+<p>
+</font></answer></question><question><p>Question 274 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How does the course of the left recurrent laryngeal nerve differ from that of the right?</b> ... <answer><font color=red> <b>The left wraps around the arch of the aorta and the ligamentum arteriosum while the right wraps around the subclavian artery.
+</b>
+<p>
+</font></answer></question><question><p>Question 275 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How is the appendix located?</b> ... <answer><font color=red> <b>2/3 of the way from the umbilicus to the anterior superior iliac spine
+</b>
+<p>
+</font></answer></question><question><p>Question 276 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How many lobes are in the right and left lungs and what are their names?</b> ... <answer><font color=red> <b>--Right has three (superior,middle,inferior)  --Left has two (superior and inferior) and the lingula
+</b>
+<p>
+</font></answer></question><question><p>Question 277 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name five portal-systemic anastomoses.</b> ... <answer><font color=red> <b>1.Left gastric-azygous vv. 2.Superior-Middle/Inferior rectal vv. 3.Paraumbilical-inferior epigastric 4.Retroperitoneal-renal vv. 5.Retroperitoneal-paravertebral vv.
+</b>
+<p>
+</font></answer></question><question><p>Question 278 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the 4 ligaments of the uterus.</b> ... <answer><font color=red> <b>--Suspensory ligament of ovaries --Transverse cervical (cardinal) ligament --Round ligament of uterus --Broad ligament
+</b>
+<p>
+</font></answer></question><question><p>Question 279 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the hypothenar muscles.</b> ... <answer><font color=red> <b>--Opponens digiti minimi --Abductor digiti minimi --Flexor digiti minimi
+</b>
+<p>
+</font></answer></question><question><p>Question 280 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the retroperitoneal structures (9).</b> ... <answer><font color=red> <b>1.Duodenum(2nd-4th parts) 2.Descending colon 3.Ascending colon 4.Kidney &amp; ureters 5.Pancreas 6.Aorta 7.Inferior vena cava 8.Adrenal glands 9.Rectum
+</b>
+<p>
+</font></answer></question><question><p>Question 281 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the rotator cuff muscles.</b> ... <answer><font color=red> <b>--Supraspinatus --Infraspinatus --teres minor --Subscapularis
+</b>
+<p>
+</font></answer></question><question><p>Question 282 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the thenar muscles</b> ... <answer><font color=red> <b>--Opponens pollicis --Abductor pollicis brevis --Flexor pollicis brevis
+</b>
+<p>
+</font></answer></question><question><p>Question 283 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Obturator nerve damage manifests what deficit?</b> ... <answer><font color=red> <b>Loss of hip adduction
+</b>
+<p>
+</font></answer></question><question><p>Question 284 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Pain from the diaphragm is usually referred where?</b> ... <answer><font color=red> <b>Shoulder
+</b>
+<p>
+</font></answer></question><question><p>Question 285 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Subarachnoid space extends to what spinal level?</b> ... <answer><font color=red> <b>S2
+</b>
+<p>
+</font></answer></question><question><p>Question 286 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The area of the body that contains the appendix is known as what?</b> ... <answer><font color=red> <b>McBurney's point
+</b>
+<p>
+</font></answer></question><question><p>Question 287 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The femoral triangle contains what structures from lateral to medial?</b> ... <answer><font color=red> <b>--Femoral nerve --Femoral artery --Femoral vein --Femoral Canal (lymphatics)
+</b>
+<p>
+</font></answer></question><question><p>Question 288 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The inguinal ligament exists in what dermatome?</b> ... <answer><font color=red> <b>L1
+</b>
+<p>
+</font></answer></question><question><p>Question 289 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The kneecaps exist in what dermatome?</b> ... <answer><font color=red> <b>L4
+</b>
+<p>
+</font></answer></question><question><p>Question 290 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The male sexual response of ejaculation is mediated by what part of the nervous system?</b> ... <answer><font color=red> <b>Visceral and somatic nerves
+</b>
+<p>
+</font></answer></question><question><p>Question 291 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The male sexual response of emission is mediated by what part of the nervous system?</b> ... <answer><font color=red> <b>Sympathetic nervous system
+</b>
+<p>
+</font></answer></question><question><p>Question 292 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The male sexual response of erection is mediated by what part of the nervous system?</b> ... <answer><font color=red> <b>Parasympathetic nervous system</b>
+<p>
+</font></answer></question><question><p>Question 293 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The nipple exists in what dermatome?</b> ... <answer><font color=red> <b>T4
+</b>
+<p>
+</font></answer></question><question><p>Question 294 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The recurrent laryngeal nerve arises from what cranial nerve and supplies what muscles?</b> ... <answer><font color=red> <b>1.CN X 2.All intrinsic muscles of the larynx except the cricothyroid muscle.
+</b>
+<p>
+</font></answer></question><question><p>Question 295 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The SA and AV nodes are usually supplied by what artery?</b> ... <answer><font color=red> <b>Right Coronary Artery (RCA)
+</b>
+<p>
+</font></answer></question><question><p>Question 296 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The spinal cord ends at what level in adults?</b> ... <answer><font color=red> <b>L1-L2
+</b>
+<p>
+</font></answer></question><question><p>Question 297 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The umbilicus exists in what dermatome?</b> ... <answer><font color=red> <b>T10
+</b>
+<p>
+</font></answer></question><question><p>Question 298 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The xiphoid process exists in what dermatome?</b> ... <answer><font color=red> <b>T7
+</b>
+<p>
+</font></answer></question><question><p>Question 299 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Tibial nerve damage manifests what deficit?</b> ... <answer><font color=red> <b>Loss of plantar flexion
+</b>
+<p>
+</font></answer></question><question><p>Question 300 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are hernias?</b> ... <answer><font color=red> <b>Protrusions of peritoneum through an opening, usually sites of weakness.
+</b>
+<p>
+</font></answer></question><question><p>Question 301 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are JG cells?</b> ... <answer><font color=red> <b>Modified smooth muscle of afferent arteriole in the juxtaglomerular apparatus of the kidney
+</b>
+<p>
+</font></answer></question><question><p>Question 302 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the boundaries of the inguinal (Hesselbach) triangle?</b> ... <answer><font color=red> <b>--Inferior epigastric artery --Lateral border of the rectus abdominus --Inguinal ligament
+</b>
+<p>
+</font></answer></question><question><p>Question 303 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the layers encountered from the outsided down to the brain?</b> ... <answer><font color=red> <b>--Skin --Connective tissue --Aponeurosis --Loose connective tissue --Pericranium --Dura mater --Subdural space --Arachnoid --Subarachnoid space --Pia mater --Brain
+</b>
+<p>
+</font></answer></question><question><p>Question 304 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the manifestations of portal hypertension?</b> ... <answer><font color=red> <b>--Esophageal varices --Hemorrhoids --Caput medusae
+</b>
+<p>
+</font></answer></question><question><p>Question 305 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What condition is usually associated with portal hypertension?</b> ... <answer><font color=red> <b>Alcoholic cirrhosis
+</b>
+<p>
+</font></answer></question><question><p>Question 306 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What defect may predispose an infant for a diaphragmatic hernia?</b> ... <answer><font color=red> <b>Defective development of the pleuroperitoneal membrane
+</b>
+<p>
+</font></answer></question><question><p>Question 307 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What gut regions and structures does the celiac artery supply?</b> ... <answer><font color=red> <b>1.Foregut 2.--Stomach to duodenum --liver --gallbladder --pancreas
+</b>
+<p>
+</font></answer></question><question><p>Question 308 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What gut regions and structures does the IMA supply?</b> ... <answer><font color=red> <b>1.Hindgut 2.--Distal 1/3 of transverse colon to upper portion of rectum
+</b>
+<p>
+</font></answer></question><question><p>Question 309 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What gut regions and structures does the SMA supply?</b> ... <answer><font color=red> <b>1.Midgut 2.--Duodenum to proximal 2/3 of transverse colon
+</b>
+<p>
+</font></answer></question><question><p>Question 310 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is a diaphragmatic hernia?</b> ... <answer><font color=red> <b>Abdominal retroperitoneal structures enter the thorax
+</b>
+<p>
+</font></answer></question><question><p>Question 311 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is a femoral hernia?</b> ... <answer><font color=red> <b>entrance of abdominal contents through the femoral canal.
+</b>
+<p>
+</font></answer></question><question><p>Question 312 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is a hiatal hernia?</b> ... <answer><font color=red> <b>Stomach contents herniate upward through the esophageal hiatus of the diaphragm
+</b>
+<p>
+</font></answer></question><question><p>Question 313 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the arterial blood supply difference above and below the pectinate line?</b> ... <answer><font color=red> <b>--Superior rectal a. (Above) --Inferior rectal a. (Below)
+</b>
+<p>
+</font></answer></question><question><p>Question 314 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the course of a direct inguinal hernia?</b> ... <answer><font color=red> <b>Through weak abdominal wall, into the inguinal triangle, medial to the inferior epigastric artery, through the external inguinal ring only.
+</b>
+<p>
+</font></answer></question><question><p>Question 315 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the course of an indirect inguinal hernia?</b> ... <answer><font color=red> <b>Through the internal (deep) inguinal ring and the external (superficial) inguinal ring lateral to the inferior epigastric artery and into the scrotum
+</b>
+<p>
+</font></answer></question><question><p>Question 316 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the course of the ureters?</b> ... <answer><font color=red> <b>Pass under uterine artery and under the ductus deferens
+</b>
+<p>
+</font></answer></question><question><p>Question 317 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of Myenteric plexus? Submucosal plexus?</b> ... <answer><font color=red> <b>1.Coordinates motility along entire gut wall 2.Regulates local secretions, blood flow, and absorption
+</b>
+<p>
+</font></answer></question><question><p>Question 318 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of the JG cells?</b> ... <answer><font color=red> <b>--secrete renin and erythropoietin
+</b>
+<p>
+</font></answer></question><question><p>Question 319 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the innervation difference above and below the pectinate line?</b> ... <answer><font color=red> <b>--Visceral innervation (Above) --Somatic innervation (Below)
+</b>
+<p>
+</font></answer></question><question><p>Question 320 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the innervation of the diaphram?</b> ... <answer><font color=red> <b>Phrenic nerve (C3,4,5)
+</b>
+<p>
+</font></answer></question><question><p>Question 321 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the macula densa?</b> ... <answer><font color=red> <b>Sodium sensor in part of the distal convoluted distal tubule in the juxtaglomerular apparatus of the kidney
+</b>
+<p>
+</font></answer></question><question><p>Question 322 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the Myenteric plexus also known as? Submucosal plexus?</b> ... <answer><font color=red> <b>1. Auerbach's plexus 2. Meissner's plexus
+</b>
+<p>
+</font></answer></question><question><p>Question 323 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the pectinate line of the rectum?</b> ... <answer><font color=red> <b>Where the hindgut meets ectoderm in the rectum
+</b>
+<p>
+</font></answer></question><question><p>Question 324 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the relationship of the two pulmonary arteries to the bronchus at the lung hilus?</b> ... <answer><font color=red> <b>described by <b>RALS</b> -- <b>R</b>ight <b>A</b>nterior, <b>L</b>eft <b>S</b>uperior
+</b>
+<p>
+</font></answer></question><question><p>Question 325 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the usual pathology above the pectinate line of the rectum?</b> ... <answer><font color=red> <b>Internal hemorrhoids (not painful) Adenocarcinoma
+</b>
+<p>
+</font></answer></question><question><p>Question 326 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the usual pathology below the pectinate line of the rectum?</b> ... <answer><font color=red> <b>External hemorrhoids (painful) Squamous cell carcinoma
+</b>
+<p>
+</font></answer></question><question><p>Question 327 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the venous drainage difference above and below the pectinate line?</b> ... <answer><font color=red> <b>--Superior rectal v. to internal mesenteric vein to portal system (Above) --Inferior rectal v. to internal pudendal v. to internal iliac v. to IVC (Below)
+</b>
+<p>
+</font></answer></question><question><p>Question 328 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What layers of the gut wall contribute to motility (4)?</b> ... <answer><font color=red> <b>--Muscularis mucosae --Inner circular muscle layer --Myenteric plexus --Outer longitudinal muscle layer
+</b>
+<p>
+</font></answer></question><question><p>Question 329 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What layers of the gut wall contribute to support (3)?</b> ... <answer><font color=red> <b>--Serosa --Lamina propria --Submucosa
+</b>
+<p>
+</font></answer></question><question><p>Question 330 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What muscle opens the jaw?</b> ... <answer><font color=red> <b>Lateral pterygoid
+</b>
+<p>
+</font></answer></question><question><p>Question 331 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What nerve innervates most of the 'glossus' muscles and which is the exception?</b> ... <answer><font color=red> <b>All muscles with root 'glossus' in their names (except palatoglossus, innervated by vagus nerve) are innervated by hypo<i>glossal</i> nerve.</b>
+<p>
+</font></answer></question><question><p>Question 332 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What nerve innervates most of the 'palat' muscles and which is the exception?</b> ... <answer><font color=red> <b>All muscles with root <i>palat</i> in their names (except tensor veli palatini, innervated by V2) are innervated by vagus nerve.</b>
+<p>
+</font></answer></question><question><p>Question 333 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What nerve innervates the muscles that close and open the jaw?</b> ... <answer><font color=red> <b>Trigeminal Nerve (V3)
+</b>
+<p>
+</font></answer></question><question><p>Question 334 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What neurons do the GI enteric plexus contain?</b> ... <answer><font color=red> <b>Cell bodies of parasympathetic terminal effector neurons
+</b>
+<p>
+</font></answer></question><question><p>Question 335 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What part of the heart does the LAD supply?</b> ... <answer><font color=red> <b>anterior interventricular septum
+</b>
+<p>
+</font></answer></question><question><p>Question 336 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What spinal cord levels are vertebral disk herniation most likely to occur?</b> ... <answer><font color=red> <b>Between L5 and S1
+</b>
+<p>
+</font></answer></question><question><p>Question 337 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What structure is in the femoral triangle but not in the femoral sheath?</b> ... <answer><font color=red> <b>--Femoral nerve
+</b>
+<p>
+</font></answer></question><question><p>Question 338 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What structures are in the carotid sheath?</b> ... <answer><font color=red> <b>1.Internal Jugular Vein (lateral) --2.Common Carotid Artery (medial) --3.Vagus Nerve (posterior)
+</b>
+<p>
+</font></answer></question><question><p>Question 339 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What structures are pierced when doing an LP?</b> ... <answer><font color=red> <b>1.Skin/superficial fascia 2.Ligaments(supraspinatous,interspinous,ligamentum flavum) 3.Epidural space 4.Dura mater 5.Subdural space 6.Arachnoid 7.Subarachnoid space--CSF
+</b>
+<p>
+</font></answer></question><question><p>Question 340 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What structures do the broad ligament contain (4)?</b> ... <answer><font color=red> <b>--Round ligaments of the uterus --Ovaries --Uterine tubules --Uterine vessels
+</b>
+<p>
+</font></answer></question><question><p>Question 341 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What structures make up the bronchopulmonary segment?</b> ... <answer><font color=red> <b>--Tertiary bronchus --Bronchial artery --Pulmonary artery
+</b>
+<p>
+</font></answer></question><question><p>Question 342 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What structures perforate the diaphragm at what vertebral levels?</b> ... <answer><font color=red> <b>--IVC at T8 --esophagus, vagal trunks at T10 --aorta, thoracic duct, axygous vein at T12
+</b>
+<p>
+</font></answer></question><question><p>Question 343 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What three muscles close the jaw?</b> ... <answer><font color=red> <b>--Masseter --Temporalis --Medial pterygoid
+</b>
+<p>
+</font></answer></question><question><p>Question 344 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What usually provides the blood supply for the inferior left ventricle?</b> ... <answer><font color=red> <b>Posterior descending artery (PD) of the RCA
+</b>
+<p>
+</font></answer></question><question><p>Question 345 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>When do the JG cells secrete renin?</b> ... <answer><font color=red> <b>in response to decreased renal BP, decreased sodium delivery to distal tubule, and increased sympathetic tone
+</b>
+<p>
+</font></answer></question><question><p>Question 346 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>When is damage to the recurrent laryngeal nerve most likely to happen and what are its results(2 answers)?</b> ... <answer><font color=red> <b>1.Thyroid surgery 2.Hoarseness
+</b>
+<p>
+</font></answer></question><question><p>Question 347 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where is the CSF found?</b> ... <answer><font color=red> <b>Subarachnoid space
+</b>
+<p>
+</font></answer></question><question><p>Question 348 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where is the Myenteric plexus located? Submucosal plexus?</b> ... <answer><font color=red> <b>1.Between the inner and outer layers of smooth muscle in GI tract wall 2.Between mucosa and inner layer of smooth muscle in GI tract wall.
+</b>
+<p>
+</font></answer></question><question><p>Question 349 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which ligament contains the ovarian vessels?</b> ... <answer><font color=red> <b>Suspensory ligament of the ovary
+</b>
+<p>
+</font></answer></question><question><p>Question 350 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which ligament contains the uterine vessels?</b> ... <answer><font color=red> <b>Transverse cervical (cardinal) ligament
+</b>
+<p>
+</font></answer></question><question><p>Question 351 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which lung is the usual site of an inhaled foreign body?</b> ... <answer><font color=red> <b>Right lung
+</b>
+<p>
+</font></answer></question><question><p>Question 352 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which lung provides a space for the heart to occupy?</b> ... <answer><font color=red> <b>Left lung (in the place of the middle lobe)
+</b>
+<p>
+</font></answer></question><question><p>Question 353 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which meningeal layer is not pierced during an LP?</b> ... <answer><font color=red> <b>Pia mater
+</b>
+<p>
+</font></answer></question><question><p>Question 354 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Who usually gets a direct inguinal hernia? indirect hernia (and why)?</b> ... <answer><font color=red> <b>1.Older men 2.Infants (failure of processus vaginalis to close)
+</b>
+<p>
+</font></answer></question><question><p>Question 355 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the 3 layers of peripheral nerves? (inner to outer)</b> ... <answer><font color=red> <b>1) Endoneurium  2) Perineurium  3) Epineurium
+</b>
+<p>
+</font></answer></question><question><p>Question 356 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where is type I collagen found?(7)</b> ... <answer><font color=red> <b>1. bone 2. tendon 3. skin 4. dentin 5. fascia 6. cornea 7. late wound repair
+</b>
+<p>
+</font></answer></question><question><p>Question 357 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where is type II collagen found? (3)</b> ... <answer><font color=red> <b>1. cartilage (including hyaline) 2. vitreous body 3. nucleus pulposus.
+</b>
+<p>
+</font></answer></question><question><p>Question 358 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the functions of the major structures of the inner ear bony labyrinth?</b> ... <answer><font color=red> <b>1. Cochlea- hearing 2. vestibule- linear acceleration 3. semicircular canals- angular acceleration.
+</b>
+<p>
+</font></answer></question><question><p>Question 359 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the major structures of the inner ear bony labyrinth?</b> ... <answer><font color=red> <b>1. Cochlea 2. vestibule 3. semicircular canals
+</b>
+<p>
+</font></answer></question><question><p>Question 360 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the major structures of the inner ear membranous labyrinth?</b> ... <answer><font color=red> <b>1. Cochlear duct 2. utricle. 3. saccule 4. semicircular canals.
+</b>
+<p>
+</font></answer></question><question><p>Question 361 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name two proteins involved in the structure of macula adherens.</b> ... <answer><font color=red> <b>1. Desmoplakin 2.Keratin
+</b>
+<p>
+</font></answer></question><question><p>Question 362 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name 6 functions of Golgi apparatus.</b> ... <answer><font color=red> <b>1. Distribution center of proteins and lipids from ER to plasma membrane, lysosomes, secretory vessicles 2. Modifies N-oligosaccharides on asparagine 3. Adds O-oligosaccharides to Ser and Thr residues 4. Proteoglycan assembly from proteoglycan core proteins 5. Sulfation of sugars in proteoglycans and of selected tyrosine on proteins 6. Addition of mannose-6-phosphate to specific lysosomal proteins, which targets the protein to the lysosome
+</b>
+<p>
+</font></answer></question><question><p>Question 363 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name two proteins involved in the structure of zona adherens?</b> ... <answer><font color=red> <b>1. E-cadherins 2. actin filaments
+</b>
+<p>
+</font></answer></question><question><p>Question 364 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which cells are rich in smooth ER?</b> ... <answer><font color=red> <b>1. liver hepatocytes, 2. steroid hormone-producing cells of adrenal cortex.
+</b>
+<p>
+</font></answer></question><question><p>Question 365 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Describe the immune response stimulated via Peyer's patches.</b> ... <answer><font color=red> <b>1. M cells take up antigen. 2. stimulated B cells leave Peyer's patch and travel through lymph and blood to lamina propria of intestine. 3. In lamina propria B cells differentiate into IgA-secreting plasma cells. 4. IgA receives protective secretory component. 5. IgA is transported across epithelium to gut to deal with intraluminal Ag.
+</b>
+<p>
+</font></answer></question><question><p>Question 366 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which cells are rich in rough ER?</b> ... <answer><font color=red> <b>1. Mucus-secreting goblet cells of small intestine, 2. antibody-secreting plasma cells.
+</b>
+<p>
+</font></answer></question><question><p>Question 367 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the functions of the lymph node?</b> ... <answer><font color=red> <b>1. Nonspecific filtration by macrophages. 2. storage/proliferation of B and T cells 3. Ab production.
+</b>
+<p>
+</font></answer></question><question><p>Question 368 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where is type III collagen found? (5)</b> ... <answer><font color=red> <b>1. skin 2.blood vessels 3.uterus 4.fetal tissue 5.granulation tissue
+</b>
+<p>
+</font></answer></question><question><p>Question 369 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name five types of epithelial cell junctions.</b> ... <answer><font color=red> <b>1. zona occludens 2.zona adherens 3.macula adherens 4.gap junction 5.hemidesmosome
+</b>
+<p>
+</font></answer></question><question><p>Question 370 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Describe microtubule arrangement of cilia.</b> ... <answer><font color=red> <b>9+2 arrangement of microtubules.
+</b>
+<p>
+</font></answer></question><question><p>Question 371 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Describe the outer structure of a Peyer's patch.</b> ... <answer><font color=red> <b>A Peyer's patch is 'covered' by single layer of cuboidal enterocytes, interspersed with specialized M cells (no goblet cells).
+</b>
+<p>
+</font></answer></question><question><p>Question 372 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is a lymph node? Include information on structural components.</b> ... <answer><font color=red> <b>A secondary lymphoid organ. Has many afferents, one or more efferents. With trabeculae. Major histological regions = Follicle, Medulla, Paracortex
+</b>
+<p>
+</font></answer></question><question><p>Question 373 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the primary regulatory control of zona fasciculata secretion?</b> ... <answer><font color=red> <b>ACTH, hypothalamic CRH
+</b>
+<p>
+</font></answer></question><question><p>Question 374 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the primary regulatory control of zona reticularis secretion?</b> ... <answer><font color=red> <b>ACTH, hypothalamic CRH
+</b>
+<p>
+</font></answer></question><question><p>Question 375 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are/is the primary secretory product of the zona glomerulosa?</b> ... <answer><font color=red> <b>aldosterone
+</b>
+<p>
+</font></answer></question><question><p>Question 376 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What do Brunner's glands secrete?</b> ... <answer><font color=red> <b>alkaline mucus
+</b>
+<p>
+</font></answer></question><question><p>Question 377 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of liver sinusoids?</b> ... <answer><font color=red> <b>Allow macromolecules of plasma full access to surface of liver cells through space of Disse.
+</b>
+<p>
+</font></answer></question><question><p>Question 378 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of a gap junction?</b> ... <answer><font color=red> <b>Allows adjacent cells to communicate for electric and metabolic functions.
+</b>
+<p>
+</font></answer></question><question><p>Question 379 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is produced by alpha cells of the Islets of Langerhans?</b> ... <answer><font color=red> <b>alpha cells produce glucagon
+</b>
+<p>
+</font></answer></question><question><p>Question 380 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What three cell types are found in Islets of Langerhans?</b> ... <answer><font color=red> <b>alpha, beta, and gamma cells
+</b>
+<p>
+</font></answer></question><question><p>Question 381 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of cells are Nissl bodies found? In what parts of the cell?</b> ... <answer><font color=red> <b>Are found in neurons. Are not found in axon or axon hillock.
+</b>
+<p>
+</font></answer></question><question><p>Question 382 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>IN what area of the spleen are B cells found?</b> ... <answer><font color=red> <b>B cells are found within the white pulp of the spleen.
+</b>
+<p>
+</font></answer></question><question><p>Question 383 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is type IV collagen found? (1)</b> ... <answer><font color=red> <b>basement membrane or basal lamina
+</b>
+<p>
+</font></answer></question><question><p>Question 384 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is produced by beta cells of the Islets of Langerhans?</b> ... <answer><font color=red> <b>beta cells produce insulin
+</b>
+<p>
+</font></answer></question><question><p>Question 385 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the only GI submucosal gland?</b> ... <answer><font color=red> <b>Brunner's glands
+</b>
+<p>
+</font></answer></question><question><p>Question 386 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Describe the histological layers of the adrenal glands (outside to in)</b> ... <answer><font color=red> <b>Capsule, Zona glomerulosa, Zona fasciculata, Zona reticularis, Medulla.
+</b>
+<p>
+</font></answer></question><question><p>Question 387 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are/is the primary secretory product of the adrenal medulla?</b> ... <answer><font color=red> <b>Catecholamines (Epi, NE)
+</b>
+<p>
+</font></answer></question><question><p>Question 388 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What do the medullary cords consist of?</b> ... <answer><font color=red> <b>Closely packed lymphocytes and plasma cells.
+</b>
+<p>
+</font></answer></question><question><p>Question 389 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the most common type of collagen?</b> ... <answer><font color=red> <b>Collagen Type I - 90%
+</b>
+<p>
+</font></answer></question><question><p>Question 390 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the most abundant protein in the human body?</b> ... <answer><font color=red> <b>Collagen.
+</b>
+<p>
+</font></answer></question><question><p>Question 391 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Define Islets of Langerhans.</b> ... <answer><font color=red> <b>Collections of endocrine cells.
+</b>
+<p>
+</font></answer></question><question><p>Question 392 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of hemidesmosomes?</b> ... <answer><font color=red> <b>Connect cells to underlying extracellular matrix.
+</b>
+<p>
+</font></answer></question><question><p>Question 393 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are/is the primary secretory product of the zona fasciculata?</b> ... <answer><font color=red> <b>cortisol, sex hormones.
+</b>
+<p>
+</font></answer></question><question><p>Question 394 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is another name for macula adherens?</b> ... <answer><font color=red> <b>Desmosome
+</b>
+<p>
+</font></answer></question><question><p>Question 395 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the effect of duodenal ulcers on Brunner's gland histology?</b> ... <answer><font color=red> <b>Duodenal ulcers cause hypertrophy of Brunner's glands.
+</b>
+<p>
+</font></answer></question><question><p>Question 396 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How does dynein function in cilia function?</b> ... <answer><font color=red> <b>Dynein causes the bending of cilium by differential sliding of doublets.
+</b>
+<p>
+</font></answer></question><question><p>Question 397 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What kind of protein is dynein?</b> ... <answer><font color=red> <b>Dynein is an ATPase.
+</b>
+<p>
+</font></answer></question><question><p>Question 398 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Describe the role of dynein in cilia structure.</b> ... <answer><font color=red> <b>Dynein links peripheral 9 doublets of microtubules.
+</b>
+<p>
+</font></answer></question><question><p>Question 399 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What makes endolymph?</b> ... <answer><font color=red> <b>Endolymph is made by the stria vascularis.
+</b>
+<p>
+</font></answer></question><question><p>Question 400 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is Endoneurium?</b> ... <answer><font color=red> <b>Endoneurium invests single nerve fiber of the peripheral nerve.
+</b>
+<p>
+</font></answer></question><question><p>Question 401 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is Epineurium?</b> ... <answer><font color=red> <b>Epineurium (dense connective tissue) surrounds entire nerve (fascicles and blood vessels)
+</b>
+<p>
+</font></answer></question><question><p>Question 402 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where is type X collagen found? (1)</b> ... <answer><font color=red> <b>epiphyseal plate
+</b>
+<p>
+</font></answer></question><question><p>Question 403 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Plasma is filtered on the basis of what properties?</b> ... <answer><font color=red> <b>Filtration of plasma occurs according to net charge and size.
+</b>
+<p>
+</font></answer></question><question><p>Question 404 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How is the glomerular basement membrane formed?</b> ... <answer><font color=red> <b>From the fusion of endothelial and podocyte basement membranes.
+</b>
+<p>
+</font></answer></question><question><p>Question 405 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is produced by gamma cells of the Islets of Langerhans?</b> ... <answer><font color=red> <b>gamma cells produce somatostatin.
+</b>
+<p>
+</font></answer></question><question><p>Question 406 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the mnemonic to remember layers and products of adrenal cortex?</b> ... <answer><font color=red> <b>GFR (Glomerulosa, Fasciculata, Reticularis) corresponds to Salt (Na+), Sugar (glucocorticoids) and Sex (androgens) The deeper you go, the sweeter it gets.
+</b>
+<p>
+</font></answer></question><question><p>Question 407 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of hair cells?</b> ... <answer><font color=red> <b>Hair cells are the sensory elements in both the cochlear and vestibular apparatus.
+</b>
+<p>
+</font></answer></question><question><p>Question 408 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name a protein involved in the structure of hemidesmosomes.</b> ... <answer><font color=red> <b>Integrin.
+</b>
+<p>
+</font></answer></question><question><p>Question 409 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is another name for zona adherens?</b> ... <answer><font color=red> <b>Intermediate junction.
+</b>
+<p>
+</font></answer></question><question><p>Question 410 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Describe the histological structure of sinusoids of the liver.</b> ... <answer><font color=red> <b>Irregular 'capillaries' with round pores 100-200 nm in diameter and no basement membrane.
+</b>
+<p>
+</font></answer></question><question><p>Question 411 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of smooth ER?</b> ... <answer><font color=red> <b>Is the site of steroid synthesis and detoxification of drugs and poisons
+</b>
+<p>
+</font></answer></question><question><p>Question 412 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of rough ER?</b> ... <answer><font color=red> <b>Is the site of synthesis of secretory (exported proteins and of N-linked oligosaccharide addition to many proteins.
+</b>
+<p>
+</font></answer></question><question><p>Question 413 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What part of pancreas are the Islets of Langerhans concentrated?</b> ... <answer><font color=red> <b>Islets of Langerhans are most numerous in the tail of pancreas.
+</b>
+<p>
+</font></answer></question><question><p>Question 414 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What structural defect causes Kartagener's syndrome? What is the consequence?</b> ... <answer><font color=red> <b>Kartagener's syndrome is due to dynein arm defect. Results in immotile cilia.
+</b>
+<p>
+</font></answer></question><question><p>Question 415 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Define Pacinian corpuscles.</b> ... <answer><font color=red> <b>Large, encapsulated sensory receptors found in deeper layers of skin at ligaments, joint capsules, serous membranes, mesenteries.
+</b>
+<p>
+</font></answer></question><question><p>Question 416 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where are Brunner's glands located?</b> ... <answer><font color=red> <b>Located in submucosa of duodenum
+</b>
+<p>
+</font></answer></question><question><p>Question 417 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Describe the histologic structure of sinusoids of the spleen.</b> ... <answer><font color=red> <b>Long, vascular channels in red pulp. With fenestrated 'barrel hoop' basement membrane.
+</b>
+<p>
+</font></answer></question><question><p>Question 418 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the histologic change in lymph nodes during an extreme cellular immune response?</b> ... <answer><font color=red> <b>Lymph node paracortex becomes enlarged during extreme cellular immune response.
+</b>
+<p>
+</font></answer></question><question><p>Question 419 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the histologic presentation of DiGeorge's syndrome?</b> ... <answer><font color=red> <b>Lymph node paracortex is not well developed in patients with DiGeorge's syndrome.
+</b>
+<p>
+</font></answer></question><question><p>Question 420 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What kind of cells are found nearby the sinusoids of the spleen?</b> ... <answer><font color=red> <b>Macrophages
+</b>
+<p>
+</font></answer></question><question><p>Question 421 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the major structures of the lymph node medulla?</b> ... <answer><font color=red> <b>Medulla consists of medullary cords and medullary sinuses.
+</b>
+<p>
+</font></answer></question><question><p>Question 422 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What do medullary sinuses communicate with?</b> ... <answer><font color=red> <b>Medullary sinuses communicate with efferent lymphatics.
+</b>
+<p>
+</font></answer></question><question><p>Question 423 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What do medullary sinuses consist of?</b> ... <answer><font color=red> <b>Medullary sinuses contain reticular cells and macrophages.
+</b>
+<p>
+</font></answer></question><question><p>Question 424 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of Meissner's corpuscles?</b> ... <answer><font color=red> <b>Meissner's corpuscles are involved in light discriminatory touch of glabrous skin.
+</b>
+<p>
+</font></answer></question><question><p>Question 425 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the histologic change in nephrotic syndrome?  What is the consequence of this change?</b> ... <answer><font color=red> <b>Negative charge is lost. Plasma protein is lost in urine
+</b>
+<p>
+</font></answer></question><question><p>Question 426 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the glomerular basement membrane coated with? (provides negative charge to filter).</b> ... <answer><font color=red> <b>Negatively charged heparan sulfate.
+</b>
+<p>
+</font></answer></question><question><p>Question 427 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the most common tumor the adrenal medulla in children?</b> ... <answer><font color=red> <b>Neuroblastoma
+</b>
+<p>
+</font></answer></question><question><p>Question 428 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of Pacinian corpuscles?</b> ... <answer><font color=red> <b>Pacinian corpuscles are involved in pressure, coarse touch, vibration, and tension.
+</b>
+<p>
+</font></answer></question><question><p>Question 429 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What do the Islets of Langerhans arise from?</b> ... <answer><font color=red> <b>Pancreatic buds.
+</b>
+<p>
+</font></answer></question><question><p>Question 430 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What specialized vascular structure is found in the lymph node paracortex?  What is the function of this structure?</b> ... <answer><font color=red> <b>Paracortex contains high endothelial venules (HEV). T and B cells enter from the blood through the HEV.
+</b>
+<p>
+</font></answer></question><question><p>Question 431 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What cells are found in the lymph node paracortex?</b> ... <answer><font color=red> <b>Paracortex houses T cells.
+</b>
+<p>
+</font></answer></question><question><p>Question 432 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is Perineurium?</b> ... <answer><font color=red> <b>Perineurium (permeability barrier) surrounds a fascicle of nerve fibers.
+</b>
+<p>
+</font></answer></question><question><p>Question 433 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the most common tumor the adrenal medulla in adults?</b> ... <answer><font color=red> <b>Pheochromocytoma
+</b>
+<p>
+</font></answer></question><question><p>Question 434 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Compare the consequences of pheochromocytoma vs. neuroblastoma on blood pressure</b> ... <answer><font color=red> <b>Pheochromocytoma causes episodic hypertension. Neuroblastoma does NOT cause episodic hypertension.
+</b>
+<p>
+</font></answer></question><question><p>Question 435 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the space of Disse?</b> ... <answer><font color=red> <b>Pores in liver sinusoids allowing plasma macromolecules access to liver cell surfaces.
+</b>
+<p>
+</font></answer></question><question><p>Question 436 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the primary regulatory control of adrenal medulla secretion?</b> ... <answer><font color=red> <b>Preganglionic sympathetic fibers.
+</b>
+<p>
+</font></answer></question><question><p>Question 437 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of zona occludens?</b> ... <answer><font color=red> <b>Prevents diffusion across intracellular space.
+</b>
+<p>
+</font></answer></question><question><p>Question 438 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Describe the appearance and status of primary vs. secondary follicles.</b> ... <answer><font color=red> <b>Primary follicles are dense and dormant. Secondary follicles have pale central germinal centers and are active.
+</b>
+<p>
+</font></answer></question><question><p>Question 439 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Describe the location of the lymph node paracortex.</b> ... <answer><font color=red> <b>Region of cortex between follicles and medulla.
+</b>
+<p>
+</font></answer></question><question><p>Question 440 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the primary regulatory control of zona glomerulosa secretion?</b> ... <answer><font color=red> <b>Renin-angiotensin
+</b>
+<p>
+</font></answer></question><question><p>Question 441 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the glomerular basement membrane responsible for?</b> ... <answer><font color=red> <b>Responsible for the actual filtration of plasma.
+</b>
+<p>
+</font></answer></question><question><p>Question 442 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is another name for type III collagen?</b> ... <answer><font color=red> <b>reticulin
+</b>
+<p>
+</font></answer></question><question><p>Question 443 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are Nissl bodies?</b> ... <answer><font color=red> <b>rough ER
+</b>
+<p>
+</font></answer></question><question><p>Question 444 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where in the inner ear are the ampullae found? What is the function of this structure?</b> ... <answer><font color=red> <b>Semicircular canals contain ampullae. Functions in detecting angular acceleration.
+</b>
+<p>
+</font></answer></question><question><p>Question 445 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are/is the primary secretory product of the zona reticularis?</b> ... <answer><font color=red> <b>sex hormones (e.g. androgens)
+</b>
+<p>
+</font></answer></question><question><p>Question 446 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of lymph node follicles?</b> ... <answer><font color=red> <b>Site of B-cell localization and proliferation.
+</b>
+<p>
+</font></answer></question><question><p>Question 447 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Define macula adherens.</b> ... <answer><font color=red> <b>Small, discrete sites of attachment of epithelial cells.
+</b>
+<p>
+</font></answer></question><question><p>Question 448 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Define Meissner's corpuscles.</b> ... <answer><font color=red> <b>Small, encapsulated sensory receptors found in dermis of palm, soles and digits of skin.
+</b>
+<p>
+</font></answer></question><question><p>Question 449 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is an M cell? What is it's function.</b> ... <answer><font color=red> <b>Specialized cell interspersed between the cuboidal enterocytes covering a Peyer's patch. M cells take up antigens.
+</b>
+<p>
+</font></answer></question><question><p>Question 450 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the layers of epidermis from surface to base.</b> ... <answer><font color=red> <b>stratum Corneum, stratum Lucidum, stratum Granulosum, stratum Spinosum, stratum Basalis.
+</b>
+<p>
+</font></answer></question><question><p>Question 451 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the location of zona adherens?</b> ... <answer><font color=red> <b>Surrounds the perimeter just below zona occludens.
+</b>
+<p>
+</font></answer></question><question><p>Question 452 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the function of Nissl bodies?</b> ... <answer><font color=red> <b>Synthesize enzymes (e.g. ChAT) and peptide neurotransmitters.
+</b>
+<p>
+</font></answer></question><question><p>Question 453 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>In what area of the spleen are T cells found?</b> ... <answer><font color=red> <b>T cells are found in the PALS and the red pulp of the spleen.
+</b>
+<p>
+</font></answer></question><question><p>Question 454 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which part of the cochlea picks up high frequency sound? Which picks up low frequency?</b> ... <answer><font color=red> <b>The base of the cochlea picks up high frequency sound the apex picks up low frequency sound
+</b>
+<p>
+</font></answer></question><question><p>Question 455 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the bony labyrinth filled with? Describe its composition.</b> ... <answer><font color=red> <b>The bony labyrinth is filled with perilymph.  Perilymph is Na+ rich, similar to ECF
+</b>
+<p>
+</font></answer></question><question><p>Question 456 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the cause of I cell disease? What is the consequence?</b> ... <answer><font color=red> <b>The failure of addition of mannose-6-phosphate to lysosome proteins. These enzymes are secreted outside the cell instead of being targeted to the lysosome.
+</b>
+<p>
+</font></answer></question><question><p>Question 457 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the membranous labyrinth filled with? Describe its composition.</b> ... <answer><font color=red> <b>The membranous labyrinth is filled with endolymph.  Endolymph is K+ rich, similar to ICF.
+</b>
+<p>
+</font></answer></question><question><p>Question 458 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What layer of the peripheral nerve must be rejoined in microsurgery for limb reattachment?</b> ... <answer><font color=red> <b>The perineurium must be rejoined in microsurgery for limb reattachment.
+</b>
+<p>
+</font></answer></question><question><p>Question 459 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where in the inner ear are the maculae found? What is the function of this structure?</b> ... <answer><font color=red> <b>The utricle and saccule contain maculae Functions in detecting linear acceleration.
+</b>
+<p>
+</font></answer></question><question><p>Question 460 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How is the function of gap junctions accomplished?</b> ... <answer><font color=red> <b>Through a connection with central channels.
+</b>
+<p>
+</font></answer></question><question><p>Question 461 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is another name for zona occludens?</b> ... <answer><font color=red> <b>Tight junction.
+</b>
+<p>
+</font></answer></question><question><p>Question 462 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are  mnemonics for remembering locations for type I, II and IV collagen?</b> ... <answer><font color=red> <b>Type ONE: bONE Type TWO: carTWOlage Type FOUR: under the FLOOR (basement membrane)
+</b>
+<p>
+</font></answer></question><question><p>Question 463 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is a Peyer's patch?</b> ... <answer><font color=red> <b>Unencapsulated lymphoid tissue found in lamina propria and submucosa of small intestine.
+</b>
+<p>
+</font></answer></question><question><p>Question 464 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of infection may induce an extreme cellular immune response? What happens to the lymph node during such an immune response?</b> ... <answer><font color=red> <b>Viral response is an example. The paracortex enlarges.
+</b>
+<p>
+</font></answer></question><question><p>Question 465 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>According to the Homunculus man, place the following in order (from medial to lateral).  hand, foot, tongue, face, trunk</b> ... <answer><font color=red> <b>foot, trunk, hand, face, tongue
+</b>
+<p>
+</font></answer></question><question><p>Question 466 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b> (T or F) Can Bell's palsy occur idiopathically?</b> ... <answer><font color=red> <b>true
+</b>
+<p>
+</font></answer></question><question><p>Question 467 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b> (T or F) Can fasiculations be present in a LMN lesion?</b> ... <answer><font color=red> <b>True
+</b>
+<p>
+</font></answer></question><question><p>Question 468 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b> (T or F) Is the anterior nucleus of the thalamus part of the limbic system?</b> ... <answer><font color=red> <b>True
+</b>
+<p>
+</font></answer></question><question><p>Question 469 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b> (T or F) Is the cingulate gyrus part of the limbic system?</b> ... <answer><font color=red> <b>True
+</b>
+<p>
+</font></answer></question><question><p>Question 470 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b> (T or F) Is the Entrorhinal cortex part of the limbic system?</b> ... <answer><font color=red> <b>True
+</b>
+<p>
+</font></answer></question><question><p>Question 471 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b> (T or F) Is the hippocampal formation part of the limbic system?</b> ... <answer><font color=red> <b>True
+</b>
+<p>
+</font></answer></question><question><p>Question 472 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b> (T or F) Is the mammillary body part of the limbic system?</b> ... <answer><font color=red> <b>True
+</b>
+<p>
+</font></answer></question><question><p>Question 473 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b> (T or F) Is the septal area part of the limbic system?</b> ... <answer><font color=red> <b>True
+</b>
+<p>
+</font></answer></question><question><p>Question 474 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b> (T or F) Thoracic outlet syndrome results in atrophy of the interosseous muscles?</b> ... <answer><font color=red> <b>True
+</b>
+<p>
+</font></answer></question><question><p>Question 475 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b> (T or F) Thoracic outlet syndrome results in atrophy of the thenar and hypothenar eminences?</b> ... <answer><font color=red> <b>True
+</b>
+<p>
+</font></answer></question><question><p>Question 476 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b> (T or F) Thoracic outlet syndrome results in disappearance of the radial pulse upon moving the head to the opposite side?</b> ... <answer><font color=red> <b>True
+</b>
+<p>
+</font></answer></question><question><p>Question 477 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b> (T or F) Thoracic outlet syndrome results in sensory deficits on the medial side of the forearm and hand?</b> ... <answer><font color=red> <b>True
+</b>
+<p>
+</font></answer></question><question><p>Question 478 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A lesion of the globus pallidus causes what disease?</b> ... <answer><font color=red> <b>Wilson's disease
+</b>
+<p>
+</font></answer></question><question><p>Question 479 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A lesion of the mammillary bodies (bilateraly) produces what?</b> ... <answer><font color=red> <b>Wernicke-Korsakoff's encephalopathy (confabulations, anterograde amnesia)
+</b>
+<p>
+</font></answer></question><question><p>Question 480 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A lesion of the optic chiasm produces?</b> ... <answer><font color=red> <b>bitemporal hemianopsia
+</b>
+<p>
+</font></answer></question><question><p>Question 481 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A lesion of the right dorsal optic radiation (parietal lesion) produces?</b> ... <answer><font color=red> <b>left lower quadrantic anopsia (a temporal lesion)
+</b>
+<p>
+</font></answer></question><question><p>Question 482 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A lesion of the right Meyer's loop (temporal lobe) produces?</b> ... <answer><font color=red> <b>left upper quadrantic anopsia (a temporal lesion)
+</b>
+<p>
+</font></answer></question><question><p>Question 483 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A lesion of the right optic nerve produces?</b> ... <answer><font color=red> <b>right anopsia
+</b>
+<p>
+</font></answer></question><question><p>Question 484 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A lesion of the right optic tract produces?</b> ... <answer><font color=red> <b>left homonymous hemianopsia
+</b>
+<p>
+</font></answer></question><question><p>Question 485 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A lesion of the right visual fibers just prior to the visual cortex produces?</b> ... <answer><font color=red> <b>left hemianopsia with macular sparing
+</b>
+<p>
+</font></answer></question><question><p>Question 486 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A lesion of the Striatum can cause which 2 diseases?</b> ... <answer><font color=red> <b>Huntington's and Wilson's disease
+</b>
+<p>
+</font></answer></question><question><p>Question 487 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A positive Babinski is an indicator for a (UMN or LMN) lesion?</b> ... <answer><font color=red> <b>UMN lesion
+</b>
+<p>
+</font></answer></question><question><p>Question 488 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A rupture of the middle menigeal artery causes what type of hematoma? (epidural or subdural)</b> ... <answer><font color=red> <b>epidural hematoma
+</b>
+<p>
+</font></answer></question><question><p>Question 489 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>A rupture of the superior cerebral veins causes what type of hematoma? (epidural or subdural)</b> ... <answer><font color=red> <b>subdural hematoma
+</b>
+<p>
+</font></answer></question><question><p>Question 490 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>An aneurysm of the anterior communicating artery may cause what type of defects?</b> ... <answer><font color=red> <b>visual defects
+</b>
+<p>
+</font></answer></question><question><p>Question 491 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>An aneurysm of what artery may cause CN III palsy?</b> ... <answer><font color=red> <b>posterior communicating artery
+</b>
+<p>
+</font></answer></question><question><p>Question 492 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Are D1 neurons in the basal ganglia inhibitory or excitatory?</b> ... <answer><font color=red> <b>Excitatory
+</b>
+<p>
+</font></answer></question><question><p>Question 493 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Are D2 neurons in the basal ganglia inhibitory or excitatory?</b> ... <answer><font color=red> <b>Inhibitory
+</b>
+<p>
+</font></answer></question><question><p>Question 494 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Beginning with anterior communicating artery describe the path around the circle of Willis.</b> ... <answer><font color=red> <b>ant. comm. - ACA - ICA - post. comm. - PCA - PCA - post. comm. - ICA - ACA - ant. comm.
+</b>
+<p>
+</font></answer></question><question><p>Question 495 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Bell's Palsy is seen as a complication in what 5 things?</b> ... <answer><font color=red> <b>AIDS, Lyme disease, Sarcoidosis, Tumors, Diabetes (ALexander Bell with STD)
+</b>
+<p>
+</font></answer></question><question><p>Question 496 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Brodmann's area 17 is?</b> ... <answer><font color=red> <b>principal visual cortex
+</b>
+<p>
+</font></answer></question><question><p>Question 497 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Brodmann's area 22 is?</b> ... <answer><font color=red> <b>Wernicke's area (associative auditory cortex)
+</b>
+<p>
+</font></answer></question><question><p>Question 498 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Brodmann's area 3,1,2 is?</b> ... <answer><font color=red> <b>principal sensory area
+</b>
+<p>
+</font></answer></question><question><p>Question 499 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Brodmann's area 4 is?</b> ... <answer><font color=red> <b>principal motor area
+</b>
+<p>
+</font></answer></question><question><p>Question 500 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Brodmann's area 41, 42 is?</b> ... <answer><font color=red> <b>primary auditory cortex
+</b>
+<p>
+</font></answer></question><question><p>Question 501 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Brodmann's area 44, 45 is?</b> ... <answer><font color=red> <b>Broca's area (motor speech)
+</b>
+<p>
+</font></answer></question><question><p>Question 502 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Brodmann's area 6 is?</b> ... <answer><font color=red> <b>premotor area
+</b>
+<p>
+</font></answer></question><question><p>Question 503 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Brodmann's area 8 is?</b> ... <answer><font color=red> <b>frontal eye movement and pupilary change area
+</b>
+<p>
+</font></answer></question><question><p>Question 504 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN I has what function?</b> ... <answer><font color=red> <b>smell
+</b>
+<p>
+</font></answer></question><question><p>Question 505 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN I passes through what 'hole'?</b> ... <answer><font color=red> <b>cribriform plate
+</b>
+<p>
+</font></answer></question><question><p>Question 506 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN II has what function?</b> ... <answer><font color=red> <b>sight
+</b>
+<p>
+</font></answer></question><question><p>Question 507 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN II passes through what 'hole'?</b> ... <answer><font color=red> <b>optic canal
+</b>
+<p>
+</font></answer></question><question><p>Question 508 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN III has what 4 functions?</b> ... <answer><font color=red> <b>eye movement, pupil constriction, accommodation, eyelid opening
+</b>
+<p>
+</font></answer></question><question><p>Question 509 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN III inervates what 5 muscles.</b> ... <answer><font color=red> <b>medial rectus, superior rectus, inferior rectus, inferior oblique, levator palpebrae superioris
+</b>
+<p>
+</font></answer></question><question><p>Question 510 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN III passes through what 'hole'?</b> ... <answer><font color=red> <b>superior orbital fissure
+</b>
+<p>
+</font></answer></question><question><p>Question 511 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN IV has what function?</b> ... <answer><font color=red> <b>eye movement
+</b>
+<p>
+</font></answer></question><question><p>Question 512 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN IV inervates what muscle?</b> ... <answer><font color=red> <b>superior oblique
+</b>
+<p>
+</font></answer></question><question><p>Question 513 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN IV passes through what 'hole'?</b> ... <answer><font color=red> <b>superior orbital fissure
+</b>
+<p>
+</font></answer></question><question><p>Question 514 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN IX has what 4 functions?</b> ... <answer><font color=red> <b>posterior 1/3 taste, swallowing, salivation (parotid), monitoring carotid body and sinus
+</b>
+<p>
+</font></answer></question><question><p>Question 515 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN IX passes through what 'hole'?</b> ... <answer><font color=red> <b>jugular foramen
+</b>
+<p>
+</font></answer></question><question><p>Question 516 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN V has what 2 functions?</b> ... <answer><font color=red> <b>mastication, facial sensation
+</b>
+<p>
+</font></answer></question><question><p>Question 517 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN V1 passes through what 'hole'?</b> ... <answer><font color=red> <b>superior orbital fissure
+</b>
+<p>
+</font></answer></question><question><p>Question 518 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN V2 passes through what 'hole'?</b> ... <answer><font color=red> <b>foramen rotundum
+</b>
+<p>
+</font></answer></question><question><p>Question 519 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN V3 passes through what 'hole'?</b> ... <answer><font color=red> <b>foramen ovale
+</b>
+<p>
+</font></answer></question><question><p>Question 520 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN VI has what function?</b> ... <answer><font color=red> <b>eye movement
+</b>
+<p>
+</font></answer></question><question><p>Question 521 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN VI inervates what muscle?</b> ... <answer><font color=red> <b>lateral rectus
+</b>
+<p>
+</font></answer></question><question><p>Question 522 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN VI passes through what 'hole'?</b> ... <answer><font color=red> <b>superior orbital fissure
+</b>
+<p>
+</font></answer></question><question><p>Question 523 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN VII has what 4 functions?</b> ... <answer><font color=red> <b>facial movement, anterior 2/3 taste, lacrimation, salivation(SL, SM glands)
+</b>
+<p>
+</font></answer></question><question><p>Question 524 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN VII passes through what 'hole'?</b> ... <answer><font color=red> <b>internal auditory meatus
+</b>
+<p>
+</font></answer></question><question><p>Question 525 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN VIII has what 2 functions?</b> ... <answer><font color=red> <b>hearing, balance
+</b>
+<p>
+</font></answer></question><question><p>Question 526 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN VIII passes through what 'hole'?</b> ... <answer><font color=red> <b>internal auditory meatus
+</b>
+<p>
+</font></answer></question><question><p>Question 527 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN X has what 5 functions?</b> ... <answer><font color=red> <b>taste, swallowing, palate elevation, talking, thoracoabdominal viscera
+</b>
+<p>
+</font></answer></question><question><p>Question 528 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN X passes through what 'hole'?</b> ... <answer><font color=red> <b>jugular foramen
+</b>
+<p>
+</font></answer></question><question><p>Question 529 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN XI has what 2 functions?</b> ... <answer><font color=red> <b>head turning, shoulder shrugging
+</b>
+<p>
+</font></answer></question><question><p>Question 530 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN XI passes through what 'hole'?</b> ... <answer><font color=red> <b>jugular foramen (descending) -- foramen magnum (ascending)
+</b>
+<p>
+</font></answer></question><question><p>Question 531 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN XII has what function?</b> ... <answer><font color=red> <b>tounge movements</b>
+<p>
+</font></answer></question><question><p>Question 532 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>CN XII passes through what 'hole'?</b> ... <answer><font color=red> <b>hypoglossal canal</b>
+<p>
+</font></answer></question><question><p>Question 533 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Complete the muscle spindle reflex arc by placing the following in order: alpha motor, Ia afferent, muscle stretch, extrafusal contraction, intrafusal stretch.</b> ... <answer><font color=red> <b>muscle stretch - intrafusal stretch - Ia afferent - alpha motor - extrafusal contraction</b>
+<p>
+</font></answer></question><question><p>Question 534 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Extrafusal fibers are innervated by what motor neuron?</b> ... <answer><font color=red> <b>alpha motor neuron</b>
+<p>
+</font></answer></question><question><p>Question 535 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>From which 3 spinal roots does long thoracic nerve arises?</b> ... <answer><font color=red> <b>C5, C6, C7</b>
+<p>
+</font></answer></question><question><p>Question 536 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>General sensory/motor dysfunction and aphasia are caused by stroke of the? (ant. circle or post. circle)</b> ... <answer><font color=red> <b>anterior circle</b>
+<p>
+</font></answer></question><question><p>Question 537 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Give 3 characteristics of a LMN lesion.</b> ... <answer><font color=red> <b>atrophy, flaccid paralysis, absent deep tendon reflexes</b>
+<p>
+</font></answer></question><question><p>Question 538 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Give 3 charateristics of internuclear ophthalmoplegia (INO)</b> ... <answer><font color=red> <b>medial rectus palsy on lateral gaze, nystagmus in abducted eye, normal convergence.</b>
+<p>
+</font></answer></question><question><p>Question 539 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Give 4 characteristics of an UMN lesion.</b> ... <answer><font color=red> <b>spastic paralysis, increased deep tendon reflexes, + Babinski, minor to no atrophy</b>
+<p>
+</font></answer></question><question><p>Question 540 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Golgi tendon organs send their signal via what nerve?</b> ... <answer><font color=red> <b>group Ib afferents</b>
+<p>
+</font></answer></question><question><p>Question 541 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Horner's Syndrome is present if the lesion in Brown-Sequard is above what level?</b> ... <answer><font color=red> <b>T1</b>
+<p>
+</font></answer></question><question><p>Question 542 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How are the fibers of the corticospinal tract laminated? (legs/arms medial or lateral?)</b> ... <answer><font color=red> <b>arms- medial, legs-lateral</b>
+<p>
+</font></answer></question><question><p>Question 543 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How are the fibers of the dorsal column laminated? (legs/arms medial or lateral?)</b> ... <answer><font color=red> <b>legs-medial, arms-lateral</b>
+<p>
+</font></answer></question><question><p>Question 544 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How are the fibers of the spinothalmic tract laminated? (sacral/cervical medial or lateral?)</b> ... <answer><font color=red> <b>cervical-medial, sacral-lateral </b>
+<p>
+</font></answer></question><question><p>Question 545 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How do glucose and amino acids cross the blood-brain barrier?</b> ... <answer><font color=red> <b>carrier-mediated transport mechanism</b>
+<p>
+</font></answer></question><question><p>Question 546 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>How does the hypothalamus control the adenohypophysis?</b> ... <answer><font color=red> <b>via releasing factors (ie. TRH, CRF, GnRF, etc.)</b>
+<p>
+</font></answer></question><question><p>Question 547 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Huntington's patients typically have what type of movements?</b> ... <answer><font color=red> <b>Chorea</b>
+<p>
+</font></answer></question><question><p>Question 548 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>If the radial nerve is lesioned, what 2 reflexes are lost?</b> ... <answer><font color=red> <b>triceps reflex and brachioradialis reflex</b>
+<p>
+</font></answer></question><question><p>Question 549 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>If you break your humerus mid-shaft, which nerve would likely injure?</b> ... <answer><font color=red> <b>radial nerve</b>
+<p>
+</font></answer></question><question><p>Question 550 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>If you break your medial epicondyle of the humerus, which nerve would likely injure?</b> ... <answer><font color=red> <b>ulnar nerve</b>
+<p>
+</font></answer></question><question><p>Question 551 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>If you break your supracondyle of the humerus, which nerve would likely injure?</b> ... <answer><font color=red> <b>median nerve</b>
+<p>
+</font></answer></question><question><p>Question 552 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>If you break your surgical neck of the humerus, which nerve would likely injure?</b> ... <answer><font color=red> <b>axillary nerve</b>
+<p>
+</font></answer></question><question><p>Question 553 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>In a lesion of the radial nerve, what muscle is associated with wrist drop?</b> ... <answer><font color=red> <b>extensor carpi radialis longus</b>
+<p>
+</font></answer></question><question><p>Question 554 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Intrafusal fibers are encapsulated and make up muscle spindles that send their signal via what nerve?</b> ... <answer><font color=red> <b>group Ia afferents</b>
+<p>
+</font></answer></question><question><p>Question 555 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Intrafusal fibers are innervated by what motor neuron?</b> ... <answer><font color=red> <b>gamma motor neuron</b>
+<p>
+</font></answer></question><question><p>Question 556 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Is Bell's palsy an UMN or a LMN lesion?</b> ... <answer><font color=red> <b>LMN</b>
+<p>
+</font></answer></question><question><p>Question 557 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Is the Babinski reflex (positive or negative) when the big toe dorsiflexes and the other toes fan-out?</b> ... <answer><font color=red> <b>positive (pathologic)</b>
+<p>
+</font></answer></question><question><p>Question 558 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name 2 locations for lesions in Syringomyelia?</b> ... <answer><font color=red> <b>ventral white commissure and ventral horns</b>
+<p>
+</font></answer></question><question><p>Question 559 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name 3 locations for lesions in Vit.B12 neuropathy(Friedreich's ataxia)?</b> ... <answer><font color=red> <b>dorsal columns, lateral corticospinal tracts, and spinocerebellar tracts</b>
+<p>
+</font></answer></question><question><p>Question 560 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name 7 functions of the hypothalamus?</b> ... <answer><font color=red> <b>Thirst/waterbalance, Adenohypophysis control, Neurohypophysis control, Hunger/satiety, Autonomic regulation, Temperature regulation, Sexual emotions.  TAN HATS</b>
+<p>
+</font></answer></question><question><p>Question 561 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the 4 foramina that are in the posterior cranial fossa?</b> ... <answer><font color=red> <b>internal auditory meatus, jugular foramen, hypoglossal canal, and foramen magnum.</b>
+<p>
+</font></answer></question><question><p>Question 562 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the 5 foramina that are in the middle cranial fossa?</b> ... <answer><font color=red> <b>optic canal, superior orbital fissure, foramen rotundum, foramen ovale, and foramen spinosum.</b>
+<p>
+</font></answer></question><question><p>Question 563 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the 5 functions of the Limbic system?</b> ... <answer><font color=red> <b>Feeding, Fighting, Feeling, Flight, sex (F--K)   [the famous 5 F's]</b>
+<p>
+</font></answer></question><question><p>Question 564 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the 5 segments of the brachial plexus in order from proximal to distal.</b> ... <answer><font color=red> <b>roots - trunks - divisions - cords - branches</b>
+<p>
+</font></answer></question><question><p>Question 565 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the type of movement with slow writhing movements (esp. the fingers)?</b> ... <answer><font color=red> <b>Athetosis</b>
+<p>
+</font></answer></question><question><p>Question 566 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the type of movement with sudden, jerky, purposeless movements?</b> ... <answer><font color=red> <b>Chorea</b>
+<p>
+</font></answer></question><question><p>Question 567 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Name the type of movement with sudden, wild flailing of one arm?</b> ... <answer><font color=red> <b>Hemiballismus</b>
+<p>
+</font></answer></question><question><p>Question 568 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Neurons from the globus pallidus have what action on the ventral anterior nucleus?</b> ... <answer><font color=red> <b>Inhibitory</b>
+<p>
+</font></answer></question><question><p>Question 569 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Neurons from the striatum have what action on the globus pallidus?</b> ... <answer><font color=red> <b>Inhibitory</b>
+<p>
+</font></answer></question><question><p>Question 570 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Place the following in order (from light entering the eye to reflex).  Pretectal nuclei, pupillary constrictor muscle, retina, ciliary ganglion, Edinger-Westphal nuclei, CN II, CN III.</b> ... <answer><font color=red> <b>retina, CN II, pretectal nuclei, Edinger-Westphal nuclei, CN III, ciliary ganglion, pupillary constrictor muscle</b>
+<p>
+</font></answer></question><question><p>Question 571 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Stimulation from the paraventricular nucleus cause the release of what hormone?</b> ... <answer><font color=red> <b>oxytocin</b>
+<p>
+</font></answer></question><question><p>Question 572 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Stimulation from the supraoptic nucleus cause the release of what hormone?</b> ... <answer><font color=red> <b>ADH (vasopressin)</b>
+<p>
+</font></answer></question><question><p>Question 573 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The Blood-Brain Barrier is formed by what 3 structures?</b> ... <answer><font color=red> <b>choriod plexus epithelium, intracerebral capillary endothelium, astrocytes. (First Aid says Arachnoid but the brains say that’s a typo)</b>
+<p>
+</font></answer></question><question><p>Question 574 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The central retinal artery is a branch off what larger artery?</b> ... <answer><font color=red> <b>ophthalmic artery</b>
+<p>
+</font></answer></question><question><p>Question 575 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The embryologic defect of having a cervical rib can compress what 2 structures?</b> ... <answer><font color=red> <b>subclavian artery and inferior trunk of the brachial plexus</b>
+<p>
+</font></answer></question><question><p>Question 576 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The fasciculus cuneatus contains fibers from the upper or lower body?</b> ... <answer><font color=red> <b>upper extremities</b>
+<p>
+</font></answer></question><question><p>Question 577 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The fasciculus gracilis contains fibers from the upper or lower body?</b> ... <answer><font color=red> <b>lower extremities</b>
+<p>
+</font></answer></question><question><p>Question 578 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The hippocampal formation is connected to the mammillary body and septal area via what structure?</b> ... <answer><font color=red> <b>fornix</b>
+<p>
+</font></answer></question><question><p>Question 579 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The hippocampus has input from what two areas?</b> ... <answer><font color=red> <b>entorhinal cortex, septal area</b>
+<p>
+</font></answer></question><question><p>Question 580 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The hippocampus has output to what two areas?</b> ... <answer><font color=red> <b>mammillary body, septal area</b>
+<p>
+</font></answer></question><question><p>Question 581 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The infraorbital nerve is a branch off what larger nerve?</b> ... <answer><font color=red> <b>CN V2</b>
+<p>
+</font></answer></question><question><p>Question 582 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The Nucleus Ambiguus has fibers from what 3 CNs?</b> ... <answer><font color=red> <b>CN IX, X, XII</b>
+<p>
+</font></answer></question><question><p>Question 583 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>The Nucleus Solitarius has fibers from what 3 CNs?</b> ... <answer><font color=red> <b>CN VII, IX, X</b>
+<p>
+</font></answer></question><question><p>Question 584 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Traction or tear of the superior trunk of the brachial plexus causes what syndrome?</b> ... <answer><font color=red> <b>Erb-Duchenne palsy (waiter's tip)</b>
+<p>
+</font></answer></question><question><p>Question 585 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Vertigo, ataxia, visual deficits, and coma are caused by stroke of the? (ant. circle or post. circle)</b> ... <answer><font color=red> <b>posterior circle</b>
+<p>
+</font></answer></question><question><p>Question 586 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Visual fibers from the lateral geniculate body terminate on the upper and lower banks of what fissure?</b> ... <answer><font color=red> <b>Calcarine fissure</b>
+<p>
+</font></answer></question><question><p>Question 587 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 1 nerve root is assoc. with the achilles reflex?</b> ... <answer><font color=red> <b>S1</b>
+<p>
+</font></answer></question><question><p>Question 588 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 1 nerve root is assoc. with the biceps reflex?</b> ... <answer><font color=red> <b>C5</b>
+<p>
+</font></answer></question><question><p>Question 589 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 1 nerve root is assoc. with the patella reflex?</b> ... <answer><font color=red> <b>L4</b>
+<p>
+</font></answer></question><question><p>Question 590 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 1 nerve root is assoc. with the triceps reflex?</b> ... <answer><font color=red> <b>C7</b>
+<p>
+</font></answer></question><question><p>Question 591 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 2 areas have sensation deficit in a lesion of the median nerve?</b> ... <answer><font color=red> <b>lateral palm/thumb and the radial 2 1/2 fingers</b>
+<p>
+</font></answer></question><question><p>Question 592 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 2 areas have sensation deficit in a lesion of the ulnar nerve?</b> ... <answer><font color=red> <b>medial palm and the ulnar 1 1/2 fingers</b>
+<p>
+</font></answer></question><question><p>Question 593 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 2 cutaneus nerves are lost in a lesion of the radial nerve?</b> ... <answer><font color=red> <b>posterior brachial cutaneous and posterior antebrachial cutaneous</b>
+<p>
+</font></answer></question><question><p>Question 594 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 2 spinal roots make up the inferior trunk of the brachial plexus?</b> ... <answer><font color=red> <b>C8, T1</b>
+<p>
+</font></answer></question><question><p>Question 595 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 2 spinal roots make up the superior trunk of the brachial plexus?</b> ... <answer><font color=red> <b>C5, C6</b>
+<p>
+</font></answer></question><question><p>Question 596 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 2 structures pass through the internal auditory meatus?</b> ... <answer><font color=red> <b>CN VII, VIII</b>
+<p>
+</font></answer></question><question><p>Question 597 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 2 symptoms are seen with a lesion of the musculocutaneus nerve?</b> ... <answer><font color=red> <b>difficulty flexing the arm, variable sensory loss</b>
+<p>
+</font></answer></question><question><p>Question 598 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 2 symptoms are seen with a lesion of the ulnar nerve?</b> ... <answer><font color=red> <b>weak intrinsic muscles of the hand, Pope's blessing</b>
+<p>
+</font></answer></question><question><p>Question 599 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 3 blood barriers does the body have?</b> ... <answer><font color=red> <b>blood-brain, blood-gas, blood-testis</b>
+<p>
+</font></answer></question><question><p>Question 600 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 3 muscles are lost in a lesion of the musculocutaneous nerve?</b> ... <answer><font color=red> <b>coracobrachialis, biceps brachii, and brachialis</b>
+<p>
+</font></answer></question><question><p>Question 601 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 3 muscles are lost in a lesion of the radial nerve?</b> ... <answer><font color=red> <b>triceps brachii, brachioradialis, and extensor carpi radialis longus</b>
+<p>
+</font></answer></question><question><p>Question 602 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 3 structures pass through the foramen magnum?</b> ... <answer><font color=red> <b>spinal roots of CN XI(ascending), brainstem, vertebral arteries</b>
+<p>
+</font></answer></question><question><p>Question 603 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 3 structures pass through the optic canal?</b> ... <answer><font color=red> <b>CN II, ophthalmic artery, central retinal vein</b>
+<p>
+</font></answer></question><question><p>Question 604 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 4 'muscles' does the radial nerve innervate?</b> ... <answer><font color=red> <b>Brachioradialis, Extensors of the wrist and fingers, Supinator, Triceps.  (BEST)</b>
+<p>
+</font></answer></question><question><p>Question 605 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 4 areas is there decreased output in Parkinson's?</b> ... <answer><font color=red> <b>substantia nigra pars compacta, globus pallidus, ventral anterior nucleus, cortex</b>
+<p>
+</font></answer></question><question><p>Question 606 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 4 movements are impaired in a lesion of the ulnar nerve?</b> ... <answer><font color=red> <b>wrist flexion, wrist adduction, thumb adduction, and adduction of the 2 ulnar fingers</b>
+<p>
+</font></answer></question><question><p>Question 607 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 4 movements are lost in a lesion of the median nerve?</b> ... <answer><font color=red> <b>forearm pronation, wrist flexion, finger flexion, and several thumb movements</b>
+<p>
+</font></answer></question><question><p>Question 608 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 4 structures pass through the jugular foramen?</b> ... <answer><font color=red> <b>CN IX, X, XI(descending), jugular vein</b>
+<p>
+</font></answer></question><question><p>Question 609 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 4 things do the lateral striate arteries supply?</b> ... <answer><font color=red> <b>internal capsule, caudate, putamen, globus pallidus</b>
+<p>
+</font></answer></question><question><p>Question 610 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 5 spinal nerves make up the brachial plexus?</b> ... <answer><font color=red> <b>C5, C6, C7, C8, T1</b>
+<p>
+</font></answer></question><question><p>Question 611 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 5 structures pass through the superior orbital fissure?</b> ... <answer><font color=red> <b>CN III, IV, V-1, VI, ophthalmic vein</b>
+<p>
+</font></answer></question><question><p>Question 612 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What 5 types of cells make up the suportive cells of the CNS/PNS?</b> ... <answer><font color=red> <b>Astrocytes, Microglia, Oligodendroglia, Schwann cells, Ependymal cells.</b>
+<p>
+</font></answer></question><question><p>Question 613 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are 2 characteristics of Tabes Dorsalis?</b> ... <answer><font color=red> <b>impaired proprioception and locomotor ataxia</b>
+<p>
+</font></answer></question><question><p>Question 614 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are 3 clinical findings of the arm in Erb-Duchenne palsy?</b> ... <answer><font color=red> <b>arm hangs by the side, medially rotated, forearm is pronated</b>
+<p>
+</font></answer></question><question><p>Question 615 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the 2 classic causes of Erb-Duchenne palsy?</b> ... <answer><font color=red> <b>blow to the shoulder and trauma during birth</b>
+<p>
+</font></answer></question><question><p>Question 616 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the 3 classic symptoms of Horner's syndrome?</b> ... <answer><font color=red> <b>ptosis, miosis, anhydrosis</b>
+<p>
+</font></answer></question><question><p>Question 617 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the 4 classic findings of Brown-Sequard syndrome?</b> ... <answer><font color=red> <b>ipsi motor paralysis(spastic), ipsi loss of dorsal column, contra loss of spinothalamic, ipsi loss of ALL sensation at the level of the lesion</b>
+<p>
+</font></answer></question><question><p>Question 618 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the input and output of the anterior nucleus of the thalamus?</b> ... <answer><font color=red> <b>input - mammillary body, output - cingulate gyrus</b>
+<p>
+</font></answer></question><question><p>Question 619 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the input and output of the cingulate gyrus?</b> ... <answer><font color=red> <b>input - anterior nucleus of the thalamus, output - entorhinal cortex</b>
+<p>
+</font></answer></question><question><p>Question 620 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the input and output of the entorhinal cortex?</b> ... <answer><font color=red> <b>input - cingulate gyrus, output - hippocampal formation</b>
+<p>
+</font></answer></question><question><p>Question 621 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the input and output of the mammillary body?</b> ... <answer><font color=red> <b>input - hippocampal formation, output - anterior nucleus of the thalamus</b>
+<p>
+</font></answer></question><question><p>Question 622 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What are the input and output of the septal area?</b> ... <answer><font color=red> <b>input - hippocampal formation, output - hippocampal formation</b>
+<p>
+</font></answer></question><question><p>Question 623 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What artery do the lateral striate branch off of?</b> ... <answer><font color=red> <b>internal carotid artery</b>
+<p>
+</font></answer></question><question><p>Question 624 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What artery does the anterior inferior cerebellar artery branch off of?</b> ... <answer><font color=red> <b>basilar artery</b>
+<p>
+</font></answer></question><question><p>Question 625 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What artery does the anterior spinal artery branch off of?</b> ... <answer><font color=red> <b>vertebral artery</b>
+<p>
+</font></answer></question><question><p>Question 626 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What artery does the posterior inferior cerebellar artery branch off of?</b> ... <answer><font color=red> <b>vertebral artery</b>
+<p>
+</font></answer></question><question><p>Question 627 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What artery does the superior cerebellar artery branch off of?</b> ... <answer><font color=red> <b>basilar artery</b>
+<p>
+</font></answer></question><question><p>Question 628 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What artery supplies Broca's and Wernicke's speech areas?</b> ... <answer><font color=red> <b>middle cerebral artery</b>
+<p>
+</font></answer></question><question><p>Question 629 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What artery supplies the medial surface of the brain (foot-leg area)?</b> ... <answer><font color=red> <b>anterior cerebral artery</b>
+<p>
+</font></answer></question><question><p>Question 630 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What bone do all the foramina of the middle cranial fossa pass through?</b> ... <answer><font color=red> <b>sphenoid bone</b>
+<p>
+</font></answer></question><question><p>Question 631 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What CN arises dorsally?</b> ... <answer><font color=red> <b>CN IV trochlear</b>
+<p>
+</font></answer></question><question><p>Question 632 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What CN is the afferent limb of the pupillary light reflex?</b> ... <answer><font color=red> <b>CN II</b>
+<p>
+</font></answer></question><question><p>Question 633 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What CN is the efferent limb of the pupillary light reflex?</b> ... <answer><font color=red> <b>CN III</b>
+<p>
+</font></answer></question><question><p>Question 634 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What CNs lie medially at the brain stem?</b> ... <answer><font color=red> <b>CN III, VI, XIII       (3 - 6 - 12)</b>
+<p>
+</font></answer></question><question><p>Question 635 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What CNS/ PNS supportive cell has the following functions:  central myelin production?</b> ... <answer><font color=red> <b>Oligodendroglia</b>
+<p>
+</font></answer></question><question><p>Question 636 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What CNS/ PNS supportive cell has the following functions:  inner lining of the ventricles?</b> ... <answer><font color=red> <b>Ependymal cells</b>
+<p>
+</font></answer></question><question><p>Question 637 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What CNS/ PNS supportive cell has the following functions:  peripheral myelin production?</b> ... <answer><font color=red> <b>Schwann cells</b>
+<p>
+</font></answer></question><question><p>Question 638 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What CNS/ PNS supportive cell has the following functions:  phagocytosis?</b> ... <answer><font color=red> <b>Microglia</b>
+<p>
+</font></answer></question><question><p>Question 639 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What CNS/ PNS supportive cell has the following functions:  physical support, repair, K+ metabolism?</b> ... <answer><font color=red> <b>Astrocytes</b>
+<p>
+</font></answer></question><question><p>Question 640 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What disease does Tabes Dorsalis result from?</b> ... <answer><font color=red> <b>tertiary syphilis</b>
+<p>
+</font></answer></question><question><p>Question 641 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What disorder results from a lesion in the medial longitudinal fasciculus (MLF)?</b> ... <answer><font color=red> <b>Internuclear ophthalmoplegia (INO)</b>
+<p>
+</font></answer></question><question><p>Question 642 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What embryologic defect is thoracic outlet syndrome caused by?</b> ... <answer><font color=red> <b>by having a cervical rib.</b>
+<p>
+</font></answer></question><question><p>Question 643 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What happens if a swinging light test is performed on a Marcus Gann pupil (afferent pupil defect)?</b> ... <answer><font color=red> <b>results in pupil dialation of the defective eye as the light is swung from the normal eye to the defective eye</b>
+<p>
+</font></answer></question><question><p>Question 644 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What happens if you illuminate one pupil in a normal patient?</b> ... <answer><font color=red> <b>both eyes constrict (consensual reflex)</b>
+<p>
+</font></answer></question><question><p>Question 645 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What hypo/hyper-kinetic disorder is marked by decreased serum ceruloplasm and Keyser-Fleischer rings in the eyes?</b> ... <answer><font color=red> <b>Wilson's disease</b>
+<p>
+</font></answer></question><question><p>Question 646 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is a Argyll Robertson pupil?</b> ... <answer><font color=red> <b>the eyes DO NOT constrict to light, but DO accommodate to near objects</b>
+<p>
+</font></answer></question><question><p>Question 647 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is affected in a central VII lesion (lesion above the facial nucleus - UMN)?</b> ... <answer><font color=red> <b>paralysis of the contralateral lower quadrant</b>
+<p>
+</font></answer></question><question><p>Question 648 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is affected in a peripheral VII lesion (lesion at or below the facial nucleus - LMN)?</b> ... <answer><font color=red> <b>paralysis of the ipsilateral face both upper and lower.</b>
+<p>
+</font></answer></question><question><p>Question 649 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the common name for a peripheral VII lesion?</b> ... <answer><font color=red> <b>Bell's palsy</b>
+<p>
+</font></answer></question><question><p>Question 650 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the consequence when your CNS stimulates the gamma motor neuron and the intrafusal fibers contract?</b> ... <answer><font color=red> <b>increased sensitivity of the reflex arc</b>
+<p>
+</font></answer></question><question><p>Question 651 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the direct pathway from the striatum to the cortex?</b> ... <answer><font color=red> <b>The striatum to the substantia nigra pars reticularis /medial globus pallidus to the thalamus to the cortex (excitatory path)</b>
+<p>
+</font></answer></question><question><p>Question 652 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the embryologic tissue origin of Microglia (ecto/meso/edo)?</b> ... <answer><font color=red> <b>Mesoderm</b>
+<p>
+</font></answer></question><question><p>Question 653 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the indirect pathway from the striatum to the cortex?</b> ... <answer><font color=red> <b>The striatum to the lateral globus pallidus to the subthalamic nucleus to the substantia nigra/medial globus pallidus to the thalamus to the cortex (inhibitory pathway but still increases the thalamic drive)</b>
+<p>
+</font></answer></question><question><p>Question 654 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the lesion in Brown-Sequard syndrome?</b> ... <answer><font color=red> <b>hemisection of the spinal cord</b>
+<p>
+</font></answer></question><question><p>Question 655 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the most common circle of Willis aneurysm?</b> ... <answer><font color=red> <b>anterior communicating artery</b>
+<p>
+</font></answer></question><question><p>Question 656 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What is the name for the small muscle fiber type that regulates muscle length?</b> ... <answer><font color=red> <b>Intrafusal fibers</b>
+<p>
+</font></answer></question><question><p>Question 657 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lesion produces coma?</b> ... <answer><font color=red> <b>reticular activating system</b>
+<p>
+</font></answer></question><question><p>Question 658 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lesion produces conduction aphasia, poor repetition w/ poor comprehension, and fluent speech?</b> ... <answer><font color=red> <b>Arcuate fasiculus</b>
+<p>
+</font></answer></question><question><p>Question 659 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lesion produces Kluver-Bucy syndrome (hyperorality, hypersexuality, disinhibited behavior)?</b> ... <answer><font color=red> <b>Amygdala (bilateral)</b>
+<p>
+</font></answer></question><question><p>Question 660 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lesion produces motor(expressive) aphasia with good comprehension?</b> ... <answer><font color=red> <b>Broca's area (motor speech)</b>
+<p>
+</font></answer></question><question><p>Question 661 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lesion produces personality changes and deficits in concentration, orientation, judgement?</b> ... <answer><font color=red> <b>frontal lobe - these are frontal release signs</b>
+<p>
+</font></answer></question><question><p>Question 662 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lesion produces sensory(fluent/receptive) aphasia with poor comprehension?</b> ... <answer><font color=red> <b>Wernicke's area (associative auditory cortex)</b>
+<p>
+</font></answer></question><question><p>Question 663 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lesion produces spatial neglect syndrome?</b> ... <answer><font color=red> <b>right parietal lobe -- contralateral neglect.</b>
+<p>
+</font></answer></question><question><p>Question 664 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lobe of the brain is the Broca's area in?</b> ... <answer><font color=red> <b>frontal</b>
+<p>
+</font></answer></question><question><p>Question 665 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lobe of the brain is the frontal eye movement and pupillary change area in?</b> ... <answer><font color=red> <b>frontal</b>
+<p>
+</font></answer></question><question><p>Question 666 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lobe of the brain is the premotor area in?</b> ... <answer><font color=red> <b>frontal</b>
+<p>
+</font></answer></question><question><p>Question 667 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lobe of the brain is the primary auditory cortex area in?</b> ... <answer><font color=red> <b>temporal</b>
+<p>
+</font></answer></question><question><p>Question 668 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lobe of the brain is the principal motor area in?</b> ... <answer><font color=red> <b>frontal</b>
+<p>
+</font></answer></question><question><p>Question 669 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lobe of the brain is the principal sensory area in?</b> ... <answer><font color=red> <b>parietal</b>
+<p>
+</font></answer></question><question><p>Question 670 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lobe of the brain is the principal visual cortex area in?</b> ... <answer><font color=red> <b>occipital</b>
+<p>
+</font></answer></question><question><p>Question 671 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What lobe of the brain is the Wernicke's area in?</b> ... <answer><font color=red> <b>temporal</b>
+<p>
+</font></answer></question><question><p>Question 672 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What midbrain structure is important in mitigating voluntary movements and making postural adjustments?</b> ... <answer><font color=red> <b>Basal Ganglia</b>
+<p>
+</font></answer></question><question><p>Question 673 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What mineral causes the pathology of Wilson's disease</b> ... <answer><font color=red> <b>copper</b>
+<p>
+</font></answer></question><question><p>Question 674 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What muscle depresses and extorts the eye?</b> ... <answer><font color=red> <b>inferior rectus</b>
+<p>
+</font></answer></question><question><p>Question 675 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What muscle elevates and intorts the eye?</b> ... <answer><font color=red> <b>superior rectus</b>
+<p>
+</font></answer></question><question><p>Question 676 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What muscle extorts, elevates, and adducts the eye?</b> ... <answer><font color=red> <b>inferior oblique</b>
+<p>
+</font></answer></question><question><p>Question 677 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What muscle fiber type makes up the muscle bulk and provides the force for contraction?</b> ... <answer><font color=red> <b>Extrafusal fibers</b>
+<p>
+</font></answer></question><question><p>Question 678 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What muscle intorts, depresses, and abducts the eye?</b> ... <answer><font color=red> <b>superior oblique</b>
+<p>
+</font></answer></question><question><p>Question 679 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What muscle sensor senses tension and provides inhibitory feedback to alpha motor neurons?</b> ... <answer><font color=red> <b>golgi tendon organs</b>
+<p>
+</font></answer></question><question><p>Question 680 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What muscular disorder is a medial longitudinal fasciculus syndrome associated with?</b> ... <answer><font color=red> <b>Multiple Sclerosis  (MLF=MS)</b>
+<p>
+</font></answer></question><question><p>Question 681 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What nerve is known as the great extensor nerve?</b> ... <answer><font color=red> <b>radial nerve</b>
+<p>
+</font></answer></question><question><p>Question 682 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What neurotransmitter is decreased in Parkinson's disease?</b> ... <answer><font color=red> <b>dopamine</b>
+<p>
+</font></answer></question><question><p>Question 683 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What nucleus if typically lesioned in hemiballismus?</b> ... <answer><font color=red> <b>contralateral subthalamic nucleus</b>
+<p>
+</font></answer></question><question><p>Question 684 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What nucleus of the hypothalamus controls circadian rhythms?</b> ... <answer><font color=red> <b>suprachiasmatic nucleus</b>
+<p>
+</font></answer></question><question><p>Question 685 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What nucleus of the hypothalamus controls hunger?</b> ... <answer><font color=red> <b>lateral nucleus</b>
+<p>
+</font></answer></question><question><p>Question 686 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What nucleus of the hypothalamus controls satiety?</b> ... <answer><font color=red> <b>ventromedial nucleus</b>
+<p>
+</font></answer></question><question><p>Question 687 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What nucleus of the hypothalamus controls sexual emotions?</b> ... <answer><font color=red> <b>septate nucleus</b>
+<p>
+</font></answer></question><question><p>Question 688 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What nucleus of the hypothalamus controls thirst and water balance?</b> ... <answer><font color=red> <b>supraoptic nucleus</b>
+<p>
+</font></answer></question><question><p>Question 689 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What part of the hypothalamus (ant./post.) controls autonomic regulation?</b> ... <answer><font color=red> <b>anterior hypothalamus</b>
+<p>
+</font></answer></question><question><p>Question 690 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What part of the hypothalamus (ant./post.) controls cooling when hot?</b> ... <answer><font color=red> <b>anterior hypothalamus</b>
+<p>
+</font></answer></question><question><p>Question 691 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What part of the hypothalamus (ant./post.) controls heat conservation when cold?</b> ... <answer><font color=red> <b>posterior hypothalamus</b>
+<p>
+</font></answer></question><question><p>Question 692 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What part of the spinal cord is spared with complete occlusion of the ventral artery?</b> ... <answer><font color=red> <b>dorsal columns</b>
+<p>
+</font></answer></question><question><p>Question 693 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What passes through the cavernous sinus?  (nerves and artery)</b> ... <answer><font color=red> <b>CN III, IV, V1, V2, VI, post-ganglionic SNS and the Internal carotid artery</b>
+<p>
+</font></answer></question><question><p>Question 694 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What reflex is lost in a lesion of the musculocutaneous nerve?</b> ... <answer><font color=red> <b>biceps reflex</b>
+<p>
+</font></answer></question><question><p>Question 695 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What structure passes through the foramen ovale?</b> ... <answer><font color=red> <b>CN V3</b>
+<p>
+</font></answer></question><question><p>Question 696 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What structure passes through the foramen rotundum?</b> ... <answer><font color=red> <b>CN V2</b>
+<p>
+</font></answer></question><question><p>Question 697 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What structure passes through the foramen spinosum?</b> ... <answer><font color=red> <b>middle meningeal artery</b>
+<p>
+</font></answer></question><question><p>Question 698 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What structure passes through the hypoglossal canal?</b> ... <answer><font color=red> <b>CN XII</b>
+<p>
+</font></answer></question><question><p>Question 699 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What symptom is seen with a lesion of the axillary nerve?</b> ... <answer><font color=red> <b>Deltoid paralysis</b>
+<p>
+</font></answer></question><question><p>Question 700 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What symptom is seen with a lesion of the median nerve?</b> ... <answer><font color=red> <b>decreased thumb function</b>
+<p>
+</font></answer></question><question><p>Question 701 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What syndrome is seen with a lesion of the long thoracic nerve?</b> ... <answer><font color=red> <b>Winged scapula</b>
+<p>
+</font></answer></question><question><p>Question 702 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What syndrome is seen with a lesion of the lower trunk of the brachial plexus?</b> ... <answer><font color=red> <b>Claw hand</b>
+<p>
+</font></answer></question><question><p>Question 703 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What syndrome is seen with a lesion of the posterior cord of the brachial plexus?</b> ... <answer><font color=red> <b>Wrist drop</b>
+<p>
+</font></answer></question><question><p>Question 704 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What syndrome is seen with a lesion of the radial nerve?</b> ... <answer><font color=red> <b>Saturday night palsy</b>
+<p>
+</font></answer></question><question><p>Question 705 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What syndrome is seen with a lesion of the upper trunk of the brachial plexus?</b> ... <answer><font color=red> <b>Waiter's tip (Erb-Duchenne palsy)</b>
+<p>
+</font></answer></question><question><p>Question 706 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What two bones do all the foramina of the posterior cranial fossa pass through?</b> ... <answer><font color=red> <b>temporal and occipital bones</b>
+<p>
+</font></answer></question><question><p>Question 707 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What two hypothalamic nuclei does the posterior pituitary(neurohypophysis) receive neuronal projections from?</b> ... <answer><font color=red> <b>supraoptic nucleus and paraventricular nucleus.</b>
+<p>
+</font></answer></question><question><p>Question 708 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of fibers do the corticospinal tracts carry?</b> ... <answer><font color=red> <b>motor </b>
+<p>
+</font></answer></question><question><p>Question 709 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of fibers do the dorsal columns carry?</b> ... <answer><font color=red> <b>sensory - pressure, vibration, touch, proprioception</b>
+<p>
+</font></answer></question><question><p>Question 710 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of fibers do the spinothalmic tracts carry?</b> ... <answer><font color=red> <b>sensory - pain and temperature</b>
+<p>
+</font></answer></question><question><p>Question 711 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of function does CN I have? (sensory, motor, or both)</b> ... <answer><font color=red> <b>sensory</b>
+<p>
+</font></answer></question><question><p>Question 712 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of function does CN II have? (sensory, motor, or both)</b> ... <answer><font color=red> <b>sensory</b>
+<p>
+</font></answer></question><question><p>Question 713 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of function does CN III have? (sensory, motor, or both)</b> ... <answer><font color=red> <b>motor</b>
+<p>
+</font></answer></question><question><p>Question 714 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of function does CN IV have? (sensory, motor, or both)</b> ... <answer><font color=red> <b>motor</b>
+<p>
+</font></answer></question><question><p>Question 715 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of function does CN IX have? (sensory, motor, or both)</b> ... <answer><font color=red> <b>both</b>
+<p>
+</font></answer></question><question><p>Question 716 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of function does CN V have? (sensory, motor, or both)</b> ... <answer><font color=red> <b>both</b>
+<p>
+</font></answer></question><question><p>Question 717 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of function does CN VI have? (sensory, motor, or both)</b> ... <answer><font color=red> <b>motor</b>
+<p>
+</font></answer></question><question><p>Question 718 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of function does CN VII have? (sensory, motor, or both)</b> ... <answer><font color=red> <b>both</b>
+<p>
+</font></answer></question><question><p>Question 719 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of function does CN VIII have? (sensory, motor, or both)</b> ... <answer><font color=red> <b>sensory</b>
+<p>
+</font></answer></question><question><p>Question 720 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of function does CN X have? (sensory, motor, or both)</b> ... <answer><font color=red> <b>both</b>
+<p>
+</font></answer></question><question><p>Question 721 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of function does CN XI have? (sensory, motor, or both)</b> ... <answer><font color=red> <b>motor</b>
+<p>
+</font></answer></question><question><p>Question 722 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of function does CN XII have? (sensory, motor, or both)</b> ... <answer><font color=red> <b>motor</b>
+<p>
+</font></answer></question><question><p>Question 723 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of lesion is seen in Amyotrophic Lateral Sclerosis?</b> ... <answer><font color=red> <b>combo of UMN and LMN lesions with no sensory deficit</b>
+<p>
+</font></answer></question><question><p>Question 724 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of lesion is seen in Multiple Sclerosis?</b> ... <answer><font color=red> <b>random asymmetric lesions in mostly white matter of the cervical region</b>
+<p>
+</font></answer></question><question><p>Question 725 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of lesion is seen in Poliomyelitis and is it genetic or acquired?</b> ... <answer><font color=red> <b>acquired LMN lesion causing flaccid paralysis</b>
+<p>
+</font></answer></question><question><p>Question 726 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of lesion is seen in Werdnig-Hoffmann disease and is it genetic or acquired?</b> ... <answer><font color=red> <b>genetic LMN lesion causing flaccid paralysis (aka. Floppy infant disease)</b>
+<p>
+</font></answer></question><question><p>Question 727 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What type of molecule can cross the blood-brain barrier most easily? (lipid/nonlipid, polar/nonpolar)</b> ... <answer><font color=red> <b>Lipid-soluable/nonpolar molecules</b>
+<p>
+</font></answer></question><question><p>Question 728 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What vagal nuclei controls motor innervation to the pharynx, larynx, and upper esophagus?</b> ... <answer><font color=red> <b>Nucleus Ambiguus (Motor=aMbiguus)</b>
+<p>
+</font></answer></question><question><p>Question 729 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What vagal nuclei controls visceral sensory in formation like taste and gut distention?</b> ... <answer><font color=red> <b>Nucleus Solitarius  (Sensory=Solitarius)</b>
+<p>
+</font></answer></question><question><p>Question 730 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What vagal nuclei sends parasympathetic fibers to the heart, lungs, and upper GI?</b> ... <answer><font color=red> <b>dorsal motor nucleus of CN X</b>
+<p>
+</font></answer></question><question><p>Question 731 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What would happen to temperature regulation if you lesioned your posterior hypothalamus?</b> ... <answer><font color=red> <b>lose the ability to conserve heat</b>
+<p>
+</font></answer></question><question><p>Question 732 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>What would happen to temperature regulation if you lesioned your ventromedial nucleus of the hypothalamus?</b> ... <answer><font color=red> <b>have hyperphagia and become obese</b>
+<p>
+</font></answer></question><question><p>Question 733 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>When is a positive Babinski a normal reflex?</b> ... <answer><font color=red> <b>during the first year of life</b>
+<p>
+</font></answer></question><question><p>Question 734 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where is the lesion in a patient with hemiballismus?</b> ... <answer><font color=red> <b>Subthalamic nucleus</b>
+<p>
+</font></answer></question><question><p>Question 735 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Where is the lesion in Parkinson's?</b> ... <answer><font color=red> <b>Substantia nigra pars compacta</b>
+<p>
+</font></answer></question><question><p>Question 736 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which CN is the only nerve that does not abut the wall in the cavernous sinus?</b> ... <answer><font color=red> <b>CN VI (abducens)</b>
+<p>
+</font></answer></question><question><p>Question 737 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which CNs pass through the middle cranial fossa?</b> ... <answer><font color=red> <b>CN II - VI</b>
+<p>
+</font></answer></question><question><p>Question 738 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which CNs pass through the posterior cranial fossa?</b> ... <answer><font color=red> <b>CN VII - XII</b>
+<p>
+</font></answer></question><question><p>Question 739 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which division of the facial motor nucleus has duel innervation? (upper or lower)</b> ... <answer><font color=red> <b>upper division </b>
+<p>
+</font></answer></question><question><p>Question 740 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which thalamic nucleus has a visual function?</b> ... <answer><font color=red> <b>Lateral Geniculate Nucleus (LGB)</b>
+<p>
+</font></answer></question><question><p>Question 741 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which thalamic nucleus has an auditory function?</b> ... <answer><font color=red> <b>Medial Geniculate Nucleus (MGB)</b>
+<p>
+</font></answer></question><question><p>Question 742 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which thalamic nucleus has pre-motor function?</b> ... <answer><font color=red> <b>Ventral Anterior Nucleus (VA)</b>
+<p>
+</font></answer></question><question><p>Question 743 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which thalamic nucleus has the function of body senses(proprioception, pressure, pain, touch, vibration)?</b> ... <answer><font color=red> <b>Ventral Posterior Lateral Nucleus (VPL)</b>
+<p>
+</font></answer></question><question><p>Question 744 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which thalamic nucleus has the function of facial sensation and pain?</b> ... <answer><font color=red> <b>Ventral Posterior Medial Nucleus (VPM)</b>
+<p>
+</font></answer></question><question><p>Question 745 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which thalamic nucleus is the primary motor cortex?</b> ... <answer><font color=red> <b>Ventral Lateral Nucleus (VL)</b>
+<p>
+</font></answer></question><question><p>Question 746 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which way does the head deviate in a unilateral lesion (LMN) of CN XI? (toward or away)</b> ... <answer><font color=red> <b>toward the lesion -- note: First-Aid is wrong in the book)</b>
+<p>
+</font></answer></question><question><p>Question 747 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which way does the jaw deviate in a unilateral lesion (LMN) of CN V? (toward or away)</b> ... <answer><font color=red> <b>toward the lesion</b>
+<p>
+</font></answer></question><question><p>Question 748 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which way does the patient tend to fall in a unilateral lesion (LMN) of the cerebellum? (toward or away)</b> ... <answer><font color=red> <b>toward the lesion</b>
+<p>
+</font></answer></question><question><p>Question 749 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which way does the tongue deviate in a unilateral lesion (LMN) of CN XII? (toward or away)</b> ... <answer><font color=red> <b>toward the lesion</b>
+<p>
+</font></answer></question><question><p>Question 750 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Which way does the uvula deviate in a unilateral lesion (LMN) of CN X? (toward or away)</b> ... <answer><font color=red> <b>away from the lesion</b>
+<p>
+</font></answer></question><question><p>Question 751 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Why does the arm hang by the side in Erb-Duchenne palsy?</b> ... <answer><font color=red> <b>paralysis of shoulder abductors</b>
+<p>
+</font></answer></question><question><p>Question 752 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Why is L-dopa used for parkinsonism instead of dopamine?</b> ... <answer><font color=red> <b>L-dopa crosses the blood-brain barrier while dopamine does not.</b>
+<p>
+</font></answer></question><question><p>Question 753 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Why is the arm medially rotated in Erb-Duchenne palsy?</b> ... <answer><font color=red> <b>paralysis of the lateral rotators</b>
+<p>
+</font></answer></question><question><p>Question 754 of 754: <b>Anatomy</b>
+<p><font face=verdana size=5> <b>Why is the forearm pronated in Erb-Duchenne palsy?</b> ... <answer><font color=red> <b>loss of the biceps brachii</b>
+<p>
+</font></answer></question>

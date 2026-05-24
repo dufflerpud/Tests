@@ -1,0 +1,230 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Neurology.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 5 2006/03/09 19:00
+<question>
+Patient with headache:
+<rl sep=and>
+    <li>Unilateral
+    <li>Severe
+    <li>Periorbital
+    <li>with tearing
+    <li>with conjunctival erythema
+</rl> is referred to as:
+<answer>A cluster heachache</answer></question>
+
+<question>Prophylactic treatment for migrain:
+<answer>
+<rl sep=and>
+    <li>Beta blockers
+    <li>Calcium channel blockers
+    <li>TCAs
+</rl>
+</answer></question>
+
+<question>What is the most common pituitary tumor?  What is its treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Most common pituitary tumor:</th>
+        <td>Prolactinoma</td></tr>
+    <tr><th align=left>Treatment:</th>
+        <td>Dopamine agents (DA) (e.g. bromocriptine)</td></tr>
+</table></center></answer></question>
+
+<question>A 55 year-old patient presents with acute "broken speech."
+	What type of aphasia?  What lobe and vascular distribution?
+	First step in workup?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Aphasia type:</th><td>Broca's aphasia</td></tr>
+    <tr><th align=left>Lobe:</th><td>Frontal</td></tr>
+    <tr><th align=left>Vascular distribution:</th>
+        <td>Left middle cerebral artery (MCA)</td></tr>
+    <tr><th align=left>Workup:</th>
+        <td>Head CT to rule out a hemmorhage</td></tr>
+</table></center></answer></question>
+
+<question>Most common two causes of SAH are:
+<answer><ol>
+    <li>Trauma
+    <li>Berry aneurysm
+</ol></answer></question>
+
+<question>Crecent-shaped hyperdensity on CT that does not cross the midline is:
+<answer>Subdural hematoma</answer></question>
+
+<question>Patient presents with a history significant for initial altered
+	mental status with an intervening lucid interval.  Diagnosis?
+	Most likely etiology?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Diagnosis:</th><td>Epidural hematoma</td></tr>
+    <tr><th align=left>Etiology:</th><td>Middle meningeal artery</td></tr>
+    <tr><th align=left>Treatment:</th><td>Neurosurgical evacuation</td></tr>
+</table></center></answer></question>
+
+<question>CSF findings with SAH are:
+<answer>
+<rl sep=and>
+    <li>Elevated ICP
+    <li>RBCs
+    <li>Xanthochromia
+</rl>
+</answer></question>
+
+<question>Albuminocytologic dissociation is:
+<answer>Guillain-Barre (increased protein in CSF with only modest increase
+    in cell count)</answer></question>
+
+<question>A 61 year-old patient in the ICU is awake and alert but cannot
+	move anything but the eyes and eyelids.  This state is called:
+<answer>"Locked-in Syndrome"</answer></question>
+
+<question>Cold water is flushed into a patient's ear, and the fast phase
+	of the nystagmus is toward the opposite side.  Is this normal
+	or pathological?
+<answer>Normal</answer>
+<answer>Abnormal</answer>
+</question>
+
+<question>Most common primary sources of metastases to the brain are:
+<answer>
+<rl sep=and>
+    <li>Lung
+    <li>Breast
+    <li>Skin (melanoma)
+    <li>Kidney
+    <li>GI tract
+</rl>
+</answer></question>
+
+<question>Dysequilibrium associated with tinnitus and hearing loss and often
+	treated with acetazolamide is:
+<answer>Meniere's disease</answer></question>
+
+<question>Most frequent presentation of intracranial neoplasm is:
+<answer>Headache</answer></question>
+
+<question>Most common causes of seizures in children (age 2-10 years) are:
+<answer>
+<rl sep=and>
+    <li>Infection
+    <li>Febrile seizures
+    <li>Trauma
+    <li>Idiopathic
+</rl>
+</answer></question>
+
+<question>Most common causes of seizures in young adults (age 18-35 years) are:
+<answer>
+<rl sep=and>
+    <li>Trauma
+    <li>Alchohol withdrawal
+    <li>Brain tumor
+</rl>
+</answer></question>
+
+<question>Mainstay of treatment for myasthenia gravis is:
+<answer>Immunosuppressants (e.g. prednisone)</answer></question>
+
+<question>First line medication for status epilepticus is:
+<answer>IV benzodiazepine</answer></question>
+
+<question>Most common intracranial malignancy is:
+<answer>Metastatic</answer></question>
+
+<question>What percentage lesion is an indication for carotid endarterectomy?
+<answer>70% if stenosis is symptomatic</answer></question>
+
+<question>Most common causes of dementia are:
+<answer>
+<rl sep=and>
+    <li>Alzheimer's
+    <li>Multi-infarct
+</rl>
+</answer></question>
+
+<question>Atrophy of the mammillary bodies is:
+<answer>Wernicke's encephalopathy</answer></question>
+
+<question>Combined upper and lower motor neuron disorder is:
+<answer>Amyotrophic lateral sclerosis (ALS)</answer></question>
+
+<question>Rigidity and stiffness with resting tremor and masked facies is:
+<answer>Parkinson's disease</answer></question>
+
+<question>Mainstay of Parkinson's therapy is:
+<answer>Levodopa/carbidopa</answer></question>
+
+<question>Treatment for Guillain-Barre syndrome is:
+<answer>IVIG or plasmapheresis</answer></question>
+
+<question>
+<rl sep=and>
+    <li>Rigidity
+    <li>Stiffness that progresses to choreiform movements accompanied by:
+        <rl sep=and>
+	    <li>moodiness
+	    <li>altered behavior
+	</rl>
+</rl> indicates:
+<answer>Huntington's disease</answer></question>
+
+<question>
+Patient:
+<rl sep=and>
+    <li>is 6 year-old
+    <li>is female
+    <li>with a port wine stain in the V2 distribution
+    <li>has mental retardation
+    <li>has seizures
+    <li>has leptomeningeal angioma
+</rl> indicating:
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Diagnosis:</th><td>Sturge-Weber syndrome</td></tr>
+    <tr><th align=left>Treatment:</th><td>Treat symptomatically.
+    	Possible focal cerebral resection of affected lobe</td></tr>
+</table></center></answer></question>
+
+<question>Cafe-au-lait spots on the skin indicate:
+<answer>Neurofibromatosis 1</answer></question>
+
+<question>
+<rl sep=and>
+    <li>Hyperphagia
+    <li>Hypersexuality
+    <li>Hyperorality
+    <li>Hyperdocility
+</rl> indicate:
+<answer>Kluver-Bucy syndrome (amygdala)</answer></question>
+
+<question>What do you administer to a symptomatic patient to diagnose
+	myasthenia gravis?
+<answer>Edrophonium</answer></question>
+</concept>

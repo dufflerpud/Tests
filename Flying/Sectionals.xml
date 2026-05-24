@@ -1,0 +1,149 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Sectionals.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	Sectionals.xml - Learn how to read a flight sectional (map)
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	Sectionals.xml - Learn how to read a flight sectional (map)
+-------------------------------------------------------------------------->
+<concept><center>
+Civilian hard-surfaced runway greater than 8069 feet or multiple runways<br>
+<img src="Sectionals/Civilian_hard-surfaced_runway_greater_than_8069_feet_or_multiple_runways.jpg"><hr>
+Civilian hard-surfaced runways 1500 to 8069 feet<br>
+<img src="Sectionals/Civilian_hard-surfaced_runways_1500_to_8069_feet.jpg"><hr>
+Civilian other than hard-surfaced runways<br>
+<img src="Sectionals/Civilian_other_than_hard-surfaced_runways.jpg"><hr>
+Civilian seaplane base<br>
+<img src="Sectionals/Civilian_seaplane_base.jpg">
+</center>
+    <question permute="XXX">
+    <center>
+        What type of airport is this?<br>
+	<img src="Sectionals/XXX.jpg">
+    </center>
+    <answer for="Civilian_hard-surfaced_runway_greater_than_8069_feet_or_multiple_runways">Civilian hard-surfaced runway greater than 8069 feet or multiple runways</answer>
+    <answer for="Civilian_hard-surfaced_runways_1500_to_8069_feet">Civilian hard-surfaced runways 1500 to 8069 feet</answer>
+    <answer for="Civilian_other_than_hard-surfaced_runways">Civilian other than hard-surfaced runways</answer>
+    <answer for="Civilian_seaplane_base">Civilian seaplane base</answer>
+    </question>
+</concept>
+
+<concept><center>
+Lit obstacle 1000 AGL and higher<br>
+<img src="Sectionals/Lit_obstacle_1000_AGL_and_higher.jpg"><hr>
+Lit obstacle less than 1000 AGL<br>
+<img src="Sectionals/Lit_obstacle_less_than_1000_AGL.jpg"><hr>
+Unlit obstacle 1000 AGL and higher<br>
+<img src="Sectionals/Unlit_obstacle_1000_AGL_and_higher.jpg"><hr>
+Unlit obstacle less than 1000 AGL<br>
+<img src="Sectionals/Unlit_obstacle_less_than_1000_AGL.jpg"></center>
+
+<question permute="XXX">
+    <center>
+	What is this?<br>
+	<img src="Sectionals/XXX.jpg">
+    </center>
+<answer for="Lit_obstacle_1000_AGL_and_higher">
+    Lit obstacle 1000 AGL and higher</answer>
+<answer for="Lit_obstacle_less_than_1000_AGL">
+    Lit obstacle less than 1000 AGL</answer>
+<answer for="Unlit_obstacle_1000_AGL_and_higher">
+    Unlit obstacle 1000 AGL and higher</answer>
+<answer for="Unlit_obstacle_less_than_1000_AGL">
+    Unlit obstacle less than 1000 AGL</answer>
+</question>
+</concept>
+
+<concept><center>
+Alert area<br>
+<img src="Sectionals/Alert_area.jpg"><hr>
+Military Operations area<br>
+<img src="Sectionals/Military_Operations_area.jpg"><hr>
+Prohibited Restricted or Warning area<br>
+<img src="Sectionals/Prohibited_Restricted_or_Warning_area.jpg"></center>
+<question permute="XXX">
+<center>
+What is this?<br>
+<img src="Sectionals/XXX.jpg">
+<answer for="Alert_area">Alert area</answer>
+<answer for="Military_Operations_area">Military Operations area</answer>
+<answer for="Prohibited_Restricted_or_Warning_area">Prohibited Restricted or Warning area</answer>
+</question></concept>
+
+<concept>
+With the following notation next to an object:<br>
+<img src="Sectionals/5540_MSL_650_AGL.jpg">
+A blue number not in parentheses, indicates the altitude of the top of an
+object with respect to mean sea level (MSL).  A blue number within parentheses
+indicates the altitude above the ground (AGL).  In this case, the top of the
+object is 5540 feet MSL or 650 feet AGL.
+<question permute="XXX">
+    If the following appeared next to an object:<br>
+    <img src="Sectionals/5540_MSL_650_AGL.jpg"><br>
+    What is the altitude XXX of the top of the object?
+    <answer for="above mean sea level (MSL)">5540</answer>
+    <answer for="above ground level (AGL)">650</answer>
+</question></concept>
+
+<concept>
+With the following notation next to an object:<br>
+<img src="Sectionals/5540_MSL_650_AGL.jpg">
+A blue number not in parentheses, indicates the altitude of the top of an
+object with respect to mean sea level (MSL).  A blue number within parentheses
+indicates the altitude above the ground (AGL).  In this case, the top of the
+object is 5540 feet MSL or 650 feet AGL.
+<question permute="XXX">
+    <img src="Sectionals/Garfield_stack.jpg"><br>
+    How many feet XXX?
+    <answer for="is the top of Garfield stack above mean sea level (MSL)">5540</answer>
+    <answer for="is the top of Garfield stack above ground level (AGL)">650</answer>
+    <answer for="is the bottom of Garfield stack above mean sea level (MSL)">4890</answer>
+    <answer for="is the bottom of Garfield stack above ground level (AGL)">0</answer>
+</question></concept>
+
+<concept>
+A large blue number followed by a small blue digit shows the highest altitude
+in this section of the map in hundreds of feet above mean sea level (MSL).
+For instance:<br>
+<img src="Sectionals/Maximum_elevation.jpg"><br>
+means that the highest tourain in the section is 12,500 feet.
+<question>
+    <img src="Sectionals/Maximum_elevation.jpg"><br>
+    means that the highest tourain in this section is:
+    <answer>12.5 feet</answer>
+    <answer>125 feet</answer>
+    <answer>1250 feet</answer>
+    <answer>12500 feet</answer>
+</question></concept>

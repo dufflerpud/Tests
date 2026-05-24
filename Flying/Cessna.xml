@@ -1,0 +1,83 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Cessna.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	Cessna.xml - Learn about the Cessna-152 and its critical speeds
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	Learn about the Cessna-152 and its critical speeds
+-------------------------------------------------------------------------->
+
+<concept><pre> Airspeeds for emergency operations:<br> <br> Engine failure after takeoff:			60 Kias<br> Maneuvering speed (1670 lbs):			104 Kias<br> Maneuvering speed (1500 lbs):			98 Kias<br> Maneuvering speed (1350 lbs):			93 Kias<br> Maximum glide:					60 Kias<br> Precautionary landing with engine power:	55 Kias<br> Landing without engine power and flaps up:	65 Kias<br> Landing without engine power and flaps down:	60 Kias<br>
+<question> What is the emergency airspeed for engine failure after takeoff?<br>
+<answer right>60 Kias
+<answer>55 Kias
+<answer>65 Kias
+<answer>95 Kias
+<question> What is the emergency maneuvering air speed when loaded to 1670 gross weight?<br>
+<answer right>104 Kias
+<answer>98 Kias
+<answer>93 Kias
+<answer>125 Kias
+<question> What is the emergency maneuvering air speed when loaded to 1500 gross weight?<br>
+<answer right>98 Kias
+<answer>104 Kias
+<answer>93 Kias
+<answer>125 Kias
+<question> What is the emergency maneuvering air speed when loaded to 1350 gross weight?<br>
+<answer right>93 Kias
+<answer>104 Kias
+<answer>98 Kias
+<answer>125 Kias
+<question> What is the air speed for the longest glide path?<br>
+<answer right>60 Kias
+<answer>55 Kias
+<answer>65 Kias
+<answer>70 Kias
+<question> What air speed should be used for a precautionary landing with engine power?<br>
+<answer right>55 Kias
+<answer>60 Kias
+<answer>65 Kias
+<answer>70 Kias
+<question> What air speed should be used for landing without engine power and flaps up?<br>
+<answer right>65 Kias
+<answer>60 Kias
+<answer>55 Kias
+<answer>70 Kias
+<question> What air speed should be used for landing without engine power and flaps down?<br>
+<answer right>60 Kias
+<answer>65 Kias
+<answer>55 Kias
+<answer>70 Kias</pre></concept>
+<concept><pre> Engine failure during takeoff run:<br> 1. Set throttle to idle<br> 2. Apply brakes<br> 3. Retract wing flaps<br> 4. Set mixture to idle cut-off<br> 5. Turn magnetos off (I.E. ignition switch)<br> 6. Turn master switch off<br>

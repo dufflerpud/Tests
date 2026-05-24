@@ -1,0 +1,2049 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Pharmacology.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<question><p>Question 1 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>A common side effect of INF treatment is?</b> ... <answer><font color=red> <b>Neutropenia
+</b>
+<p>
+</font></answer></question><question><p>Question 2 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Antimicrobial prophylaxis for a history of recurrent UTIs?</b> ... <answer><font color=red> <b>TMP-SMZ
+</b>
+<p>
+</font></answer></question><question><p>Question 3 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Antimicrobial prophylaxis for Gonorrhea?</b> ... <answer><font color=red> <b>Ceftriaxone</b>
+<p>
+</font></answer></question><question><p>Question 4 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Antimicrobial prophylaxis for Meningococcal infection?</b> ... <answer><font color=red> <b>Rifampin (DOC), minocycline
+</b>
+<p>
+</font></answer></question><question><p>Question 5 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Antimicrobial prophylaxis for PCP?</b> ... <answer><font color=red> <b>TMP-SMZ (DOC), aerosolized pentamidine
+</b>
+<p>
+</font></answer></question><question><p>Question 6 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Antimicrobial prophylaxis for Syphilis?</b> ... <answer><font color=red> <b>Benzathine penicillin G</b>
+<p>
+</font></answer></question><question><p>Question 7 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Are Aminoglycosides Teratogenic?</b> ... <answer><font color=red> <b>Yes</b>
+<p>
+</font></answer></question><question><p>Question 8 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Are Ampicillin and Amoxicillin penicillinase resistant?</b> ... <answer><font color=red> <b>No</b>
+<p>
+</font></answer></question><question><p>Question 9 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Are Carbenicillin, Piperacillin, and Ticarcillin penicillinase resistant?</b> ... <answer><font color=red> <b>No</b>
+<p>
+</font></answer></question><question><p>Question 10 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Are Cephalosporins resistant to penicillinase?</b> ... <answer><font color=red> <b>No, but they are less susceptible than the other Beta lactams
+</b>
+<p>
+</font></answer></question><question><p>Question 11 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Are Methicillin, Nafcillin, and Dicloxacillin penicillinase resistant?</b> ... <answer><font color=red> <b>Yes
+</b>
+<p>
+</font></answer></question><question><p>Question 12 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Clinical use of Isoniazid (INH)?</b> ... <answer><font color=red> <b>Mycobacterium tuberculosis, the only agent used as solo prophylaxis against TB
+</b>
+<p>
+</font></answer></question><question><p>Question 13 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Common side effects associated with Clindamycin include?</b> ... <answer><font color=red> <b>Pseudomembranous colitis (C. difficile), fever, diarrhea
+</b>
+<p>
+</font></answer></question><question><p>Question 14 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Common toxicities associated with Fluoroquinolones?</b> ... <answer><font color=red> <b>GI upset, Superinfections, Skin rashes, Headache, Dizziness
+</b>
+<p>
+</font></answer></question><question><p>Question 15 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Common toxicities associated with Griseofulvin are?</b> ... <answer><font color=red> <b>Teratogenic, Carcinogenic, Confusion, Headaches
+</b>
+<p>
+</font></answer></question><question><p>Question 16 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Describe the MOA of Interferons (INF)</b> ... <answer><font color=red> <b>Glycoproteins from leukocytes that block various stages of viral RNA and DNA synthesis
+</b>
+<p>
+</font></answer></question><question><p>Question 17 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Do Tetracyclines penetrate the CNS?</b> ... <answer><font color=red> <b>Only in limited amounts
+</b>
+<p>
+</font></answer></question><question><p>Question 18 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Does Ampicillin or Amoxicillin have a greater oral bioavailability?</b> ... <answer><font color=red> <b>AmOxicillin has greater Oral bioavailability</b>
+<p>
+</font></answer></question><question><p>Question 19 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Does Amphotericin B cross the BBB?</b> ... <answer><font color=red> <b>No</b>
+<p>
+</font></answer></question><question><p>Question 20 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Does Foscarnet require activation by a viral kinase?</b> ... <answer><font color=red> <b>No</b>
+<p>
+</font></answer></question><question><p>Question 21 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Foscarnet toxicity?</b> ... <answer><font color=red> <b>Nephrotoxicity</b>
+<p>
+</font></answer></question><question><p>Question 22 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Ganciclovir associated toxicities?</b> ... <answer><font color=red> <b>Leukopenia, Neutropenia, Thrombocytopenia, Renal toxicity</b>
+<p>
+</font></answer></question><question><p>Question 23 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How are INFs used clinically?</b> ... <answer><font color=red> <b>Chronic Hepatitis A and B, Kaposi's Sarcoma</b>
+<p>
+</font></answer></question><question><p>Question 24 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How are Sulfonamides employed clinically?</b> ... <answer><font color=red> <b>Gram +, Gram -, Norcardia, Chlamydia</b>
+<p>
+</font></answer></question><question><p>Question 25 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How are the HIV drugs used clinically?</b> ... <answer><font color=red> <b>Triple Therapy: 2 Nucleoside RT Inhibitors with a Protease Inhibitor</b>
+<p>
+</font></answer></question><question><p>Question 26 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How are the Latent Hypnozoite (Liver) forms of Malaria (P. vivax, P.ovale) treated?</b> ... <answer><font color=red> <b>Primaquine</b>
+<p>
+</font></answer></question><question><p>Question 27 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How can Isoniazid (INH)-induced neurotoxicity be prevented?</b> ... <answer><font color=red> <b>Pyridoxine (B6) administration</b>
+<p>
+</font></answer></question><question><p>Question 28 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How can the t1/2 of INH be altered?</b> ... <answer><font color=red> <b>Fast vs. Slow Acetylators</b>
+<p>
+</font></answer></question><question><p>Question 29 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How can the toxic effects fo TMP be ameliorated?</b> ... <answer><font color=red> <b>With supplemental Folic Acid</b>
+<p>
+</font></answer></question><question><p>Question 30 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How can Vancomycin-induced 'Red Man Syndrome' be prevented?</b> ... <answer><font color=red> <b>Pretreat with antihistamines and a slow infusion rate</b>
+<p>
+</font></answer></question><question><p>Question 31 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How do Sulfonamides act on bacteria?</b> ... <answer><font color=red> <b>As PABA antimetabolites that inhibit Dihydropteroate Synthase, Bacteriostatic</b>
+<p>
+</font></answer></question><question><p>Question 32 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How do the Protease Inhibitors work?</b> ... <answer><font color=red> <b>Inhibit assembly of new virus by blocking protease enzymes</b>
+<p>
+</font></answer></question><question><p>Question 33 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How does Ganciclovir's toxicity relate to that of Acyclovir?</b> ... <answer><font color=red> <b>Ganciclovir is more toxic to host enzymes</b>
+<p>
+</font></answer></question><question><p>Question 34 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How does resistance to Vancomycin occur?</b> ... <answer><font color=red> <b>With an amino acid change of D-ala D-ala to D-ala D-lac</b>
+<p>
+</font></answer></question><question><p>Question 35 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Acyclovir used clinically?</b> ... <answer><font color=red> <b>HSV, VZV, EBV, Mucocutaneous and Genital Herpes Lesions, Prophylaxis in Immunocompromised pts</b>
+<p>
+</font></answer></question><question><p>Question 36 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Amantadine used clinically?</b> ... <answer><font color=red> <b>Prophylaxis for Influenza A, Rubella ; Parkinson's disease</b>
+<p>
+</font></answer></question><question><p>Question 37 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Amphotericin B administered for fungal meningitis?</b> ... <answer><font color=red> <b>Intrathecally</b>
+<p>
+</font></answer></question><question><p>Question 38 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Amphotericin B used clinically?</b> ... <answer><font color=red> <b>Wide spectrum of systemic mycoses: Cryptococcus, Blastomyces, Coccidioides, Aspergillus, Histoplasma, Candida, Mucor</b>
+<p>
+</font></answer></question><question><p>Question 39 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Chloramphenical used clinically?</b> ... <answer><font color=red> <b>Meningitis (H. influenza, N. meningitidis, S. pneumoniae), Conserative treatment due to toxicities</b>
+<p>
+</font></answer></question><question><p>Question 40 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Foscarnet used clinically?</b> ... <answer><font color=red> <b>CMV Retinitis in IC pts when Ganciclovir fails</b>
+<p>
+</font></answer></question><question><p>Question 41 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Ganciclovir activated?</b> ... <answer><font color=red> <b>Phosphorylation by a Viral Kinase</b>
+<p>
+</font></answer></question><question><p>Question 42 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Ganciclovir used clinically?</b> ... <answer><font color=red> <b>CMV, esp in Immunocompromised patients</b>
+<p>
+</font></answer></question><question><p>Question 43 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Griseofulvin used clinically?</b> ... <answer><font color=red> <b>Oral treatment of superficial infections</b>
+<p>
+</font></answer></question><question><p>Question 44 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Leishmaniasis treated?</b> ... <answer><font color=red> <b>Pentavalent Antimony</b>
+<p>
+</font></answer></question><question><p>Question 45 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Ribavirin used clinically?</b> ... <answer><font color=red> <b>for RSV</b>
+<p>
+</font></answer></question><question><p>Question 46 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Rifampin used clinically?</b> ... <answer><font color=red> <b>1. Mycobacterium tuberculosis  2. Delays resistance to Dapsone when used for Leprosy  3. Used in combination with other drugs</b>
+<p>
+</font></answer></question><question><p>Question 47 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Trimethoprim used clinically?</b> ... <answer><font color=red> <b>Used in combination therapy with SMZ to sequentially block folate synthesis</b>
+<p>
+</font></answer></question><question><p>Question 48 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How is Vancomycin used clinically?</b> ... <answer><font color=red> <b>For serious, Gram + multidrug-resistant organisms</b>
+<p>
+</font></answer></question><question><p>Question 49 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How would you treat African Trypanosomiasis (sleeping sickness)?</b> ... <answer><font color=red> <b>Suramin</b>
+<p>
+</font></answer></question><question><p>Question 50 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>In what population does Gray Baby Syndrome occur? Why?</b> ... <answer><font color=red> <b>Premature infants, because they lack liver UDP-glucuronyl transferase</b>
+<p>
+</font></answer></question><question><p>Question 51 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Is Aztreonam cross-allergenic with penicillins?</b> ... <answer><font color=red> <b>No</b>
+<p>
+</font></answer></question><question><p>Question 52 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Is Aztreonam resistant to penicillinase?</b> ... <answer><font color=red> <b>Yes</b>
+<p>
+</font></answer></question><question><p>Question 53 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Is Aztreonam usually toxic?</b> ... <answer><font color=red> <b>No</b>
+<p>
+</font></answer></question><question><p>Question 54 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Is Imipenem resistant to penicillinase?</b> ... <answer><font color=red> <b>Yes</b>
+<p>
+</font></answer></question><question><p>Question 55 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Is Penicillin penicillinase resistant?</b> ... <answer><font color=red> <b>No - duh</b>
+<p>
+</font></answer></question><question><p>Question 56 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name the IV Penicillin?</b> ... <answer><font color=red> <b>Pen G</b>
+<p>
+</font></answer></question><question><p>Question 57 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Mnemonic for Foscarnet?</b> ... <answer><font color=red> <b>Foscarnet = pyroFosphate analog</b>
+<p>
+</font></answer></question><question><p>Question 58 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>MOA for Penicillin (3 answers)?</b> ... <answer><font color=red> <b>1)Binds penicillin-binding proteins 2) Blocks transpeptidase cross- linking of cell wall 3) Activates autolytic enzymes</b>
+<p>
+</font></answer></question><question><p>Question 59 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name the Bactericidal antibiotics?</b> ... <answer><font color=red> <b>Penicillin, Cephalosporins, Vancomycin, Aminoglycosides, Fluoroquinolones, Metronidazole</b>
+<p>
+</font></answer></question><question><p>Question 60 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name the antibiotics that block cell wall synthesis by inhibiting Peptidoglycan cross-linking (7)?</b> ... <answer><font color=red> <b>Penicillin, Ampicillin, Ticarcillin, Pipercillin, Imipenem, Aztreonam, Cephalosporins.</b>
+<p>
+</font></answer></question><question><p>Question 61 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>MOA: Block DNA topoisomerases?</b> ... <answer><font color=red> <b>Quinolones</b>
+<p>
+</font></answer></question><question><p>Question 62 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>MOA: Block mRNA synthesis?</b> ... <answer><font color=red> <b>Rifampin</b>
+<p>
+</font></answer></question><question><p>Question 63 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>MOA: Block nucleotide synthesis?</b> ... <answer><font color=red> <b>Sulfonamides, Trimethoprim</b>
+<p>
+</font></answer></question><question><p>Question 64 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>MOA: Block peptidoglycan synthesis?</b> ... <answer><font color=red> <b>Bacitracin, Vancomycin</b>
+<p>
+</font></answer></question><question><p>Question 65 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>MOA: Block protein synthesis at 30s subunit?</b> ... <answer><font color=red> <b>Aminoglycosides, Tetracyclines</b>
+<p>
+</font></answer></question><question><p>Question 66 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>MOA: Block protein synthesis at 50s subunit?</b> ... <answer><font color=red> <b>Chloramphenicol, Erythromycin/macrolides, Lincomycin, Clindamycin, Streptogramins (quinupristin, dalfopristin)</b>
+<p>
+</font></answer></question><question><p>Question 67 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>MOA: Disrupt bacterial cell membranes?</b> ... <answer><font color=red> <b>Polymyxins</b>
+<p>
+</font></answer></question><question><p>Question 68 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>MOA: Unkown?</b> ... <answer><font color=red> <b>Pentamidine</b>
+<p>
+</font></answer></question><question><p>Question 69 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>MOA:Disrupt fungal cell membranes?</b> ... <answer><font color=red> <b><li>Binds to Ergosterol: Amphotericin B, Nystatin<li>Prevents Ergosterol Synthesis: Fluconazole/azoles</b>
+<p>
+</font></answer></question><question><p>Question 70 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name common Polymyxins</b> ... <answer><font color=red> <b>Polymyxin B, Polymyxin E</b>
+<p>
+</font></answer></question><question><p>Question 71 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name several common Macrolides (3)</b> ... <answer><font color=red> <b>Erythromycin, Azithromycin, Clarithromycin</b>
+<p>
+</font></answer></question><question><p>Question 72 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name some common Sulfonamides (4)</b> ... <answer><font color=red> <b>Sulfamethoxazole (SMZ), Sulfisoxazole, Triple sulfas, Sulfadiazine</b>
+<p>
+</font></answer></question><question><p>Question 73 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name some common Tetracyclines (4)</b> ... <answer><font color=red> <b>Tetracycline, Doxycycline, Demeclocycline, Minocycline</b>
+<p>
+</font></answer></question><question><p>Question 74 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name the common Aminoglycosides (5)</b> ... <answer><font color=red> <b>Gentamicin, Neomycin, Amikacin, Tobramycin, Streptomycin</b>
+<p>
+</font></answer></question><question><p>Question 75 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name the common Azoles</b> ... <answer><font color=red> <b>Fluconazole, Ketoconazole, Clotrimazole, Miconazole, Itraconazole</b>
+<p>
+</font></answer></question><question><p>Question 76 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name the common Fluoroquinolones (6)</b> ... <answer><font color=red> <b>Ciprofloxacin, Norfloxacin, Ofloxacin, Grepafloxacin, Enoxacin, Nalidixic acid</b>
+<p>
+</font></answer></question><question><p>Question 77 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name the common Non-Nucleoside Reverse Transcriptase Inhibitors</b> ... <answer><font color=red> <b>Nevirapine, Delavirdine</b>
+<p>
+</font></answer></question><question><p>Question 78 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name the common Nucleoside Reverse Transcriptase Inhibitors</b> ... <answer><font color=red> <b>Zidovudine (AZT), Didanosine (ddI), Zalcitabine (ddC), Stavudine (d4T), Lamivudine (3TC)</b>
+<p>
+</font></answer></question><question><p>Question 79 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name the Protease Inhibitors (4)</b> ... <answer><font color=red> <b>Saquinavir, Ritonavir, Indinavir, Nelfinavir</b>
+<p>
+</font></answer></question><question><p>Question 80 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name two classes of drugs for HIV therapy</b> ... <answer><font color=red> <b>Protease Inhibitors and Reverse Transcriptase Inhibitors</b>
+<p>
+</font></answer></question><question><p>Question 81 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name two organisms Vancomycin is commonly used for?</b> ... <answer><font color=red> <b>Staphlococcus aureus and Clostridium difficile (pseudomembranous colitis)</b>
+<p>
+</font></answer></question><question><p>Question 82 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name the Oral Penicillin?</b> ... <answer><font color=red> <b>Pen V</b>
+<p>
+</font></answer></question><question><p>Question 83 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Resistance mechanisms for Aminoglycosides?</b> ... <answer><font color=red> <b>Modification via Acetylation, Adenylation, or Phosphorylation</b>
+<p>
+</font></answer></question><question><p>Question 84 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Resistance mechanisms for Cephalosporins/Penicillins?</b> ... <answer><font color=red> <b>Beta-lactamase cleavage of Beta-lactam ring</b>
+<p>
+</font></answer></question><question><p>Question 85 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Resistance mechanisms for Chloramphenicol?</b> ... <answer><font color=red> <b>Modification via Acetylation</b>
+<p>
+</font></answer></question><question><p>Question 86 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Resistance mechanisms for Macrolides?</b> ... <answer><font color=red> <b>Methylation of rRNA near Erythromycin's ribosome binding site</b>
+<p>
+</font></answer></question><question><p>Question 87 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Resistance mechanisms for Sulfonamides?</b> ... <answer><font color=red> <b>Altered bacterial Dihydropteroate Synthetase, Decreased uptake, or Increased PABA synthesis</b>
+<p>
+</font></answer></question><question><p>Question 88 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Resistance mechanisms for Tetracycline?</b> ... <answer><font color=red> <b>Decreased uptake or Increased transport out of cell</b>
+<p>
+</font></answer></question><question><p>Question 89 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Resistance mechanisms for Vancomycin?</b> ... <answer><font color=red> <b>Terminal D-ala of cell wall replaced with D-lac; Decreased affinity</b>
+<p>
+</font></answer></question><question><p>Question 90 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Toxicities associated with Acyclovir?</b> ... <answer><font color=red> <b>Delirium, Tremor, Nephrotoxicity</b>
+<p>
+</font></answer></question><question><p>Question 91 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What additional side effects exist for Ampicillin?</b> ... <answer><font color=red> <b>Rash, Pseudomembranous colitis</b>
+<p>
+</font></answer></question><question><p>Question 92 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What antimicrobial class is Aztreonam syngergestic with?</b> ... <answer><font color=red> <b>Aminoglycosides</b>
+<p>
+</font></answer></question><question><p>Question 93 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are Amantadine-associated side effects?</b> ... <answer><font color=red> <b>Ataxia, Dizziness, Slurred speech</b>
+<p>
+</font></answer></question><question><p>Question 94 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are Aminoglycosides synergistic with?</b> ... <answer><font color=red> <b>Beta-lactam antibiotics</b>
+<p>
+</font></answer></question><question><p>Question 95 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are Aminoglycosides used for clinically?</b> ... <answer><font color=red> <b>Severe Gram - rod infections.</b>
+<p>
+</font></answer></question><question><p>Question 96 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are common serious side effects of Aminoglycosides and what are these associated with?</b> ... <answer><font color=red> <b>Nephrotoxicity (esp. with Cephalosporins), Ototoxicity (esp. with Loop Diuretics)</b>
+<p>
+</font></answer></question><question><p>Question 97 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are common side effects of Amphotericin B?</b> ... <answer><font color=red> <b>Fever/Chills, Hypotension, Nephrotoxicity, Arrhythmias</b>
+<p>
+</font></answer></question><question><p>Question 98 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are common side effects of Protease Inhibitors?</b> ... <answer><font color=red> <b>GI intolerance (nausea, diarrhea), Hyperglycemia, Lipid abnormalities, Thrombocytopenia (Indinavir)</b>
+<p>
+</font></answer></question><question><p>Question 99 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are common side effects of RT Inhibitors?</b> ... <answer><font color=red> <b>Bone marrow suppression (neutropenia, anemia), Peripheral neuropathy</b>
+<p>
+</font></answer></question><question><p>Question 100 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are common toxic side effects of Sulfonamides? (5)</b> ... <answer><font color=red> <b>- Hypersensitivity reactions - Hemolysis - Nephrotoxicity (tubulointerstitial nephritis) - Kernicterus in infants - Displace other drugs from albumin (e.g., warfarin)</b>
+<p>
+</font></answer></question><question><p>Question 101 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are common toxicities associated with Macrolides? (4)</b> ... <answer><font color=red> <b>GI discomfort, Acute cholestatic hepatitis, Eosinophilia, Skin rashes</b>
+<p>
+</font></answer></question><question><p>Question 102 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are common toxicities associated with Tetracyclines?</b> ... <answer><font color=red> <b>GI distress, Tooth discoloration and Inhibition of bone growth in children, Fanconi's syndrome, Photosensitivity</b>
+<p>
+</font></answer></question><question><p>Question 103 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are common toxicities related to Vancomycin therapy?</b> ... <answer><font color=red> <b>Well tolerated in general but occasionally, Nephrotoxicity, Ototoxicity, Thrombophlebitis, diffuse flushing='Red Man Syndrome'</b>
+<p>
+</font></answer></question><question><p>Question 104 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are Fluoroquinolones indicated for? (3)</b> ... <answer><font color=red> <b>1.Gram - rods of the Urinary and GI tracts (including Pseudomonas) 2.Neisseria 3. Some Gram + organisms</b>
+<p>
+</font></answer></question><question><p>Question 105 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are major side effects of Methicillin, Nafcillin, and Dicloxacillin?</b> ... <answer><font color=red> <b>Hypersensitivity reactions</b>
+<p>
+</font></answer></question><question><p>Question 106 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are Methicillin, Nafcillin, and Dicloxacillin used for clinically?</b> ... <answer><font color=red> <b>Staphlococcus aureus</b>
+<p>
+</font></answer></question><question><p>Question 107 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are Polymyxins used for?</b> ... <answer><font color=red> <b>Resistant Gram - infections</b>
+<p>
+</font></answer></question><question><p>Question 108 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the Anti-TB drugs?</b> ... <answer><font color=red> <b>Rifampin, Ethambutol, Streptomycin, Pyrazinamide, Isoniazid (INH)</b>
+<p>
+</font></answer></question><question><p>Question 109 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the clinical indications for Azole therapy?</b> ... <answer><font color=red> <b>Systemic mycoses</b>
+<p>
+</font></answer></question><question><p>Question 110 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the clinical uses for 1st Generation Cephalosporins?</b> ... <answer><font color=red> <b>Gram + cocci, Proteus mirabilis, E. coli, Klebsiella pneumoniae (PEcK)</b>
+<p>
+</font></answer></question><question><p>Question 111 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the clinical uses for 2nd Generation Cephalosporins?</b> ... <answer><font color=red> <b>Gram + cocci, Haemophilus influenza, Enterobacter aerogenes, Neisseria species, P. mirabilis, E. coli, K. pneumoniae, Serratia marcescens ( HEN PEcKS )</b>
+<p>
+</font></answer></question><question><p>Question 112 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the clinical uses for 3rd Generation Cephalosporins?</b> ... <answer><font color=red> <b>1) Serious Gram - infections resistant to other Beta lactams 2) Meningitis (most penetrate the BBB)</b>
+<p>
+</font></answer></question><question><p>Question 113 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the clinical uses for Aztreonam?</b> ... <answer><font color=red> <b>Gram - rods: Klebsiella species, Pseudomonas species, Serratia species</b>
+<p>
+</font></answer></question><question><p>Question 114 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the clinical uses for Imipenem/cilastatin?</b> ... <answer><font color=red> <b>Gram + cocci, Gram - rods, and Anerobes</b>
+<p>
+</font></answer></question><question><p>Question 115 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the Macrolides used for clinically?</b> ... <answer><font color=red> <b>-Upper respiratory tract infections -pneumonias -STDs: Gram+ cocci (streptococcal infect in pts allergic to penicillin) -Mycoplasma, Legionella,Chlamydia, Neisseria</b>
+<p>
+</font></answer></question><question><p>Question 116 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the major structural differences between Penicillin and Cephalosporin?</b> ... <answer><font color=red> <b>Cephalosporin: 1) has a 6 member ring attached to the Beta lactam instead of a 5 member ring 2)has an extra functional group ( attached to the 6 member ring)</b>
+<p>
+</font></answer></question><question><p>Question 117 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the major toxic side effects of Imipenem/cilastatin?</b> ... <answer><font color=red> <b>GI distress, Skin rash, and Seizures at high plasma levels</b>
+<p>
+</font></answer></question><question><p>Question 118 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the major toxic side effects of the Cephalosporins?</b> ... <answer><font color=red> <b>1) Hypersensitivity reactions 2) Increased nephrotoxicity of Aminoglycosides 3) Disulfiram-like reaction with ethanol (those with a methylthiotetrazole group, e.g., cefamandole)</b>
+<p>
+</font></answer></question><question><p>Question 119 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the side effects of Polymyxins?</b> ... <answer><font color=red> <b>Neurotoxicity, Acute renal tubular necrosis</b>
+<p>
+</font></answer></question><question><p>Question 120 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the side effects of Rifampin?</b> ... <answer><font color=red> <b>Minor hepatotoxicity, Drug interactions (activates P450)</b>
+<p>
+</font></answer></question><question><p>Question 121 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are toxic side effects for Metronidazole?</b> ... <answer><font color=red> <b>Disulfiram-like reaction with EtOH, Headache</b>
+<p>
+</font></answer></question><question><p>Question 122 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are toxicities associated with Chloramphenicol?</b> ... <answer><font color=red> <b>Aplastic anemia (dose independent), Gray Baby Syndrome</b>
+<p>
+</font></answer></question><question><p>Question 123 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What conditions are treated with Metronidazole?</b> ... <answer><font color=red> <b>Giardiasis, Amoebic dysentery (E. histolytica), Bacterial vaginitis (Gardnerella vaginalis), Trichomonas</b>
+<p>
+</font></answer></question><question><p>Question 124 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What do Aminoglycosides require for uptake?</b> ... <answer><font color=red> <b>Oxygen</b>
+<p>
+</font></answer></question><question><p>Question 125 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What do you treat Nematode/roundworm (pinworm, whipworm) infections with?</b> ... <answer><font color=red> <b>Mebendazole/Thiabendazole, Pyrantel Pamoate</b>
+<p>
+</font></answer></question><question><p>Question 126 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What drug is given for Pneumocystis carinii prophylaxis?</b> ... <answer><font color=red> <b>Pentamidine</b>
+<p>
+</font></answer></question><question><p>Question 127 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What drug is used during the pregnancy of an HIV + mother?, Why?</b> ... <answer><font color=red> <b>AZT, to reduce risk of Fetal Transmission</b>
+<p>
+</font></answer></question><question><p>Question 128 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What drug is used to treat Trematode/fluke (e.g., Schistosomes, Paragonimus, Clonorchis) or Cysticercosis?</b> ... <answer><font color=red> <b>Praziquantel</b>
+<p>
+</font></answer></question><question><p>Question 129 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is a common drug interaction associated with Griseofulvin?</b> ... <answer><font color=red> <b>Increases coumadin metabolism</b>
+<p>
+</font></answer></question><question><p>Question 130 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is a mnemonic to remember Amantadine's function?</b> ... <answer><font color=red> <b>Blocks Influenza A and RubellA; causes problems with the cerebellA</b>
+<p>
+</font></answer></question><question><p>Question 131 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is a prerequisite for Acyclovir activation?</b> ... <answer><font color=red> <b>It must be Phosphorylated by Viral Thymidine Kinase</b>
+<p>
+</font></answer></question><question><p>Question 132 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is a Ribavirin toxicity?</b> ... <answer><font color=red> <b>Hemolytic anemia</b>
+<p>
+</font></answer></question><question><p>Question 133 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is an acronym to remember Anti-TB drugs?</b> ... <answer><font color=red> <b>RESPIre</b>
+<p>
+</font></answer></question><question><p>Question 134 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is an additional side effect of Methicillin?</b> ... <answer><font color=red> <b>Interstitial nephritis</b>
+<p>
+</font></answer></question><question><p>Question 135 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is an occasional side effect of Aztreonam?</b> ... <answer><font color=red> <b>GI upset</b>
+<p>
+</font></answer></question><question><p>Question 136 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is Clindamycin used for clinically?</b> ... <answer><font color=red> <b>Anaerobic infections (e.g., B. fragilis, C. perfringens)</b>
+<p>
+</font></answer></question><question><p>Question 137 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is clinical use for Carbenicillin, Piperacillin, and Ticarcillin?</b> ... <answer><font color=red> <b>Pseudomonas species and Gram - rods</b>
+<p>
+</font></answer></question><question><p>Question 138 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is combination TMP-SMZ used to treat?</b> ... <answer><font color=red> <b>Recurrent UTIs, Shigella, Salmonella, Pneumocystis carinii pneumonia</b>
+<p>
+</font></answer></question><question><p>Question 139 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is combined with Ampicillin, Amoxicillin, Carbenicillin, Piperacillin, and Ticarcillin to enhance their spectrum?</b> ... <answer><font color=red> <b>Clavulanic acid</b>
+<p>
+</font></answer></question><question><p>Question 140 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is Fluconazole specifically used for?</b> ... <answer><font color=red> <b>Cryptococcal meningitis in AIDS patients and Candidal infections of all types</b>
+<p>
+</font></answer></question><question><p>Question 141 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is Imipenem always administered with?</b> ... <answer><font color=red> <b>Cilastatin</b>
+<p>
+</font></answer></question><question><p>Question 142 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is Ketoconazole specifically used for?</b> ... <answer><font color=red> <b>Blastomyces, Coccidioides, Histoplasma, C. albicans; Hypercortisolism</b>
+<p>
+</font></answer></question><question><p>Question 143 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is Metronidazole combined with for 'triple therapy'? Against what organism?</b> ... <answer><font color=red> <b>Bismuth and Amoxicillin or Tetracycline; against Helobacter pylori</b>
+<p>
+</font></answer></question><question><p>Question 144 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is Metronidazole used for clinically?</b> ... <answer><font color=red> <b>Antiprotozoal: Giardia, Entamoeba, Trichomonas, Gardnerella vaginalis Anaerobes: Bacteroides, Clostridium</b>
+<p>
+</font></answer></question><question><p>Question 145 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is Niclosamide used for?</b> ... <answer><font color=red> <b>Cestode/tapeworm (e.g., D. latum, Taenia species Except Cysticercosis</b>
+<p>
+</font></answer></question><question><p>Question 146 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is Nifurtimox administered for?</b> ... <answer><font color=red> <b>Chagas' disease, American Trypanosomiasis (Trypanosoma cruzi)</b>
+<p>
+</font></answer></question><question><p>Question 147 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the chemical name for Ganciclovir?</b> ... <answer><font color=red> <b>DHPG (dihydroxy-2-propoxymethyl guanine)</b>
+<p>
+</font></answer></question><question><p>Question 148 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the clinical use for Ampicillin and Amoxicillin?</b> ... <answer><font color=red> <b>Extended spectrum penicillin: certain Gram + bacteria and Gram - rods</b>
+<p>
+</font></answer></question><question><p>Question 149 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the clinical use for Nystatin?</b> ... <answer><font color=red> <b>Topical and Oral, for Oral Candidiasis (Thrush)</b>
+<p>
+</font></answer></question><question><p>Question 150 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the clinical use for Penicillin?</b> ... <answer><font color=red> <b>Bactericidal for: Gram + rod and cocci, Gram - cocci, and Spirochetes</b>
+<p>
+</font></answer></question><question><p>Question 151 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the major side effect for Ampicillin and Amoxicillin?</b> ... <answer><font color=red> <b>Hypersensitivity reactions</b>
+<p>
+</font></answer></question><question><p>Question 152 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the major side effect for Carbenicillin, Piperacillin, and Ticarcillin?</b> ... <answer><font color=red> <b>Hypersensitivity reactions</b>
+<p>
+</font></answer></question><question><p>Question 153 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the major toxic side effect of Penicillin?</b> ... <answer><font color=red> <b>Hypersensitivity reactions</b>
+<p>
+</font></answer></question><question><p>Question 154 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the memory aid for subunit distribution of ribosomal inhibitors?</b> ... <answer><font color=red> <b>Buy AT 30, CELL at 50</b>
+<p>
+</font></answer></question><question><p>Question 155 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the memory key for Isoniazid (INH) toxicity?</b> ... <answer><font color=red> <b>INH: Injures Neurons and Hepatocytes</b>
+<p>
+</font></answer></question><question><p>Question 156 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the memory key for Metronidazole's clinical uses?</b> ... <answer><font color=red> <b>GET on the Metro</b>
+<p>
+</font></answer></question><question><p>Question 157 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the memory key for organisms treated with Tetracyclines?</b> ... <answer><font color=red> <b>VACUUM your Bed Room</b>
+<p>
+</font></answer></question><question><p>Question 158 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the memory key involving the 4 R's of Rifampin?</b> ... <answer><font color=red> <b>1. RNA pol inhibitor 2. Revs up P450 3. Red/orange body fluids 4. Rapid resistance if used alone</b>
+<p>
+</font></answer></question><question><p>Question 159 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for Acyclovir?</b> ... <answer><font color=red> <b>Inhibit viral DNA polymerase</b>
+<p>
+</font></answer></question><question><p>Question 160 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for Amphotericin B?</b> ... <answer><font color=red> <b>Binds Ergosterol, forms Membrane Pores that Disrupt Homeostatis</b>
+<p>
+</font></answer></question><question><p>Question 161 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for Ampicillin and Amoxicillin?</b> ... <answer><font color=red> <b>Same as penicillin. Extended spectrum antibiotics</b>
+<p>
+</font></answer></question><question><p>Question 162 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for Carbenicillin, Piperacillin, and Ticarcillin?</b> ... <answer><font color=red> <b>Same as penicillin. Extended spectrum antibiotics</b>
+<p>
+</font></answer></question><question><p>Question 163 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for Clindamycin?</b> ... <answer><font color=red> <b>Blocks Peptide Bond formation at the 50S subunit, Bacteriostatic</b>
+<p>
+</font></answer></question><question><p>Question 164 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for Methicillin, Nafcillin, and Dicloxacillin?</b> ... <answer><font color=red> <b>Same as penicillin. Act as narrow spectrum antibiotics</b>
+<p>
+</font></answer></question><question><p>Question 165 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for Metronidazole?</b> ... <answer><font color=red> <b>Forms toxic metabolites in the bacterial cell, Bactericidal</b>
+<p>
+</font></answer></question><question><p>Question 166 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for Nystatin?</b> ... <answer><font color=red> <b>Binds ergosterol, Disrupts fungal membranes</b>
+<p>
+</font></answer></question><question><p>Question 167 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for Rifampin?</b> ... <answer><font color=red> <b>Inhibits DNA dependent RNA polymerase</b>
+<p>
+</font></answer></question><question><p>Question 168 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for the Aminoglycosides?</b> ... <answer><font color=red> <b>Inhibits formation of Initiation Complex, causes misreading of mRNA, Bactericidal</b>
+<p>
+</font></answer></question><question><p>Question 169 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for the Azoles?</b> ... <answer><font color=red> <b>Inhibit Ergosterol synthesis</b>
+<p>
+</font></answer></question><question><p>Question 170 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for the Cephalosporins?</b> ... <answer><font color=red> <b>Beta lactams - inhibit cell wall synthesis, Bactericidal</b>
+<p>
+</font></answer></question><question><p>Question 171 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for the Fluoroquinolones?</b> ... <answer><font color=red> <b>Inhibit DNA Gyrase (topoisomerase II), Bactericidal</b>
+<p>
+</font></answer></question><question><p>Question 172 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for the Macrolides?</b> ... <answer><font color=red> <b>Blocks translocation, binds to the 23S rRNA of the 50S subunit, Bacteriostatic</b>
+<p>
+</font></answer></question><question><p>Question 173 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for the Tetracyclines?</b> ... <answer><font color=red> <b>Binds 30S subunit and prevents attachment of aminoacyl-tRNA, Bacteriostatic</b>
+<p>
+</font></answer></question><question><p>Question 174 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for Trimethoprim (TMP)?</b> ... <answer><font color=red> <b>Inhibits bacterial Dihydrofolate Reductase, Bacteriostatic</b>
+<p>
+</font></answer></question><question><p>Question 175 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA for Vancomycin?</b> ... <answer><font color=red> <b>Inhibits cell wall mucopeptide formation, Bactericidal</b>
+<p>
+</font></answer></question><question><p>Question 176 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA of Amantadine?</b> ... <answer><font color=red> <b>Blocks viral penetration/uncoating; may act to buffer the pH of the endosome</b>
+<p>
+</font></answer></question><question><p>Question 177 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA of Aztreonam?</b> ... <answer><font color=red> <b>Inhibits cell wall synthesis ( binds to PBP3). A monobactam</b>
+<p>
+</font></answer></question><question><p>Question 178 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA of Foscarnet?</b> ... <answer><font color=red> <b>Inhibits Viral DNA polymerase</b>
+<p>
+</font></answer></question><question><p>Question 179 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA of Ganciclovir?</b> ... <answer><font color=red> <b>Inhibits CMV DNA polymerase</b>
+<p>
+</font></answer></question><question><p>Question 180 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA of Griseofulvin?</b> ... <answer><font color=red> <b>Interferes with microtubule function, disrupts mitosis, inhibits growth</b>
+<p>
+</font></answer></question><question><p>Question 181 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA of Imipenem?</b> ... <answer><font color=red> <b>Acts as a wide spectrum carbapenem</b>
+<p>
+</font></answer></question><question><p>Question 182 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA of Isoniazid (INH)?</b> ... <answer><font color=red> <b>Decreases synthesis of Mycolic Acid</b>
+<p>
+</font></answer></question><question><p>Question 183 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA of Polymyxins?</b> ... <answer><font color=red> <b>Bind cell membrane, disrupt osmotic properties, Are Cationc, Basic and act as detergents</b>
+<p>
+</font></answer></question><question><p>Question 184 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA of Ribavirin?</b> ... <answer><font color=red> <b>Inhibits IMP Dehydrogenase (competitively), and therefore blocks Guanine Nucleotide synthesis</b>
+<p>
+</font></answer></question><question><p>Question 185 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the MOA of the RT Inhibitors?</b> ... <answer><font color=red> <b>Inhibit RT of HIV and prevent the incorporation of viral genome into the host DNA</b>
+<p>
+</font></answer></question><question><p>Question 186 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the most common cause of Pt noncompliance with Macrolides?</b> ... <answer><font color=red> <b>GI discomfort</b>
+<p>
+</font></answer></question><question><p>Question 187 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is treated with Chloroquine, Quinine, Mefloquine?</b> ... <answer><font color=red> <b>Malaria (P. falciparum)</b>
+<p>
+</font></answer></question><question><p>Question 188 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What microorganisms are Aminoglycosides ineffective against?</b> ... <answer><font color=red> <b>Anaerobes</b>
+<p>
+</font></answer></question><question><p>Question 189 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What microorganisms are clinical indications for Tetracycline therapy?</b> ... <answer><font color=red> <b>Vibrio Cholerae,  Acne, Chlamydia,  Ureaplasma Urealyticum,  Mycoplasma pneumoniae, Borrelia burgdorferi (Lyme's), Rickettsia,  Tularemia</b>
+<p>
+</font></answer></question><question><p>Question 190 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What microorganisms is Aztreonam not effective against?</b> ... <answer><font color=red> <b>Gram + and Anerobes</b>
+<p>
+</font></answer></question><question><p>Question 191 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What musculo-skeletal side effects in Adults are associated with Floroquinolones?</b> ... <answer><font color=red> <b>Tendonitis and Tendon rupture</b>
+<p>
+</font></answer></question><question><p>Question 192 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What neurotransmitter does Amantadine affect? How does it influence this NT?</b> ... <answer><font color=red> <b>Dopamine; causes its release from intact nerve terminals</b>
+<p>
+</font></answer></question><question><p>Question 193 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What organism is Imipenem/cilastatin the Drug of Choice for?</b> ... <answer><font color=red> <b>Enterobacter</b>
+<p>
+</font></answer></question><question><p>Question 194 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What organisms does Griseofulvin target?</b> ... <answer><font color=red> <b>Dermatophytes (tinea, ringworm)</b>
+<p>
+</font></answer></question><question><p>Question 195 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What parasites are treated with Pyrantel Pamoate (more specific)?</b> ... <answer><font color=red> <b>Giant Roundworm (Ascaris), Hookworm (Necator/Ancylostoma), Pinworm (Enterobius)</b>
+<p>
+</font></answer></question><question><p>Question 196 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What parasitic condition is treated with Ivermectin?</b> ... <answer><font color=red> <b>Onchocerciasis ('river blindness'--rIVER-mectin)</b>
+<p>
+</font></answer></question><question><p>Question 197 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What populations are Floroquinolones contraindicated in? Why?</b> ... <answer><font color=red> <b>Pregnant women, Children; because animal studies show Damage to Cartilage</b>
+<p>
+</font></answer></question><question><p>Question 198 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What should not be taken with Tetracyclines? / Why?</b> ... <answer><font color=red> <b>Milk or Antacids, because divalent cations inhibit Tetracycline absorption in the gut</b>
+<p>
+</font></answer></question><question><p>Question 199 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What Sulfonamides are used for simple UTIs?</b> ... <answer><font color=red> <b>Triple sulfas or SMZ</b>
+<p>
+</font></answer></question><question><p>Question 200 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>When is HIV therapy initiated?</b> ... <answer><font color=red> <b>When pts have Low CD4+ (&lt; 500 cells/cubic mm) or a High Viral Load</b>
+<p>
+</font></answer></question><question><p>Question 201 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>When is Rifampin used alone?</b> ... <answer><font color=red> <b>1. Meningococcal carrier state 2. Chemoprophylaxis in contacts of children with H. influenzae type B</b>
+<p>
+</font></answer></question><question><p>Question 202 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Where does Griseofulvin deposit?</b> ... <answer><font color=red> <b>Keratin containing tissues, e.g., nails</b>
+<p>
+</font></answer></question><question><p>Question 203 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which Aminoglycoside is used for Bowel Surgery?</b> ... <answer><font color=red> <b>Neomycin</b>
+<p>
+</font></answer></question><question><p>Question 204 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which antimicrobial classes inhibit protein synthesis at the 30S subunit? (2)</b> ... <answer><font color=red> <b>1) Aminoglycosides = bactericidal 2) Tetracyclines = bacteriostatic</b>
+<p>
+</font></answer></question><question><p>Question 205 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which antimicrobials inhibit protein synthesis at the 50S subunit? (4)</b> ... <answer><font color=red> <b>1) Chloramphenicol = bacteriostatic 2) Erythromycin = bacteriostatic 3) Lincomycin = bacteriostatic 4)cLindamycin = bacteriostatic</b>
+<p>
+</font></answer></question><question><p>Question 206 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which individuals are predisposed to Sulfonamide-induced hemolysis?</b> ... <answer><font color=red> <b>G6PD deficient individuals</b>
+<p>
+</font></answer></question><question><p>Question 207 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which RT inhibitor causes Megaloblastic Anemia?</b> ... <answer><font color=red> <b>AZT</b>
+<p>
+</font></answer></question><question><p>Question 208 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which RT inhibitors cause a Rash?</b> ... <answer><font color=red> <b>Non-Nucleosides</b>
+<p>
+</font></answer></question><question><p>Question 209 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which RT inhibitors cause Lactic Acidosis?</b> ... <answer><font color=red> <b>Nucleosides</b>
+<p>
+</font></answer></question><question><p>Question 210 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which Tetracycline is used in patients with renal failure? Why?</b> ... <answer><font color=red> <b>Doxycycline, because it is fecally eliminated</b>
+<p>
+</font></answer></question><question><p>Question 211 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why are Methicillin, Nafcillin, and Dicloxacillin penicillinase resistant?</b> ... <answer><font color=red> <b>Due to the presence of a bulkier R group</b>
+<p>
+</font></answer></question><question><p>Question 212 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why is Cilastatin administered with Imipenem?</b> ... <answer><font color=red> <b>To inhibit renal Dihydropeptidase I and decrease Imipenem inactivation in the renal tubules</b>
+<p>
+</font></answer></question><question><p>Question 213 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of 5 FU.</b> ... <answer><font color=red> <b>MECH: S-phase anti-metabolite. Pyrimidine analog bioactivated to 5FdUMP, which covalently complexes folic acid.  This complex inhibits thymidylate synthase, resulting in decreased dTMP and same effects as methotrexate; CLIN USE: Colon, solid tumors, &amp; basal cell carcinoma (topical); TOX: Irreversible myelosuppression</b>
+<p>
+</font></answer></question><question><p>Question 214 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of 6 MP.</b> ... <answer><font color=red> <b>MECH: inhibits HGPRT, thus blocking purine synthesis; CLIN:  Lukemias, Lymphomas (not CLL or Hodgkin's); TOX: Bone marrow, GI, liver.  Metabolized by xanthine oxidase, thus increasing toxicity with allopurinol.</b>
+<p>
+</font></answer></question><question><p>Question 215 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of Bleomycin.</b> ... <answer><font color=red> <b>-DNA intercalator -testicular &amp; lymphomas -Pulmonary fibrosis mild myelosuppression.</b>
+<p>
+</font></answer></question><question><p>Question 216 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of Busulfan.</b> ... <answer><font color=red> <b>-Alkalates DNA -CML -Pulmonary fibrosis hyperpigmentation</b>
+<p>
+</font></answer></question><question><p>Question 217 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of Cisplatin.</b> ... <answer><font color=red> <b>-Alkalating agent -testicular,bladder,ovary,&amp;lung -Nephrotoxicity &amp; CN VIII damage.</b>
+<p>
+</font></answer></question><question><p>Question 218 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of Cyclophosphamide.</b> ... <answer><font color=red> <b>-Alkalating agent -NHL, Breast, ovary, &amp; lung. - Myelosuppression, &amp; hemorrhagic cystitis.</b>
+<p>
+</font></answer></question><question><p>Question 219 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of Doxorubicin.</b> ... <answer><font color=red> <b>-DNA intercalator -Hodgkin's, myeloma, sarcoma, and solid tumors -Cardiotoxicity &amp; alopecia</b>
+<p>
+</font></answer></question><question><p>Question 220 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of Etoposide.</b> ... <answer><font color=red> <b>-Topo II inhibitor(GII specific) -Oat cell of Lung &amp; prostate, &amp; testicular -Myelosuppression &amp; GI irritation.</b>
+<p>
+</font></answer></question><question><p>Question 221 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of Methotrexate.</b> ... <answer><font color=red> <b>-S-phase anti-metabolite folate analogue -Luk, Lymp, sarc, RA, &amp;psoriasis / -Reversible myelosuppression</b>
+<p>
+</font></answer></question><question><p>Question 222 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of Nitrosureas.</b> ... <answer><font color=red> <b>-Alkalate DNA -Brain tumors -CNS toxicity</b>
+<p>
+</font></answer></question><question><p>Question 223 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of Paclitaxel.</b> ... <answer><font color=red> <b>-Microtubule polymerization stabilizer -Ovarian &amp; breast CA -Myelosupperession &amp; hypersensitivity.</b>
+<p>
+</font></answer></question><question><p>Question 224 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of Prednisone.</b> ... <answer><font color=red> <b>-Triggers apoptosis - CLL, Hodgkin's in MOPP, immunosuppresant used in autoimmune diseases - Cushing-like syndrome.</b>
+<p>
+</font></answer></question><question><p>Question 225 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of Tamoxifen.</b> ... <answer><font color=red> <b>-Estrogen receptor antagonist -Breast CA -increased endometrial CA risk</b>
+<p>
+</font></answer></question><question><p>Question 226 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the mechanism, clinical use, &amp; toxicity of Vincristine.</b> ... <answer><font color=red> <b>-MT polymerization inhibitor(M phase) -MOPP, lymphoma, Willm's &amp; choriocarcinoma -neurotoxicity and myelosuppression</b>
+<p>
+</font></answer></question><question><p>Question 227 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which cancer drugs effect nuclear DNA (4)?</b> ... <answer><font color=red> <b>-Alkalating agents+cisplatin -Doxorubicin+Dactinomycin -Bleomycin -Etoposide</b>
+<p>
+</font></answer></question><question><p>Question 228 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which cancer drugs inhibit nucleotide synthesis(3)?</b> ... <answer><font color=red> <b>- Methotrexate - 5 FU - 6 mercaptopurine</b>
+<p>
+</font></answer></question><question><p>Question 229 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which cancer drugs work at the level of mRNA(2)?</b> ... <answer><font color=red> <b>-Steroids -Tamoxifen</b>
+<p>
+</font></answer></question><question><p>Question 230 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which cancer drugs work at the level of proteins(2)?</b> ... <answer><font color=red> <b>-Vinca alkaloids(inhibit MT) -Paclitaxel</b>
+<p>
+</font></answer></question><question><p>Question 231 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>ACE inhibitors- clinical use?</b> ... <answer><font color=red> <b>hypertension, CHF, diabetic renal disease</b>
+<p>
+</font></answer></question><question><p>Question 232 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>ACE inhibitors- mechanism?</b> ... <answer><font color=red> <b>reduce levels of Angiotensin II, thereby preventing the inactivation of bradykinin (a potent vasodilator); renin level is increased</b>
+<p>
+</font></answer></question><question><p>Question 233 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>ACE inhibitors- toxicity?</b> ... <answer><font color=red> <b>fetal renal damage, hyperkalemia, Cough, Angioedema, Proteinuria, Taste changes, hypOtension, Pregnancy problems, Rash, Increased renin, Lower Angiotensin II (CAPTOPRIL)</b>
+<p>
+</font></answer></question><question><p>Question 234 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Acetazolamide- clinical uses?</b> ... <answer><font color=red> <b>glaucoma, urinary alkalinization, metabolic alkalosis, altitude sickness</b>
+<p>
+</font></answer></question><question><p>Question 235 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Acetazolamide- mechanism?</b> ... <answer><font color=red> <b>acts at the proximal convoluted tubule to inhibit carbonic anhydrase. Causes self-limited sodium bicarb diuresis and reduction of total body bicarb stores.</b>
+<p>
+</font></answer></question><question><p>Question 236 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>acetazolamide- site of action?</b> ... <answer><font color=red> <b>proximal convoluted tubule</b>
+<p>
+</font></answer></question><question><p>Question 237 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Acetazolamide- toxicity?</b> ... <answer><font color=red> <b>hyperchloremic metabolic acidosis, neuropathy, NH3 toxicity, sulfa allergy</b>
+<p>
+</font></answer></question><question><p>Question 238 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Acetazolamide causes?</b> ... <answer><font color=red> <b>ACIDazolamide causes acidosis</b>
+<p>
+</font></answer></question><question><p>Question 239 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Adenosine- clinical use?</b> ... <answer><font color=red> <b>DOC in diagnosing and abolishing AV nodal arrhythmias</b>
+<p>
+</font></answer></question><question><p>Question 240 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>ADH antagonists- site of action?</b> ... <answer><font color=red> <b>collecting ducts</b>
+<p>
+</font></answer></question><question><p>Question 241 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effect of Nitroprusside?</b> ... <answer><font color=red> <b>cyanide toxicity (releases CN)</b>
+<p>
+</font></answer></question><question><p>Question 242 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effects of beta-blockers?</b> ... <answer><font color=red> <b>impotence, asthma, CV effects (bradycardia, CHF, AV block), CNS effects (sedation, sleep alterations)</b>
+<p>
+</font></answer></question><question><p>Question 243 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effects of Captopril?</b> ... <answer><font color=red> <b>fetal renal toxicity, hyperkalemia, Cough, Angioedema, Proteinuria, Taste changes, hypOtension, Pregnancy problems, Rash, Increased renin, Lower Angiotensin II (CAPTOPRIL)</b>
+<p>
+</font></answer></question><question><p>Question 244 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effects of Clonidine?</b> ... <answer><font color=red> <b>dry mouth, sedation, severe rebound hypertension</b>
+<p>
+</font></answer></question><question><p>Question 245 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effects of ganglionic blockers?</b> ... <answer><font color=red> <b>severe orthostatic hypotension, blurred vision, constipation, sexual dysfunction</b>
+<p>
+</font></answer></question><question><p>Question 246 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effects of Guanethidine?</b> ... <answer><font color=red> <b>orthostatic and exercise hypotension, sexual dysfunction, diarrhea</b>
+<p>
+</font></answer></question><question><p>Question 247 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effects of Hydralazine?</b> ... <answer><font color=red> <b>nausea, headache, lupus-like syndrome, reflex tachycardia, angina, salt retention</b>
+<p>
+</font></answer></question><question><p>Question 248 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effects of Hydrochlorothiazide?</b> ... <answer><font color=red> <b>hypokalemia, slight hyperlipidemia, hyperuricemia, lassitude, hypercalcemia, hyperglycemia</b>
+<p>
+</font></answer></question><question><p>Question 249 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effects of Loop Diuretics?</b> ... <answer><font color=red> <b>K+ wasting, metabolic alkalosis, hypotension, ototoxicity</b>
+<p>
+</font></answer></question><question><p>Question 250 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b> effects of Losartan?</b> ... <answer><font color=red> <b>fetal renal toxicity, hyperkalemia</b>
+<p>
+</font></answer></question><question><p>Question 251 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effects of Methyldopa?</b> ... <answer><font color=red> <b>sedation, positive Coombs' test</b>
+<p>
+</font></answer></question><question><p>Question 252 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effects of Minoxidil?</b> ... <answer><font color=red> <b>hypertrichosis, pericardial effusion, reflex tachycardia, angina, salt retention</b>
+<p>
+</font></answer></question><question><p>Question 253 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effects of Nifedipine, verapamil?</b> ... <answer><font color=red> <b>dizziness, flushing, constipation (verapamil), nausea</b>
+<p>
+</font></answer></question><question><p>Question 254 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effects of Prazosin?</b> ... <answer><font color=red> <b>first dose orthostatic hypotension, dizziness, headache</b>
+<p>
+</font></answer></question><question><p>Question 255 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>adverse effects of Reserpine?</b> ... <answer><font color=red> <b>sedation, depression, nasal stuffiness, diarrhea</b>
+<p>
+</font></answer></question><question><p>Question 256 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Digitalis antidote?</b> ... <answer><font color=red> <b>stop dig, slowly normalize K+, lidocaine, and anti-Dig Fab fragments</b>
+<p>
+</font></answer></question><question><p>Question 257 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Beta Blockers- CNS toxicity?</b> ... <answer><font color=red> <b>sedation, sleep alterations</b>
+<p>
+</font></answer></question><question><p>Question 258 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Beta Blockers- CV toxicity?</b> ... <answer><font color=red> <b>bradycardia, AV block, CHF</b>
+<p>
+</font></answer></question><question><p>Question 259 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Beta Blockers- site of action?</b> ... <answer><font color=red> <b>Beta adrenergic receptors and  Ca2+ channels (stimulatory)</b>
+<p>
+</font></answer></question><question><p>Question 260 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Bretyllium- toxicity?</b> ... <answer><font color=red> <b>new arrhythmias, hypotension</b>
+<p>
+</font></answer></question><question><p>Question 261 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Ca2+ channel blockers- clinical use?</b> ... <answer><font color=red> <b>hypertension, angina, arrhythmias</b>
+<p>
+</font></answer></question><question><p>Question 262 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Ca2+ channel blockers- mechanism?</b> ... <answer><font color=red> <b>block voltage dependent L-type Ca2+ channels of cardiac and smooth muscle- decreasing contractility</b>
+<p>
+</font></answer></question><question><p>Question 263 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Ca2+ channel blockers- site of action?</b> ... <answer><font color=red> <b>Cell membrane Ca2+ channels of cardiac sarcomere</b>
+<p>
+</font></answer></question><question><p>Question 264 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Ca2+ channel blockers- toxicity?</b> ... <answer><font color=red> <b>cardiac depression, peripheral edema, flushing, dizziness, constipation</b>
+<p>
+</font></answer></question><question><p>Question 265 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Ca2+ sensitizers'- site of action?</b> ... <answer><font color=red> <b>troponin-tropomyosin system</b>
+<p>
+</font></answer></question><question><p>Question 266 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Cautions when using Amiodarone?</b> ... <answer><font color=red> <b>check PFTs, LFTs, and TFTs</b>
+<p>
+</font></answer></question><question><p>Question 267 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>class IA effects?</b> ... <answer><font color=red> <b>increased AP duration, increased ERP increased QT interval. Atrial and ventricular.</b>
+<p>
+</font></answer></question><question><p>Question 268 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>class IB- clinical uses?</b> ... <answer><font color=red> <b>post MI and digitalis induced arrhythmias</b>
+<p>
+</font></answer></question><question><p>Question 269 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>class IB- effects?</b> ... <answer><font color=red> <b>decrease AP duration, affects ischemic or depolarized Purkinje and ventricular system</b>
+<p>
+</font></answer></question><question><p>Question 270 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>class IB- toxicity?</b> ... <answer><font color=red> <b>local anesthetic.  CNS stimulation or depression. CV depression.</b>
+<p>
+</font></answer></question><question><p>Question 271 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>class IC- effects?</b> ... <answer><font color=red> <b>NO AP duration effect. useful in V-tach that progresses to V-fib and in intractable SVT LAST RESORT</b>
+<p>
+</font></answer></question><question><p>Question 272 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>class IC- toxicity?</b> ... <answer><font color=red> <b>proarrhythmic</b>
+<p>
+</font></answer></question><question><p>Question 273 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>class II- effects?</b> ... <answer><font color=red> <b>decrease the slope of phase 4, increase PR interval (the AV node is particularly sensitive)</b>
+<p>
+</font></answer></question><question><p>Question 274 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>class II- mechanism?</b> ... <answer><font color=red> <b>blocking the beta adrenergic receptor leads to decreased cAMP, and decreased Ca2+ flux</b>
+<p>
+</font></answer></question><question><p>Question 275 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>class II- toxicity?</b> ... <answer><font color=red> <b>impotence, exacerbation of asthma, CV effects, CNS effects, may mask hypoclycemia</b>
+<p>
+</font></answer></question><question><p>Question 276 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Class III- effects?</b> ... <answer><font color=red> <b>increase AP duration, increase ERP, increase QT interval, for use when other arrhythmics fail</b>
+<p>
+</font></answer></question><question><p>Question 277 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>class IV- clinical use?</b> ... <answer><font color=red> <b>prevention of nodal arrhythmias (SVT)</b>
+<p>
+</font></answer></question><question><p>Question 278 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>class IV- effects?</b> ... <answer><font color=red> <b>decrease conduction velocity, increase ERP, increase PR interval</b>
+<p>
+</font></answer></question><question><p>Question 279 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>class IV- primary site of action?</b> ... <answer><font color=red> <b>AV nodal cells</b>
+<p>
+</font></answer></question><question><p>Question 280 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>class IV- toxicity?</b> ... <answer><font color=red> <b>constipation, flushing, edema, CV effects (CHF, AV block, sinus node depression), and torsade de pointes (Bepridil)</b>
+<p>
+</font></answer></question><question><p>Question 281 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>classes of antihypertensive drugs?</b> ... <answer><font color=red> <b>diuretics, sympathoplegics, vasodilators, ACE inhibitors, Angiotensin II receptor inhibitors</b>
+<p>
+</font></answer></question><question><p>Question 282 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Nitroglycerin, isosorbide dinitrate clinical use?</b> ... <answer><font color=red> <b>angina, pulmonary edema (also, erection enhancer)</b>
+<p>
+</font></answer></question><question><p>Question 283 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Cardiac glycosides clinical use?</b> ... <answer><font color=red> <b>CHF, atrial fibrillation</b>
+<p>
+</font></answer></question><question><p>Question 284 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Antianginal drug that increases contractility (reflex response)?</b> ... <answer><font color=red> <b>Nitrates</b>
+<p>
+</font></answer></question><question><p>Question 285 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Antianginal drug that decreases contractility?</b> ... <answer><font color=red> <b>Beta-blockers</b>
+<p>
+</font></answer></question><question><p>Question 286 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Cardiac glycosides - contraindications?</b> ... <answer><font color=red> <b>renal failure, hypokalemia, pt on quinidine</b>
+<p>
+</font></answer></question><question><p>Question 287 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>decrease Digitoxin dose in renal failure?</b> ... <answer><font color=red> <b>NO</b>
+<p>
+</font></answer></question><question><p>Question 288 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>decrease Digoxin dose in renal failure?</b> ... <answer><font color=red> <b>YES</b>
+<p>
+</font></answer></question><question><p>Question 289 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Digitalis- site of action?</b> ... <answer><font color=red> <b>Na/K ATPase</b>
+<p>
+</font></answer></question><question><p>Question 290 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Digoxin v. Digitoxin: bioavailability?</b> ... <answer><font color=red> <b>Digitoxin&gt;95% Digoxin 75%</b>
+<p>
+</font></answer></question><question><p>Question 291 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Digoxin v. Digitoxin: excretion?</b> ... <answer><font color=red> <b>Digoxin=urinary Digitoxin=biliary</b>
+<p>
+</font></answer></question><question><p>Question 292 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Digoxin v. Digitoxin: half life?</b> ... <answer><font color=red> <b>Digitoxin 168hrs Digoxin 40 hrs</b>
+<p>
+</font></answer></question><question><p>Question 293 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Digoxin v. Digitoxin: protein binding?</b> ... <answer><font color=red> <b>Digitoxin 70% Digoxin 20-40%</b>
+<p>
+</font></answer></question><question><p>Question 294 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Antianginal drug that decreases ejection time?</b> ... <answer><font color=red> <b>Nitrates</b>
+<p>
+</font></answer></question><question><p>Question 295 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Antianginal drug that increases ejection time?</b> ... <answer><font color=red> <b>Beta-blockers</b>
+<p>
+</font></answer></question><question><p>Question 296 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Cardiac glycosides - EKG results?</b> ... <answer><font color=red> <b>inc PR, dec QT, scooping of ST, and T wave inversion</b>
+<p>
+</font></answer></question><question><p>Question 297 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Antianginal drug that decreases end diastolic volume?</b> ... <answer><font color=red> <b>Nitrates</b>
+<p>
+</font></answer></question><question><p>Question 298 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Antianginal drug that increases end diastolic volume?</b> ... <answer><font color=red> <b>Beta-blockers</b>
+<p>
+</font></answer></question><question><p>Question 299 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Esmolol- short or long acting?</b> ... <answer><font color=red> <b>very short acting</b>
+<p>
+</font></answer></question><question><p>Question 300 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Ethacrynic Acid- clinical use?</b> ... <answer><font color=red> <b>Diuresis in pateints with sulfa allergy</b>
+<p>
+</font></answer></question><question><p>Question 301 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Ethacrynic Acid- mechanism?</b> ... <answer><font color=red> <b>not a sulfonamide, but action is the same as furosemide</b>
+<p>
+</font></answer></question><question><p>Question 302 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Ethacrynic Acid- toxicity?</b> ... <answer><font color=red> <b>NO HYPERURICEMIA, NO SULFA ALLERGY; same as furosemide otherwise</b>
+<p>
+</font></answer></question><question><p>Question 303 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Furosemide- class and mechanism?</b> ... <answer><font color=red> <b>Sulfonamide Loop Diuretic. Inhibits ion co-transport system of thick ascending loop. Abolishes hypertonicity of the medulla, thereby preventing concentration of the urine.</b>
+<p>
+</font></answer></question><question><p>Question 304 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Furosemide- clinical use?</b> ... <answer><font color=red> <b>edematous states (CHF, cirrhosis, nephrotic syndrome, pulm edema), HTN, hypercalcemia</b>
+<p>
+</font></answer></question><question><p>Question 305 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Furosemide- toxicity? (OH DANG)</b> ... <answer><font color=red> <b>Ototoxicity, Hypokalemia, Dehydration, Allergy (sulfa), Nephritis (interstitial), Gout</b>
+<p>
+</font></answer></question><question><p>Question 306 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Furosemide increases the excretion of what ion?</b> ... <answer><font color=red> <b>Ca2+ (Loops Lose calcium)</b>
+<p>
+</font></answer></question><question><p>Question 307 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>how do we stop angina?</b> ... <answer><font color=red> <b>decrease myocardial O2 consumption by: 1-decreasing end diastolic volume 2- decreasing BP 3- decreasing HR 4-decreasing contractility 5-decreasing ejection time</b>
+<p>
+</font></answer></question><question><p>Question 308 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Hydralazine- class and mechanism?</b> ... <answer><font color=red> <b>vasodilator- increases cGMP to induce smooth muscle relaxation (arterioles&gt;veins; afterload reduction)</b>
+<p>
+</font></answer></question><question><p>Question 309 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Hydralazine- clinical use?</b> ... <answer><font color=red> <b>severe hypertension, CHF</b>
+<p>
+</font></answer></question><question><p>Question 310 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Hydralazine- toxicity?</b> ... <answer><font color=red> <b>compensatory tachycardia, fluid retention, lupus-like syndrome</b>
+<p>
+</font></answer></question><question><p>Question 311 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Hydrochlorothiazide- clinical use?</b> ... <answer><font color=red> <b>HTN, CHF, calcium stone formation, nephrogenic DI.</b>
+<p>
+</font></answer></question><question><p>Question 312 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Hydrochlorothiazide- mechanism?</b> ... <answer><font color=red> <b>Inhibits NaCl reabsorption in the early distal tubule. Decreases Ca2+ excretion.</b>
+<p>
+</font></answer></question><question><p>Question 313 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Hydrochlorothiazide- toxicity? (hyperGLUC, plus others)</b> ... <answer><font color=red> <b>Hypokalemic metabolic alkalosis, hyponatremia, hyperGlycemia, hyperLipidemia, hyperUricemia, hyperCalcemia, sulfa allergy.</b>
+<p>
+</font></answer></question><question><p>Question 314 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Ibutilide- toxicity?</b> ... <answer><font color=red> <b>torsade de pointes</b>
+<p>
+</font></answer></question><question><p>Question 315 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>K+- clinical use?</b> ... <answer><font color=red> <b>depresses ectopic pacemakers, especially in digoxin toxicity</b>
+<p>
+</font></answer></question><question><p>Question 316 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>K+ sparing diuretics- clinical use?</b> ... <answer><font color=red> <b>hyperaldosteronism, K+ depletion, CHF</b>
+<p>
+</font></answer></question><question><p>Question 317 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>K+ sparing diuretics- site of action?</b> ... <answer><font color=red> <b>cortical collecting tubule</b>
+<p>
+</font></answer></question><question><p>Question 318 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>loop diuretics (furosemide)- site of action?</b> ... <answer><font color=red> <b>thick ascending limb</b>
+<p>
+</font></answer></question><question><p>Question 319 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Mannitol- clinical use?</b> ... <answer><font color=red> <b>ARF, shock, drug overdose, decrease intracranial/intraocular pressure</b>
+<p>
+</font></answer></question><question><p>Question 320 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Mannitol- contraindications?</b> ... <answer><font color=red> <b>anuria, CHF</b>
+<p>
+</font></answer></question><question><p>Question 321 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Mannitol- mechanism?</b> ... <answer><font color=red> <b>osmotic diuretic- increase tubular fluid osmolarity, thereby increasing urine flow</b>
+<p>
+</font></answer></question><question><p>Question 322 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Mannitol- site of action?</b> ... <answer><font color=red> <b>proximal convoluted tubule, thin descending limb, and collecting duct</b>
+<p>
+</font></answer></question><question><p>Question 323 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Mannitol- toxicity?</b> ... <answer><font color=red> <b>pulmonary edema, dehydration</b>
+<p>
+</font></answer></question><question><p>Question 324 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Mg+- clinical use?</b> ... <answer><font color=red> <b>effective in torsade de pointes and digoxin toxicity</b>
+<p>
+</font></answer></question><question><p>Question 325 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>name five in class II?</b> ... <answer><font color=red> <b>propanolol, esmolol, metoprolol, atenolol, timolol</b>
+<p>
+</font></answer></question><question><p>Question 326 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>name four HMG-CoA reductase inhibitors.</b> ... <answer><font color=red> <b>Lovastatin, Pravastatin, Simvastatin, Atorvastatin</b>
+<p>
+</font></answer></question><question><p>Question 327 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>name four in class IA.</b> ... <answer><font color=red> <b>Quinidine, Amiodarone, Procainamide, Disopyramide</b>
+<p>
+</font></answer></question><question><p>Question 328 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>name four in class III.</b> ... <answer><font color=red> <b>Sotalol, Ibutilide, Bretylium, Amiodarone</b>
+<p>
+</font></answer></question><question><p>Question 329 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>name three ACE inhibitors?</b> ... <answer><font color=red> <b>Captopril, Enalapril, Lisinopril</b>
+<p>
+</font></answer></question><question><p>Question 330 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>name three calcium channel blockers?</b> ... <answer><font color=red> <b>Nifedipine, Verapamil, Diltiazem</b>
+<p>
+</font></answer></question><question><p>Question 331 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>name three in class IB.</b> ... <answer><font color=red> <b>Lidocaine, Mexiletine, Tocainide</b>
+<p>
+</font></answer></question><question><p>Question 332 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>name three in class IC.</b> ... <answer><font color=red> <b>Flecainide, Encainide, Propafenone</b>
+<p>
+</font></answer></question><question><p>Question 333 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>name three in class IV.</b> ... <answer><font color=red> <b>Verapamil, Diltiazem, Bepridil</b>
+<p>
+</font></answer></question><question><p>Question 334 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>name three K+ sparing diuretics?</b> ... <answer><font color=red> <b>Spironolactone, Triamterene, Amiloride (the K+ STAys)</b>
+<p>
+</font></answer></question><question><p>Question 335 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>name two bile acid resins.</b> ... <answer><font color=red> <b>cholestyramine, colestipol</b>
+<p>
+</font></answer></question><question><p>Question 336 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>name two lipoprotien lipase (LPL) stimulators.</b> ... <answer><font color=red> <b>Gemfibrozil, Clofibrate</b>
+<p>
+</font></answer></question><question><p>Question 337 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Nifedipine has similar action to?</b> ... <answer><font color=red> <b>Nitrates</b>
+<p>
+</font></answer></question><question><p>Question 338 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>preferential action of the Ca2+ channel blockers at cardiac muscle?</b> ... <answer><font color=red> <b>cardiac muscle: Verapamil&gt;Diltiazem&gt;Nifedipine</b>
+<p>
+</font></answer></question><question><p>Question 339 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>preferential action of the Ca2+ channel blockers at vascular smooth muscle?</b> ... <answer><font color=red> <b>vascular sm. Mus.: Nifedipine&gt;Diltiazem&gt;Verapamil</b>
+<p>
+</font></answer></question><question><p>Question 340 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Procainamide- toxicity?</b> ... <answer><font color=red> <b>reversible SLE-like syndrome</b>
+<p>
+</font></answer></question><question><p>Question 341 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Quinidine- toxicity?</b> ... <answer><font color=red> <b>cinchonism (HA, tinnitus), thrombocytopenia, torsade de pointes due to increased QT interval.</b>
+<p>
+</font></answer></question><question><p>Question 342 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Ryanodine- site of action?</b> ... <answer><font color=red> <b>blocks SR Ca2+ channels (FA 2004 says the opposite - not a blocker; if anyone knows the right answer send me an email)</b>
+<p>
+</font></answer></question><question><p>Question 343 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Sotalol- toxicity?</b> ... <answer><font color=red> <b>torsade de pointes, excessive Beta block</b>
+<p>
+</font></answer></question><question><p>Question 344 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Spironolactone- mechanism?</b> ... <answer><font color=red> <b>competitive inhibitor of aldosterone in the cortical collecting tubule</b>
+<p>
+</font></answer></question><question><p>Question 345 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>thiazides- site of action?</b> ... <answer><font color=red> <b>distal convoluted tubule (early)</b>
+<p>
+</font></answer></question><question><p>Question 346 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Triamterene and amiloride- mechanism?</b> ... <answer><font color=red> <b>block Na+ channels in the cortical collecting tubule</b>
+<p>
+</font></answer></question><question><p>Question 347 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Verapamil has similar action to?</b> ... <answer><font color=red> <b>Beta Blockers</b>
+<p>
+</font></answer></question><question><p>Question 348 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What two vasodilators require simultaneous treatment with beta blockers to prevent reflex tachycardia and diuretics to prevent salt retention?</b> ... <answer><font color=red> <b>Hydralazine and Minoxidil</b>
+<p>
+</font></answer></question><question><p>Question 349 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which diuretics cause acidosis?</b> ... <answer><font color=red> <b>carbonic anhydrase inhibitors, K+ sparing diuretics</b>
+<p>
+</font></answer></question><question><p>Question 350 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which diuretics cause alkalosis?</b> ... <answer><font color=red> <b>loop diuretics, thiazides</b>
+<p>
+</font></answer></question><question><p>Question 351 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which diuretics decrease urine Ca2+?</b> ... <answer><font color=red> <b>thiazides, amiloride</b>
+<p>
+</font></answer></question><question><p>Question 352 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which diuretics increase urine Ca2+?</b> ... <answer><font color=red> <b>loop diuretics, spironolactone</b>
+<p>
+</font></answer></question><question><p>Question 353 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which diuretics increase urine K+?</b> ... <answer><font color=red> <b>all except the K+ sparing diuretics Spironolactone, Triamterene, Amiloride</b>
+<p>
+</font></answer></question><question><p>Question 354 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which diuretics increase urine NaCl?</b> ... <answer><font color=red> <b>all of them</b>
+<p>
+</font></answer></question><question><p>Question 355 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Acetaminophen has what two clinical uses and lacks what one clinical use of the NSAIDs?</b> ... <answer><font color=red> <b>Acetaminophen has antipyretic and analgesic properties, but lacks anti-inflammatory properties.</b>
+<p>
+</font></answer></question><question><p>Question 356 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Can Heparin be used during pregnancy?</b> ... <answer><font color=red> <b>Yes, it does not cross the placenta.</b>
+<p>
+</font></answer></question><question><p>Question 357 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Can Warfarin be used during pregnancy?</b> ... <answer><font color=red> <b>No, warfarin, unlike heparin, can cross the placenta.</b>
+<p>
+</font></answer></question><question><p>Question 358 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Does Heparin have a long, medium, or short half life?</b> ... <answer><font color=red> <b>Short.</b>
+<p>
+</font></answer></question><question><p>Question 359 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Does Warfarin have a long, medium, or short half life?</b> ... <answer><font color=red> <b>Long.</b>
+<p>
+</font></answer></question><question><p>Question 360 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>For Heparin what is the 1. Structure 2. Route of administration 3. Onset of action 4. Mechanism of action 5. Duration of action 6. Ability to inhibit coagulation in vitro 7. Treatment for overdose 8. Lab value to monitor 9. Site of action?</b> ... <answer><font color=red> <b>Heparin 1. Structure - Large anionic polymer, acidic 2. Route of administration - Parenteral (IV, SC) 3. Onset of action - Rapid (seconds) 4. Mechanism of action - Activates antithrombin III 5. Duration of action - Acute (hours) 6. Ability to inhibit coagulation in vitro - Yes 7. Treatment for overdose - Protamine sulfate 8. Lab value to monitor-aPTT (intrinsic pathway) 9. Site of action - Blood</b>
+<p>
+</font></answer></question><question><p>Question 361 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>For Warfarin what is the 1. Structure 2. Route of administration 3. Onset of action 4. Mechanism of action 5. Duration of action 6. Ability to inhibit coagulation in vitro 7. Treatment for overdose 8. Lab value to monitor 9. Site of action</b> ... <answer><font color=red> <b>Warfarin 1. Structure - Small lipid-soluble molecule 2. Route of administration -Oral 3. Onset of action - Slow, limited by half lives of clotting factors 4. Mechanism of action - Impairs the synthesis of vitamin K-dependent clotting factors 5. Duration of action - Chronic (weeks or months) 6. Ability to inhibit coagulation in vitro - No 7. Treatment for overdose - IV vitamin K and fresh frozen plasma 8. Lab value to monitor - PT 9. Site of action - Liver</b>
+<p>
+</font></answer></question><question><p>Question 362 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Is toxicity rare or common whith Cromolyn used in Asthma prevention?</b> ... <answer><font color=red> <b>Rare.</b>
+<p>
+</font></answer></question><question><p>Question 363 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List five common glucocorticoids.</b> ... <answer><font color=red> <b>1. Hydrocortisone 2. Predisone 3. Triamcinolone 4. Dexamethasone 5. Beclomethasone</b>
+<p>
+</font></answer></question><question><p>Question 364 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Secretion of what drug is inhibited by Probenacid?</b> ... <answer><font color=red> <b>Penicillin.</b>
+<p>
+</font></answer></question><question><p>Question 365 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>The COX-2 inhibitors (celecoxib, rofecoxib) have similar side effects to the NSAIDs with what one exception?</b> ... <answer><font color=red> <b>The COX-2 inhibitors should not have the corrosive effects of other NSAIDs on the gastrointestinal lining.</b>
+<p>
+</font></answer></question><question><p>Question 366 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the Sulfonylureas (general description) and what is their use?</b> ... <answer><font color=red> <b>Sulfonylureas are oral hypoglycemic agents, they are used to stimulate release of endogenous insulin in NIDDM (type-2).</b>
+<p>
+</font></answer></question><question><p>Question 367 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are five advantages of Oral Contraceptives (synthetic progestins, estrogen)?</b> ... <answer><font color=red> <b>1. Reliable (&lt;1% failure) 2. Lowers risk of endometrial and ovarian cancer 3. Decreased incidence of ectopic pregnancy 4. Lower risk of pelvic infections 5. Regulation of menses</b>
+<p>
+</font></answer></question><question><p>Question 368 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are five disadvantages of Oral Contraceptives (synthetic progestins, estrogen)?</b> ... <answer><font color=red> <b>1. Taken daily 2. No protection against STDs 3. Raises triglycerides 4. Depression, weight gain, nausea, HTN 5. Hypercoagulable state</b>
+<p>
+</font></answer></question><question><p>Question 369 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are five possible toxic effects of Aspirin therapy?</b> ... <answer><font color=red> <b>1. Gastric ulceration 2. Bleeding 3. Hyperventilation 4. Reye's syndrome 5. Tinnitus (CN VIII)</b>
+<p>
+</font></answer></question><question><p>Question 370 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are five toxicities associated with Tacrolimus (FK506)?</b> ... <answer><font color=red> <b>1. Significant: nephrotoxicity 2. Peripheral neuropathy 3. Hypertension 4. Pleural effusion 5. Hyperglycemia.</b>
+<p>
+</font></answer></question><question><p>Question 371 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are four advantages of newer low-molecular-weight heparins (Enoxaparin)?</b> ... <answer><font color=red> <b>1. Better bioavailability 2. 2 to 4 times longer half life 3. Can be administered subcutaneously 4. Does not require laboratory monitoring</b>
+<p>
+</font></answer></question><question><p>Question 372 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are four clinical activities of Aspirin?</b> ... <answer><font color=red> <b>1. Antipyretic 2. Analgesic 3. Anti-inflammatory 4. Antiplatelet drug.</b>
+<p>
+</font></answer></question><question><p>Question 373 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are four clinical uses of glucocorticoids?</b> ... <answer><font color=red> <b>1. Addison's disease 2. Inflammation 3. Immune suppression 4. Asthma</b>
+<p>
+</font></answer></question><question><p>Question 374 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are four conditions in which H2 Blockers are used clinically?</b> ... <answer><font color=red> <b>1. Peptic ulcer 2. Gastritis 3. Esophageal reflux 4. Zollinger-Ellison syndrome</b>
+<p>
+</font></answer></question><question><p>Question 375 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are four H2 Blockers?</b> ... <answer><font color=red> <b>1. Cimetadine 2. Ranitidine 3. Famotidine 4. Nizatidine</b>
+<p>
+</font></answer></question><question><p>Question 376 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are four Sulfonylureas?</b> ... <answer><font color=red> <b>1. Tolbutamide 2. Chlorpropamide 3. Glyburide 4. Glipizide</b>
+<p>
+</font></answer></question><question><p>Question 377 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are four thrombolytics?</b> ... <answer><font color=red> <b>1. Streptokinase 2. Urokinase 3. tPA (alteplase), APSAC (anistreplase)</b>
+<p>
+</font></answer></question><question><p>Question 378 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are four unwanted effects of Clomiphene use?</b> ... <answer><font color=red> <b>1. Hot flashes 2. Ovarian enlargement 3. Multiple simultaneous pregnancies 4. Visual disturbances</b>
+<p>
+</font></answer></question><question><p>Question 379 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are nine findings of Iatrogenic Cushing's syndrome caused by glucocorticoid therapy?</b> ... <answer><font color=red> <b>1. Buffalo hump 2. Moon facies 3. Truncal obesity 4. Muscle wasting 5. Thin skin 6. Easy bruisability 7. Osteoporosis 8. Adrenocortical atrophy 9. Peptic ulcers</b>
+<p>
+</font></answer></question><question><p>Question 380 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are signs of Sildenafil (Viagra) toxicity?</b> ... <answer><font color=red> <b>Headache, flushing , dyspepsia, blue-green color vision.</b>
+<p>
+</font></answer></question><question><p>Question 381 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the clinical uses for Ticlopidine, Clopidogrel?</b> ... <answer><font color=red> <b>Acute coronary syndrome; coronary stenting. Decreases the incidence or recurrence of thrombotic stroke.</b>
+<p>
+</font></answer></question><question><p>Question 382 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the four conditions in which Omeprazole, Lansoprazole is used?</b> ... <answer><font color=red> <b>1. Peptic ulcer 2. Gastritis 3. Esophageal reflux 4. Zollinger-Ellison syndrome</b>
+<p>
+</font></answer></question><question><p>Question 383 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are three clinical uses of the Leuprolide?</b> ... <answer><font color=red> <b>1. Infertility (pulsatile) 2. Prostate cancer (continuous: use with flutamide) 3. Uterine fibroids</b>
+<p>
+</font></answer></question><question><p>Question 384 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are three clinical uses of the NSAIDs?</b> ... <answer><font color=red> <b>1. Antipyretic 2. Analgesic 3. Anti-inflammatory</b>
+<p>
+</font></answer></question><question><p>Question 385 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are three common NSAIDS other than Aspirin?</b> ... <answer><font color=red> <b>Ibuprofen, Naproxen, and Indomethacin</b>
+<p>
+</font></answer></question><question><p>Question 386 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are three complications of Warfarin usage?</b> ... <answer><font color=red> <b>1. Bleeding 2. Teratogenicity 3. Drug-drug interactions</b>
+<p>
+</font></answer></question><question><p>Question 387 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are three possible complications of Heparin therapy?</b> ... <answer><font color=red> <b>1. Bleeding 2. Thrombocytopenia 3. Drug-drug interactions</b>
+<p>
+</font></answer></question><question><p>Question 388 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are three possible toxicities of NSAID usage?</b> ... <answer><font color=red> <b>1. Renal damage 2. Aplastic anemia 3. GI distress</b>
+<p>
+</font></answer></question><question><p>Question 389 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are three toxicities of Leuprolide?</b> ... <answer><font color=red> <b>1. Antiandrogen 2. Nausea 3. Vomiting</b>
+<p>
+</font></answer></question><question><p>Question 390 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are three toxicities of Propylthiouracil?</b> ... <answer><font color=red> <b>1. Skin rash 2. Agranulocytosis (rare) 3. Aplastic anemia</b>
+<p>
+</font></answer></question><question><p>Question 391 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are three types of antacids and the problems that can result from their overuse?</b> ... <answer><font color=red> <b>1. Aluminum hydroxide: constipation and hypophosphatemia 2. Magnesium hydroxide: diarrhea 3. Calcium carbonate: Hypercalcemia, rebound acid increase - All may cause hypokalemia</b>
+<p>
+</font></answer></question><question><p>Question 392 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are three unwanted effects of Mifepristone?</b> ... <answer><font color=red> <b>1. Heavy bleeding 2. GI effects (n/v, anorexia) 3. Abdominal pain</b>
+<p>
+</font></answer></question><question><p>Question 393 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are two Alpha-glucosidase inhibitors?</b> ... <answer><font color=red> <b>1. Acarbose 2. Miglitol</b>
+<p>
+</font></answer></question><question><p>Question 394 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are two clinical uses of Azathioprine?</b> ... <answer><font color=red> <b>1. Kidney transplantation 2. Autoimmune disorders (including glomerulonephritis and hemolytic anemia)</b>
+<p>
+</font></answer></question><question><p>Question 395 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are two conditions in which COX-2 inhibitors might be used?</b> ... <answer><font color=red> <b>Rheumatoid and osteoarthritis.</b>
+<p>
+</font></answer></question><question><p>Question 396 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are two Glitazones?</b> ... <answer><font color=red> <b>1. Pioglitazone 2. Rosiglitazone.</b>
+<p>
+</font></answer></question><question><p>Question 397 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are two mechanisms of action of Propythiouracil?</b> ... <answer><font color=red> <b>Inhibits organification and coupling of thyroid hormone synthesis. Also decreases peripheral conversion of T4 to T3.</b>
+<p>
+</font></answer></question><question><p>Question 398 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are two processes Corticosteroids inhibit leading to decreased inflammation?</b> ... <answer><font color=red> <b>1. Phospholipase A2 is prevented from releasing arachidonic acid 2. Decreases protein synthesis thus lowering amount of Cyclooxygenase enzymes</b>
+<p>
+</font></answer></question><question><p>Question 399 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are two toxicities associated with Cyclosporine?</b> ... <answer><font color=red> <b>1. Predisposes to viral infections and lymphoma 2. Nephrotoxic (preventable with mannitol diuresis)</b>
+<p>
+</font></answer></question><question><p>Question 400 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are two toxicities of the Glitazones?</b> ... <answer><font color=red> <b>1. Weight gain 2. Hepatotoxicity (troglitazone)</b>
+<p>
+</font></answer></question><question><p>Question 401 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are two toxicities of the Sulfonylureas?</b> ... <answer><font color=red> <b>1. Hypoglycemia (more common with 2nd-generation drugs: glyburide, glipizide) 2. Disulfiram-like effects (not seen with 2nd-generation drugs).</b>
+<p>
+</font></answer></question><question><p>Question 402 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are two types of drugs that interfere with the action of Sucralfate and why?</b> ... <answer><font color=red> <b>Sucralfate cannot work in the presence of antacids or H2 blockers because it requires an acidic environment to polymerize.</b>
+<p>
+</font></answer></question><question><p>Question 403 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What can result due to antacid overuse?</b> ... <answer><font color=red> <b>Can affect absorption, bioavailability, or urinary excretion of other drugs by altering gastric and urinary pH or by delaying gastric emptying.</b>
+<p>
+</font></answer></question><question><p>Question 404 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What enzyme does Zileuton inhibit?</b> ... <answer><font color=red> <b>Lipoxygenase</b>
+<p>
+</font></answer></question><question><p>Question 405 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What enzymes are inhibited by NSAIDs, acetaminophen and COX II inhibitors?</b> ... <answer><font color=red> <b>Cyclooxygenases (COX I, COX II).</b>
+<p>
+</font></answer></question><question><p>Question 406 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is a common side effect of Colchicine used to treat acute gout, especially when given orally?</b> ... <answer><font color=red> <b>GI side effects. (Note: Indomethacin is less toxic, more commonly used.)</b>
+<p>
+</font></answer></question><question><p>Question 407 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is a common side effect of Misoprostol?</b> ... <answer><font color=red> <b>Diarrhea</b>
+<p>
+</font></answer></question><question><p>Question 408 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is a possible result of overdose of Acetaminophen?</b> ... <answer><font color=red> <b>Overdose produces hepatic necrosis; acetaminophen metablolite depletes glutathione and forms toxic tissue adducts in liver.</b>
+<p>
+</font></answer></question><question><p>Question 409 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is a possible toxicity of Alpha-glucosidase inhibitors used in type-2 diabetes?</b> ... <answer><font color=red> <b>GI disturbances.</b>
+<p>
+</font></answer></question><question><p>Question 410 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is a possible toxicity of Ticlopidine, Clopidogrel usage?</b> ... <answer><font color=red> <b>Neutropenia (ticlopidine); reserved for those who cannot tolerate aspirin.</b>
+<p>
+</font></answer></question><question><p>Question 411 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is a sign of toxicity with the use of thrombolytics?</b> ... <answer><font color=red> <b>Bleeding.</b>
+<p>
+</font></answer></question><question><p>Question 412 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is action of insulin in the liver, in muscle, and in adipose tissue?</b> ... <answer><font color=red> <b>1. In liver, increases storage of glucose as glycogen. 2. In muscle, stimulates glycogen and protein synthesis, and K+ uptake. 3. In adipose tissue, facilitates triglyceride storage.</b>
+<p>
+</font></answer></question><question><p>Question 413 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are two clinical uses of Cyclosporine?</b> ... <answer><font color=red> <b>1. Suppresses organ rejection after transplantation 2. Selected autoimmune disorders.</b>
+<p>
+</font></answer></question><question><p>Question 414 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category and mechanism of action of Zafirlukast in Asthma treatment?</b> ... <answer><font color=red> <b>Antileukotriene; blocks leukotriene receptors.</b>
+<p>
+</font></answer></question><question><p>Question 415 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category and mechanism of action of Zileuton in Asthma treatment?</b> ... <answer><font color=red> <b>Antileukotriene; blocks synthesis by lipoxygenase.</b>
+<p>
+</font></answer></question><question><p>Question 416 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -ane (e.g. Halothane)?</b> ... <answer><font color=red> <b>Inhalational general anesthetic.</b>
+<p>
+</font></answer></question><question><p>Question 417 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -azepam (e.g. Diazepam)?</b> ... <answer><font color=red> <b>Benzodiazepine.</b>
+<p>
+</font></answer></question><question><p>Question 418 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -azine (e.g. Chlorpromazine)?</b> ... <answer><font color=red> <b>Phenothiazine (neuroleptic, antiemetic).</b>
+<p>
+</font></answer></question><question><p>Question 419 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -azole (e.g. Ketoconazole)?</b> ... <answer><font color=red> <b>Antifungal.</b>
+<p>
+</font></answer></question><question><p>Question 420 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -barbital (e.g. Phenobarbital)?</b> ... <answer><font color=red> <b>Barbiturate.</b>
+<p>
+</font></answer></question><question><p>Question 421 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -caine (e.g. Lidocaine)?</b> ... <answer><font color=red> <b>Local anesthetic.</b>
+<p>
+</font></answer></question><question><p>Question 422 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -cillin (e.g. Methicillin)?</b> ... <answer><font color=red> <b>Penicillin.</b>
+<p>
+</font></answer></question><question><p>Question 423 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -cycline (e.g. Tetracycline)?</b> ... <answer><font color=red> <b>Antibiotic, protein synthesis inhibitor.</b>
+<p>
+</font></answer></question><question><p>Question 424 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -ipramine (e.g. Imipramine)?</b> ... <answer><font color=red> <b>Tricyclic antidepressant.</b>
+<p>
+</font></answer></question><question><p>Question 425 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -navir (e.g. Saquinavir)?</b> ... <answer><font color=red> <b>Protease inhibitor.</b>
+<p>
+</font></answer></question><question><p>Question 426 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -olol (e.g. Propranolol)?</b> ... <answer><font color=red> <b>Beta antagonist.</b>
+<p>
+</font></answer></question><question><p>Question 427 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -operidol (e.g. Haloperidol)?</b> ... <answer><font color=red> <b>Butyrophenone (neuroleptic).</b>
+<p>
+</font></answer></question><question><p>Question 428 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -oxin (e.g. Digoxin)?</b> ... <answer><font color=red> <b>Cardiac glycoside (inotropic agent).</b>
+<p>
+</font></answer></question><question><p>Question 429 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -phylline (e.g. Theophylline)?</b> ... <answer><font color=red> <b>Methylxanthine.</b>
+<p>
+</font></answer></question><question><p>Question 430 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -pril (e.g. Captopril)?</b> ... <answer><font color=red> <b>ACE inhibitor.</b>
+<p>
+</font></answer></question><question><p>Question 431 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -terol (e.g. Albuterol)?</b> ... <answer><font color=red> <b>Beta-2 agonist.</b>
+<p>
+</font></answer></question><question><p>Question 432 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -tidine (e.g. Cimetidine)?</b> ... <answer><font color=red> <b>H2 antagonist</b>
+<p>
+</font></answer></question><question><p>Question 433 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -triptyline (e.g. Amitriptyline)?</b> ... <answer><font color=red> <b>Tricyclic antidepressant.</b>
+<p>
+</font></answer></question><question><p>Question 434 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -tropin (e.g. Somatotropin)?</b> ... <answer><font color=red> <b>Pituitary hormone.</b>
+<p>
+</font></answer></question><question><p>Question 435 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category of drug names ending in -zosin (e.g. Prazosin)?</b> ... <answer><font color=red> <b>Alpha-1 antagonist</b>
+<p>
+</font></answer></question><question><p>Question 436 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category, desired effect, and adverse effect of Isoproterenol in the treatment of Asthma?</b> ... <answer><font color=red> <b>Nonspecific beta-agonist; desired effect is the relaxation of bronchial smooth muscle (Beta 2). Adverse effect is tachycardia (Beta 1).</b>
+<p>
+</font></answer></question><question><p>Question 437 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category, desired effect, and period of use of albuterol in the treatment of Asthma?</b> ... <answer><font color=red> <b>Beta 2 agonist; desired effect is the relaxation of bronchial smooth muscle (Beta 2). Use during acute exacerbation.</b>
+<p>
+</font></answer></question><question><p>Question 438 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category, desired effect, and possible mechanism of Theophylline in treating Asthma?</b> ... <answer><font color=red> <b>Methylzanthine; desired effect is bronchodilation, may cause bronchodilation by inhibiting phosphodiesterase, enzyme involved in degrading cAMP (controversial).</b>
+<p>
+</font></answer></question><question><p>Question 439 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category, mechanism of action, and effect of Ipratroprium in Asthma treatment?</b> ... <answer><font color=red> <b>Muscarinic antagonist; competatively blocks muscarinic receptors, preventing bronchoconstriction.</b>
+<p>
+</font></answer></question><question><p>Question 440 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category, mechanism of action, and particular use of beclomethasone and prednisone in Asthma treatment?</b> ... <answer><font color=red> <b>Corticosteroids; prevent production of leukotrienes from arachodonic acid by blocking phospholipase A2. Drugs of choice in a patient with status asthmaticus (in combination with albuterol.)</b>
+<p>
+</font></answer></question><question><p>Question 441 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the category, method of use, and adverse effects of Salmeterol in Asthma treatment?</b> ... <answer><font color=red> <b>Beta 2 agonist; used as a long-acting agent for prophylaxis. Adverse effects are tremor and arrhythmia.</b>
+<p>
+</font></answer></question><question><p>Question 442 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the clincial use for Misoprostol?</b> ... <answer><font color=red> <b>Prevention of NSAID-induced peptic ulcers, maintains a PDA.</b>
+<p>
+</font></answer></question><question><p>Question 443 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the clinical use for Clomiphene?</b> ... <answer><font color=red> <b>Treatment of infertility.</b>
+<p>
+</font></answer></question><question><p>Question 444 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the clinical use for Heparin?</b> ... <answer><font color=red> <b>Immediate anticoagulation for PE, stroke, angina, MI, DVT.</b>
+<p>
+</font></answer></question><question><p>Question 445 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the clinical use for Sildenafil (Viagra)?</b> ... <answer><font color=red> <b>Erectile dysfunction.</b>
+<p>
+</font></answer></question><question><p>Question 446 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the clinical use for Sucralfate?</b> ... <answer><font color=red> <b>Peptic ulcer disease.</b>
+<p>
+</font></answer></question><question><p>Question 447 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the clinical use for Warfarin?</b> ... <answer><font color=red> <b>Chronic anticoagulation.</b>
+<p>
+</font></answer></question><question><p>Question 448 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the clinical use of Mifepristone (RU486)?</b> ... <answer><font color=red> <b>Abortifacient.</b>
+<p>
+</font></answer></question><question><p>Question 449 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the clinical use of Tacrolimus (FK506)?</b> ... <answer><font color=red> <b>Potent immunosuppressive used in organ transplant recipients.</b>
+<p>
+</font></answer></question><question><p>Question 450 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the effect of the Glitazones in diabetes treatment?</b> ... <answer><font color=red> <b>Increase target cell response to insulin.</b>
+<p>
+</font></answer></question><question><p>Question 451 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the enzyme inhibited, the effect of this inhibition, and the clinical use of the antiandrogren Finasteride?</b> ... <answer><font color=red> <b>Finasteride inhibits 5 Alpha-reductase, this decreases the conversion of testosterone to dihydrotestosterone, useful in BPH</b>
+<p>
+</font></answer></question><question><p>Question 452 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the lab value used to monitor the effectiveness of Heparin therapy?</b> ... <answer><font color=red> <b>The PTT.</b>
+<p>
+</font></answer></question><question><p>Question 453 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the lab value used to monitor the effectiveness of Warfarin therapy?</b> ... <answer><font color=red> <b>The PT.</b>
+<p>
+</font></answer></question><question><p>Question 454 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the main clinical use for the thrombolytics?</b> ... <answer><font color=red> <b>Early myocardial infarction.</b>
+<p>
+</font></answer></question><question><p>Question 455 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mecanism of action of Sucralfate?</b> ... <answer><font color=red> <b>Aluminum sucrose sulfate polymerizes in the acid environment of the stomach and selectively binds necrotic peptic ulcer tissue. Acts as a barrier to acid, pepsin, and bile.</b>
+<p>
+</font></answer></question><question><p>Question 456 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mecanism of action of the COX-2 inhibitors (celecoxib, rofecoxib)?</b> ... <answer><font color=red> <b>Selectively inhibit cyclooxygenase (COX) isoform 2, which is found in inflammatory cells and mediates inflammation and pain; spares COX-1 which helps maintain the gastric mucosa.</b>
+<p>
+</font></answer></question><question><p>Question 457 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mecanism of action, effective period, and ineffective period of use for Cromolyn in treating Asthma?</b> ... <answer><font color=red> <b>Prevents release of mediators from mast cells. Effective only for the prophylaxis of asthma. Not effective during an acute attack.</b>
+<p>
+</font></answer></question><question><p>Question 458 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action and clinical use of the antiandrogen Flutamide?</b> ... <answer><font color=red> <b>Flutamide is a nonsteroidal competitive inhibitor of androgens at the testosterone receptor, used in prostate carcinoma.</b>
+<p>
+</font></answer></question><question><p>Question 459 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action and clinical use of the antiandrogens Ketoconazole and Spironolactone?</b> ... <answer><font color=red> <b>Inhibit steroid synthesis, used in the treatment of polycystic ovarian syndrome to prevent hirsutism.</b>
+<p>
+</font></answer></question><question><p>Question 460 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Acetaminophen?</b> ... <answer><font color=red> <b>Reversibly inhibits cyclooxygenase, mostly in CNS. Inactivated peripherally.</b>
+<p>
+</font></answer></question><question><p>Question 461 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Allopurinol used to treat chronic gout?</b> ... <answer><font color=red> <b>Inhibits xanthine oxidase, decreasing conversion of xanthine to uric acid.</b>
+<p>
+</font></answer></question><question><p>Question 462 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Aspirin?</b> ... <answer><font color=red> <b>Acetylates and irreversibly inhibits cyclooxygenase (COX I and COX II) to prevent the conversion of arachidonic acid to prostaglandins.</b>
+<p>
+</font></answer></question><question><p>Question 463 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Clomiphene?</b> ... <answer><font color=red> <b>Clomiphene is a partial agonist at estrogen receptors in the pituitary gland. Prevents normal feedback inhibition and increses release of LH and FSH from the pituitary, which stimulates ovulation.</b>
+<p>
+</font></answer></question><question><p>Question 464 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Colchicine used to treat acute gout?</b> ... <answer><font color=red> <b>Depolymerizes microtubules, impairing leukocyte chemotaxis and degranulation.</b>
+<p>
+</font></answer></question><question><p>Question 465 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Cyclosporine?</b> ... <answer><font color=red> <b>Binds to cyclophilins (peptidyl proline cis-trans isomerase), blocking the differentiation and activation of T cells mainly by inhibiting the production of IL-2 and its receptor.</b>
+<p>
+</font></answer></question><question><p>Question 466 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Heparin?</b> ... <answer><font color=red> <b>Heparin catalyzes the activation of antithrombin III.</b>
+<p>
+</font></answer></question><question><p>Question 467 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Mifepristone (RU486)?</b> ... <answer><font color=red> <b>Competitive inibitor of progestins at progesterone receptors.</b>
+<p>
+</font></answer></question><question><p>Question 468 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Misoprostol?</b> ... <answer><font color=red> <b>Misoprostol is a PGE1 analog that increases the production and secretion of the gastic mucous barrier.</b>
+<p>
+</font></answer></question><question><p>Question 469 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of NSAIDs other than Aspirin?</b> ... <answer><font color=red> <b>Reversibly inhibit cyclooxygenase (COX I and COX II). Block prostaglandin synthesis.</b>
+<p>
+</font></answer></question><question><p>Question 470 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Omeprazole, Lansoprazole?</b> ... <answer><font color=red> <b>Irreversibly inhibits H+/K+ ATPase in stomach parietal cells.</b>
+<p>
+</font></answer></question><question><p>Question 471 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Probenacid used to treat chronic gout?</b> ... <answer><font color=red> <b>Inhibits reabsorption of uric acid.</b>
+<p>
+</font></answer></question><question><p>Question 472 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Sildenafil (Viagra)?</b> ... <answer><font color=red> <b>Inhibits cGMP phosphodiesterase, casuing increased cGMP, smooth muscle relaxation in the corpus cavernosum, increased blood flow, and penile erection.</b>
+<p>
+</font></answer></question><question><p>Question 473 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of the Alpha-glucosidase inhibitors?</b> ... <answer><font color=red> <b>Inhibit intestinal brush border Alpha-glucosidases; delayed hydrolysis of sugars and absorption of sugars leading to decresed postprandial hyperglycemia.</b>
+<p>
+</font></answer></question><question><p>Question 474 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of the glucocorticoids?</b> ... <answer><font color=red> <b>Decrease the production of leukotrienes and protaglandins by inhibiting phospholipase A2 and expression of COX-2.</b>
+<p>
+</font></answer></question><question><p>Question 475 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of the H2 Blockers?</b> ... <answer><font color=red> <b>Reversible block of histamine H2 receptors</b>
+<p>
+</font></answer></question><question><p>Question 476 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of the Sulfonylureas?</b> ... <answer><font color=red> <b>Close K+ channels in Beta-cell membrane leading to cell depolarization causing insulin release triggered by increase in Calcium ion influx.</b>
+<p>
+</font></answer></question><question><p>Question 477 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of the thrombolytics?</b> ... <answer><font color=red> <b>Directly or indirectly aid conversion of plasminogen to plasmin which cleaves thrombin and fibrin clots. (It is claimed that tPA specifically converts fibrin-bound plasminogen to plasmin.)</b>
+<p>
+</font></answer></question><question><p>Question 478 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Ticlopidine, Clopidogrel</b> ... <answer><font color=red> <b>Inhibits platelet aggregation by irreversibly inhibiting the ADP pathway involved in the binding of fibrinogen.</b>
+<p>
+</font></answer></question><question><p>Question 479 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of action of Warfarin (Coumadin)?</b> ... <answer><font color=red> <b>Warfarin interferes with the normal synthesis and gamma-carboxylation of vitamin K-dependent clotting factors II, VII, IX, and X, Protein C and S via vitamin K antagonism.</b>
+<p>
+</font></answer></question><question><p>Question 480 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of Azathioprine?</b> ... <answer><font color=red> <b>Antimetabolite derivative of 6-mercaptopurine that interferes with the metablolism and synthesis of nucleic acid.</b>
+<p>
+</font></answer></question><question><p>Question 481 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of Leuprolide?</b> ... <answer><font color=red> <b>GnRH analog with agonist properties when used in pulsatile fashion and antagonist properties when used in continuous fashion, causing a transient initial burst of LH and FSH</b>
+<p>
+</font></answer></question><question><p>Question 482 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the mechanism of Tacrolimus (FK506)?</b> ... <answer><font color=red> <b>Similar to cyclosporine; binds to FK-binding protein, inhibiting secretion of IL-2 and other cytokines.</b>
+<p>
+</font></answer></question><question><p>Question 483 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the memory key for the action of Sildenafil (Viagra)?</b> ... <answer><font color=red> <b>Sildenafil fills the penis</b>
+<p>
+</font></answer></question><question><p>Question 484 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the memory key for the effect of aluminum hydroxide overuse?</b> ... <answer><font color=red> <b>AluMINIMUM amount of feces.</b>
+<p>
+</font></answer></question><question><p>Question 485 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the memory key for the effect of magnesium hydroxide overuse?</b> ... <answer><font color=red> <b>Mg = Must go to the bathroom.</b>
+<p>
+</font></answer></question><question><p>Question 486 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the memory key to remember which pathway (extrinsic vs. intrinsic) and which lab value Warfarin affects?</b> ... <answer><font color=red> <b>WEPT: Warfarin affects the Extrinsic pathway and prolongs the PT.</b>
+<p>
+</font></answer></question><question><p>Question 487 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the possible mechanism and effect of Metformin in treating diabetes?</b> ... <answer><font color=red> <b>Mechanism unknown; possibly inhibits gluconeogenesis and increases glycolysis; effect is to decrease serum glucose levels</b>
+<p>
+</font></answer></question><question><p>Question 488 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the specific clinical use of Indomethacin in neonates?</b> ... <answer><font color=red> <b>Indomethacin is used to close a patent ductus arteriosus.</b>
+<p>
+</font></answer></question><question><p>Question 489 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is used to reverse the action of Heparin?</b> ... <answer><font color=red> <b>Protamine Sulfate is used for rapid reversal of heparinization (positively charged molecule that binds to negatively charged heparin).</b>
+<p>
+</font></answer></question><question><p>Question 490 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What patients are at risk for life threatening hypotension when taking Sildenafil (Viagra)?</b> ... <answer><font color=red> <b>Those patients who are taking nitrates.</b>
+<p>
+</font></answer></question><question><p>Question 491 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What process does Zafirlukast interfere with?</b> ... <answer><font color=red> <b>Leukotrienes increasing bronchial tone.</b>
+<p>
+</font></answer></question><question><p>Question 492 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What type of gout is treated with Allopurinol?</b> ... <answer><font color=red> <b>Chronic gout.</b>
+<p>
+</font></answer></question><question><p>Question 493 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What type of gout is treated with Colchicine?</b> ... <answer><font color=red> <b>Acute gout.</b>
+<p>
+</font></answer></question><question><p>Question 494 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What type of gout is treated with Probenacid?</b> ... <answer><font color=red> <b>Chronic gout.</b>
+<p>
+</font></answer></question><question><p>Question 495 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What type of patient should not take Misoprostol and why?</b> ... <answer><font color=red> <b>Misoprostol is contraindicated in women of childbearing potential because it is an abortifacient.</b>
+<p>
+</font></answer></question><question><p>Question 496 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which H2 Blocker has the most toxic effects and what are they?</b> ... <answer><font color=red> <b>Cimetidine is a potent inhibitor of P450; it also has an antiandrogenic effect and decreases renal excretion of creatinine. Other H2 blockers are relatively free of these effects.</b>
+<p>
+</font></answer></question><question><p>Question 497 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why are the Sulfonylureas inactive in IDDM (type-1)?</b> ... <answer><font color=red> <b>Because they require some residual islet function.</b>
+<p>
+</font></answer></question><question><p>Question 498 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Acetaldehyde is metabolized by Acetaldehyde dehydrogenase, which drug inhibs this enzyme?</b> ... <answer><font color=red> <b>-Disulfram &amp; also sulfonylureas, metronidazole</b>
+<p>
+</font></answer></question><question><p>Question 499 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Explain pH dependent urinary drug elimination?</b> ... <answer><font color=red> <b>-Weak Acids&gt;Alkinalize urine(CO3) to remove more -Weak bases&gt;acidify urine to remove more</b>
+<p>
+</font></answer></question><question><p>Question 500 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How do you treat coma in the ER (4)?</b> ... <answer><font color=red> <b>-Airway -Breathing -Circulation -Dextrose(thiamine &amp;narcan) -ABCD</b>
+<p>
+</font></answer></question><question><p>Question 501 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>In coma situations you rule out what (7)?</b> ... <answer><font color=red> <b>-Infections -Trauma -Seizures -CO -Overdose -Metabolic -Alcohol (IT'S COMA)</b>
+<p>
+</font></answer></question><question><p>Question 502 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List some specifics of lead poisoning?</b> ... <answer><font color=red> <b>lead lines on gingiva&amp; on long bone epiphyses, encephalopathy &amp erythrocyte basophilic stippling, wrist/foot drop, abdominal colic, sideroblastic anemia</b>
+<p>
+</font></answer></question><question><p>Question 503 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Acetaminophen</b> ... <answer><font color=red> <b>-N-acetylcystine</b>
+<p>
+</font></answer></question><question><p>Question 504 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Amphetamine</b> ... <answer><font color=red> <b>-Ammonium Chloride</b>
+<p>
+</font></answer></question><question><p>Question 505 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Anticholinesterases (organophosphate.)</b> ... <answer><font color=red> <b>-Atropine &amp; pralidoxime</b>
+<p>
+</font></answer></question><question><p>Question 506 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Antimuscarinic (anticholinergic)</b> ... <answer><font color=red> <b>-Physostigmine salicylate</b>
+<p>
+</font></answer></question><question><p>Question 507 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Arsenic (all heavy metals)</b> ... <answer><font color=red> <b>-Dimercaprol, succimer</b>
+<p>
+</font></answer></question><question><p>Question 508 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Benzodiazepines</b> ... <answer><font color=red> <b>-Flumazenil</b>
+<p>
+</font></answer></question><question><p>Question 509 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Beta Blockers</b> ... <answer><font color=red> <b>-Glucagon</b>
+<p>
+</font></answer></question><question><p>Question 510 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Carbon monoxide</b> ... <answer><font color=red> <b>-100% oxygen, hyperbaric</b>
+<p>
+</font></answer></question><question><p>Question 511 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Copper</b> ... <answer><font color=red> <b>-Penicillamine</b>
+<p>
+</font></answer></question><question><p>Question 512 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Cyanide</b> ... <answer><font color=red> <b>-Nitrate, hydroxocobalamin thiosulfate</b>
+<p>
+</font></answer></question><question><p>Question 513 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Digitalis</b> ... <answer><font color=red> <b>-Normalize K+, Lidocaine, &amp; Anti-dig Mab</b>
+<p>
+</font></answer></question><question><p>Question 514 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Heparin</b> ... <answer><font color=red> <b>-Protamine</b>
+<p>
+</font></answer></question><question><p>Question 515 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Iron</b> ... <answer><font color=red> <b>-Deferoxamine</b>
+<p>
+</font></answer></question><question><p>Question 516 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Lead</b> ... <answer><font color=red> <b>-EDTA, dimercaprol, succimer, &amp; penicillamine</b>
+<p>
+</font></answer></question><question><p>Question 517 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Methanol &amp; Ethylene glycol</b> ... <answer><font color=red> <b>-Ethanol, dialysis, &amp; fomepizole</b>
+<p>
+</font></answer></question><question><p>Question 518 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Methemoglobin</b> ... <answer><font color=red> <b>-Methylene blue</b>
+<p>
+</font></answer></question><question><p>Question 519 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Opioids</b> ... <answer><font color=red> <b>-Naloxone / naltrexone (Narcan)</b>
+<p>
+</font></answer></question><question><p>Question 520 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Salicylates</b> ... <answer><font color=red> <b>-Alkalinize urine &amp; dialysis</b>
+<p>
+</font></answer></question><question><p>Question 521 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: TPA &amp; Streptokinase</b> ... <answer><font color=red> <b>-Aminocaproic acid</b>
+<p>
+</font></answer></question><question><p>Question 522 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Tricyclic antidepressants</b> ... <answer><font color=red> <b>-NaHCO3</b>
+<p>
+</font></answer></question><question><p>Question 523 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>List the specific antidote for this toxin: Warfarin</b> ... <answer><font color=red> <b>-Vitamin K &amp; fresh frozen plasma</b>
+<p>
+</font></answer></question><question><p>Question 524 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the products and their toxicities of the metabolism of ethanol by / alcohol dehydrogenase?</b> ... <answer><font color=red> <b>-Acetaldehyde -Nausea, vomiting, headache, &amp; hypotension</b>
+<p>
+</font></answer></question><question><p>Question 525 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the products and their toxicities of the metabolism of Ethylene Glycol by / alcohol dehydrogenase?</b> ... <answer><font color=red> <b>-Oxalic acid -Acidosis &amp; nephrotoxicity</b>
+<p>
+</font></answer></question><question><p>Question 526 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the products and their toxicities of the metabolism of Methanol by alcohol dehydrogenase?</b> ... <answer><font color=red> <b>-Formaldehyde &amp; formic acid -severe acidosis &amp; retinal damage</b>
+<p>
+</font></answer></question><question><p>Question 527 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Adrenocortical Insufficiency</b> ... <answer><font color=red> <b>-Glucocorticoid withdrawal</b>
+<p>
+</font></answer></question><question><p>Question 528 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Agranulocytosis (3)?</b> ... <answer><font color=red> <b>-Cloazapine -carbamazapine -colchicine -PTU</b>
+<p>
+</font></answer></question><question><p>Question 529 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Anaphylaxis?</b> ... <answer><font color=red> <b>-Penicillin</b>
+<p>
+</font></answer></question><question><p>Question 530 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Aplastic anemia (5)?</b> ... <answer><font color=red> <b>-Chloramphenicol -benzene -NSAIDS -PTU -phenytoin</b>
+<p>
+</font></answer></question><question><p>Question 531 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Atropine-like side effects?</b> ... <answer><font color=red> <b>-Tricyclic antidepressants</b>
+<p>
+</font></answer></question><question><p>Question 532 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Cardiac toxicity?</b> ... <answer><font color=red> <b>-Daunorubicin &amp; Doxorubicin</b>
+<p>
+</font></answer></question><question><p>Question 533 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Cinchonism (2)?</b> ... <answer><font color=red> <b>-Quinidine -quinine</b>
+<p>
+</font></answer></question><question><p>Question 534 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Cough?</b> ... <answer><font color=red> <b>-ACE inhibitors (Losartan&gt;no cough)</b>
+<p>
+</font></answer></question><question><p>Question 535 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Cutaneous flushing (4)?</b> ... <answer><font color=red> <b>-Niacin -Ca++ channel blockers -adenosine -vancomycin</b>
+<p>
+</font></answer></question><question><p>Question 536 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Diabetes insipidus?</b> ... <answer><font color=red> <b>-Lithium</b>
+<p>
+</font></answer></question><question><p>Question 537 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Disulfram-like reaction (4) ?</b> ... <answer><font color=red> <b>-Metronidazole -certain cephalosporins -procarbazine -sulfonylureas</b>
+<p>
+</font></answer></question><question><p>Question 538 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Drug induced Parkinson's (4) ?</b> ... <answer><font color=red> <b>-Haloperidol -chlorpromazine -reserpine -MPTP</b>
+<p>
+</font></answer></question><question><p>Question 539 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Extrapyramidal side effects (3)?</b> ... <answer><font color=red> <b>-Chlorpromazine -thioridazine -haloperidol</b>
+<p>
+</font></answer></question><question><p>Question 540 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Fanconi's syndrome?</b> ... <answer><font color=red> <b>-Tetracycline</b>
+<p>
+</font></answer></question><question><p>Question 541 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Focal to massive hepatic necrosis (4)?</b> ... <answer><font color=red> <b>-Halothane -Valproic acid -acetaminophen -Amantia phalloides</b>
+<p>
+</font></answer></question><question><p>Question 542 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: G6PD hemolysis(8)?</b> ... <answer><font color=red> <b>-Sulfonamides -INH -ASA -Ibuprofen -primaquine -nitrofurantoin /-pyrimethamine -chloramphenicol</b>
+<p>
+</font></answer></question><question><p>Question 543 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Gingival hyperplasia?</b> ... <answer><font color=red> <b>-Phenytoin</b>
+<p>
+</font></answer></question><question><p>Question 544 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Gray baby syndrome?</b> ... <answer><font color=red> <b>-Chloramphenicol</b>
+<p>
+</font></answer></question><question><p>Question 545 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Gynecomastia (6) ?</b> ... <answer><font color=red> <b>-Cimetidine -ketoconazole -spironolactone -digitalis -EtOH -estrogens</b>
+<p>
+</font></answer></question><question><p>Question 546 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Hepatitis?</b> ... <answer><font color=red> <b>-Isoniazid</b>
+<p>
+</font></answer></question><question><p>Question 547 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Hot flashes?</b> ... <answer><font color=red> <b>-Tamoxifen</b>
+<p>
+</font></answer></question><question><p>Question 548 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Neuro and Nephrotoxic?</b> ... <answer><font color=red> <b>-polymyxins</b>
+<p>
+</font></answer></question><question><p>Question 549 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Osteoporosis (2)?</b> ... <answer><font color=red> <b>-Corticosteroids -heparin</b>
+<p>
+</font></answer></question><question><p>Question 550 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Oto and Nephrotoxicity (3)?</b> ... <answer><font color=red> <b>-aminoglycosides -loop diuretics -cisplatin</b>
+<p>
+</font></answer></question><question><p>Question 551 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: P450 induction(6)?</b> ... <answer><font color=red> <b>-Barbiturates -phenytoin -carbamazipine -rifampin -griseofulvin -quinidine</b>
+<p>
+</font></answer></question><question><p>Question 552 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: P450 inhibition(6)?</b> ... <answer><font color=red> <b>-Cimetidine -ketoconazole -grapefruit juice -erythromycin -INH -sulfonamides</b>
+<p>
+</font></answer></question><question><p>Question 553 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Photosensitivity(3)?</b> ... <answer><font color=red> <b>-Tetracycline -amiodarone -sulfonamides</b>
+<p>
+</font></answer></question><question><p>Question 554 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Pseudomembranous colitis?</b> ... <answer><font color=red> <b>-Clindamycin</b>
+<p>
+</font></answer></question><question><p>Question 555 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Pulmonary fibrosis(3)?</b> ... <answer><font color=red> <b>-Bleomycin -amiodarone -busulfan</b>
+<p>
+</font></answer></question><question><p>Question 556 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: SLE-like syndrome?</b> ... <answer><font color=red> <b>-Hydralazine -Procainamide -INH -phenytoin</b>
+<p>
+</font></answer></question><question><p>Question 557 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Stevens-Johnson syn. (3)?</b> ... <answer><font color=red> <b>-Ethosuxamide -sulfonamides -lamotrigine</b>
+<p>
+</font></answer></question><question><p>Question 558 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Tardive dyskinesia?</b> ... <answer><font color=red> <b>-Antipsychotics</b>
+<p>
+</font></answer></question><question><p>Question 559 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Tendonitis and rupture?</b> ... <answer><font color=red> <b>-Fluoroquinolones</b>
+<p>
+</font></answer></question><question><p>Question 560 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Thrombotic complications?</b> ... <answer><font color=red> <b>-Oral Contraceptives</b>
+<p>
+</font></answer></question><question><p>Question 561 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Torsade de pointes (2) ?</b> ... <answer><font color=red> <b>-Class III antiarrhythmics (sotalol) -class IA (quinidine)</b>
+<p>
+</font></answer></question><question><p>Question 562 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug(s) cause this reaction: Tubulointerstitial Nephritis (5)?</b> ... <answer><font color=red> <b>-Sulfonamides -furosemide -methicillin -rifampin -NSAIDS (ex. ASA)</b>
+<p>
+</font></answer></question><question><p>Question 563 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Describe first-order kinetics?</b> ... <answer><font color=red> <b>Constant FRACTION eliminated per unit time.(exponential)</b>
+<p>
+</font></answer></question><question><p>Question 564 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Describe Phase I metabolism in liver(3)?</b> ... <answer><font color=red> <b>-reduction, oxy, &amp; hydrolysis -H2O sol. Polar product -P450</b>
+<p>
+</font></answer></question><question><p>Question 565 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Describe Phase II metabolism in liver(3)?</b> ... <answer><font color=red> <b>-acetylation, glucuron.,&amp; sulfation -Conjugation -Polar product</b>
+<p>
+</font></answer></question><question><p>Question 566 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Explain differences between full and partial agonists(2).</b> ... <answer><font color=red> <b>- Act on same receptor - Full has greater efficacy</b>
+<p>
+</font></answer></question><question><p>Question 567 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Explain potency in relation to full and partial agonists(2).</b> ... <answer><font color=red> <b>- partial agonist can have increased, decreased, or equal potency as full agonist. - Potency is an independent factor.</b>
+<p>
+</font></answer></question><question><p>Question 568 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How do spare receptors effect the Km?</b> ... <answer><font color=red> <b>- ED 50 is less than the Km (less than 50% of receptors)</b>
+<p>
+</font></answer></question><question><p>Question 569 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How do you calculate maintenance dose?</b> ... <answer><font color=red> <b>Md= (CpxCL)/F  ; where Cp= plasma concentration, CL=clear, F=bioaval.</b>
+<p>
+</font></answer></question><question><p>Question 570 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How does a competitive antagonist effect an agonist?</b> ... <answer><font color=red> <b>-Shifts the curve to the right -increases Km</b>
+<p>
+</font></answer></question><question><p>Question 571 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How does a noncompetitive antagonist effect an agonist?</b> ... <answer><font color=red> <b>- Shifts the curve down -reduces Vmax</b>
+<p>
+</font></answer></question><question><p>Question 572 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Name the steps in drug approval(4)?</b> ... <answer><font color=red> <b>-Phase I (clinical tests) -Phase II -Phase III -PhaseIV (surveillance)</b>
+<p>
+</font></answer></question><question><p>Question 573 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Steady state concentration is reached in __#half-lifes</b> ... <answer><font color=red> <b>In 4 half-lifes= (94%) T1/2 = (0.7x Vd)/CL</b>
+<p>
+</font></answer></question><question><p>Question 574 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the definition of zero-order kinetics? Example?</b> ... <answer><font color=red> <b>-Constant AMOUNT eliminated per unit time. -Etoh &amp;ASA</b>
+<p>
+</font></answer></question><question><p>Question 575 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the formula for Clearance (CL)?</b> ... <answer><font color=red> <b>CL= (rate of elimination of drug/ Plasma drug conc.)</b>
+<p>
+</font></answer></question><question><p>Question 576 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the formula for Volume of distribution (Vd)?</b> ... <answer><font color=red> <b>Vd= (Amt. of drug in body/ Plasma drug conc.)</b>
+<p>
+</font></answer></question><question><p>Question 577 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the loading dose formula?</b> ... <answer><font color=red> <b>Ld= (CpxVd)/F ; where   Cp=plasma concentration, F= Bioaval.</b>
+<p>
+</font></answer></question><question><p>Question 578 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>A 12yo patient was treated for a reaction to a bee sting, what drug provides the best coverage of sympathomimetic receptors?</b> ... <answer><font color=red> <b>Epinephirine(Alpha1,2 and Beta 1,2)</b>
+<p>
+</font></answer></question><question><p>Question 579 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>A 57 yo heart failure pt develops cardiac decompensation, what drug will give you adequate perfusion of his kidneys as well as tx for his Hypotension</b> ... <answer><font color=red> <b>Dopamine</b>
+<p>
+</font></answer></question><question><p>Question 580 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>A fellow passenger on a Carnival cruise ship looks pale and diaphoretic, what antimuscarinic agent would you give them?</b> ... <answer><font color=red> <b>scopolamine</b>
+<p>
+</font></answer></question><question><p>Question 581 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>A group of pts are rushed into the ER complaining of excessive sweating, tearing, salivation, HA, N and V, muscle twitching, difficulty breathing and diarrhea. What drug would be the most effective immediate tx?</b> ... <answer><font color=red> <b>Atropine, pts are suffering from Cholinestrase inhibitor poisining(Nerve gas/Organophosphate poisining)</b>
+<p>
+</font></answer></question><question><p>Question 582 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>You want to use a depolarizing neuromuscular blocking drug on your pt, what do you use?</b> ... <answer><font color=red> <b>Succinylcholine</b>
+<p>
+</font></answer></question><question><p>Question 583 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>By what mechanism does Succinylcholine help?</b> ... <answer><font color=red> <b>Prevents the release of Ca from SR of skeletal muscle</b>
+<p>
+</font></answer></question><question><p>Question 584 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Clonidine is the preferred sympathomimetic tx of HTN in pts with renal disease, why?</b> ... <answer><font color=red> <b>Centrally acting alpha agonist, thus causing a decrease in central adrenergic outflow, sparing renal blood flow</b>
+<p>
+</font></answer></question><question><p>Question 585 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Cocaine casues vasoconstriction and local anesthesia by what mechanism?</b> ... <answer><font color=red> <b>Indirect agonist, uptake inhibitor</b>
+<p>
+</font></answer></question><question><p>Question 586 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Cocaine shares its mechanism of action with what antidepressant?</b> ... <answer><font color=red> <b>TCA</b>
+<p>
+</font></answer></question><question><p>Question 587 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Dobutamine used for the tx of shock acts on which receptors?</b> ... <answer><font color=red> <b>Beta1 more than B2</b>
+<p>
+</font></answer></question><question><p>Question 588 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Guanethidine enhances the release of Norepi?</b> ... <answer><font color=red> <b>No, it inhibits the release of Nor Epi</b>
+<p>
+</font></answer></question><question><p>Question 589 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How does angiotensin II affect NE release?</b> ... <answer><font color=red> <b>It acts presynaptically to increase NE release.</b>
+<p>
+</font></answer></question><question><p>Question 590 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How does botulinum toxin result in respiratory arrest?</b> ... <answer><font color=red> <b>Prevents the release of ACh, which results in muscle paralysis.</b>
+<p>
+</font></answer></question><question><p>Question 591 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How does dantrolene work?</b> ... <answer><font color=red> <b>Prevents the release of calcium from the sarcoplasmic reticulum of skeletal muscle.</b>
+<p>
+</font></answer></question><question><p>Question 592 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How does NE modulate its own release?  What other neurotransmitter has this same effect?</b> ... <answer><font color=red> <b>NE acts presynaptically on alpha-2 receptors to inhibit its own release.  ACh also acts presynaptically through M1 receptors to inhibit NE release.</b>
+<p>
+</font></answer></question><question><p>Question 593 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How would hemicholinium treatment affect cholinergic neurons?</b> ... <answer><font color=red> <b>Hemicholinium inhibits the transport of choline into the nerve, thus inhibiting formation of ACh.</b>
+<p>
+</font></answer></question><question><p>Question 594 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>How would you reverse the effect of a neuromuscular blocking agent?</b> ... <answer><font color=red> <b>Give an antichloinesterase - neostigmine, edrophonium, etc</b>
+<p>
+</font></answer></question><question><p>Question 595 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>If a patient is given hexamethonium, what would happen to his/her heart rate?</b> ... <answer><font color=red> <b>It would increase to ~ 100 beats/min. Both sympathetic and vagal stimulation would be knocked out, but the SA node has an intrinsic pace of 100 beats/min, which is normally checked by vagal stimulation.</b>
+<p>
+</font></answer></question><question><p>Question 596 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Isopoterenol was given to a patient with a developing AV block, why?</b> ... <answer><font color=red> <b>Stimulates beta adrenergic receptors</b>
+<p>
+</font></answer></question><question><p>Question 597 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Norepi feedbacks and inhibits the presynaptic receptor by what mechanism?</b> ... <answer><font color=red> <b>Binding to the presynaptic alpha 2 release modulating receptors</b>
+<p>
+</font></answer></question><question><p>Question 598 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Reserpine will block the syntheis of this drug and but not its precursor?</b> ... <answer><font color=red> <b>Blocks Norepi, but not Dopamine</b>
+<p>
+</font></answer></question><question><p>Question 599 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>These drugs acts indirectly by releasing strored catecholamines in the presynaptic terminal?</b> ... <answer><font color=red> <b>Amphetamine and Ephedrine</b>
+<p>
+</font></answer></question><question><p>Question 600 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What anticholinesterase crosses the blood-brain-barrier?</b> ... <answer><font color=red> <b>physostigmine</b>
+<p>
+</font></answer></question><question><p>Question 601 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What antimuscarinic agent is used in asthma and COPD?</b> ... <answer><font color=red> <b>Ipratropium</b>
+<p>
+</font></answer></question><question><p>Question 602 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What antimuscarinic drug is useful for the tx of asthma?</b> ... <answer><font color=red> <b>Ipratropium</b>
+<p>
+</font></answer></question><question><p>Question 603 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the classic symptoms of cholinesterase inhibitor poisoning (parathion or other organophosphates)?</b> ... <answer><font color=red> <b>Diarrhea, Urination, Miosis, Bronchospasm, Bradycardia, Excitation of skeletal muscle and CNS, Lacrimation, Sweating, and Salivation = DUMBBELS; also abdominal cramping</b>
+<p>
+</font></answer></question><question><p>Question 604 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the clinical indications for bethanechol?</b> ... <answer><font color=red> <b>Activates cholinergic receptors on bladder and bowel smooth muscle, alleviating post-op and neurogenic ileus and urinary retention.</b>
+<p>
+</font></answer></question><question><p>Question 605 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the clinical indications for neostigmine?</b> ... <answer><font color=red> <b>Post-op and neurogenic ileus and urinary retention, myasthenia gravis, and reversal of neuromuscular junction blockade (post-op) through anticholinesterase activity.</b>
+<p>
+</font></answer></question><question><p>Question 606 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the indications for using amphetamine?</b> ... <answer><font color=red> <b>narcolepsy, obesity, and attention deficit disorder.</b>
+<p>
+</font></answer></question><question><p>Question 607 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the nondepolarizing neuromuscular blocking drugs?</b> ... <answer><font color=red> <b>Tubocurarine, atracurium, mivacurium, pancuronium, vecuronium, rapacuronium</b>
+<p>
+</font></answer></question><question><p>Question 608 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are the phases of succinylcholine neuromuscular blockade?</b> ... <answer><font color=red> <b>Phase 1 = prolonged depolarization, no antidote, effect potentiated by anticholinesterase; Phase 2 = repolarized but blocked, an anticholinesterase is the antidote for this phase.</b>
+<p>
+</font></answer></question><question><p>Question 609 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What are two indirect acting adrenergic agonists?</b> ... <answer><font color=red> <b>amphetamine and ephedrine</b>
+<p>
+</font></answer></question><question><p>Question 610 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What beta 2 agonist will help your 21yo Astma pt?</b> ... <answer><font color=red> <b>Albuterol, tertbutaline</b>
+<p>
+</font></answer></question><question><p>Question 611 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What cholinergic inhibitor acts by directly inhibiting Ach release at the presynaptic terminal?</b> ... <answer><font color=red> <b>Botulinum</b>
+<p>
+</font></answer></question><question><p>Question 612 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What cholinomimetic is useful in the diagnosis of Myasthenia Gravis?</b> ... <answer><font color=red> <b>Edrophonium</b>
+<p>
+</font></answer></question><question><p>Question 613 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What cholinomimetics might your pt be taking for his glaucoma?</b> ... <answer><font color=red> <b>Carbachol, pilocarpine, physostigmine, echothiophate</b>
+<p>
+</font></answer></question><question><p>Question 614 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What class of drug is echothiophate?  What is its indication?</b> ... <answer><font color=red> <b>anticholinesterase, glaucoma</b>
+<p>
+</font></answer></question><question><p>Question 615 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What conditions would you use dantrolene?</b> ... <answer><font color=red> <b>In treatment of malignant hyperthermia, due to concomitant use of halothane and succinylcholine. Also in neuroleptic malignant syndrome, a toxicity of antipsychotic drugs.</b>
+<p>
+</font></answer></question><question><p>Question 616 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What drug is used to diagnose myasthenia gravis?</b> ... <answer><font color=red> <b>edrophonium (extremely short acting anticholinesterase)</b>
+<p>
+</font></answer></question><question><p>Question 617 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What drugs target Acetylcholinesterase?</b> ... <answer><font color=red> <b>Neostigmine, pyridostigmine, edrophonium, physostigmine, echothiophate.</b>
+<p>
+</font></answer></question><question><p>Question 618 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What effect would atropine have on a patient with peptic ulcer disease?</b> ... <answer><font color=red> <b>Theoretically it could be used to block the cephalic phase of acid secretion (vagal stimulation).</b>
+<p>
+</font></answer></question><question><p>Question 619 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What effect would atropine have on the preganglionic sympathetic activation of sweat glands? Would this person sweat?</b> ... <answer><font color=red> <b>None. No, because atropine would block the postganglionic muscarinic receptors involved in sweat gland stimulation.</b>
+<p>
+</font></answer></question><question><p>Question 620 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What enzyme is responsible for the breakdown of ACh in the synaptic cleft?</b> ... <answer><font color=red> <b>Acetylcholinesterase; ACh is broken down into choline and acetate.</b>
+<p>
+</font></answer></question><question><p>Question 621 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What enzyme is responsible for the degradation of Ach?</b> ... <answer><font color=red> <b>Acetylcholinesterase</b>
+<p>
+</font></answer></question><question><p>Question 622 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What enzyme is responsible for the production of Ach from Acetyl CoA and Choline?</b> ... <answer><font color=red> <b>Choline acetyltransferase</b>
+<p>
+</font></answer></question><question><p>Question 623 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the clinical utility of clonidine?</b> ... <answer><font color=red> <b>Treatment of hypertension, especially with renal disease (lowers bp centrally, so flow is maintained to kidney).</b>
+<p>
+</font></answer></question><question><p>Question 624 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the clinical utility of cocaine?</b> ... <answer><font color=red> <b>The only local anesthetic with vasoconstrictive properties.</b>
+<p>
+</font></answer></question><question><p>Question 625 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the difference between the affinity for beta receptors between albuterol/terbutaline and dobutamine?</b> ... <answer><font color=red> <b>Dobutamine has more of an affintiy for beta-1 than beta-2, and is used for treating heart failure and shock. Albuterol and terbutaline is the reverse, and is used in treatment of acute asthma.</b>
+<p>
+</font></answer></question><question><p>Question 626 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the difference in receptor affinity of epinephrine at low doses? High doses?</b> ... <answer><font color=red> <b>Prefers beta's at low doses, but at higher doses alpha agonist effects are predominantly seen.</b>
+<p>
+</font></answer></question><question><p>Question 627 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the effect of epinephrine infusion on bp and pulse pressure?</b> ... <answer><font color=red> <b>Increased systolic and pulse pressure, decreased diastolic pressure, and little change in mean pressure.</b>
+<p>
+</font></answer></question><question><p>Question 628 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the effect of guanethidine on adrenergic NE release?</b> ... <answer><font color=red> <b>It inhibits release of NE.</b>
+<p>
+</font></answer></question><question><p>Question 629 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the effect of norepinephrine on bp and pulse pressure?</b> ... <answer><font color=red> <b>Increases mean, systolic, and diastolic bp, while there is little change in pulse pressure.</b>
+<p>
+</font></answer></question><question><p>Question 630 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the effect of TCA's on the adrenergic nerve?</b> ... <answer><font color=red> <b>They inhibit reuptake of NE at the nerve terminal (as does cocaine).</b>
+<p>
+</font></answer></question><question><p>Question 631 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the only depolarizing neuromuscular blocking agent?</b> ... <answer><font color=red> <b>Succinylcholine</b>
+<p>
+</font></answer></question><question><p>Question 632 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What is the receptor affinity and clinical use of isoproterenol?</b> ... <answer><font color=red> <b>It affects beta receptors equally and is used in AV heart block (rare).</b>
+<p>
+</font></answer></question><question><p>Question 633 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What makes this drug effective (isopreterenol)?</b> ... <answer><font color=red> <b>It antagonizes Ach M receptors and decreases parasym (GI) rxn</b>
+<p>
+</font></answer></question><question><p>Question 634 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What nondepolorizing agents can you name?</b> ... <answer><font color=red> <b>Tubocurarine, atra-, miv-, pan-,ve-, rapacuronium</b>
+<p>
+</font></answer></question><question><p>Question 635 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What other substances regulate the Norepi nerve ending?</b> ... <answer><font color=red> <b>Ach, AngiotensinII</b>
+<p>
+</font></answer></question><question><p>Question 636 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What other syndrome can dantrolene tx besides malignant hyperthermia?</b> ... <answer><font color=red> <b>Neuroleptic malignant syndrome</b>
+<p>
+</font></answer></question><question><p>Question 637 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What physiological effects uses Atropine to tx them?</b> ... <answer><font color=red> <b>SLUD (salivation, Lacrimation, urination, Defecation)as well as airway secretion, GI motility, acid secretions</b>
+<p>
+</font></answer></question><question><p>Question 638 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What reversal agent could you give to reverse the effects of Atropine?</b> ... <answer><font color=red> <b>Bethanechol, Neostigmine, physostigmine</b>
+<p>
+</font></answer></question><question><p>Question 639 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What side effect of using atropine to induce pupillary dilation would you expect?</b> ... <answer><font color=red> <b>Atropine would also block the receptors in the ciliary muscle, causing an impairment in accommodation (cycloplegia).</b>
+<p>
+</font></answer></question><question><p>Question 640 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What sympathomimetic would you not prescribe for hypotension in a pt with renal artery sclerosis?</b> ... <answer><font color=red> <b>Norepinephrine (Alpha1,2 and beta 1)</b>
+<p>
+</font></answer></question><question><p>Question 641 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What type of neurological blockade would hexamethonium create?</b> ... <answer><font color=red> <b>Hexamethonium is a nicotinic antagonist, and thus is a ganglionic blocker.</b>
+<p>
+</font></answer></question><question><p>Question 642 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What would be the effect on blood pressure with infusion of the alpha -2 agonist clonidine?</b> ... <answer><font color=red> <b>Initially vasoconstriction would increase bp, but then it acts on central alpha-2 receptors to decrease adrenergic outflow resulting in decreased bp.</b>
+<p>
+</font></answer></question><question><p>Question 643 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>What does Pralidoxime do?</b> ... <answer><font color=red> <b>Regenerates active cholinestrase</b>
+<p>
+</font></answer></question><question><p>Question 644 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which antimuscarinic agents are used in producing mydriasis and cycloplegia?</b> ... <answer><font color=red> <b>atropine, homatropine, tropicamide</b>
+<p>
+</font></answer></question><question><p>Question 645 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which drug increases Sys BP w/o affecting Pulse Pressure?</b> ... <answer><font color=red> <b>Epinephrine</b>
+<p>
+</font></answer></question><question><p>Question 646 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which of epi, norepi, or isoproterenol results in bradycardia?</b> ... <answer><font color=red> <b>Norepinephrine</b>
+<p>
+</font></answer></question><question><p>Question 647 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which of the following would atropine administration cause: Hypothermia, bradycardia, excess salivation, dry flushed skin, or diarrhea?</b> ... <answer><font color=red> <b>Dry flushed skin, due to inhibition of sympathetic post-ganglionic blockade on muscarinic receptors of sweat glands. All others are opposite of what would be expected.</b>
+<p>
+</font></answer></question><question><p>Question 648 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which of these three drugs will cause a reflex bradycardia in your pt (Norepi, Epi, or Isoporterenol)?</b> ... <answer><font color=red> <b>Norepinephrine</b>
+<p>
+</font></answer></question><question><p>Question 649 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Which receptors does phenylephrine act upon?</b> ... <answer><font color=red> <b>alpha-1 &gt; alpha-2; used as a pupil dilator, vasoconstrictor, and for nasal decongestion</b>
+<p>
+</font></answer></question><question><p>Question 650 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>While at a tail gait party, you bite into a sandwich that a yellow jacket is also enjoying. Knowing your allergy to this creature, what should you do?</b> ... <answer><font color=red> <b>Epinephrine to treat anaphylaxis. Also useful if you have open angle glaucoma, asthma, or hypotension.</b>
+<p>
+</font></answer></question><question><p>Question 651 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why are albuterol and terbutaline effective in tx of acute asthmatic attacks?</b> ... <answer><font color=red> <b>These B-2 agonists cause respiratory smooth muscle to relax.</b>
+<p>
+</font></answer></question><question><p>Question 652 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why does atropine dilate the pupil?</b> ... <answer><font color=red> <b>Blocking muscarinic receptors in the circular fibers of the eye, results in unopposed action of radial muscles to dilate.</b>
+<p>
+</font></answer></question><question><p>Question 653 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why does NE result in bradycardia?</b> ... <answer><font color=red> <b>NE increases bp, which stimulates baroreceptors in the carotid sinus and the aorta. The CNS signals through vagal stimulation to decrease heart rate.</b>
+<p>
+</font></answer></question><question><p>Question 654 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why is carbachol and pilocarpine useful in treatment of glaucoma?</b> ... <answer><font color=red> <b>They activate the ciliary muscle of the eye (open angle) and pupillary sphincter (narrow angle).</b>
+<p>
+</font></answer></question><question><p>Question 655 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why is pyridostigmine effective in the treatment of myasthenia gravis?</b> ... <answer><font color=red> <b>As an anticholinesterase it increases endogenous ACh and thus increases strength.</b>
+<p>
+</font></answer></question><question><p>Question 656 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why is reserpine effective in treating HTN?</b> ... <answer><font color=red> <b>Reserpine inhibits dopamine transport into vesicles, attenuating its conversion to NE by dopamine beta-hydroxylase.</b>
+<p>
+</font></answer></question><question><p>Question 657 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why is there a drop in systolic, mean, and diastolic bp with infusion of isoproterenol?</b> ... <answer><font color=red> <b>Stimulating beta receptors stimulates heart rate, but beta receptor induced vasodilation reduces peripheral resistance.</b>
+<p>
+</font></answer></question><question><p>Question 658 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why would a patient with cog-wheel rigidity and a shuffling gait be given benztropine?</b> ... <answer><font color=red> <b>Parkinson patients benefit from antimuscarinic agents through its inhibitory action within the indirect pathway.</b>
+<p>
+</font></answer></question><question><p>Question 659 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why would dopamine be useful in treating shock?</b> ... <answer><font color=red> <b>Receptors = D1=D2&gt;beta&gt;alpha, thus increasing heart rate (beta) and blood pressure (alpha vasoconstriction) while maintaining kidney perfusion (dopamine receptors)</b>
+<p>
+</font></answer></question><question><p>Question 660 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why would you give a drug like pancuronium or succinylcholine?</b> ... <answer><font color=red> <b>Useful in muscle paralysis during surgery or mechanical ventilation.</b>
+<p>
+</font></answer></question><question><p>Question 661 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Why would you use pralidoxime after exposure to an organophosphate?</b> ... <answer><font color=red> <b>Pralidoxime regenerates active cholinesterase.</b>
+<p>
+</font></answer></question><question><p>Question 662 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Will Hemicholinum affect the release of stored Ach during Cholinergic Stimulation?</b> ... <answer><font color=red> <b>No, hemicholinum block the uptake of Choline and thus Ach synthesis</b>
+<p>
+</font></answer></question><question><p>Question 663 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Would blockade of muscarininc receptors in the bladder be useful in treating urinary retention?</b> ... <answer><font color=red> <b>No. Atropine is used to reduce urgency in mild cystitis. So it would aggravate the urinary retention.</b>
+<p>
+</font></answer></question><question><p>Question 664 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Would Hexamethonium be an effective substitute?</b> ... <answer><font color=red> <b>No, hexamethonium targets Nicotinc receptors and will block Parasym, Sym, as well as Somatic systems</b>
+<p>
+</font></answer></question><question><p>Question 665 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>You tx your pt with halothane as well succinylcholine and he has also developed malignant hypothermia, what drug can you give?</b> ... <answer><font color=red> <b>Dantrolene</b>
+<p>
+</font></answer></question><question><p>Question 666 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Your patient develops a marked arrythmia due to a prolonged depolarization, can you tx this w/ Neostigmine?</b> ... <answer><font color=red> <b>No cholinesterase inhibitors will potentiate the stimulating action of Succinlycholine</b>
+<p>
+</font></answer></question><question><p>Question 667 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Your patient has acute angle glaucoma, does this affect your tx?</b> ... <answer><font color=red> <b>Yes, Scopolamine would antagonize his glaucoma</b>
+<p>
+</font></answer></question><question><p>Question 668 of 668 : <b>Pharmacology</b>
+<p><font face=verdana size=5> <b>Your patient wants an effective drug to treat his motion sickness, what would you prescribe?</b> ... <answer><font color=red> <b>Scopolamine </b>
+<p>
+</font></answer></question>

@@ -1,0 +1,194 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Dermatology.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 4 ?
+<question>"Stuck-on" appearance is an indication of:
+<answer>Seborrheic Keratosis</answer></question>
+
+<question>Patient:
+<rl sep=and>
+    <li>Presents with red plaques with silvery-white scales and sharp margins
+    <li>Biopsy shows thickened epidermis and neutrophils in the stratum
+	corneum (Munro microabcesses)
+</rl> likely cause is:
+<answer>Psoriasis</answer></question>
+
+<question>Most common type of skin cancer where the lesion is a pearly
+	colored papule with a translucent surface and telangectasias:
+<answer>Basal cell carcinoma</answer></question>
+
+<question>Honey-crusted lesions are from:
+<answer>Impetigo</answer></question>
+
+<question>Patient
+<rl sep=and>
+    <li>Is Febrile
+    <li>Has a history of diabetes presents with a
+        <rl sep=and>
+	    <li>red
+	    <li>swollen
+	    <li>painful lower extremeity
+	</rl>
+</rl>Diagnosis?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+	<tr><th align=left>Diagnosis:</th><td>Cellulitis.</td></tr>
+	<tr><th align=left>Treatment:</th><td>
+	Treat as outpatient with cephalexin which has activity against
+	group A streptococci and staphylocci.</td></tr>
+</table></center></answer></question>
+
+<question>Positive Nikolsky's sign:
+<answer>Pemphigus Vulgaris</answer></question>
+
+<question>A 55 year-old obese patient presents with dirty, velvety patches
+	on the back of the neck.  Diagnosis?  Workup?
+<answer><center><table border=1 cellspacing=0>
+	<tr><th align=left>Diagnosis:</th><td>Acanthosis Nigricans</td></tr>
+	<tr><th align=left>Workup:</th><td>Check fasting blood sugar to
+		rule out diabetes</td></tr>
+</table></center></answer></question>
+
+<question>Dermatomal distribution:
+<answer>Varicella zoster virus</answer></question>
+
+<question>Flat-topped papules:
+<answer>Lichen planus</answer></question>
+
+<question>Iris-like target lesions:
+<answer>Erythema multiforme</answer></question>
+
+<question>Lesion characteristically occurring in a linear pattern in areas
+	where skin comes into contact with clothing or jewelry:
+<answer>Contact dermatitis</answer></question>
+
+<question>Presents with herald-patch, Christmas-tree pattern:
+<answer>Pityriasis rosea</answer></question>
+
+<question>"Target" lesions with a red center, pale zone, and dark outer ring
+	appearing on the palm and soles with a prodrome of malaise and
+	myalgias:
+<answer>Erythema multiforme</answer></question>
+
+<question>A 16 year-old presents with an annular patch of alopecia with
+	broken-off stubby hairs.  Diagnosis?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+	<tr><th align=left>Diagnosis:</th>
+	    <td>Alopecia Areata (autoimmune process).</td></tr>
+	<tr><th align=left>Treatment:</th><td>Treat with topical steroids.
+	    </td></tr>
+</table></center></answer></question>
+
+<question>Pinkish, scaling flat lesions on the chest and back.  KOH prep has
+	"spaghetti-and-meatballs" appearance.  Diagnosis?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+	<tr><th align=left>Diagnosis:</th>
+	    <td>Pityriasis Versicolor</td></tr>
+	<tr><th align=left>Treatment:</th><td>Use topical antifungal agent.
+	    </td></tr>
+</table></center></answer></question>
+
+<question>Risk factors for squamous cell carcinoma:
+<answer>
+<rl sep=and>
+    <li>Exposure to sun
+    <li>Exposure to radiation
+    <li>Actinic keratosis
+    <li>Immunosuppression
+    <li>Arsenic
+    <li>Industrial carcinogens
+</rl>
+</answer></question>
+
+<question>Patient
+<rl sep=and>
+    <li>Is a Child
+    <li>Presents with shiny, annular papules on the dorsum of the hand
+    <li>Biopsy shows chronic inflammation with "palisading histiocytes"
+</rl> Diagnosis?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+	<tr><th align=left>Diagnosis:</th>
+	    <td>Granuloma Annulare</td></tr>
+	<tr><th align=left>Treatment:</th><td>Treat with reassurance and
+		topical/intralesional steriods</td></tr>
+</table></center></answer></question>
+
+<question>Four characteristics of a nevus suggestive of melanoma:
+<answer>
+    <li><u>A</u>ssymetry
+    <li><u>B</u>order irregularity
+    <li><u>C</u>olor variation
+    <li>Large <u>D</u>iameter
+</answer></question>
+
+<question>Beefy-red patches and satellite pustules appearing in intertriginous
+	areas.  How to diagnose?
+<answer><center><table border=1 cellspacing=0>
+	<tr><th align=left>Possible diagnosis:</th>
+	    <td>Candidal Intertrigo</td></tr>
+	<tr><th align=left>Verification:</th><td>KOH prep of satellite lesion
+		scraping reveals pseudohyphae</td></tr>
+</table></center></answer></question>
+
+<question>Stress-related hair loss.  Treatment?
+<answer><center><table border=1 cellspacing=0>
+	<tr><th align=left>Diagnosis:</th>
+	    <td>Telogen effluvium</td></tr>
+	<tr><th align=left>Treatment:</th><td>Reassurance</td></tr>
+</table></center></answer></question>
+
+<question>Child with flesh-colored, umbilicated lesions on the face.
+	When occurring in adults, where do the lesions appear?
+<answer>Molluscum contagiosum appears in perigenital and perianal area
+	in adults</answer></question>
+
+<question>Sharply demarcated, pruritic red macules with maceration, commonly
+	found on the toe web spaces:
+<answer><center><table border=1 cellspacing=0>
+	<tr><th align=left>Possible diagnosis:</th>
+	    <td>Erythrasma</td></tr>
+	<tr><th align=left>Verification:</th><td>Diagnose with coral-red
+		flourescence with Wood's lamp</td></tr>
+</table></center></answer></question>
+
+<question>Premalignant lesion from sun exposure that can lead to SCC:
+<answer>Actinic keratosis</answer></question>
+
+<question>"Dew drop on a rose petal":
+<answer>Lesions of primary varicella</answer></question>
+
+<question>Smooth, dome-shaped nodule lacking central punctum,
+	primarily found on the scalp.  Biopsy shows lack of granular layer:
+<answer>Pylar cyst</answer></question>
+
+<question>Causative agent for pityriasis versicolor:
+<answer>Malassezia furfur</answer></question>
+</concept>

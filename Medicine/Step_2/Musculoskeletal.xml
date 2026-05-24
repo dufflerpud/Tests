@@ -1,0 +1,268 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Musculoskeletal.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 4 ?
+<question>Patient presents with
+<rl sep=and>
+    <li>pain on passive movement
+    <li>pallor
+    <li>poikilothermia
+    <li>paresthesias
+    <li>paralysis
+    <li>pulselessness.
+</rl> Treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Suspicion:</th><td>Compartment syndrome</td></tr>
+    <tr><th align=left>Treatment:</th><td>All compartment fasciotomy</td></tr>
+</table></center></answer></question>
+
+<question>Back pain that is:
+<rl sep=and>
+    <li>exacerbated by standing
+    <li>exacerbated by walking
+    <li>relieved by sitting
+    <li>relieved by hyperflexion of the hips
+<rl sep=and> is:
+<answer>Spinal stenosis</answer></question>
+
+<question>Joints in the hand affected in rheumatoid arthritis (RA):
+<answer>
+<ol sep=and>
+    <li>Metacarpophalangeal (MCP) joints
+    <li>PIP joints
+</ol>
+DIP joints are spared</answer></question>
+
+<question>Joint pain and stiffness that worsen over the course of the
+	day and is relieved by rest:
+<answer>Osteoarthritis</answer></question>
+
+<question>Genetic disorder associated with multiple fractures and
+	commonly mistaken for child abuse is:
+<answer>Osteogenesis imperfecta</answer></question>
+
+<question>Hip and back pain along with stiffness that improves with
+	activity over the course of the day and worsens at rest.
+	Diagnostic test?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Suspicion:</th><td>Ankylosing Spondylitis</td></tr>
+    <tr><th align=left>Confirm with:</th><td>HLA-B27</td></tr>
+</table></center></answer></question>
+
+<question>Young man presents with:
+<rl sep=and>
+    <li>arthritis
+    <li>conjunctivitis
+    <li>urethritis
+</rl> What is his condition and what are the associated organisms?
+<answer>Patient probably has Reiter's arthritis.  Organisms are:
+<ol sep=and>
+    <li>Campylobacter
+    <li>Shigella
+    <li>Salmonella
+    <li>Chlamydia
+    <li>Ureaplasma
+</ol>
+</answer></question>
+
+<question>A 55 year-old man has sudden, excruciating first
+	metatarsophalangeal (MTP) joint pain after a night of drinking
+	red wine.  Diagnosis, workup and chronic treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Diagnosis:</th><td>Gout</td></tr>
+    <tr><th align=left>Confirm with:</th><td>
+	Needle-shaped negatively birefringent crystals seen
+	on join fluid aspirate</td></tr>
+    <tr><th align=left>Treatment:</th><td>
+	Chronic treatment with allopurinol and probenecid</td></tr>
+</table></center></answer></question>
+
+<question>Rhomboid-shaped, positively birefringent crystals on joint
+	fluid aspirate indicate:
+<answer>Pseudogout</answer></question>
+
+<question>Elderly man complains of bony pain; he mentions frontal bossing
+	and adds that his favorite hat no longer fits.  This indicates:
+<answer>Paget's disease</answer></question>
+
+<question>
+Patient:
+<rl sep=and>
+    <li>is Elderly
+    <li>is female
+    <li>with pain
+    <li>with stiffness of the shoulders and hips
+    <li>who cannot lift her arms above her head
+    <li>who's labs show anemia
+    <li>who's labs show elevated ESR
+</rl>indicating:
+<answer>Polymyalgia rheumatica</answer></question>
+
+<question>Active 13 year-old boy has anterior knee pain.  Diagnosis?
+<answer>Osgood-Schlatter</answer></question>
+
+<question>The bone fractured in a fall on an outstretched hand:
+<answer>Distal radius (Colles' fracture)</answer></question>
+
+<question>Complication of scaphoid fracture is:
+<answer>Avascular necrosis (AVN)</answer></question>
+
+<question>Signs suggesting radial nerve damage with humeral fracture:
+<answer>
+<ol sep=and>
+    <li>Wrist drop
+    <li>Loss of thumb abduction
+</ol>
+</answer></question>
+
+<question>
+Patient:
+<rl sep=and>
+    <li>is young child
+    <li>with proximal muscle weakness
+    <li>with waddling gait
+    <li>pronounced calf muscles
+</rl> indicating:
+<answer>Duchenne muscular dystrophy (DMD)</answer></question>
+
+<question>
+Patient:
+<rl sep=and>
+    <li>is first-born
+    <li>is female
+    <li>was born in breech position
+    <li>was found to have asymmetric skin folds on her newborn exam
+</rl> Diagnosis?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Diagnosis:</th><td>Developmental hip dysplasia</td></tr>
+    <tr><th align=left>Treatment:</th><td>If severe, consider
+	Pavlik harness to maintain abduction</td></tr>
+</table</center></answer></question>
+
+<question>An 11 year-old obese, African American boy presents with sudden
+	onset of limp.  Diagnosis?  Workup?
+<answer><center><table border=1 cellspacing=1>
+    <tr><th align=left>Diagnosis:</th>
+        <td>Slipped capital femoral epiphyses</td></tr>
+    <tr><th align=left>Confirm with:</th>
+        <td>AP and frog leg lateral view</td></tr>
+</table></center></answer></question>
+
+<question>What is the most common primary malignant tumor of bone?
+<answer>Multiple myeloma</answer></question>
+
+<question>Xerostomia with paratoid enlargement and anti-LLa antibodies
+	indicates:
+<answer>Sjogren's syndrome</answer></question>
+
+<question>Joint pain associated with a heliotropic rash around the
+	eyelids indicates:
+<answer>Dermatomyositis</answer></question>
+
+<question>What are the small vessel vasculitides?
+<answer>
+<ol sep=and>
+    <li>Wegener's granulomatosis
+    <li>Henoch-Schonlein purpura (HSP)
+</ol>
+</answer></question>
+
+<question>What are the medium vessel vasculitides?
+<answer>
+<ol sep=and>
+    <li>Churg-Strauss
+    <li>Polyarteritis nodosa
+</ol>
+</answer></question>
+
+<question>What are the large vessel vasculitides?
+<answer>
+<ol sep=and>
+    <li>Temporal arteritis
+    <li>Takayasu's arteritis
+</ol>
+</answer></question>
+
+<question>
+Patient:
+<rl sep=and>
+    <li>with palpable purpura
+    <li>with abdominal pain
+    <li>with asymmetric periarticular swelling
+</rl> indicating:
+<answer>Henoch-Schonlein purpura (HSP)</answer></question>
+
+<question>
+Patient:
+<rl sep=and>
+    <li>is 45 year old
+    <li>is female
+    <li>with calcinosis
+    <li>with Raynaud's phenomenon
+    <li>with esophageal dysmotility
+    <li>with sclerodactyly
+    <li>with telangiectasis
+</rl> indicating:
+<answer>CREST syndrome of scleroderma</answer></question>
+
+<question>Most specific SLE antibodies are:
+<answer>
+<ol sep=and>
+    <li>Anti-Sm
+    <li>anti-dsDNA
+</ol>
+</answer></question>
+
+<question>Anticentromere antibodies indicate:
+<answer>Scleroderma</answer></question>
+
+<question>Antihistone antibodies indicate:
+<answer>Drug-induced SLE</answer></question>
+
+<question>Anti-La (SSB) antibodies indicate:
+<answer>Sjogren's syndrome</answer></question>
+
+<question>c-ANCA is a test for:
+<answer>Wegener's granulomatosis</answer></question>
+
+<question>p-ANCA is a test for:
+<answer>Polyarteritis nodosa</answer></question>
+
+<question>Sarcoma associated with "onion skinning" is:
+<answer>Ewing's sarcoma</answer></question>
+
+<question>Sarcoma associated with "sunburst" pattern is:
+<answer>Osteosarcoma</answer></question>
+
+<question>Radiographic "bamboo spine" indicates:
+<answer>Ankylosing Spondylitis</answer></question>
+</concept>

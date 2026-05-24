@@ -1,0 +1,186 @@
+<!------------------------------------------------------------------------
+--
+--indx#	IFR_1.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	IFR_1.xml - Quiz to learn IFR concepts
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	Quiz to learn IFR concepts
+-------------------------------------------------------------------------->
+
+<question> 7818:  On what headings will the magnetic compass read most accurately<br> during a level 360 degree turn, with a bank of approximately 15 degree?<br>
+<answer right>90" and 270"
+<answer>45", 135", 225" and 315"
+<answer>135" through 225"
+<answer>180" and 0"
+<question> 7823:  What should be the indication on the magnetic compass as you roll into<br> a standard rate turn to the left from a west heading in the<br> Northern Hemisphere?<br>
+<answer right>The compass will indicate the approximate correct magnetic heading if the roll into the turn is smooth.<br>
+<answer>The compass will indicate a turn to the left, but at a slower rate than is actually occurring.<br>
+<answer>The compass will initially indicate a turn to the right.
+<answer>The compass will remain on west for a short time, then gradually catch up to the magnetic heading of the aircraft.<br>
+<question> 7839: During flight, if the pito-tube becomes clogged with ice,<br> which of the following instruments would be affected?<br>
+<answer right>The airspeed indicator only.
+<answer>The airspeed indicator and the altimeter.
+<answer>The airspeed indicator, altimeter, and vertical speed indicator.
+<answer>The altimeter only.
+<question> 7783:  What indication should a pilot observe if an airspeed indicator<br> ram air input and drain hole are blocked?<br>
+<answer right>The airspeed indicator will react as an altimeter
+<answer>The airspeed indicator will show a decrease with an increase in altitude
+<answer>No airspeed indicator change will occur during climbs or descents.
+<answer>As speed increases in level flight, the airspeed indicator will show a decrease.<br>
+<question> 7863:  Which illustrion in figure 93, if any, indicates a skidding turn?<br>
+<answer right>b
+<answer>a
+<answer>c
+<answer>none
+<question> 7860:  If while in level flight, it becomes necessary to use an alternate<br> source of static pressure vented inside the airplane, which of the following<br> variations in instrument indications should the pilot expect?<br>
+<answer right>The altimeter will read higher than normal, airspeed greater than normal, and the vertical speed indicator will momentarily show a climb.<br>
+<answer>The altimeter will read lower than normal, airspeed lower than normal, and the vertical speed indicator will momentarily show a descent.<br>
+<answer>The altimeter will read lower than normal, airspeed greater than normal, and the vertical speed indicator will momentarily show a climb and then<br> a descent.<br>
+<answer>The altimeter will read higher than normal, airspeed will not change, and the vertical speed indicator will momentarily show a descent.<br>
+<question> 7365:  How should you preflight check the altimeter prior to an IFR flight?<br>
+<answer right>Set the altimeter to the current altimeter setting.  The indication should be within 75ft of the actual elevation for acceptable accuracy.<br>
+<answer>Set the altimeter to 29.92.  With current temperature and the altimeter indication, determine the true altitude to compare with the field elevation.<br>
+<answer>Set the altimeter to the current temperature.  With current temperature and the altimeter indication, determine the calibrate altitude to compare<br> with field elevation.<br>
+<answer>Set the altimeter first with 29.92 and then the current altimeter setting. The change in altitude should correspond to the change in setting.<br>
+<question> 7852:  Altimeter setting is the value to which the scale of the pressure<br> altimeter is set so the altimeter indicates<br>
+<answer right>true altitude at field elevation
+<answer>density altitude at sea level
+<answer>pressure altitude at sea level
+<answer>pressure altitude at field elevation
+<question> 7853:  The altimeter indicates the aircraft altitude in realation to:<br>
+<answer right>The pressure level set in the barometric window.
+<answer>The ground
+<answer>Sea level
+<answer>The standard datum plane.
+<question> 7443:  Which altitude is indicated when the altimeter is set to 29.92<br>
+<answer right>pressure
+<answer>density
+<answer>standard
+<answer>calibrated
+<question> 7841:  At an altitude of 6500 feet MSL, the current altimeter setting is 30.42,<br> The pressure altitude would be approximately:<br>
+<answer right>6000 ft
+<answer>7000 ft
+<answer>7500 ft
+<answer>6500 ft
+<question> 7079:  Under which condition will pressure altitude be equal to true altitude?<br>
+<answer right>When standard atmospheric conditions exist.
+<answer>When the OAT (outside air temperature) is colder than standard for that altitude<br>
+<answer>When the atmospheric pressure is 29.92" of Hg.
+<answer>When indicated altitude is equal to the pressure altitude?
+<question> 7097:  Under what condition will true altitude be lower than indicated<br> altitude with an altimeter setting of 29.92"<br>
+<answer right>In colder than standard air temperature
+<answer>In warmer than standard air temperature
+<answer>When density altitude is higher than indicated altitude.
+<answer>Under higher than standard pressure at standard air temperature.
+<question> 7032:  If an unpressurized aircraft is operated above 12500ft MSL, but not<br> more than 14000ft MSL, for a period of 2 hours 20 minutes, how long during<br> that time is the minimum flightcrew required to use supplemental oxygen?<br>
+<answer right>1 hour 20 minutes
+<answer>2 hours 20 minutes
+<answer>1 hour 50 minutes
+<answer>supplemental oxygen is not required.
+<question> 7764:  Which condition during taxi is an indication that an attitude<br> indicator is unreliable?<br>
+<answer right>The horizon bar tilts more than 5" while making taxi turns.
+<answer>The horizon bar vibrates during warmup
+<answer>The horizon bar does not align itself with the miniature after warmup.
+<answer>The miniature airplane does not tilt sufficiently to indicate a turn while taxiing.<br>
+<question> 7813:  What indications should you observe on the turn-and-slip indicator<br> during taxi?<br>
+<answer right>The ball moves freely opposite the turn, and the needle deflects in the direction of the turn.<br>
+<answer>The needle and ball should move freely in the direction of the turn.
+<answer>The needle deflects in the direction of the turn, but the ball remains centered.<br>
+<answer>The ball deflects opposite the turn, but the needle remains centered.
+<question> 7776:  What indications are displayed by the miniature aircraft of a turn<br> coordinator?<br>
+<answer right>Rate of roll and rate of turn.
+<answer>Direct indication of bank angle and pitch attitude
+<answer>Indirect indication of bank angle and pitch attitude
+<answer>Bank angle and rate of turn
+<question> 7760:  What indication should be observed on a turn coordinator during a left<br> turn while taxiing.<br>
+<answer right>The miniature aircraft will show a turn to the left and the ball moves to the right.<br>
+<answer>The miniature aircraft will show a turn to the left and the ball remains centered.<br>
+<answer>Both the miniature aircraft and the ball will remain centered.
+<answer>The miniature aircraft will remain level and the ball will move to the left.
+<question> 7566:  Refer to figure 76.  If the magnetic heading shown for airplane 5<br> is maintained, which ADF illustration would indicate the airplane is on the<br> 240" magnetic bearing TO the station.<br>
+<answer right>B
+<answer>C
+<answer>D
+<answer>F
+<question> 7553:  Refer to instruments in figure 74.  On the basis of this information,<br> the magnetic bearing TO the station would be<br>
+<answer right>240
+<answer>030
+<answer>060
+<answer>270
+<question> 7547:  What is the magnetic bearing to the station as indicated by<br> illustration D of figure 72?<br>
+<answer right>055
+<answer>285
+<answer>235
+<answer>085
+<question> 7546:  Which RMI illustration in figure 72 indicates the aircraft to be<br> flying outbound on the magnetic bearing of 235" FROM the station (wind 50"<br> at 20 knots).<br>
+<answer right>B
+<answer>A
+<answer>C
+<answer>D
+<question> 7347:  How should the pilot make a VOR receiver check when the airplane is<br> located on the designated checkpoint on the airport surface?<br>
+<answer right>Set the OBS on the designated radial.  The CDI must center within plus or minus 4" of that radial with a FROM indication.<br>
+<answer>With the aircraft headed directly toward the VOR and the OBS set to 0", the CDI should center within plus or minus 4" of that radial with a TO<br> indication.<br>
+<answer>Set the OBS on 180" +/- 4"; the CDI should center with a FROM indication.
+<answer>With the aircraft headed directly away from the VOR and the OBS set to 180", the CDI should center within +/0 4" of 180" with a FROM indication.<br>
+<question> 7373:<br> What indication should a pilot receive when a VOR station is undergoing<br> maintenance and may be considered unreliable.<br>
+<answer right>No coded identification, but possible navigation indications.
+<answer>Coded identification, but no navigation indications.
+<answer>Navigational and coded signals, but an intermittent "OFF" flag.
+<answer>A voice recording on the VOR frequency announcing that the VOR is out of service for maintenance.<br>
+<question> 7514:  Acceptable navigational signal coverage at the MOCA is assured for<br> a distance from the VOR of only<br>
+<answer right>22 NM
+<answer>12 NM
+<answer>25 NM
+<answer>30 NM
+<question> 7515:  What angular deviation from a VOR course centerline is represented<br> by a full-scale deflection of the CDI?<br>
+<answer right>10"
+<answer>2"
+<answer>4"
+<answer>5"
+<question> 7517:  What of the following should be considered as station passage when<br> using VOR?<br>
+<answer right>The first complete reversal of the TO-FROM indicator
+<answer>The first flickering of the TO-FROM indicator and CDI as the station is approached.<br>
+<answer>The first full-scale deflection of the CDI
+<answer>The moment to TO-FROM indicator becomes blank.
+<question> 7518:  When checking the sensitivity of a VOR receiver, the number of<br> degrees in course change as the OBS is rotated to move the CDI from center<br> to the last dot on either side, should be between:<br>
+<answer right>10" and 12"
+<answer>2" and 5"
+<answer>5" and 6"
+<answer>8" and 10"
+<question> 7520:  An aircraft which is located 30mi from a VOR station and shows a<br> 1/2 scale deflection on the CDI would be how far from the selected course<br> centerline?<br>
+<answer right>2-1/2mi
+<answer>1-1/2mi
+<answer>3-1/2mi
+<answer>4-1/2mi

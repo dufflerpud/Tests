@@ -1,0 +1,135 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Acronyms.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<!------------------------------------------------------------------------
+--
+--indx#	Acronyms.xml - Quiz to teach flight acronyms
+--
+--hist#	2026-05-16 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	Quiz to teach flight acronyms
+-------------------------------------------------------------------------->
+<concept>
+
+AGL - Above Ground Level<br>
+DME - Distance Measuring Equipment<br>
+FAA - Federal Aviation Administration<br>
+FAR - Federal Aviation Regulations<br>
+IFR - Instrument Flight Rules<br>
+IMC - Instrument Meterological Conditions<br>
+KIAS - Knots Indicated Air Speed<br>
+MSL - Mean Sea Level<br>
+NDB - Non Directional Beacon<br>
+NTSB - National Transportation Safety Board<br>
+PIC - Pilot in command<br>
+VFR - Visual Flight Rules<br>
+VOR - VHF Omnidirectional Range<br>
+
+<question>"FAA" stands for:
+<answer right>Federal Aviation Administration</answer>
+<answer>Federal Aviation Association</answer>
+<answer>Federal Airplane Administration</answer>
+<answer>Flying Aviation Administration</answer>
+</question>
+<question>"FAR" stands for:
+<answer right>Federal Aviation Regulations</answer>
+<answer>Flying Answers and Rules</answer>
+<answer>Federal Aviation Rules</answer>
+<answer>Flying Aviation Regulations</answer>
+</question>
+<question>"IMC" stands for:
+<answer right>Instrument Meterological Conditions</answer>
+<answer>Instrument Measured Conditions</answer>
+<answer>Infrared Metered Changes</answer>
+<answer>International Measured Conditions</answer>
+</question>
+<question>"IFR" stands for:
+<answer right>Instrument Flight Rules</answer>
+<answer>International Flying Regulations</answer>
+<answer>Internal Flying Rules</answer>
+<answer>Instrument Flight Routes</answer>
+</question>
+<question>"VFR" stands for:
+<answer right>Visual Flight Rules</answer>
+<answer>Virtual Flying Regulations</answer>
+<answer>Varied Flying Rules</answer>
+<answer>Valid Flight Routes</answer>
+</question>
+<question>"NDB" stands for:
+<answer right>Non Directional Beacon</answer>
+<answer>Node Directed Broadcast</answer>
+<answer>Nodal Diverse Beacon</answer>
+<answer>Non Diverse Broadcast</answer>
+</question>
+<question>"VOR" stands for:
+<answer right>VHF Omnidirectional Range</answer>
+<answer>Vector Oriented Radio</answer>
+<answer>Vector Offset Radio</answer>
+<answer>VHF Offset Radio</answer>
+</question>
+<question>"DME" stands for:
+<answer right>Distance Measuring Equipment</answer>
+<answer>Distance Monitored Elapsed</answer>
+<answer>Data Measured Enroute</answer>
+<answer>Data Mileage Equipment</answer>
+</question>
+<question>"NTSB" stands for:
+<answer right>National Transportation Safety Board</answer>
+<answer>Network of Transport Safety Boards</answer>
+<answer>National Transcontinental Safety Board</answer>
+<answer>North-Atlantic Transcontinental Safety Boards</answer>
+</question>
+<question>"PIC" stands for:
+<answer right>Pilot in Command</answer>
+<answer>Person in Control</answer>
+<answer>Pilot in Control</answer>
+<answer>Person in Command</answer>
+</question>
+<question>"KIAS" stands for:
+<answer right>Knots Indicated Air Speed</answer>
+<answer>Known Indexed Altitude/Speed</answer>
+<answer>Known Indicated Altitude Safety</answer>
+<answer>Knots Indexed Air Speed</answer>
+</question>
+<question>"AGL" stands for:
+<answer right>Above Ground Level</answer>
+<answer>Around Ground Limit</answer>
+<answer>Above Governance Limit</answer>
+<answer>Around Governance Level</answer>
+</question>
+<question>"MSL" stands for:
+<answer right>Mean Sea Level</answer>
+<answer>Mid Sea Limit</answer>
+<answer>Mean System Limit</answer>
+<answer>Mid System Level</answer>
+</question>
+</concept>

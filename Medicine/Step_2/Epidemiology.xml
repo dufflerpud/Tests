@@ -1,0 +1,170 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Epidemiology.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 1 ?
+<question>What is the bias introduced into a study when a clinician
+	is aware of what type of treatment his patient received?
+<answer>Observational bias</answer></question>
+
+<question>What is the bias introduced when screening detects a disease
+	earlier and thus lengthens the time from diagnosis to death?
+<answer>Lead-time bias</answer></question>
+
+<question>If you want to know if race affects the infant mortality
+	rate but most of the variation in infant mortality is predicted by
+	socioeconomic status, then socioeconomic status is what?
+<answer>A confounding variable</answer></question>
+
+<question>True positives divided by the number of patients with the
+	disease is called:
+<answer>"Sensitivity".  Sensitive tests have few false negatives and are
+	used to rule out a disease.</answer></question>
+
+<question>PPD reactivity is used as a screening test for TB because
+	most people with TB (except those who are anergic) will have a
+	positive PPD.  Is this highly sensitive or specific?
+<answer>Highly sensitive</answer></question>
+
+<question>Do chronic diseases like systemic lupus erythematosus SLE have
+	a higher prevalence or incidence?
+<answer>Higher prevalence</answer>
+<answer>Higher incidence</answer>
+</question>
+
+<question>Do epidemics such as influenza have a higher prevalence or
+	incidence?
+<answer>Higher incidence</answer>
+<answer>Higher prevalence</answer>
+<answer>Neither</answer>
+</question>
+
+<question>Does a cross sectional survey measure incidence or prevalence?
+<answer>Prevalence</answer>
+<answer>Incidence</answer>
+<answer>Neither</answer>
+</question>
+
+<question>Does a case-control study measure incidence of prevalence?
+<answer>Neither</answer>
+<answer>Prevalence</answer>
+<answer>Incidence</answer>
+</question>
+
+<question>Describe a test that consistently gives identical results but the
+	results are wrong?
+<answer>High reliability, low validity</answer>
+<answer>Low reliability, high validity</answer>
+<answer>Low reliability, low validity</answer>
+<answer>High reliability, high validity</answer>
+</question>
+
+<question>What is the difference between a cohort and a case-control study?
+<answer>Cohort studies are prospective and can be used to calculate relative
+	risk (RR) and incidence.  Case-control studies are retrospective
+	and can be used to calculate an odds ratio (OR).</answer></question>
+
+<question>What is the attributable risk?
+<answer>Incidence rate (IR) of disease in exposed<br>
+	- Incidence rate of disease in unexposed</answer></question>
+
+<question>What is the relative risk?
+<answer>Incidence rate (IR) of a disease in a population exposed to a
+	particular factor divided by IR of those not exposed to the factor
+	</answer></question>
+
+<question>What is the odds ratio?
+<answer>Likelihood of exposure to a risk factor in individual with and without
+	the disease</answer></question>
+
+<question>What is the number needed to treat?
+<answer>1 per incidence</answer></question>
+
+<question>In which patients do you initiate colorectal cancer screening
+	early?
+<answer>Patients with:
+<rl sep=and>
+    <li>Inflammatory bowel disease (IBD)
+    <li>Familial adenomatous polyposis (FAP)/Hereditary nonpolyposis
+    	colorectal cancer (HNPCC)
+    <li>First degree relatives with adenomatous polyps (less than 60
+    	years old)
+    <li>Colorectal cancer
+</rl>
+</answer></question>
+
+<question>What is the most common cancer in men and the most common
+	cause of death from cancer in men?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Most common:</th><td>Prostate cancer</td></tr>
+    <tr><th align=left>Most fatalities:</th><td>Lung cancer</td></tr>
+</table></center></answer></question>
+
+<question>What is percentage of cases with one standard deviation (SD)
+	of the mean?  Two SDs?  Three SDs?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>1 SD:</th><td>68%</td></tr>
+    <tr><th align=left>2 SDs:</th><td>95.5%</td></tr>
+    <tr><th align=left>3 SDs:</th><td>99.7%</td></tr>
+</table></center></answer></question>
+
+<question>What is the definition of "birth rate"?
+<answer>Number of live births per 1000 population</answer></question>
+
+<question>What is the definition of "fertility rate"?
+<answer>Number of live births per 1000 women 15-44 years old</answer></question>
+
+<question>What is the definition of "mortality rate"?
+<answer>Number of deaths per 1000 population</answer></question>
+
+<question>What is the definition of "neonatal mortality rate"?
+<answer>Number of deaths from birth to 28 days per
+	1000 live births</answer></question>
+
+<question>What is the definition of "postnatal mortality rate"?
+<answer>Number of deaths from 28 days to one year per 1000 live births
+	</answer></question>
+
+<question>What is the definition of "infant mortality"?
+<answer>Neonatal mortality plus postnatal mortality</answer></question>
+
+<question>What is the definition of "fetal mortality rate"?
+<answer>Number of deaths from 20 weeks' gestation to birth per
+	1000 total births</answer></question>
+
+<question>What is the definition of "perinatal mortality"?
+<answer>Number of deaths from 20 weeks' gestation to one month of life
+	per 1000 total births</answer></question>
+
+<question>What is the definition of "maternal mortality"?
+<answer>Number of deaths during pregnancy to 90 days postpartum per
+	100,000 live births</answer></question>
+</concept>

@@ -1,0 +1,256 @@
+<!------------------------------------------------------------------------
+--
+--indx#	Infectious_Disease.xml - (VERY brief explanation of what this file is/does)
+--@HDR@	$Id$
+--@HDR@
+--@HDR@	Copyright (c) 2026 Christopher Caldwell (Christopher.M.Caldwell0@gmail.com)
+--@HDR@
+--@HDR@	Permission is hereby granted, free of charge, to any person
+--@HDR@	obtaining a copy of this software and associated documentation
+--@HDR@	files (the "Software"), to deal in the Software without
+--@HDR@	restriction, including without limitation the rights to use,
+--@HDR@	copy, modify, merge, publish, distribute, sublicense, and/or
+--@HDR@	sell copies of the Software, and to permit persons to whom
+--@HDR@	the Software is furnished to do so, subject to the following
+--@HDR@	conditions:
+--@HDR@	
+--@HDR@	The above copyright notice and this permission notice shall be
+--@HDR@	included in all copies or substantial portions of the Software.
+--@HDR@	
+--@HDR@	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+--@HDR@	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+--@HDR@	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+--@HDR@	AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+--@HDR@	HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+--@HDR@	WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+--@HDR@	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+--@HDR@	OR OTHER DEALINGS IN THE SOFTWARE.
+--
+--hist#	2026-05-24 - Christopher.M.Caldwell0@gmail.com - Created
+--------------------------------------------------------------------------
+--doc#	(Less brief explanation of what this file is/does)
+-------------------------------------------------------------------------->
+<concept>Tested 4 ?
+<question>The most common causes of fever of unknown origin (FUO) are:
+<answer>
+<rl sep=and>
+    <li>Infection
+    <li>Cancer
+    <li>Autoimmune disease
+</rl>
+</answer></question>
+
+<question>Four signs and symptoms of streptococcal pharyngitis are:
+<answer>
+<rl sep=and>
+    <li>Fever
+    <li>Pharyngeal erythema
+    <li>Tonsillar exudate
+    <li>Lack of cough
+</rl>
+</answer></question>
+
+<question>Nonsuppurative complication of streptococcal infection that is
+	not altered by treatment of primary infection is:
+<answer>Postinfectious gloumerulonephritis</answer></question>
+
+<question>Asplenic patients are particularly susceptible to what
+	organisms?
+<answer>Encapsulated organisms:
+<rl sep=and>
+    <li>Pneumococcus
+    <li>Meningococcus
+    <li>Haemophilus influenzae
+    <li>Klebsiella
+</rl>
+</answer></question>
+
+<question>Number of bacterial culture on clean-catch specimen to diagnose
+	a UTI is?
+<answer>10^5 bacterial/mL</answer></question>
+
+<question>Which healthy population is susceptible to UTIs?
+<answer>Pregnant women (treat this group aggressively due to potential
+	complications)</answer></qusetion>
+
+<question>Patient from California or Arizona presents with fever, malaise,
+	cough and night sweats.  Diagnosis?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Diagnosis:</th><td>Coccidioidomycosis</td></tr>
+    <tr><th align=left>Treatment:</th><td>Fluconazole</td></tr>
+</table></center></answer></question>
+
+<question>What is non-painful chancre?</question>
+<answer>Primary syphilis</answer></question>
+
+<question>The "blueberry-muffin" rash is characteristic of what congenital
+	infection?
+<answer>Rubella</answer></question>
+
+<question>When neonates present with meningitis, what are the causes?
+	Treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Causes:</th><td>
+	<rl sep=and>
+        <li>Group B strep
+	<li>E. coli
+	<li>Listeria
+	</rl>
+	</td></tr>
+    <tr><th align=left>Treatment:</th>
+        <td>Treat with gentamicin and ampicillin</td></tr>
+</table></center></answer></question>
+
+<question>When infants present with meningitis, what are the causes?
+	Treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Causes:</th><td>
+	<rl sep=and>
+        <li>Pneumococcus
+	<li>Meningococcus
+	<li>H. influenzae
+	</rl>
+	</td></tr>
+    <tr><th align=left>Treatment:</th>
+        <td>Treat with cefotaxime and vancomycin</td></tr>
+</table></center></answer></question>
+
+<question>What should always be done prior to a lumbar puncture (LP)?
+<answer>
+    <rl sep=and>
+    <li>Check for increased intracrainial pressure (ICP)
+    <li>Look for papilledema
+    </rl>
+</answer></question>
+
+<question>With CSF findings,
+<rl sep=and>
+    <li>low glucose
+    <li>PMN predominance
+</rl>indicate:
+<answer>Bacterial meningitis</answer></question>
+
+<question>With CSF findings,
+<rl sep=and>
+    <li>normal glucose
+    <li>lymphocytic predominance
+</rl> indicate:
+<answer>Aseptic (viral)  meningitis</answer></question>
+
+<question>Numerous RBCs in serial CSF sample indicate:
+<answer>Subarachnoid hemorrhage (SAH)</answer></question>
+
+<question>With CSF findings, increased gammaglobulins indicate:
+<answer>Multiple sclerosis</answer></question>
+
+<question>A patient initially presents with a pruritic papule with regional
+	lymphadenopathy which evolves into black eschar after 7 to 10 days.
+	Diagnosis?  Treatment?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Diagnosis:</th><td>Anthrax</td></tr>
+    <tr><th align=left>Treatment:</th><td>Ampicillin</td></tr>
+</table></center></answer></question>
+
+<question>Findings in tertiary syphilis are:
+<answer>
+<rl sep=and>
+    <li>Tabes dorsalis
+    <li>General paresis
+    <li>Gummas
+    <li>Argyll-Robertson pupil
+    <li>Aortitis
+    <li>Aortic root aneurysms
+</rl>
+</answer></question>
+
+<question>Where is lyme region endemic?
+<answer>North American north east</answer></question>
+
+<question>Characteristics of secondary lyme disease are:
+<answer>
+<rl sep=and>
+    <li>Arthralgias
+    <li>Migratory polyarthropathies
+    <li>Bell's palsy
+    <li>Myocarditis
+</rl>
+</answer></question>
+
+<question>Cold agglutinins are:
+<answer>Mycoplasma</answer></question>
+
+<question>A 24 year-old male presents with soft white plaques on his tongue
+	and the back of his throat.  Diagnosis?  Workup?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Diagnosis:</th><td>Candidal thrush</td></tr>
+    <tr><th align=left>Work-up:</th><td>Include HIV test</td></tr>
+</table></center></answer></question>
+
+<question>At what CD4 count would you begin Pneumocystis carinii (PCP)
+    prophylaxis in an HIV positive patient?  What count would you begin
+    for the MAC prophylaxis?
+<answer><center><table border=1 cellspacing=0>
+    <tr><th align=left>Count:</th><td>Less than 201 for PCP (with TMP)</td></tr>
+    <tr><th align=left>MAC prophylaxis:</th>
+        <td>Less than 101 (with clarithromycin/azithromycin)</td></tr>
+</table></center></answer></question>
+
+<question>When is the neutropenic nadir post chemo-therapy?
+<answer>7 to 10 days</answer></question>
+
+<question>What is the treatment for HSV meningitis?
+<answer>Acyclovir</answer></question>
+
+<question>What is the antigen test to confirm the diagnosis of Rocky
+	Mountain spotted fever rickettsial disease?
+<answer>Weil-Felix test</answer></question>
+
+<question>Erythema migrans
+<answer>Lesion of primary lyme disease</answer></question>
+
+<question>What are the classic physical findings for endocarditis?
+<answer>
+<rl sep=and>
+    <li>Fever
+    <li>Heart murmur
+    <li>Osler's nodes
+    <li>Splinter hemorrhages
+    <li>Janeway lesions
+    <li>Roth's spots
+</rl>
+</answer></question>
+
+<question>What is the most common infection from a blood transfusion?
+<answer>HCV</answer></question>
+
+<question>What organism has branching rods in an oral infection?
+<answer>Actinomyces israelii</answer></question>
+
+<question>What organism produces a painful chancroid?
+<answer>Haemophilus ducreyi</answer></question>
+
+<question>What organism often produces an infection after a dog or cat bite?
+<answer>Pasteurella multocida</answer></question>
+
+<question>What organism produces meningitis in adults?
+<answer>Neisseria meningitidis</answer></question>
+
+<question>What organism produces meningitis in the elderly?
+<answer>Streptococcus pneumoniae</answer></question>
+
+<question>What organism commonly infects alcoholics with pneumonia?
+<answer>Klebsiella</answer></question>
+
+<question>What organism makes the patient's sputum resemble currant jelly?
+<answer>Klebsiella</answer></question>
+
+<question>What organism commonly causes infection in burn victims?
+<answer>Pseudomonas</answer></question>
+
+<question>What organism often produces osteomyelitis from a foot wound
+	puncture?
+<answer>Pseudomonas</answer></question>
+
+<question>What organism often produces osteomyelitis in sickle cell patients?
+<answer>Salmonella</answer></question>
+</concept>
