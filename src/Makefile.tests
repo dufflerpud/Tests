@@ -42,14 +42,14 @@ LQ2XML=			$(TEST_TOOLS_SRC)/lq2xml.pl
 ORDER=			$(TEST_TOOLS_SRC)/order.pl
 TAB2XML=		$(TEST_TOOLS_SRC)/tab2xml.pl
 TEST_INDEX=		$(TEST_TOOLS_SRC)/test_index.pl
-WWWDIR?=		$(HOME)/public_html
+#WWWDIR?=		$(HOME)/public_html
 FORMDIR=		$(PROJECTSDIR)/formcollector/public
 TFSDIR=			$(FORMDIR)
 MAKE=			make
 
 XML_TO_QUIZ_DEPS=	$(XML_TO_QUIZ) $(TEST_TOOLS_SRC)/xml_to_quiz.js
 
-HTML_DEST=		$(shell echo $(CURDIR)|sed -e 's+.*/Tests+$(WWWDIR)+')
+HTML_DEST=		$(shell echo $(CURDIR)|sed -e 's+.*/Tests+$(WEBTOP)/Tests+')
 TESTDIR=		.
 
 DIRS=$(subst /Makefile,,$(wildcard */Makefile))
@@ -67,7 +67,8 @@ file_to_existing_dir = $(foreach D,$(1),$(if $(shell test -d $(D) && echo 1),$(D
 bins:;		@echo "'make -C $(PWD) $@' does nothing."
 
 install:	all
-all:		subdirs htmldests formcollectors
+
+all:		subdirs htmldests formcollectors $(WEBTOP)/Tests/index.cgi
 		@echo "[[ All targets built ]]"
 
 vars:
@@ -195,6 +196,7 @@ subdirs:	$(foreach F,$(DIRS),$(F).all)
 
 #htmldests:	$(HTMLDESTS) $(HTML_DEST)/index.html
 htmldests:	$(HTMLDESTS)
+		@echo "HTMLDESTS=$(HTMLDESTS)"
 		@echo "[ HTML destinations complete ]"
 
 formcollectors:	$(FORMCDESTS)
@@ -206,6 +208,9 @@ ords:		$(XML_HTMLS)
 flashes:	$(FLASH_HTMLS)
 lqs:		$(LQ_HTMLS)
 		@echo "LQ_HTMLS done."
+
+$(WEBTOP)/Tests/index.cgi:	$(TEST_TOOLS_SRC)/app.cgi
+		$(GNUINSTALL) $^ -m 0755 $@
 
 clean:		$(foreach F,$(DIRS),$(F).clean)
 		rm -f *.todel $(HTML_DEST)/*
