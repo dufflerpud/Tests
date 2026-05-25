@@ -29,10 +29,10 @@
 ########################################################################
 #doc#	(Less brief explanation of what this file is/does)
 ########################################################################
-include /usr/local/projects/common/Makefile.std
-
 PROJECTSDIR?=		$(shell echo $(CURDIR) | sed -e 's+/projects/.*+/projects+')
-PROJECTSDIR?=		/usr/local/projects
+include $(PROJECTSDIR)/common/Makefile.std
+
+#PROJECTSDIR?=		/usr/local/projects
 
 TOP?=			$(shell echo $(CURDIR) | sed -e 's+/Tests/.*+/Tests+')
 TEST_TOOLS_SRC=		$(TOP)/src
@@ -188,13 +188,14 @@ FORMCDESTS += $(XML_TFSS)
 %.clean:
 		$(MAKE) -C $(@:.clean=) clean
 
-$(HTML_DEST)/index.html: $(HTMLDESTS) $(TEST_INDEX)
-		$(TEST_INDEX) $(HTML_DEST)
+#$(HTML_DEST)/index.html: $(HTMLDESTS) $(TEST_INDEX)
+#		$(TEST_INDEX) $(HTML_DEST)
 
 subdirs:	$(foreach F,$(DIRS),$(F).all)
 		@echo "[ Subdirectories made ]"
 
-htmldests:	$(HTMLDESTS) $(HTML_DEST)/index.html
+#htmldests:	$(HTMLDESTS) $(HTML_DEST)/index.html
+htmldests:	$(HTMLDESTS)
 		@echo "[ HTML destinations complete ]"
 
 formcollectors:	$(FORMCDESTS)
