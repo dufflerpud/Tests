@@ -43,14 +43,13 @@ ORDER=			$(TEST_TOOLS_SRC)/order.pl
 TAB2XML=		$(TEST_TOOLS_SRC)/tab2xml.pl
 TEST_INDEX=		$(TEST_TOOLS_SRC)/test_index.pl
 WWWDIR?=		$(HOME)/public_html
-HTMLDIR=		$(WWWDIR)/Tests
 FORMDIR=		$(PROJECTSDIR)/formcollector/public
 TFSDIR=			$(FORMDIR)
 MAKE=			make
 
 XML_TO_QUIZ_DEPS=	$(XML_TO_QUIZ) $(TEST_TOOLS_SRC)/xml_to_quiz.js
 
-HTML_DEST=		$(shell echo $(CURDIR)|sed -e 's+.*/Tests+$(HTMLDIR)+')
+HTML_DEST=		$(shell echo $(CURDIR)|sed -e 's+.*/Tests+$(WWWDIR)+')
 TESTDIR=		.
 
 DIRS=$(subst /Makefile,,$(wildcard */Makefile))
@@ -84,7 +83,7 @@ vars:
 		@echo "	GRAPHIC_TFSS		$(GRAPHIC_TFSS)"
 		@echo "	HTML_DEST		$(HTML_DEST)"
 		@echo "	HTMLDESTS		$(HTMLDESTS)"
-		@echo "	HTMLDIR			$(HTMLDIR)"
+		@echo "	WWWDIR			$(WWWDIR)"
 		@echo "	IOSDESTS		$(IOSDESTS)"
 		@echo "	LOGOS			$(LOGOS)"
 		@echo "	LQ2XML			$(LQ2XML)"
