@@ -210,7 +210,7 @@ lqs:		$(LQ_HTMLS)
 		@echo "LQ_HTMLS done."
 
 $(WEBTOP)/Tests/index.cgi:	$(TEST_TOOLS_SRC)/app.cgi
-		$(GNUINSTALL) $^ -m 0755 $@
+		$(GNUINSTALL) -D $^ -m 0755 $@
 
 clean:		$(foreach F,$(DIRS),$(F).clean)
 		rm -f *.todel $(HTML_DEST)/*
