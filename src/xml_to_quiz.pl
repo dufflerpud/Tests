@@ -127,8 +127,8 @@ my @sections;
 my @concepts;
 
 my $tmplfile = &read_file( $origfile );
+$tmplfile =~ s:^//.*?\n::gm;
 my $xmlcontents = join("",<STDIN>);
-$xmlcontents =~ s/<!--.*->//gsi;
 
 $xmlcontents = &fix_permuted_questions( $xmlcontents );
 
